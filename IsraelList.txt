@@ -293,6 +293,7 @@ flix.mako.co.il###topBannerTable
 flix.tapuz.co.il##.headerMiddle
 flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
+geektime.co.il##.widget.sponsors-widget
 getit.co.il###TopBanner
 globes.co.il###banner870x75
 globes.co.il##.banner
