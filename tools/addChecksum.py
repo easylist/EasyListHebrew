@@ -34,7 +34,7 @@ import sys, re, codecs, hashlib, base64 ,time
 
 checksumRegexp = re.compile(r'^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n', re.I | re.M)
 dateRegexp= re.compile(r'^\s*!\s*Last modified[\s\-:]+([\w\+\/=]+).*\n', re.I | re.M)
-	
+
 def addChecksum(data):
   data = re.sub(dateRegexp, '! Last modified: '+time.strftime('%d/%m/%y  %H:%M %Z\n'), data)
   checksum = calculateChecksum(data)
