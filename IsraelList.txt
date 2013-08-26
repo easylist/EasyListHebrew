@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yATD1d2FtdGtgMVhB6ACQw
+! Checksum: ObId5QevkecObSIz5sytBg
 ! Title: TheNewIsraelList
-! Last modified: 26/08/13  21:58 Jerusalem Daylight Time
+! Last modified: 26/08/13  23:28 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -278,6 +278,7 @@ hwzone.co.il##.box2.alljobBox
 hwzone.co.il##.wideBanner
 hwzone.co.il##[class^="banner"]
 hydepark.co.il,bhol.co.il,bhol-forums.co.il,pic.co.il###Plasma_1
+i.start.co.il###boxes
 ice.co.il##.top_pirsomet
 ilimudim.co.il###ads\.strip\.1
 ilimudim.co.il##.mp-hd-banner
