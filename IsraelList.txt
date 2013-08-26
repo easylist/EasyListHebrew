@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VYIsodfoy/NYtzXTT6Sf9A
+! Checksum: qfG5fvuN6asyxvO5dtY0lg
 ! Title: TheNewIsraelList
-! Last modified: 26/08/13  17:33 Jerusalem Daylight Time
+! Last modified: 26/08/13  18:37 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -24,63 +24,26 @@
 !
 ! ---------- 3rd party blocking rules ----------
 !
-||1010.co.il^$popup,image,~image
-||1800550.net^$third-party
 ||213.8.137.51^
-||24love.co.il^$third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||ad.msn.co.il^$third-party
-||adsmarket.co.il^$third-party
-||adsolutions.co.il^$third-party
-||affiliate.zap.co.il^$third-party
-||amazecell.com^$popup,image,~image
-||atpclick.com^$third-party
-||b4u.com^$popup,image,~image
-||babes.co.il^$popup,image,~image
-||bizportal.co.il/web/advertising/$popup,image,~image
-||bul.co.il^$popup,image,~image
-||cellmeonline.com^$popup,image,~image
-||cellon.co.il^$popup,image,~image
-||chart.co.il^$third-party
-||classicsplayer.com/maka.swf$third-party
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
-||dateland.co.il^$third-party
-||finder.co.il^$third-party
 ||hiro.co.il^$third-party
 ||infomed.co.il^$third-party
 ||jdate.co.il^$third-party
-||lead-machine.co.il^$third-party
-||leadim.co.il^$image,~image,popup
-||lovely.co.il/SignUp/$popup,third-party,image,~image
 ||mako.buy2.co.il^$third-party
-||media-vertex.com^$third-party
 ||media.foxweb.co.il^$third-party
 ||merlin.co.il^$third-party
 ||multidown.co.il/affiliates.php$third-party
 ||mvertex.co.il^$third-party
-||neto.co.il^$third-party
-||next-net.co.il^$third-party
-||osef.co.il^$third-party
-||payperclick.co.il^$third-party
-||pbid.iforex.com^$third-party
 ||pera.co.il^$third-party
 ||sekindo.com^$popup,image,~image
-||sense.co.il^$popup,image,~image
-||showmoreads.com^$third-party
-||spicer.co.il^*/minisite/$popup,image,~image
 ||talkahead.com^$third-party
-||trivia2mobile.com^$popup,image,~image
 ||trivicell.com^$popup,image,~image
-||truma.pitchonlev.org.il^$popup,image,~image,third-party
-||wap.co.il^$third-party
-||websense-media.co.il^$third-party
-||wee.co.il^*/minisite/$popup,image,~image
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
-||www.21.tv^$third-party
 ||yeppyepp.co.il^$popup,image,~image
-||youtoo.co.il^$third-party
 !
 !-------------------------Site specific ad blocking rules--------------------------!
 !-Walla!-!
