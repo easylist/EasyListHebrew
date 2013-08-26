@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VpM1Ki8NHCGcMtZ+rMY/cw
+! Checksum: VYIsodfoy/NYtzXTT6Sf9A
 ! Title: TheNewIsraelList
-! Last modified: 26/08/13  16:33 Jerusalem Daylight Time
+! Last modified: 26/08/13  17:33 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -219,11 +219,23 @@
 @@||sfx-images.mozilla.org^$image
 @@||zvz.co.il/AdImages/$~third-party,image
 !
+!-----------General Hiding Rules ------------------
+!
+###divTopBanner
+###topBanner
+###TopBanner
+###top_banner
+##.banner
+##.banners
+##.border-box.bottomStripBanners
+##.TopBanners
+##.topSectionBanners
+##[id^="ads."]
 !---------- Hiding Rules With Exceptions ----------
 !
 blms.co.il#@#.addtitle
 !
-!---------------------------Element hiding rules-----------------------------------!
+!---------------------------Element Hiding Rules-----------------------------------!
 !
 2all.co.il##.DivFlowBannerRight
 alarab.net###FloatBanner
@@ -241,7 +253,6 @@ auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:au
 auto.co.il##div[style="width:450px;height:150px;margin-left:auto;margin-right:auto;"]
 bari-p2.co.il##TD[style="padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:4px"]
 beok.co.il##.BannerMid
-beok.co.il##.TopBanners
 bhol.co.il##.tagCloud
 bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
@@ -259,7 +270,6 @@ bizportal.co.il###articleBannerMadadimLeft
 bizportal.co.il###hpBannerMadadimLeft
 bizportal.co.il###shdira
 bizportal.co.il###shdira_homepage
-bizportal.co.il###top_banner
 bizportal.co.il##.adv_breatdcrumbs
 bizportal.co.il##.baner1
 bizportal.co.il##.baner2
@@ -272,7 +282,6 @@ bokra.net##.sponserShips
 bokra.net##.strip
 bokra.net##.towerBanner
 bokra.net##.twoBanners
-bursagraph.co.il###top_banner
 cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
@@ -286,28 +295,20 @@ d.co.il##.header_banner
 dacho.co.il##.fixed_position1
 doctors.co.il###big_banner
 doctors.co.il##div[id^="dgBan"]
-doctors.co.il##[id^="ads."]
 dossinet.me###bg_banner_header_top
-feeder.co.il###banner
 flix.mako.co.il###topBannerTable
 flix.tapuz.co.il##.headerMiddle
 flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 geektime.co.il##.widget.sponsors-widget
-getit.co.il###TopBanner
 globes.co.il###banner870x75
-globes.co.il##.banner
-globes.co.il##.banners
 globes.co.il##.banner_box_300x250.NoTopBorder
 globes.co.il##.G_BoxTH
 globes.co.il##.G_divTopSpace20
 globes.co.il##.sekindo
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
-globes.co.il##[id^="ads."]
 google.co.il###mbEnd
 google.co.il###tads
-haaretz.co.il##.border-box.bottomStripBanners
-haaretz.co.il##.topSectionBanners
 haaretz.co.il##div[id^="dclk_objects_"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
 hashekel.co.il###block-13
@@ -349,7 +350,6 @@ ladaat.info###divMekomiRightBanner
 ladaat.info###divMivzakimAd
 ladaat.info###divRightButtonsAds
 ladaat.info###divRightVideoAd
-ladaat.info###divTopBanner
 lib.cet.ac.il##td[background^="/images/commercials"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
@@ -392,7 +392,6 @@ nana10.co.il###CM8ShowAd_Ozen_160x600
 nana10.co.il###GoogleAds400x223
 nana10.co.il###IndexPromotions
 nana10.co.il###tmp1362_903810
-nana10.co.il###TopBanner
 nana10.co.il###topBannerBlock
 nana10.co.il##.AdvLine
 nana10.co.il##.ArticleInlineBanHolder
@@ -420,7 +419,6 @@ nrg.co.il###CM8ShowAd
 nrg.co.il###FrmTguvut + #nadlanBox
 nrg.co.il###left_google_ban
 nrg.co.il###sekindo
-nrg.co.il###topBanner
 nrg.co.il##.bannerWrapper
 nrg.co.il##.tallBanner
 nrg.co.il##[src^="/cache/banners/"]
@@ -436,7 +434,6 @@ one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
 one.co.il##div[style="width:100%;text-align:center;background:#ebebeb;padding:10px auto 10px auto;"]
 one.co.il##DIV[style="width:300px;height:250px;padding:10px 12px 10px 12px;text-align:center;background:#ebebeb;"]
 one.co.il##table[width="100%"] + table[width="100%"]
-onlife.co.il##.banner
 panet.co.il###banner-spec-0
 panet.co.il###FloatBanner_big_mitpa_17577
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
@@ -451,7 +448,6 @@ s-maof.com###popupContact
 s-maof.com##DIV[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 saloona.co.il###footer_banner
-saloona.co.il###top_banner
 sdarot.tv###extra
 sport5.co.il###ucHeader_bannerTop
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
@@ -485,7 +481,6 @@ szf.co.il##.blocksubhead
 tapuz.co.il###AsyncMlinkBanner
 tapuz.co.il###BannerRightBotDiv
 tapuz.co.il###BannerRightDiv
-tapuz.co.il###divTopBanner
 tapuz.co.il###divTopBanner1
 tapuz.co.il###divTopBanner2
 tapuz.co.il###frm_1
@@ -494,7 +489,6 @@ tapuz.co.il###googleSide
 tapuz.co.il###googleTop
 tapuz.co.il###monsterMain
 tapuz.co.il###popDiv
-tapuz.co.il###TopBanner
 tapuz.co.il##.advContainer
 tapuz.co.il##.areaBanner
 tapuz.co.il##.areaLeftBnr
@@ -509,12 +503,9 @@ teamim.co.il###dnn_pageheaderpane
 themarker.com###drushim
 themarker.com###floatingBannerDepPage
 themarker.com##.banner-area
-themarker.com##.banners
 themarker.com##.banner_92008
-themarker.com##.border-box.bottomStripBanners
 themarker.com##.sdera-banners
 themarker.com##.topBanners
-themarker.com##.topSectionBanners
 themarker.com##[id^="dclk_"]
 themarker.com##[src^="/tmc/banners/dclk"]
 upf.co.il##.bgbanner
@@ -539,14 +530,12 @@ walla.co.il##iframe[src^="http://a.walla.co.il/adf.cgi?"]
 wallashops.co.il###mainBanner
 wallashops.co.il###megaBanner
 wallashops.co.il###promotionBanner0
-wallashops.co.il###topBanner
 wallashops.co.il##[id^="textBanner"]
 wen.co.il###banner_preload
 wen.co.il##.swf_container
 winwin.co.il###tvBannerContWinWin
 winwin.co.il###tvBannerContWinWinDFP
 winwin.co.il##.MiddleBanners
-winwin.co.il##.TopBanners
 wisebuy.co.il##.LboxGrey[style="height:270px;text-align:center;"]
 wisebuy.co.il##.LboxGrey[style="height:337px;text-align:center;"]
 wisebuy.co.il##div[id^="ads."]
