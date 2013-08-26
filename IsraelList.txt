@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qfG5fvuN6asyxvO5dtY0lg
+! Checksum: 3fsBn4ezE/qM0BIJ20tu+w
 ! Title: TheNewIsraelList
-! Last modified: 26/08/13  18:37 Jerusalem Daylight Time
+! Last modified: 26/08/13  21:23 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -69,8 +69,8 @@
 !-nana10-!
 ||nana10.co.il/SiteServicePromotion/
 !-Haaretz/TheMarker/Mouse.co.il-!
-/neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il|
-|http://dclk.$domain=haaretz.co.il|themarker.com|mouse.co.il|
+/neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il
+|http://dclk.$domain=haaretz.co.il|themarker.com|mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
 ||themarker.com/dclk/
@@ -184,16 +184,16 @@
 !
 !-----------General Hiding Rules ------------------
 !
-###divTopBanner
-###topBanner
-###TopBanner
-###top_banner
-##.banner
-##.banners
-##.border-box.bottomStripBanners
-##.TopBanners
-##.topSectionBanners
-##[id^="ads."]
+ladaat.info,tapuz.co.il###divTopBanner
+getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
+nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
+bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
+globes.co.il,onlife.co.il##.banner
+globes.co.il,themarker.com##.banners
+haaretz.co.il,themarker.com##.border-box.bottomStripBanners
+beok.co.il,winwin.co.il##.TopBanners
+haaretz.co.il,themarker.com##.topSectionBanners
+doctors.co.il,globes.co.il##[id^="ads."]
 !---------- Hiding Rules With Exceptions ----------
 !
 blms.co.il#@#.addtitle
@@ -223,7 +223,6 @@ bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
 bhol.co.il,bhol-forums.co.il###divBanner_Plazma
 bhol.co.il,bhol-forums.co.il###sdera.width100pc
 bhol.co.il,bhol-forums.co.il###top_banner_ph
-bhol.co.il,bhol-forums.co.il##.banner.clear
 bhol.co.il,bhol-forums.co.il##.centered.padt10 > .clear
 bipbip.co.il###LeftBanner
 bipbip.co.il##.HotBannerDiv
@@ -251,7 +250,6 @@ calcalist.co.il###ArticleBanner
 calcalist.co.il##div[style="width: 315px; overflow-x: hidden;"]
 calcalist.co.il##table[width="150"]
 calcalist.co.il##table[width="478"]
-calcalist.co.il##[id="ads.top"]
 carsforum.co.il##.box2
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 d.co.il##.header_banner
@@ -501,7 +499,6 @@ winwin.co.il###tvBannerContWinWinDFP
 winwin.co.il##.MiddleBanners
 wisebuy.co.il##.LboxGrey[style="height:270px;text-align:center;"]
 wisebuy.co.il##.LboxGrey[style="height:337px;text-align:center;"]
-wisebuy.co.il##div[id^="ads."]
 wisebuy.co.il##table[width="100%"][align="center"]
 xnet.co.il###ads\.top\.1
 xnet.co.il###XnetAdSenceThinkAdAD-300
@@ -526,7 +523,7 @@ ynet.co.il##.leshonitMain.leshonitBorderRectangle
 ynet.co.il##.MRec_main
 ynet.co.il##iframe[style="width:770px;height:191px;"]
 ynet.co.il##table[style="background-color:#EBEBE3;"]
-ynet.co.il,mynet.co.il##[id="ads.top"]zap.co.il##.BannerBox
+zap.co.il##.BannerBox
 zap.co.il##.headerBannerBottom
 zap.co.il##.headerBannerCenter
 zone.walla.co.il##.w2.wp-0-b
