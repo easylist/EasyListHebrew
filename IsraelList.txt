@@ -217,9 +217,9 @@ auto.co.il##div[style="width:450px;height:150px;margin-left:auto;margin-right:au
 bari-p2.co.il##TD[style="padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:4px"]
 beok.co.il##.BannerMid
 bhol.co.il##.tagCloud
-bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
 bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
+bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il,bhol-forums.co.il###divBanner_Plazma
 bhol.co.il,bhol-forums.co.il###sdera.width100pc
 bhol.co.il,bhol-forums.co.il###top_banner_ph
@@ -246,6 +246,7 @@ bokra.net##.towerBanner
 bokra.net##.twoBanners
 cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
+calcalist.co.il###ads\.top
 calcalist.co.il###ArticleBanner
 calcalist.co.il##div[style="width: 315px; overflow-x: hidden;"]
 calcalist.co.il##table[width="150"]
