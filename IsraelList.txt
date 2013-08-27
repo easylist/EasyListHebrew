@@ -467,6 +467,7 @@ teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
 themarker.com###drushim
 themarker.com###floatingBannerDepPage
+themarker.com##.CutTransperetLine + .border-box
 themarker.com##.banner-area
 themarker.com##.banner_92008
 themarker.com##.sdera-banners
