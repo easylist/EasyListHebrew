@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6T0MIcA6w5YEKbgiIxA2sA
+! Checksum: AWA2JoeeHL4LDYsk9qftoA
 ! Title: TheNewIsraelList
-! Last modified: 28/08/13  16:37 Jerusalem Daylight Time
+! Last modified: 28/08/13  20:25 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -218,7 +218,9 @@ auto.co.il##div[style="width:450px;height:150px;margin-left:auto;margin-right:au
 bari-p2.co.il##TD[style="padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:4px"]
 beok.co.il##.BannerMid
 bhol.co.il##.banner.clear
+bhol.co.il##.response[style="background-color:#F4F2F0"]
 bhol.co.il##.tagCloud
+bhol.co.il##.title14pxblue
 bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
 bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
