@@ -162,7 +162,6 @@
 @@||hiro.co.il/hiro/HiroServlet/HiroAdRequest?*http$domain=nrg.co.il
 @@||hiro.co.il^*/LayerWrapperReshet.swf
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
-!@@||mako.checkm8.com/adam/$script
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||y.net-games.co.il/adimages/
 !
