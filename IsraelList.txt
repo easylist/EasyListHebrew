@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: AWA2JoeeHL4LDYsk9qftoA
+! Checksum: G3kgMXPwrMS24rypICVarA
 ! Title: TheNewIsraelList
-! Last modified: 28/08/13  20:25 Jerusalem Daylight Time
+! Last modified: 29/08/13  10:00 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -252,6 +252,8 @@ cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
 calcalist.co.il###ads\.top
+calcalist.co.il##[height="7"] + [valign="top"] + TR[height="7"]
+calcalist.co.il##[valign="top"] + [valign="top"] + TR[height="7"]
 calcalist.co.il##div[style="width: 315px; overflow-x: hidden;"]
 calcalist.co.il##table[width="150"]
 calcalist.co.il##table[width="478"]
