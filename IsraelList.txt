@@ -344,6 +344,7 @@ mako.co.il##.header_level2_container
 mako.co.il##.mako_banner_coast
 mako.co.il##.sidebar_pic
 mako.co.il##A[href*="bankhapoalim"]
+mako.co.il##A[href^="http://mako.checkm8.com/adam/em/click/"]
 mako.co.il##IMG[width="276"][height="555"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
 mekusharim.walla.co.il##.center.footer-banner
