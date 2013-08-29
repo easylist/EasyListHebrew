@@ -387,6 +387,7 @@ news1.co.il##TD[width="237"][style="background-color: #EEEEEE;"]
 nrg.co.il###CM8ShowAd
 nrg.co.il###FrmTguvut + #nadlanBox
 nrg.co.il###adArt
+nrg.co.il###b600x125
 nrg.co.il###bLColumnText
 nrg.co.il###bottomBanners
 nrg.co.il###left_google_ban
