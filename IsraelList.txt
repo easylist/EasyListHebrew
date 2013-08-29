@@ -162,7 +162,7 @@
 @@||hiro.co.il/hiro/HiroServlet/HiroAdRequest?*http$domain=nrg.co.il
 @@||hiro.co.il^*/LayerWrapperReshet.swf
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
-@@||mako.checkm8.com/adam/$script
+!@@||mako.checkm8.com/adam/$script
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||y.net-games.co.il/adimages/
 !
@@ -340,7 +340,6 @@ mako.co.il###topPageStrip.not_for_print
 mako.co.il##.ad
 mako.co.il##.adv_ordering
 mako.co.il##.clearer.iPhone
-mako.co.il##.fany
 mako.co.il##.header_level2_container
 mako.co.il##.mako_banner_coast
 mako.co.il##.sidebar_pic
