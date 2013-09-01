@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: E3oY7Yh4sJB/aTFqpheOjw
+! Checksum: ZpHw3LXP3tLOgGzmFcoQTA
 ! Title: TheNewIsraelList
-! Last modified: 30/08/13  17:55 Jerusalem Daylight Time
+! Last modified: 01/09/13  09:44 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -547,6 +547,7 @@ ynet.co.il##.bigdeal
 ynet.co.il##.element.B3.ghcite.noBottomPadding + .element.B3.ghcite + .element.B3.ghcite + .element.B3.ghcite + .element.B3.ghcite
 ynet.co.il##.ghciPromoLightbox1
 ynet.co.il##.leshonitMain.leshonitBorderRectangle
+ynet.co.il##[style="DISPLAY: block; FLOAT: left"] > DIV[style="PADDING-BOTTOM: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px"]
 ynet.co.il##iframe[style="width:770px;height:191px;"]
 ynet.co.il##table[style="background-color:#EBEBE3;"]
 zap.co.il##.BannerBox
