@@ -221,6 +221,7 @@ bhol.co.il##.banner.clear
 bhol.co.il##.response[style="background-color:#F4F2F0"]
 bhol.co.il##.tagCloud
 bhol.co.il##.title14pxblue
+bhol.co.il##TABLE[style="border-top:1px solid #EAEAEA;border-bottom:1px solid #EAEAEA"]
 bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
 bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
