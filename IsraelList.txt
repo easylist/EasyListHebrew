@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YxcnM8A+cnS5FdW8MLRThA
+! Checksum: TSbFrMPBTeYchOxzQMrgHQ
 ! Title: TheNewIsraelList
-! Last modified: 02/09/13  09:17 Jerusalem Daylight Time
+! Last modified: 04/09/13  01:01 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -110,6 +110,7 @@
 ||2eat.co.il/banner/
 ||ads.one.co.il^
 ||ashams.com/Files/banners/
+||ashdodnet.com/dyncontent/t_ad/
 ||auto.co.il/Banner/
 ||auto.co.il/BannersIfarme/
 ||banners*.bizportal.co.il^
@@ -209,6 +210,9 @@ ashams.com###apDiv1
 ashams.com##table[width="900"][height="100"]
 ashams.com##table[width="900"][height="80"]
 ashams.com##table[width="900"][height="92"]
+ashdodnet.com##.Banner
+ashdodnet.com##DIV[style="height: 78px; overflow: hidden; width: 510px;"]
+ashdodnet.com##DIV[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
 auto.co.il###ctl00_MainContent_bannerTower
 auto.co.il###ctl00_MainContent_divBannerHasut
 auto.co.il###ctl00_PlazmaUnique_divPlazmaServer
