@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bFHF2k0TvP9ZJOCXwkIpFA
+! Checksum: uQchAxdDOKCLLyKQRgpyUQ
 ! Title: TheNewIsraelList
-! Last modified: 04/09/13  16:19 Jerusalem Daylight Time
+! Last modified: 09/09/13  08:13 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -434,6 +434,7 @@ s-maof.com##DIV[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 saloona.co.il###footer_banner
 sdarot.tv###extra
+sdarot.tv##A[href^="http://cellebrate.mobi/il/heb"]
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il##.alt
