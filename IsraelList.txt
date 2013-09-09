@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yfAv0kch1hs/pmdfYIxJaQ
+! Checksum: yicAdKVYtQTcyF3hKsAEkg
 ! Title: TheNewIsraelList
-! Last modified: 09/09/13  08:43 Jerusalem Daylight Time
+! Last modified: 09/09/13  08:46 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -149,6 +149,7 @@
 ||sonara.net/js/asyn_banners.php
 ||sonara.net/static_banners.php
 ||sport5.co.il/banners2/
+||view-movies.co.il/malabi/
 ||wcdn.co.il/banners/
 !
 !---------- Whitelists ----------
@@ -494,6 +495,8 @@ themarker.com##.topBanners
 themarker.com##[id^="dclk_"]
 themarker.com##[src^="/tmc/banners/dclk"]
 upf.co.il##.bgbanner
+view-movies.co.il###connect
+view-movies.co.il##A[href="http://www.view-movies.co.il/minisite.php"]
 walla.co.il###navbar
 walla.co.il###sec_jobcity_906
 walla.co.il###sec_kama_910
