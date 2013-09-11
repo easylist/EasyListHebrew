@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: i0heo3D+lRJUw6kGj0uUfA
+! Checksum: BpYxCds+chdSPOM2jaYlfg
 ! Title: TheNewIsraelList
-! Last modified: 09/09/13  10:40 Jerusalem Daylight Time
+! Last modified: 11/09/13  08:34 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -67,6 +67,7 @@
 ||nrg.co.il/images/banners
 ||nrg.co.il^*/maavaron.$script
 !-nana10-!
+||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
 !-Haaretz/TheMarker/Mouse.co.il-!
 /neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il
@@ -167,9 +168,10 @@
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||y.net-games.co.il/adimages/
 !
-!----Not by IsraelList (caused by EasyList / Fanboy's List)----!
+!----Not by IsraelList (caused by EasyList / EasyPrivacy )----!
 !
 @@||advertising.themarker.com^$~third-party
+@@||agenda.nana10.co.il/counter.asp
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
 @@||bipbip.co.il/Images/Ads/$~third-party
@@ -178,10 +180,10 @@
 @@||hayadan.org.il/images/ads/search
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
-@@||themarker.com/logger/p.gif?
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
 @@||sfx-images.mozilla.org^$image
+@@||themarker.com/logger/p.gif?
 @@||zvz.co.il/AdImages/$~third-party,image
 !
 !-----------General Hiding Rules ------------------
