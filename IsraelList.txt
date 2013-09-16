@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BpYxCds+chdSPOM2jaYlfg
+! Checksum: HCaRAGQDbVDze9Q8SXh0Zg
 ! Title: TheNewIsraelList
-! Last modified: 11/09/13  08:34 Jerusalem Daylight Time
+! Last modified: 16/09/13  18:45 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -442,7 +442,7 @@ sdarot.tv###extra
 sdarot.tv##A[href^="http://cellebrate.mobi/il/heb"]
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
-sport5.co.il##.alt
+sport5.co.il##.article-holder > .alt
 sport5.co.il##.banner
 sport5.co.il##.inner_adv
 sport5.co.il##.iphone
