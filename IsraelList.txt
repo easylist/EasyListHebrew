@@ -444,6 +444,7 @@ sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il##.article-holder > .alt
 sport5.co.il##.banner
+sport5.co.il##.banner-list
 sport5.co.il##.banner-list.banner-list-alt
 sport5.co.il##.inner_adv
 sport5.co.il##.iphone
