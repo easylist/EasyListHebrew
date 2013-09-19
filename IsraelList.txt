@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PpeMs6vopAYYKsqg6OaLjw
+! Checksum: A0gInz5yeqfSot7DARJvjA
 ! Title: TheNewIsraelList
-! Last modified: 16/09/13  19:40 Jerusalem Daylight Time
+! Last modified: 19/09/13  21:23 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -110,7 +110,6 @@
 !
 ||2eat.co.il/banner/
 ||ads.one.co.il^
-||ashams.com/Files/banners/
 ||ashdodnet.com/dyncontent/t_ad/
 ||auto.co.il/Banner/
 ||auto.co.il/BannersIfarme/
@@ -147,8 +146,6 @@
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
 ||sdarot.tv/banners
-||sonara.net/js/asyn_banners.php
-||sonara.net/static_banners.php
 ||sport5.co.il/banners2/
 ||view-movies.co.il/malabi/
 ||wcdn.co.il/banners/
@@ -249,13 +246,6 @@ bizportal.co.il##.baner1
 bizportal.co.il##.baner2
 bizportal.co.il##.kubia_banner
 bizportal.co.il##.single_section_world_short
-bokra.net##.ad
-bokra.net##.bigStrip
-bokra.net##.catsBanner
-bokra.net##.sponserShips
-bokra.net##.strip
-bokra.net##.towerBanner
-bokra.net##.twoBanners
 cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
@@ -424,8 +414,6 @@ one.co.il##div[style="text-align:right;border:solid 1px #d5d5d5;"]
 one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
 one.co.il##div[style="width:100%;text-align:center;background:#ebebeb;padding:10px auto 10px auto;"]
 one.co.il##table[width="100%"] + table[width="100%"]
-panet.co.il###FloatBanner_big_mitpa_17577
-panet.co.il###banner-spec-0
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
