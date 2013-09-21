@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: N18/4caZr9EnumC7SgaYvQ
+! Checksum: uINF6elPPcpAZgz9nj+lgw
 ! Title: TheNewIsraelList
-! Last modified: 21/09/13  21:04 Jerusalem Daylight Time
+! Last modified: 22/09/13  00:35 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -258,6 +258,7 @@ calcalist.co.il##table[width="478"]
 carsforum.co.il##.box2
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 d.co.il##.header_banner
+d.co.il##.premium-d-strip-banner-container
 dacho.co.il##.fixed_position1
 doctors.co.il###big_banner
 doctors.co.il##div[id^="dgBan"]
