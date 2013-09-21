@@ -348,6 +348,13 @@ mako.co.il##A[href*="bankhapoalim"]
 mako.co.il##A[href^="http://mako.checkm8.com/adam/em/click/"]
 mako.co.il##IMG[width="276"][height="555"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
+mapa.co.il###headerContenetBanner
+mapa.co.il##.bannerPlace
+mapa.co.il##.cls_bannerRight_sideCubeInner
+mapa.co.il##.cls_banner_468X60
+mapa.co.il##DIV[style^="text-align:center;width:374px;height:260px;*height:270px;_height:270px;*display:inline-block;background-color:#e3e3e3;padding-top:10px;"]
+mapa.co.il##DIV[style^="text-align:center;width:385px;height:260px;*height:270px;_height:270px;*display:inline-block;background-color:#e3e3e3;padding-top:10px;"]
+mapa.co.il##TD[bgcolor="#e3e3e3"][height="110"]
 mekusharim.walla.co.il##.center.footer-banner
 mekusharim.walla.co.il##.main-lower-corners.clearfix
 moreshet.co.il###superJamboBanner
