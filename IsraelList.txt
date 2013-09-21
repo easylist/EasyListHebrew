@@ -424,12 +424,14 @@ one.co.il##table[width="100%"] + table[width="100%"]
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
+rest.co.il###ads\.strip\.1
 rest.co.il###banner
 rest.co.il###divLeftBanner
 rest.co.il##.ad
 rest.co.il##.adBox2
 rest.co.il##.ad_box_1
 rest.co.il##.ad_box_3
+rest.co.il##.left_box_1
 rotter.net##TD[style="width:120px;border:0px solid red;"]
 s-maof.com###backgroundPopup
 s-maof.com###popupContact
