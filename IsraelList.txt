@@ -358,6 +358,7 @@ mapa.co.il##TD[bgcolor="#e3e3e3"][height="110"]
 mekusharim.walla.co.il##.center.footer-banner
 mekusharim.walla.co.il##.main-lower-corners.clearfix
 mishlohim.co.il###TopMenu1_bannerDiv
+mishlohim.co.il##.Banners
 moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
 mouse.co.il###floatingbannerdiv
