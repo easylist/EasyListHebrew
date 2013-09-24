@@ -341,6 +341,7 @@ mako.co.il###googleLinkUnits
 mako.co.il###hp_bottom_strip
 mako.co.il###mysupermarketcontainer
 mako.co.il###rAdContainer
+mako.co.il###sponsor_footer
 mako.co.il###topPageStrip.not_for_print
 mako.co.il##.ad
 mako.co.il##.adv_ordering
