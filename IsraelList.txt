@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uINF6elPPcpAZgz9nj+lgw
+! Checksum: k0ibbJQh88bH63MLYr2RdA
 ! Title: TheNewIsraelList
-! Last modified: 22/09/13  00:35 Jerusalem Daylight Time
+! Last modified: 24/09/13  11:32 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -313,6 +313,7 @@ kikarhashabat.co.il##.comments_inner_banner
 kikarhashabat.co.il##.frontal_ad430x60
 kikarhashabat.co.il##.kikar_trade_links
 kikarhashabat.co.il##DIV[style="margin: 16px 0;width:990px;overflow: hidden;position: relative;left: 1px;height: 100px;"]
+kipa.co.il##.bannerJambo
 kipa.co.il##.homeCol3.PirsumList.col
 kipa.co.il##.pirsum110
 kipa.co.il##.textualy
