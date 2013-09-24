@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: k0ibbJQh88bH63MLYr2RdA
+! Checksum: 5fIYXec/iXpxXMs8BjrpHQ
 ! Title: TheNewIsraelList
-! Last modified: 24/09/13  11:32 Jerusalem Daylight Time
+! Last modified: 24/09/13  12:58 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -341,7 +341,6 @@ mako.co.il###googleLinkUnits
 mako.co.il###hp_bottom_strip
 mako.co.il###mysupermarketcontainer
 mako.co.il###rAdContainer
-mako.co.il###sponsor_footer
 mako.co.il###topPageStrip.not_for_print
 mako.co.il##.ad
 mako.co.il##.adv_ordering
@@ -350,9 +349,9 @@ mako.co.il##.header_level2_container
 mako.co.il##.mako_banner_coast
 mako.co.il##.sidebar_pic
 mako.co.il##A[href*="bankhapoalim"]
-mako.co.il##A[href^="http://mako.checkm8.com/adam/em/click/"]
 mako.co.il##IMG[width="276"][height="555"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
+mako.co.il##[href^="http://styleriver.mako.co.il/"]
 mapa.co.il###headerContenetBanner
 mapa.co.il##.bannerPlace
 mapa.co.il##.cls_bannerRight_sideCubeInner
