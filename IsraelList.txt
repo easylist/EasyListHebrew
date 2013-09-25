@@ -199,6 +199,7 @@ doctors.co.il,globes.co.il##[id^="ads."]
 !---------- Hiding Rules With Exceptions ----------
 !
 blms.co.il#@#.addtitle
+homeless.co.il#@#.postad
 nrg.co.il#@#.item-container-ad
 !
 !---------------------------Element Hiding Rules-----------------------------------!
