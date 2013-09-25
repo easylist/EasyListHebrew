@@ -171,6 +171,7 @@
 @@||agenda.nana10.co.il/counter.asp
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
+@@||bhol.co.il/imagebank/400x250/*
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||gplanet.co.il/js/adx.js
 @@||hayadan.org.il/images/ads/logo
@@ -223,7 +224,6 @@ bari-p2.co.il##TD[style="padding-left:3px; padding-right:3px; padding-top:3px; p
 beok.co.il##.BannerMid
 bhol.co.il##.banner.clear
 bhol.co.il##.response[style="background-color:#F4F2F0"]
-bhol.co.il##.tagCloud
 bhol.co.il##.title14pxblue
 bhol.co.il##TABLE[style="border-top:1px solid #EAEAEA;border-bottom:1px solid #EAEAEA"]
 bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
