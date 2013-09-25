@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aogTQcnEsFdvnMdjDMnVXw
+! Checksum: 1cW6QO3fqQP02yNaYFLCUg
 ! Title: TheNewIsraelList
-! Last modified: 25/09/13  11:10 Jerusalem Daylight Time
+! Last modified: 25/09/13  18:17 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -284,8 +284,14 @@ haaretz.co.il##div[id^="dclk_objects_"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
 hashekel.co.il###block-13
 hashekel.co.il###block-14
+homeless.co.il###board_middle_advert
 homeless.co.il###plasma_container
+homeless.co.il##.boardfooter_tr
+homeless.co.il##.plasma
+homeless.co.il##DIV[style="clear:both; float:none; height:40px;"]
 homeless.co.il##DIV[style="width:641px; height:129px; clear:both; float:none;"]
+homeless.co.il##TD[style="width:200px; text-align:left; vertical-align:top;"]
+homeless.co.il##TH[colspan="20"]
 hwzone.co.il###cubicbigarticlesbannertable
 hwzone.co.il##.box2.alljobBox
 hwzone.co.il##.wideBanner
