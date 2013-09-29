@@ -153,7 +153,6 @@
 !---------- Whitelists ----------
 !
 @@||ads.doctors.co.il/banners/$~third-party,image
-@@||ashams.com/Files/banners/221860881.png
 @@||forbes.co.il/download/banners/121.jpg
 @@||forbes.co.il/download/banners/113.jpg
 @@||hiro.co.il/clientaccesspolicy.xml
@@ -197,6 +196,7 @@ haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 beok.co.il,winwin.co.il##.TopBanners
 haaretz.co.il,themarker.com##.topSectionBanners
 doctors.co.il,globes.co.il##[id^="ads."]
+!
 !---------- Hiding Rules With Exceptions ----------
 !
 blms.co.il#@#.addtitle
