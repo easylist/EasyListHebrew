@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0+80WC5Nk73vgD17miyZcw
+! Checksum: xbbphE0xigsJpq0pgolZHA
 ! Title: TheNewIsraelList
-! Last modified: 29/09/13  15:08 Jerusalem Daylight Time
+! Last modified: 29/09/13  17:08 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -15,14 +15,14 @@
 !          GPL 2.0 or later - http://www.gnu.org/licenses/gpl-2.0.html
 !          (at your option)
 !
-! ---------- Generic Blocking Rules ----------
+!---------------------------Generic Blocking Rules----------------------------!
 !
 .co.il/adv/$~object-subrequest
 /js/linicom/*
 /pirsum/*$script,object
 |http://ad.$domain=co.il
 !
-! ---------- 3rd party blocking rules ----------
+!--------------------------3rd party blocking rules---------------------------!
 !
 ||213.8.137.51^
 ||3dots.co.il^$third-party,domain=~maple-team.com
@@ -45,7 +45,8 @@
 ||ws.walla.co.il^$third-party
 ||yeppyepp.co.il^$popup,image,~image
 !
-!-------------------------Site specific ad blocking rules--------------------------!
+!-----------------------Site specific ad blocking rules-----------------------!
+!
 !-Walla!-!
 ||a.walla.co.il^
 ||btg.mtvnservices.com/aria/$domain=mtv.walla.co.il
@@ -106,7 +107,7 @@
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
 !
-! ---------- 1st party blocking rules ----------
+!--------------------------1st party blocking rules---------------------------!
 !
 ||2eat.co.il/banner/
 ||ads.one.co.il^
@@ -150,7 +151,7 @@
 ||view-movies.co.il/malabi/
 ||wcdn.co.il/banners/
 !
-!---------- Whitelists ----------
+!-------------------------------Whitelists------------------------------------!
 !
 @@||ads.doctors.co.il/banners/$~third-party,image
 @@||forbes.co.il/download/banners/121.jpg
@@ -164,7 +165,7 @@
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||y.net-games.co.il/adimages/
 !
-!----Not by IsraelList (caused by EasyList / EasyPrivacy )----!
+!------Whitelists Element Hiding Rules (caused by EasyList / EasyPrivacy )----!
 !
 @@||advertising.themarker.com^$~third-party
 @@||agenda.nana10.co.il/counter.asp
@@ -184,26 +185,26 @@
 @@||themarker.com/logger/p.gif?type=COMMENTS_VIEWS^$xmlhttprequest
 @@||zvz.co.il/AdImages/$~third-party,image
 !
-!-----------General Hiding Rules ------------------
+!------------Not by IsraelList (caused by EasyList / EasyPrivacy )------------!
+!
+blms.co.il#@#.addtitle
+homeless.co.il#@#.postad
+nrg.co.il#@#.item-container-ad
+!
+!------------------------General element hiding rules-------------------------!
 !
 ladaat.info,tapuz.co.il###divTopBanner
 getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
 bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
-globes.co.il,onlife.co.il##.banner
+globes.co.il,onlife.co.il,sport5.co.il##.banner
 globes.co.il,themarker.com##.banners
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 beok.co.il,winwin.co.il##.TopBanners
 haaretz.co.il,themarker.com##.topSectionBanners
 doctors.co.il,globes.co.il##[id^="ads."]
 !
-!---------- Hiding Rules With Exceptions ----------
-!
-blms.co.il#@#.addtitle
-homeless.co.il#@#.postad
-nrg.co.il#@#.item-container-ad
-!
-!---------------------------Element Hiding Rules-----------------------------------!
+!----------------------------element hiding rules-----------------------------------!
 !
 2all.co.il##.DivFlowBannerRight
 alarab.net###FloatBanner
@@ -461,7 +462,6 @@ sdarot.tv##A[href^="http://cellebrate.mobi/il/heb"]
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il##.article-holder > .alt
-sport5.co.il##.banner
 sport5.co.il##.banner-list
 sport5.co.il##.banner-list.banner-list-alt
 sport5.co.il##.inner_adv
