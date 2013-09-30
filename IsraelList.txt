@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xbbphE0xigsJpq0pgolZHA
+! Checksum: QkSAS/vLTseg7srrZ2llmQ
 ! Title: TheNewIsraelList
-! Last modified: 29/09/13  17:08 Jerusalem Daylight Time
+! Last modified: 30/09/13  14:26 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -64,7 +64,7 @@
 ||ynet.co.il/WinWinCooperation/
 ||ynetshops.co.il/article/showbanner2/
 !-nrg-!
-||nrg.co.il/cache/banners/
+||nrg.co.il/cache/banners
 ||nrg.co.il/images/banners
 ||nrg.co.il^*/maavaron.$script
 !-nana10-!
@@ -171,7 +171,7 @@
 @@||agenda.nana10.co.il/counter.asp
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
-@@||bhol.co.il/imagebank/400x250/*
+@@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||gplanet.co.il/js/adx.js
 @@||hayadan.org.il/images/ads/logo
@@ -193,6 +193,8 @@ nrg.co.il#@#.item-container-ad
 !
 !------------------------General element hiding rules-------------------------!
 !
+mako.co.il,rest.co.il##.ad
+ilimudim.co.il,rest.co.il###ads\.strip\.1
 ladaat.info,tapuz.co.il###divTopBanner
 getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
@@ -201,6 +203,7 @@ globes.co.il,onlife.co.il,sport5.co.il##.banner
 globes.co.il,themarker.com##.banners
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 beok.co.il,winwin.co.il##.TopBanners
+haaretz.co.il,themarker.com##.topBanners
 haaretz.co.il,themarker.com##.topSectionBanners
 doctors.co.il,globes.co.il##[id^="ads."]
 !
@@ -273,7 +276,6 @@ globes.co.il##.sekindo
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
 google.co.il###mbEnd
 google.co.il###tads
-haaretz.co.il##.topBanners
 haaretz.co.il##DIV[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
 haaretz.co.il##div[id^="dclk_objects_"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
@@ -294,7 +296,6 @@ hwzone.co.il##[class^="banner"]
 hydepark.co.il,bhol.co.il,bhol-forums.co.il,pic.co.il###Plasma_1
 i.start.co.il###boxes
 ice.co.il##.top_pirsomet
-ilimudim.co.il###ads\.strip\.1
 ilimudim.co.il##.mp-hd-banner
 infomed.co.il##.ad_01
 inn.co.il###MadLargeInf
@@ -348,7 +349,6 @@ mako.co.il###hp_bottom_strip
 mako.co.il###mysupermarketcontainer
 mako.co.il###rAdContainer
 mako.co.il###topPageStrip.not_for_print
-mako.co.il##.ad
 mako.co.il##.adv_ordering
 mako.co.il##.clearer.iPhone
 mako.co.il##.header_level2_container
@@ -420,7 +420,6 @@ nrg.co.il###sekindo
 nrg.co.il##.bannerWrapper
 nrg.co.il##.tallBanner
 nrg.co.il##IFRAME[style="height:250px;width:300px;"]
-nrg.co.il##[src^="/cache/banners/"]
 one.co.il###Adv2
 one.co.il###adBomba
 one.co.il###divYnetNews
@@ -436,10 +435,8 @@ one.co.il##table[width="100%"] + table[width="100%"]
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
-rest.co.il###ads\.strip\.1
 rest.co.il###banner
 rest.co.il###divLeftBanner
-rest.co.il##.ad
 rest.co.il##.adBox2
 rest.co.il##.ad_box_1
 rest.co.il##.ad_box_3
@@ -456,7 +453,6 @@ sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il##.article-holder > .alt
 sport5.co.il##.banner-list
-sport5.co.il##.banner-list.banner-list-alt
 sport5.co.il##.inner_adv
 sport5.co.il##.iphone
 sport5.co.il##.post.post-alt
@@ -509,9 +505,7 @@ themarker.com##.banner_92008
 themarker.com##.border-box.noSourceList
 themarker.com##.sdera-banners
 themarker.com##.slideShowBannerGroup
-themarker.com##.topBanners
 themarker.com##[id^="dclk_"]
-themarker.com##[src^="/tmc/banners/dclk"]
 upf.co.il##.bgbanner
 view-movies.co.il###connect
 view-movies.co.il##A[href="http://www.view-movies.co.il/minisite.php"]
