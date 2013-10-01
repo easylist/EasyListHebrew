@@ -1,0 +1,52 @@
+Easylist
+	do somthing
+		@@||mako.co.il/crossdomain.xml?$object-subrequest
+		@@||mako.co.il^*&ad_number=$object-subrequest
+		@@||one.co.il/ads/*.mp4$object-subrequest
+		@@||sexadir.co.il/ads/$image,~third-party
+		@@||seximo.co.il/ads/$image,~third-party
+		@@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
+		bipbip.co.il#@#.adlist
+		bipbip.co.il#@#.adpic
+		petri.co.il###sponsors
+		||3dots.co.il/pop/
+		||linicom.co.il^$third-party
+		||petri.co.il/media/$image
+		||ynet.co.il^*/ynetbanneradmin/
+	not checked		
+		haaretz.com,themarker.com##div[style="width:120px; height:240px;text-align:center; margin-top:8px; font-size:0;margin-left: 15px;margin-top:10px;"]
+		autotrader.co.za,bipbip.co.il,thebulletinboard.com,winwin.co.il#@#.adText
+		bipbip.co.il#@##printads
+		||globes.co.il/images/newglobeseng/fixedpromoleft.
+		||images.globes.co.il^*/fixedpromoleft.
+		||images.globes.co.il^*/fixedpromoright.
+		||imedia.co.il^$third-party
+		||israelidiamond.co.il^*/bannerdisplay.aspx?
+		||mymarketing.co.il/Include/tracker.js
+		||rest.co.il/widgets/$third-party
+		||walla.co.il/CountsHP.asp?
+		||walla.co.il/impression/
+		||webmedia.co.il^$third-party
+		||ynet.co.il^*/index51.html
+
+EasyPrivacy
+	do somthing
+		@@||ynet.co.il/Common/App/Video/Gemius/gstream.js
+		||events.walla.co.il/events.asp
+		||fus.walla.co.il/script.js
+		||globes.co.il/ga.asp
+		||globes.co.il/news/click.ashx
+		||globes.co.il/shared/s.ashx?
+		||inn.co.il/Controls/HPJS.ashx?act=log
+		||nana10.co.il/statistics/
+		||stats.mako.co.il^
+	not checked
+		||centraltag.com^$third-party
+		||centerix.ru^*/count.msl?
+		||cellstores.com/tracking/
+		||cert.org/images/1pxinv.gif
+		||center.tv/counter/
+		||cellstats.mako.co.il^
+
+
+
