@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QkSAS/vLTseg7srrZ2llmQ
+! Checksum: kqnfoYvDlP+iTYdonVaiig
 ! Title: TheNewIsraelList
-! Last modified: 30/09/13  14:26 Jerusalem Daylight Time
+! Last modified: 04/10/13  01:54 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -195,6 +195,7 @@ nrg.co.il#@#.item-container-ad
 !
 mako.co.il,rest.co.il##.ad
 ilimudim.co.il,rest.co.il###ads\.strip\.1
+calcalist.co.il,mynet.co.il###ads\.top
 ladaat.info,tapuz.co.il###divTopBanner
 getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
@@ -248,7 +249,6 @@ bizportal.co.il##.single_section_world_short
 cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
-calcalist.co.il###ads\.top
 calcalist.co.il##[height="7"] + [valign="top"] + TR[height="7"]
 calcalist.co.il##[valign="top"] + [valign="top"] + TR[height="7"]
 calcalist.co.il##div[style="width: 315px; overflow-x: hidden;"]
