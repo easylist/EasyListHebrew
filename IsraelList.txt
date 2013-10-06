@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SoNV6FcvwG7IwcleYPnXMw
+! Checksum: 6V/OkYSHGSsFreTARvN7GQ
 ! Title: TheNewIsraelList
-! Last modified: 06/10/13  09:09 Jerusalem Daylight Time
+! Last modified: 06/10/13  10:50 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -193,6 +193,7 @@ nrg.co.il#@#.item-container-ad
 !
 !------------------------General element hiding rules-------------------------!
 !
+##A[href="https://www.facebook.com/YwrmMrzynw"]
 mako.co.il,rest.co.il##.ad
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 calcalist.co.il,mynet.co.il###ads\.top
@@ -334,11 +335,11 @@ ladaat.info###divMivzakimAd
 ladaat.info###divRightButtonsAds
 ladaat.info###divRightVideoAd
 lib.cet.ac.il##td[background^="/images/commercials"]
+likudnik.co.il##DIV[style="text-align: center;"]
 linicom.co.il##A[target="_blank"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
-link4u.co.il##.banner_main
-madas.co.il##.AdsContainer
+link4u.co.il##.banner_mainmadas.co.il##.AdsContainer
 madas.co.il##.LeftColumn_container.Floater
 madas.co.il##.TextLinkBanner
 mail.ynet.co.il###divBottomCommercials
