@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kqnfoYvDlP+iTYdonVaiig
+! Checksum: SoNV6FcvwG7IwcleYPnXMw
 ! Title: TheNewIsraelList
-! Last modified: 04/10/13  01:54 Jerusalem Daylight Time
+! Last modified: 06/10/13  09:09 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -334,6 +334,7 @@ ladaat.info###divMivzakimAd
 ladaat.info###divRightButtonsAds
 ladaat.info###divRightVideoAd
 lib.cet.ac.il##td[background^="/images/commercials"]
+linicom.co.il##A[target="_blank"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
 link4u.co.il##.banner_main
