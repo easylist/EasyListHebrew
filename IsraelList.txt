@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: J4qERUiFoGu8rYOJJlaMjA
+! Checksum: sfb9GTWPpnSmCRqDBF2krw
 ! Title: TheNewIsraelList
-! Last modified: 08/10/13  09:05 Jerusalem Daylight Time
+! Last modified: 08/10/13  09:19 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -154,8 +154,7 @@
 !-------------------------------Whitelists------------------------------------!
 !
 @@||ads.doctors.co.il/banners/$~third-party,image
-@@||forbes.co.il/download/banners/121.jpg
-@@||forbes.co.il/download/banners/113.jpg
+@@||forbes.co.il/download/banners/
 @@||hiro.co.il/clientaccesspolicy.xml
 @@||hiro.co.il/crossdomain.xml
 @@||hiro.co.il/hiro/HiroServlet/ClientSynchronizationServlet?$domain=y.net-games.co.il
@@ -188,6 +187,7 @@
 !------------Not by IsraelList (caused by EasyList / EasyPrivacy )------------!
 !
 blms.co.il#@#.addtitle
+forbes.co.il#@#.item-container-ad
 homeless.co.il#@#.postad
 nrg.co.il#@#.item-container-ad
 !
@@ -266,6 +266,7 @@ dossinet.me###bg_banner_header_top
 flix.mako.co.il###topBannerTable
 flix.tapuz.co.il##.headerMiddle
 flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
+forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 fxp.co.il###close_web3
 geektime.co.il##.widget.sponsors-widget
