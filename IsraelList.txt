@@ -257,6 +257,7 @@ calcalist.co.il##div[style="width: 315px; overflow-x: hidden;"]
 calcalist.co.il##table[width="150"]
 calcalist.co.il##table[width="478"]
 carsforum.co.il##.box2
+carsforum.co.il##DIV[style="float:left;padding-left:3px;"]
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 d.co.il##.header_banner
 d.co.il##.premium-d-strip-banner-container
