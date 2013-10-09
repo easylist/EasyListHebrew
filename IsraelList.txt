@@ -190,13 +190,14 @@ blms.co.il#@#.addtitle
 forbes.co.il#@#.item-container-ad
 homeless.co.il#@#.postad
 nrg.co.il#@#.item-container-ad
+ynet.co.il#@#.ob_container .item-container-obpd
 !
 !------------------------General element hiding rules-------------------------!
 !
 ##A[href="https://www.facebook.com/YwrmMrzynw"]
 mako.co.il,rest.co.il##.ad
 ilimudim.co.il,rest.co.il###ads\.strip\.1
-calcalist.co.il,mynet.co.il###ads\.top
+calcalist.co.il,mynet.co.il,ynet.co.il###ads\.top
 ladaat.info,tapuz.co.il###divTopBanner
 getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
