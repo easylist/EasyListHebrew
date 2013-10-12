@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: FvkWrXkWgXtRKn0GbZzPyA
+! Checksum: wkWWEWuWRy5W/eQZzwuQWg
 ! Title: TheNewIsraelList
 ! Last modified: 12/10/13  23:40 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
@@ -199,13 +199,17 @@ ynet.co.il#@#.ob_container .item-container-obpd
 mako.co.il,rest.co.il##.ad
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 calcalist.co.il,mynet.co.il,ynet.co.il###ads\.top
+bhol.co.il,bhol-forums.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
+bhol.co.il,bhol-forums.co.il###sdera.width100pc
 getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
 bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
+bhol.co.il,bhol-forums.co.il###top_banner_ph
 globes.co.il,onlife.co.il,sport5.co.il##.banner
 globes.co.il,themarker.com##.banners
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
+bhol.co.il,bhol-forums.co.il##.centered.padt10 > .clear
 beok.co.il,winwin.co.il##.TopBanners
 haaretz.co.il,themarker.com##.topBanners
 haaretz.co.il,themarker.com##.topSectionBanners
@@ -225,6 +229,8 @@ auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:au
 auto.co.il##div[style="width:450px;height:150px;margin-left:auto;margin-right:auto;"]
 bari-p2.co.il##TD[style="padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:4px"]
 beok.co.il##.BannerMid
+bhol.co.il###divPlazma
+bhol.co.il###test.f-right
 bhol.co.il##.banner.clear
 bhol.co.il##.response[style="background-color:#F4F2F0"]
 bhol.co.il##.title14pxblue
@@ -232,10 +238,6 @@ bhol.co.il##TABLE[style="border-top:1px solid #EAEAEA;border-bottom:1px solid #E
 bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
 bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
-bhol.co.il,bhol-forums.co.il###divBanner_Plazma
-bhol.co.il,bhol-forums.co.il###sdera.width100pc
-bhol.co.il,bhol-forums.co.il###top_banner_ph
-bhol.co.il,bhol-forums.co.il##.centered.padt10 > .clear
 bipbip.co.il###LeftBanner
 bipbip.co.il##.HotBannerDiv
 bipbip.co.il##.TopBannerDiv
