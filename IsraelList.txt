@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BfTr9nvjHjvVfqw7V5qGKQ
+! Checksum: zSzNw+bV6RBufM62QoFfZA
 ! Title: TheNewIsraelList
-! Last modified: 15/10/13  10:30 Jerusalem Daylight Time
+! Last modified: 15/10/13  20:49 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -443,6 +443,7 @@ one.co.il##div[style="text-align:right;border:solid 1px #d5d5d5;"]
 one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
 one.co.il##div[style="width:100%;text-align:center;background:#ebebeb;padding:10px auto 10px auto;"]
 one.co.il##table[width="100%"] + table[width="100%"]
+onlife.co.il##.commercial
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
