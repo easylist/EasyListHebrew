@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uCGFK7i2NpwXQQFAg2pm4g
+! Checksum: 3ZfdFRERc1vWmpeokWOKIg
 ! Title: TheNewIsraelList
-! Last modified: 16/10/13  14:00 Jerusalem Daylight Time
+! Last modified: 17/10/13  16:54 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -182,7 +182,6 @@
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
 @@||sfx-images.mozilla.org^$image
-@@||themarker.com/logger/p.gif?type=COMMENTS_VIEWS^$xmlhttprequest
 @@||zvz.co.il/AdImages/$~third-party,image
 !
 !------------Not by IsraelList (caused by EasyList / EasyPrivacy )------------!
@@ -197,7 +196,6 @@ ynet.co.il#@#.ob_container .item-container-obpd
 !
 !------------------------General element hiding rules-------------------------!
 !
-##A[href="https://www.facebook.com/YwrmMrzynw"]
 mako.co.il,rest.co.il##.ad
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 calcalist.co.il,mynet.co.il,ynet.co.il###ads\.top
