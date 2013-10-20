@@ -29,6 +29,7 @@
 ||ad.msn.co.il^$third-party
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
+||gail.hit.gemius.pl^$third-party
 ||hiro.co.il^$third-party
 ||infomed.co.il^$third-party
 ||jdate.co.il^$third-party
