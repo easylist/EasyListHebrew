@@ -188,6 +188,7 @@
 !
 !------------Not by IsraelList (caused by EasyList / EasyPrivacy )------------!
 !
+#@#.ob_container .item-container-obpd
 blms.co.il#@#.addtitle
 forbes.co.il#@#.item-container-ad
 globes.co.il#@#.ob_container .item-container-obpd
