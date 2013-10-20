@@ -39,6 +39,7 @@
 ||multidown.co.il/affiliates.php$third-party
 ||mvertex.co.il^$third-party
 ||pera.co.il^$third-party
+||s.tool-site.com^$third-party
 ||sekindo.com^$popup,image,~image
 ||talkahead.com^$third-party
 ||trivicell.com^$popup,image,~image
