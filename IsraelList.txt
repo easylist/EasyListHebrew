@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3ZfdFRERc1vWmpeokWOKIg
+! Checksum: bBculI7yPhLKNhZPDAhaVw
 ! Title: TheNewIsraelList
-! Last modified: 17/10/13  16:54 Jerusalem Daylight Time
+! Last modified: 20/10/13  10:57 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -202,6 +202,7 @@ ynet.co.il#@#.ob_container .item-container-obpd
 mako.co.il,rest.co.il##.ad
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 calcalist.co.il,mynet.co.il,ynet.co.il###ads\.top
+feeder.co.il,rest.co.il###banner
 bhol.co.il,bhol-forums.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
 bhol.co.il,bhol-forums.co.il###sdera.width100pc
@@ -448,7 +449,6 @@ onlife.co.il##.commercial
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
-rest.co.il###banner
 rest.co.il###divLeftBanner
 rest.co.il##.adBox2
 rest.co.il##.ad_box_1
