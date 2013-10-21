@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bBculI7yPhLKNhZPDAhaVw
+! Checksum: yOXBnzXn0/zulQUrqTLBQw
 ! Title: TheNewIsraelList
-! Last modified: 20/10/13  10:57 Jerusalem Daylight Time
+! Last modified: 21/10/13  10:41 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -157,6 +157,7 @@
 !-------------------------------Whitelists------------------------------------!
 !
 @@||ads.doctors.co.il/banners/$~third-party,image
+@@||dclk.themarker.com/js.ng/$script
 @@||forbes.co.il/download/banners/
 @@||hiro.co.il/clientaccesspolicy.xml
 @@||hiro.co.il/crossdomain.xml
@@ -165,6 +166,9 @@
 @@||hiro.co.il^*/LayerWrapperReshet.swf
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
+@@||themarker.com/css/advertisement_article.css
+@@||themarker.com/dclk/dclk_ads.js
+@@||themarker.com/dclk/dclk_ads_init_tm_pol.js
 @@||y.net-games.co.il/adimages/
 !
 !------Whitelists Element Hiding Rules (caused by EasyList / EasyPrivacy )----!
@@ -211,7 +215,6 @@ nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
 bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
 bhol.co.il,bhol-forums.co.il###top_banner_ph
 globes.co.il,onlife.co.il,sport5.co.il##.banner
-globes.co.il,themarker.com##.banners
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol.co.il,bhol-forums.co.il##.centered.padt10 > .clear
 beok.co.il,winwin.co.il##.TopBanners
@@ -283,6 +286,7 @@ globes.co.il###banner870x75
 globes.co.il##.G_BoxTH
 globes.co.il##.G_divTopSpace20
 globes.co.il##.banner_box_300x250.NoTopBorder
+globes.co.il##.banners
 globes.co.il##.sekindo
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
 google.co.il###mbEnd
@@ -510,15 +514,22 @@ tapuz.co.il##.rightBar1
 tapuz.co.il##.rightSideBanner
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
+themarker.com###dclk_objects_08
+themarker.com###dclk_objects_20
+themarker.com###dclk_objects_33
+themarker.com###dclk_objects_35
+themarker.com###dclk_objects_48
+themarker.com###dclk_objects_50
 themarker.com###drushim
 themarker.com###floatingBannerDepPage
+themarker.com###floatingBannerHomePage
 themarker.com##.CutTransperetLine + .border-box
 themarker.com##.banner-area
 themarker.com##.banner_92008
 themarker.com##.border-box.noSourceList
 themarker.com##.sdera-banners
 themarker.com##.slideShowBannerGroup
-themarker.com##[id^="dclk_"]
+themarker.com##[name="txtlnk"] + .border-box
 upf.co.il##.bgbanner
 view-movies.co.il###connect
 view-movies.co.il##A[href="http://www.view-movies.co.il/minisite.php"]
