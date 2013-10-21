@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MB2fDkKH4l59vMSvWmjmTw
+! Checksum: fhgl8BgFrCYvzfLqRXtwZA
 ! Title: TheNewIsraelList
-! Last modified: 21/10/13  10:42 Jerusalem Daylight Time
+! Last modified: 21/10/13  11:07 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -183,6 +183,7 @@
 @@||hayadan.org.il/images/ads/search
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
+@@||mako.checkm8.com/adam/inline?cat=mako.news&format=$object-subrequest
 @@||mako.checkm8.com/crossdomain.xml$object-subrequest
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
