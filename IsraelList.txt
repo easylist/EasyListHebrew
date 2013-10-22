@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fhgl8BgFrCYvzfLqRXtwZA
+! Checksum: GB7hnONN0Saq73j70fou1w
 ! Title: TheNewIsraelList
-! Last modified: 21/10/13  11:07 Jerusalem Daylight Time
+! Last modified: 22/10/13  23:53 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -168,6 +168,7 @@
 @@||themarker.com/css/advertisement_article.css
 @@||themarker.com/dclk/dclk_ads.js
 @@||themarker.com/dclk/dclk_ads_init_tm_pol.js
+@@||videos.hiro.co.il/Ynet/Player/$object-subrequest
 @@||y.net-games.co.il/adimages/
 !
 !------Whitelists Element Hiding Rules (caused by EasyList / EasyPrivacy )----!
