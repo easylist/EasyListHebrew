@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wq7gwzjo/pY2iuH15M6U9A
+! Checksum: cU51vqc4CnGkqJwIVxLE1A
 ! Title: TheNewIsraelList
-! Last modified: 23/10/13  09:41 Jerusalem Daylight Time
+! Last modified: 23/10/13  16:07 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -149,6 +149,7 @@
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
 ||sdarot.tv/banners
+||seret.co.il/images/banners/pagehasut/PageHasut
 ||sport5.co.il/banners2/
 ||view-movies.co.il/malabi/
 ||wcdn.co.il/banners/
@@ -467,6 +468,10 @@ s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; 
 saloona.co.il###footer_banner
 sdarot.tv###extra
 sdarot.tv##A[href^="http://cellebrate.mobi/il/heb"]
+seret.co.il##.RightColWhiteBox312x262
+seret.co.il##.cbthfds
+seret.co.il##DIV[style="width:100%;text-align:center;"]
+seret.co.il##SPAN[style="line-height:192px;height:192px;clear:both;display:block;"]
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il##.article-holder > .alt
