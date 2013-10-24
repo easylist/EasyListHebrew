@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cU51vqc4CnGkqJwIVxLE1A
+! Checksum: 6//V6T9mqKOjrx1W21Te0Q
 ! Title: TheNewIsraelList
-! Last modified: 23/10/13  16:07 Jerusalem Daylight Time
+! Last modified: 24/10/13  17:27 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -396,6 +396,7 @@ mouse.co.il##.noprint + .inline-box-text_new.noprint
 mouse.co.il##div.inline-box-text
 mp3music.co.il###adv
 mp3music.co.il##.posb
+mynet.co.il##DIV[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
 myvod.me###colourButton99[width="1002"][height="612"]
 nadlan.com##.middlebannerFlash
 nadlan.com##.wrapBoxSmall
