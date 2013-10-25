@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6//V6T9mqKOjrx1W21Te0Q
+! Checksum: adVYA7Bz0vEojMfqPiqMMA
 ! Title: TheNewIsraelList
-! Last modified: 24/10/13  17:27 Jerusalem Daylight Time
+! Last modified: 25/10/13  11:38 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -521,12 +521,15 @@ tapuz.co.il##.rightBar1
 tapuz.co.il##.rightSideBanner
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
+themarker.com###bar_left
 themarker.com###dclk_objects_08
+themarker.com###dclk_objects_10
 themarker.com###dclk_objects_20
 themarker.com###dclk_objects_33
 themarker.com###dclk_objects_35
 themarker.com###dclk_objects_48
 themarker.com###dclk_objects_50
+themarker.com###dclk_objects_articleBody
 themarker.com###drushim
 themarker.com###floatingBannerDepPage
 themarker.com###floatingBannerHomePage
