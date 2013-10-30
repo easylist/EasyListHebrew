@@ -468,8 +468,8 @@ s-maof.com###popupContact
 s-maof.com##DIV[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 saloona.co.il###footer_banner
-sdarot.pw###extra
-sdarot.pw##A[href^="http://cellebrate.mobi/il/heb"]
+sdarot.co.in###extra
+sdarot.co.in##A[href^="http://cellebrate.mobi/il/heb"]
 seret.co.il##.RightColWhiteBox312x262
 seret.co.il##.cbthfds
 seret.co.il##DIV[style="width:100%;text-align:center;"]
