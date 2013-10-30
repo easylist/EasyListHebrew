@@ -522,6 +522,7 @@ tapuz.co.il##.rightSideBanner
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
 themarker.com###bar_left
+themarker.com###dclk_objects_07
 themarker.com###dclk_objects_08
 themarker.com###dclk_objects_10
 themarker.com###dclk_objects_20
