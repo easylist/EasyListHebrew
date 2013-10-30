@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: adVYA7Bz0vEojMfqPiqMMA
+! Checksum: jcZhvzeZ/0pLgwJbpHxbVg
 ! Title: TheNewIsraelList
-! Last modified: 25/10/13  11:38 Jerusalem Daylight Time
+! Last modified: 30/10/13  21:49 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -161,6 +161,7 @@
 @@||forbes.co.il/download/banners/
 @@||hiro.co.il/clientaccesspolicy.xml
 @@||hiro.co.il/crossdomain.xml
+@@||go.ynet.co.il/short/commerce/2012/weathernew/
 @@||hiro.co.il/hiro/HiroServlet/ClientSynchronizationServlet?$domain=y.net-games.co.il
 @@||hiro.co.il/hiro/HiroServlet/HiroAdRequest?*http$domain=nrg.co.il
 @@||hiro.co.il^*/LayerWrapperReshet.swf
