@@ -413,6 +413,7 @@ nana10.co.il###GoogleAds400x223
 nana10.co.il###IndexPromotions
 nana10.co.il###bottomBannerBlock
 nana10.co.il###tmp1362_903810
+nana10.co.il###tmp1639_1012341
 nana10.co.il###topBannerBlock
 nana10.co.il##.AdvLine
 nana10.co.il##.ArticleInlineBanHolder
