@@ -151,6 +151,7 @@
 ||sdarot.tv/banners
 ||seret.co.il/images/banners/pagehasut/PageHasut
 ||sport5.co.il/banners2/
+||static.gamex.co.il/images/bg/endersgame.jpg
 ||vgames.co.il/cdn/css/global.bg_comm.css?v=2
 ||view-movies.co.il/malabi/
 ||wcdn.co.il/banners/
@@ -285,6 +286,7 @@ flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margi
 forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 fxp.co.il###close_web3
+gamex.co.il###skyscraper
 geektime.co.il##.widget.sponsors-widget
 globes.co.il###banner870x75
 globes.co.il##.G_BoxTH
