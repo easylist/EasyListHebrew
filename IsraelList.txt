@@ -62,6 +62,7 @@
 /CdaMarketTextlinks_
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||go.ynet.co.il/short/commerce/
+||images1.ynet.co.il/PicServer3/2013/10/17/4920698/150_200.jpg
 ||ynet.co.il/images/headline_video_header_samsung.png
 ||ynet.co.il/WinWinCooperation/
 ||ynetshops.co.il/article/showbanner2/
@@ -598,6 +599,8 @@ ynet.co.il###google_ads_iframe_\/ynt\.top\.central
 ynet.co.il###ww6s_Main
 ynet.co.il###ynet_lightbox_content_top
 ynet.co.il##.CAATVcompAdvertiseTv
+ynet.co.il##.HTcompData
+ynet.co.il##.HTleshonitDiv[style="width:300px; background: #000066;"]
 ynet.co.il##.MRec_main
 ynet.co.il##.art_video_samsung_top
 ynet.co.il##.bigdeal
