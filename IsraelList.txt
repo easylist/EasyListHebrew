@@ -199,14 +199,8 @@
 !
 !------------Not by IsraelList (caused by EasyList / EasyPrivacy )------------!
 !
-#@#.ob_container .item-container-obpd
 blms.co.il#@#.addtitle
-forbes.co.il#@#.item-container-ad
-globes.co.il#@#.ob_container .item-container-obpd
 homeless.co.il#@#.postad
-nrg.co.il#@#.item-container-ad
-nrg.co.il#@#.ob_container .item-container-obpd
-ynet.co.il#@#.ob_container .item-container-obpd
 !
 !------------------------General element hiding rules-------------------------!
 !
