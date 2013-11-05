@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tVVSAGkf9TUS8rCMxi5Stw
+! Checksum: sD/nUqAVL1Sn18VffOLcGQ
 ! Title: TheNewIsraelList
-! Last modified: 05/11/13  19:42 Jerusalem Standard Time
+! Last modified: 05/11/13  20:33 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -130,6 +130,7 @@
 ||date.dacho.co.il^
 ||ddlil.com/banners/
 ||dimpact.co.il/Live/Banner/
+||gozlan.co/lb15.js
 ||haflla.com/download/banners/
 ||holesinthenet.co.il/uploads/*/res/*.swf
 ||hometheater.co.il/opx/
