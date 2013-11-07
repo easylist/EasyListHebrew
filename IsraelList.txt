@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sD/nUqAVL1Sn18VffOLcGQ
+! Checksum: bGL7jGRSW8bM6rDnHI+45A
 ! Title: TheNewIsraelList
-! Last modified: 05/11/13  20:33 Jerusalem Standard Time
+! Last modified: 07/11/13  08:32 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -285,6 +285,8 @@ flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margi
 forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 fxp.co.il###close_web3
+games.nana10.co.il###tmp1632_46
+games.nana10.co.il##.BannerMiddle
 gamex.co.il###skyscraper
 geektime.co.il##.widget.sponsors-widget
 globes.co.il###banner870x75
