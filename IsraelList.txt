@@ -380,6 +380,7 @@ mako.co.il##A[href*="bankhapoalim"]
 mako.co.il##IMG[width="276"][height="555"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
 mako.co.il##[href^="http://styleriver.mako.co.il/"]
+mako.co.il##[href^="http://www.mysupermarket.co.il/?banner"]
 mapa.co.il###headerContenetBanner
 mapa.co.il##.bannerPlace
 mapa.co.il##.cls_bannerRight_sideCubeInner
