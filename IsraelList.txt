@@ -456,6 +456,8 @@ one.co.il##div[style="text-align:right;border:solid 1px #d5d5d5;"]
 one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
 one.co.il##div[style="width:100%;text-align:center;background:#ebebeb;padding:10px auto 10px auto;"]
 one.co.il##table[width="100%"] + table[width="100%"]
+onlife.co.il###block-freelancer-0
+onlife.co.il###block-freelancer-1
 onlife.co.il###top_article_ads_wrapper
 onlife.co.il##.commercial
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
