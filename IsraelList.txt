@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: g+tsXFSsTkQ9M8PE/nyvHA
+! Checksum: Ky5gKwS6zpjv4C+zFNwdDw
 ! Title: TheNewIsraelList
 ! Last modified: 10/11/13  10:43 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
@@ -130,7 +130,7 @@
 ||date.dacho.co.il^
 ||ddlil.com/banners/
 ||dimpact.co.il/Live/Banner/
-||gozlan.co/lb15.js
+||gozlan.co/lbnew2.js
 ||haflla.com/download/banners/
 ||holesinthenet.co.il/uploads/*/res/*.swf
 ||hometheater.co.il/opx/
