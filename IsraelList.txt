@@ -321,7 +321,9 @@ ice.co.il##.top_pirsomet
 ilimudim.co.il##.mp-hd-banner
 infomed.co.il##.ad_01
 inn.co.il###MadLargeInf
+inn.co.il###div180Info
 inn.co.il###div300
+inn.co.il###div300ILPict
 inn.co.il###divContentRightInf
 inn.co.il##[class^="divMAD"]
 inn.co.il##[id^="LeftColInf"]
