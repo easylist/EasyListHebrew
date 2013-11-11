@@ -155,7 +155,6 @@
 ||sdarot.li/banners
 ||seret.co.il/images/banners/pagehasut/PageHasut
 ||sport5.co.il/banners2/
-||static.gamex.co.il/images/bg/endersgame.jpg
 ||tgspot.co.il/wp-content/cache/minify/000000/yygpKbDS18_JzMtMzs_VS87Xy8wB8bKL9ZPz88pSi0riTS31sooB.js
 ||vgames.co.il/cdn/css/global.bg_comm.css?v=2
 ||view-movies.co.il/malabi/
@@ -288,6 +287,7 @@ fxp.co.il###close_web3
 games.nana10.co.il###tmp1632_46
 games.nana10.co.il##.BannerMiddle
 gamex.co.il###skyscraper
+gamex.co.il##A[target="_blank"]
 geektime.co.il##.widget.sponsors-widget
 globes.co.il###banner870x75
 globes.co.il##.G_BoxTH
