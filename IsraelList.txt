@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OBEeQObMdQnX4WCNHc0Xww
+! Checksum: JkRXwmmQZYd7mRaM3evpSw
 ! Title: TheNewIsraelList
-! Last modified: 13/11/13  09:14 Jerusalem Standard Time
+! Last modified: 13/11/13  09:16 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -152,8 +152,8 @@
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
-||sdarot.li/pyoutube.js
-||sdarot.li/banners
+||sdarot.pl/pyoutube.js
+||sdarot.pl/banners
 ||seret.co.il/images/banners/pagehasut/PageHasut
 ||sport5.co.il/banners2/
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
@@ -484,9 +484,9 @@ s-maof.com###popupContact
 s-maof.com##DIV[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 saloona.co.il###footer_banner
-sdarot.li###extra
-sdarot.li##A[href^="http://cellebrate.mobi/il/heb"]
-sdarot.li##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
+sdarot.pl###extra
+sdarot.pl##A[href^="http://cellebrate.mobi/il/heb"]
+sdarot.pl##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 seret.co.il##.RightColWhiteBox312x262
 seret.co.il##.cbthfds
 seret.co.il##DIV[style="width:100%;text-align:center;"]
