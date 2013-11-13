@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: JkRXwmmQZYd7mRaM3evpSw
+! Checksum: 2Uu7WT7XqxrZcqlFPGJURg
 ! Title: TheNewIsraelList
 ! Last modified: 13/11/13  09:16 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
@@ -136,6 +136,7 @@
 ||hometheater.co.il/opx/
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
+||israelpost.co.il/content.nsf/0/D4413A7599E19E34C2257B2300467D0D/$FILE/*.swf
 ||images.fxp.co.il/skins/
 ||jobmaster.co.il/code/kot/imageurl.asp?url=http://www.jobmaster.co.il/code/kot/click.asp?i=3442&num=3442&target=_blank
 ||jobmaster.co.il/images/banners/
