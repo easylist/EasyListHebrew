@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KmWSygULdy3e5jzy34V0EA
+! Checksum: OBEeQObMdQnX4WCNHc0Xww
 ! Title: TheNewIsraelList
-! Last modified: 12/11/13  09:55 Jerusalem Standard Time
+! Last modified: 13/11/13  09:14 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -430,6 +430,8 @@ nana10.co.il##div[style=";margin:20px 10px 0px 10px;width:298px;height:298px;"]
 nana10.co.il##div[style="top:1600px; right:800px; width:320px; height:320px;"]
 nana10.co.il##div[style="top:320px; left:640px; width:160px; height:640px;"]
 netex.mako.co.il###b2Wrapper
+newmail.walla.co.il###toolbarLink
+newmail.walla.co.il##.daily_container
 newmail.walla.co.il##.walTopBannerInside
 news-israel.net##TABLE[style="height: 60px; margin-top:10px; width: 468px;"]
 news-israel.net##TABLE[style="height: 60px;margin-top:10px; width: 468px;float:right;"]
