@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2Uu7WT7XqxrZcqlFPGJURg
+! Checksum: Ts5l4gy6e9LwoxHoNHzAgw
 ! Title: TheNewIsraelList
-! Last modified: 13/11/13  09:16 Jerusalem Standard Time
+! Last modified: 20/11/13  00:52 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -120,6 +120,7 @@
 ||auto.co.il/Banner/
 ||auto.co.il/BannersIfarme/
 ||banners*.bizportal.co.il^
+||banners.bizportal.co.il^$popup
 ||banners.news1.co.il^
 ||beok.co.il/banners/
 ||bgu4u.co.il/download/banners/
@@ -258,6 +259,7 @@ bizportal.co.il###articleBannerMadadimLeft
 bizportal.co.il###hpBannerMadadimLeft
 bizportal.co.il###shdira
 bizportal.co.il###shdira_homepage
+bizportal.co.il###tapet_superpremium_container
 bizportal.co.il##.adv_breatdcrumbs
 bizportal.co.il##.baner1
 bizportal.co.il##.baner2
