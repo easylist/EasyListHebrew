@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 82Bmwl3y5CZ4yIUyQDAMNg
+! Checksum: sUuZKET6grWQs6VqRldN1Q
 ! Title: TheNewIsraelList
-! Last modified: 21/11/13  12:06 Jerusalem Standard Time
+! Last modified: 27/11/13  09:25 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -139,7 +139,7 @@
 ||hwzone.co.il/jobs/
 ||israelpost.co.il/content.nsf/0/D4413A7599E19E34C2257B2300467D0D/$FILE/*.swf
 ||images.fxp.co.il/skins/
-||jobmaster.co.il/code/kot/imageurl.asp?url=http://www.jobmaster.co.il/code/kot/click.asp?i=3442&num=3442&target=_blank
+||jobmaster.co.il/code/kot/*$object
 ||jobmaster.co.il/images/banners/
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
 ||kipa.co.il/banner/
@@ -340,6 +340,7 @@ iphones.co.il###mainBannerSponsers2
 iphones.co.il##div[style="padding-top:10px;width:250px;height:250px"]
 israelhayom.co.il###mini-panel-top_banner
 israelweather.co.il###weekFlashes
+jobmaster.co.il##TABLE[width="100%"][style="border-top:1px solid #EEEEEE;"]
 kikarhashabat.co.il###exposeMask
 kikarhashabat.co.il###maavaron_overlay
 kikarhashabat.co.il###takeover_wrapper
