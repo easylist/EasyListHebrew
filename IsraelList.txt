@@ -154,6 +154,7 @@
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
+||scity.co.il/scity_728_sdarot.swf
 ||sdarot.ws/pyoutube.js
 ||sdarot.ws/banners
 ||seret.co.il/images/banners/pagehasut/PageHasut
