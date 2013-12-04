@@ -304,6 +304,11 @@ gamex.co.il##A[target="_blank"]
 gear.co.il###peelback
 gear.co.il##.ad_A1
 gear.co.il##.ad_B1
+gear.co.il##.ad_B2
+gear.co.il##.ad_B3
+gear.co.il##.ad_B4
+gear.co.il##.ad_C2
+gear.co.il##.tab-logos
 geektime.co.il##.widget.sponsors-widget
 globes.co.il###banner870x75
 globes.co.il##.G_BoxTH
