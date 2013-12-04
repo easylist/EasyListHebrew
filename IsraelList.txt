@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Uu7lmCJTkeTIqJijcfPvWw
+! Checksum: jG5g7ghMhl9BtHT6bwZTtQ
 ! Title: TheNewIsraelList
-! Last modified: 01/12/13  10:13 Jerusalem Standard Time
+! Last modified: 04/12/13  11:11 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -126,6 +126,7 @@
 ||bgu4u.co.il/download/banners/
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||cdn.mdigital.co.il/video/*.flv$domain=globes.co.il
+||chabad.info/images/pirsomot/
 ||cs4u.co.il/mall_site_images/Promotions/
 ||d.co.il/Hebrew/images/Premium/
 ||date.dacho.co.il^
@@ -277,6 +278,12 @@ calcalist.co.il##table[width="478"]
 carsforum.co.il##.box2
 carsforum.co.il##DIV[style="float:left;padding-left:3px;"]
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
+chabad.info###rodefet_left
+chabad.info###rodefet_right
+chabad.info###text_pirsomet
+chabad.info###top2_ad_container
+chabad.info##.bet_ads
+chabad.info##.left_pirsomot
 d.co.il##.header_banner
 d.co.il##.premium-d-strip-banner-container
 dacho.co.il##.fixed_position1
