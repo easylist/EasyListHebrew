@@ -40,12 +40,12 @@
 ||mvertex.co.il^$third-party
 ||pera.co.il^$third-party
 ||s.tool-site.com^$third-party
-||sekindo.com^$popup,image,~image
+||sekindo.com^$popup
 ||talkahead.com^$third-party
-||trivicell.com^$popup,image,~image
+||trivicell.com^$popup
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
-||yeppyepp.co.il^$popup,image,~image
+||yeppyepp.co.il^$popup
 !
 !-----------------------Site specific ad blocking rules-----------------------!
 !
@@ -525,7 +525,6 @@ sratim.co.il###clickosmedia2
 srugim.co.il###front_rcol_ad
 srugim.co.il##.margin_10
 srugim.co.il##.srugim_top_slider
-srugim.co.il##.the_list_ad_zone
 starmed.co.il##.banner_forums_160x600_right
 starmed.co.il##.banner_forums_tree_300x250
 starmed.co.il##div[style="width:990px;height:150px;margin:2px auto 4px auto"]
