@@ -158,6 +158,8 @@
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
 ||scity.co.il/scity_728_sdarot.swf
+||sdarot.tv/pyoutube.js
+||sdarot.tv/banners
 ||sdarot.ws/pyoutube.js
 ||sdarot.ws/banners
 ||seret.co.il/images/banners/pagehasut/PageHasut
@@ -506,6 +508,9 @@ s-maof.com###popupContact
 s-maof.com##DIV[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 saloona.co.il###footer_banner
+sdarot.tv###extra
+sdarot.tv##A[href^="http://cellebrate.mobi/il/heb"]
+sdarot.tv##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 sdarot.ws###extra
 sdarot.ws##A[href^="http://cellebrate.mobi/il/heb"]
 sdarot.ws##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
