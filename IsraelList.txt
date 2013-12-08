@@ -589,6 +589,7 @@ themarker.com##[name="txtlnk"] + .border-box
 upf.co.il##.bgbanner
 view-movies.co.il###connect
 view-movies.co.il##A[href="http://www.view-movies.co.il/minisite.php"]
+walla.co.il###ARKIA_CONTAINER
 walla.co.il###navbar
 walla.co.il###sec_jobcity_906
 walla.co.il###sec_kama_910
