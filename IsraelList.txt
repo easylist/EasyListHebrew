@@ -40,7 +40,6 @@
 ||mvertex.co.il^$third-party
 ||pera.co.il^$third-party
 ||s.tool-site.com^$third-party
-||se.c04dl.vds-is.castup.net^$third-party
 ||sekindo.com^$popup
 ||talkahead.com^$third-party
 ||trivicell.com^$popup
