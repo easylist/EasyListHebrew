@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YU03Gbt3Ab54B+VH30pnlg
+! Checksum: q/26RO/MAhRvB+cWJmPDkQ
 ! Title: TheNewIsraelList
-! Last modified: 22/12/13  09:18 Jerusalem Standard Time
+! Last modified: 22/12/13  09:43 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -28,6 +28,7 @@
 ||213.8.137.51^
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||ad.msn.co.il^$third-party
+||amazing-offers.co.il^$popup
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
 ||gail.hit.gemius.pl^$third-party
