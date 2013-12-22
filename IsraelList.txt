@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ftMxkSDTq0PX0R1fl1kJ5A
+! Checksum: 3WRP8TD42/kH4/V08Kfj1Q
 ! Title: TheNewIsraelList
-! Last modified: 12/12/13  16:42 Jerusalem Standard Time
+! Last modified: 22/12/13  09:00 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -40,6 +40,7 @@
 ||mvertex.co.il^$third-party
 ||pera.co.il^$third-party
 ||s.tool-site.com^$third-party
+||se.c04dl.vds-is.castup.net^$third-party
 ||sekindo.com^$popup
 ||talkahead.com^$third-party
 ||trivicell.com^$popup
@@ -201,7 +202,7 @@
 @@||hayadan.org.il/images/ads/search
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
-@@||mako.checkm8.com/adam/inline?cat=mako.news&format=$object-subrequest
+@@||mako.checkm8.com/adam/inline?cat=mako.$object-subrequest
 @@||mako.checkm8.com/crossdomain.xml$object-subrequest
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
