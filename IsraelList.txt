@@ -38,6 +38,7 @@
 ||mako.buy2.co.il^$third-party
 ||media.foxweb.co.il^$third-party
 ||merlin.co.il^$third-party
+||movies-club.com/$popup
 ||multidown.co.il/affiliates.php$third-party
 ||mvertex.co.il^$third-party
 ||pera.co.il^$third-party
