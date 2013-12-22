@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3WRP8TD42/kH4/V08Kfj1Q
+! Checksum: YU03Gbt3Ab54B+VH30pnlg
 ! Title: TheNewIsraelList
-! Last modified: 22/12/13  09:00 Jerusalem Standard Time
+! Last modified: 22/12/13  09:18 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -18,6 +18,7 @@
 !---------------------------Generic Blocking Rules----------------------------!
 !
 .co.il/adv/$~object-subrequest
+.il/ads/
 /js/linicom/*
 /pirsum/*$script,object
 |http://ad.$domain=co.il
@@ -33,6 +34,7 @@
 ||hiro.co.il^$third-party
 ||infomed.co.il^$third-party
 ||jdate.co.il^$third-party
+||linicom.co.il^$third-party
 ||mako.buy2.co.il^$third-party
 ||media.foxweb.co.il^$third-party
 ||merlin.co.il^$third-party
@@ -67,6 +69,7 @@
 ||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
 ||ynet.co.il/images/headline_video_header_samsung.png
 ||ynet.co.il/WinWinCooperation/
+||ynet.co.il^*/ynetbanneradmin/
 ||ynetshops.co.il/article/showbanner2/
 !-nrg-!
 ||nrg.co.il/cache/banners
@@ -116,6 +119,7 @@
 !--------------------------1st party blocking rules---------------------------!
 !
 ||2eat.co.il/banner/
+||3dots.co.il/pop/
 ||ads.one.co.il^
 ||ashdodnet.com/dyncontent/t_ad/
 ||auto.co.il/Banner/
@@ -154,6 +158,7 @@
 ||news-israel.net/images/topAd
 ||pc.co.il/ajaxfilemanager/uploaded/$object
 ||pc.co.il/wp-content/uploads/$object
+||petri.co.il/media/$image
 ||pitro.net/Banners/
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
@@ -206,11 +211,15 @@
 @@||mako.checkm8.com/crossdomain.xml$object-subrequest
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
+@@||one.co.il/ads/*.mp4$object-subrequest
 @@||sfx-images.mozilla.org^$image
 @@||zvz.co.il/AdImages/$~third-party,image
+@@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
 !
 !------------Not by IsraelList (caused by EasyList / EasyPrivacy )------------!
 !
+bipbip.co.il#@#.adlist
+bipbip.co.il#@#.adpic
 blms.co.il#@#.addtitle
 homeless.co.il#@#.postad
 !
@@ -497,6 +506,7 @@ onlife.co.il###block-freelancer-0
 onlife.co.il###block-freelancer-1
 onlife.co.il###top_article_ads_wrapper
 onlife.co.il##.commercial
+petri.co.il###sponsors
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
