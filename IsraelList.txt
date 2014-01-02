@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: q/26RO/MAhRvB+cWJmPDkQ
+! Checksum: kiafZxVMI2BgTfgHdVCaxg
 ! Title: TheNewIsraelList
-! Last modified: 22/12/13  09:43 Jerusalem Standard Time
+! Last modified: 02/01/14  22:30 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -67,6 +67,7 @@
 /CdaMarketTextlinks_
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||go.ynet.co.il/short/commerce/
+||go.ynet.co.il/short/content/2010/Career/banner/
 ||images1.ynet.co.il/PicServer3/2013/10/17/4920698/150_200.jpg
 ||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
 ||ynet.co.il/images/headline_video_header_samsung.png
