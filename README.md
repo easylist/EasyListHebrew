@@ -1,8 +1,7 @@
 AdBlockIsraelList
 =================
-to add to AdBlockPlus just add 
+In order to add this list to AdBlockPlus just add 
 https://easylist-downloads.adblockplus.org/israellist+easylist.txt
-to your adblock subscription, or press <a href="abp:subscribe?location=https://easylist-downloads.adblockplus.org/israellist+easylist.txt&title=EasyListIsraelList">Here</a>
+to your adblock subscriptions, click <a href="abp:subscribe?location=https://easylist-downloads.adblockplus.org/israellist+easylist.txt&amp;title=EasyListIsraelList">Here</a>
 or go to <a href="https://adblockplus.org/en/subscriptions"> their website</a> and choose israellist+easylist.<br>
-if you don't have ad block you can easly install it. it has versions for Firefox, chrome, IE, Andriod and Opera.
-<a href="https://adblockplus.org/">just go to their website</a>
+if you don't have AdBlock you can easly install it. AdBlock has versions for Mozilla Firefox, Google Chrome, Internet Explorer, Android and Opera.
