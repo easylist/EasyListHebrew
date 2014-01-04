@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kiafZxVMI2BgTfgHdVCaxg
+! Checksum: SbydGaApk2Qd4gLH70Gevw
 ! Title: TheNewIsraelList
-! Last modified: 02/01/14  22:30 Jerusalem Standard Time
+! Last modified: 04/01/14  21:29 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -116,6 +116,7 @@
 ||apps.mako.co.il/minicampaigns/
 ||ds.keshet-i.com/jserver/
 ||img.mako.co.il/2013/09/22/74607881Tapet.jpg
+||img.mako.co.il/2014/01/02/tapet
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
 !
