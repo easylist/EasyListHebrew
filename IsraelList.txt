@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SpHDdG7/Zr7dQ6/hteaDMQ
+! Checksum: HXeKQQJQCWLywwQ0W16+YQ
 ! Title: TheNewIsraelList
-! Last modified: 06/01/14  23:20 Jerusalem Standard Time
+! Last modified: 07/01/14  01:46 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -293,6 +293,7 @@ bipbip.co.il###LeftBanner
 bipbip.co.il##.HotBannerDiv
 bipbip.co.il##.TopBannerDiv
 bizportal.co.il###additional_article_adv
+bizportal.co.il###additional_article_adv_NEW
 bizportal.co.il###articleBannerMadadimLeft
 bizportal.co.il###hpBannerMadadimLeft
 bizportal.co.il###shdira
