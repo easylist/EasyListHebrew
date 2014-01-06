@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vMYxd6dJNUT17ShhWpbu7Q
+! Checksum: AMShcePp5YHdvV4VhJfeaQ
 ! Title: TheNewIsraelList
-! Last modified: 06/01/14  11:46 Jerusalem Standard Time
+! Last modified: 06/01/14  12:41 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -232,6 +232,17 @@ bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
 blms.co.il#@#.addtitle
 homeless.co.il#@#.postad
+!
+!---------------------------------Mobile Ads----------------------------------!
+!
+||admin.applicaster.com/v12//7047/Channel0_Android_Banners
+||ads.one.co.il/images/ads/
+||apps.mako.co.il/mobile/config/android/sport5/ad_config.xml
+||apps.mako.co.il/mobile/config/android/sport5/banner_config.xml
+||fus.walla.co.il/json/5804468/mint.walla_android.homepage/spons
+||images.yad2.co.il/Pic/yad2new/homepage_promotions/prom
+||live.sekindo.com/uploads/users/*/ads/
+||sport5.co.il/cm8ads/
 !
 !------------------------General element hiding rules-------------------------!
 !
