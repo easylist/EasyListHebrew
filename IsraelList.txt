@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +ftjllFnnwP/RGdlalskQw
+! Checksum: vMYxd6dJNUT17ShhWpbu7Q
 ! Title: TheNewIsraelList
-! Last modified: 05/01/14  22:16 Jerusalem Standard Time
+! Last modified: 06/01/14  11:46 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -200,6 +200,7 @@
 !
 !------Whitelists Element Hiding Rules (caused by EasyList / EasyPrivacy )----!
 !
+@@||adserver.adtech.de/^$object,domain=mako.co.il
 @@||advertising.themarker.com^$~third-party
 @@||agenda.nana10.co.il/counter.asp
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
@@ -211,8 +212,10 @@
 @@||gplanet.co.il/js/adx.js
 @@||hayadan.org.il/images/ads/logo
 @@||hayadan.org.il/images/ads/search
+@@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
+@@||mako.checkm8.com/adam/em/$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.$object-subrequest
 @@||mako.checkm8.com/crossdomain.xml$object-subrequest
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
@@ -220,8 +223,8 @@
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||sfx-images.mozilla.org^$image
 @@||stats.mako.co.il/crossdomain.xml$object-subrequest
-@@||zvz.co.il/AdImages/$~third-party,image
 @@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
+@@||zvz.co.il/AdImages/$~third-party,image
 !
 !------------Not by IsraelList (caused by EasyList / EasyPrivacy )------------!
 !
