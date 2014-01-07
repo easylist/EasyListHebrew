@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: G7PwOYcV0sMlnRHgOqQ1tw
+! Checksum: gLzu9gK+DtiudKEv7JpXEA
 ! Title: TheNewIsraelList
-! Last modified: 07/01/14  02:56 Jerusalem Standard Time
+! Last modified: 07/01/14  15:23 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -114,11 +114,13 @@
 ||adserv.mako.co.il^
 ||api.conduit.com^$domain=mako.co.il
 ||apps.mako.co.il/minicampaigns/
+||cellstats.mako.co.il^
 ||ds.keshet-i.com/jserver/
 ||img.mako.co.il/2013/09/22/74607881Tapet.jpg
 ||img.mako.co.il/2014/01/02/tapet
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
+||stats.mako.co.il^
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -219,13 +221,12 @@
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
 @@||mako.checkm8.com/adam/em/$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.*=MIDROLL_$object-subrequest
+@@||mako.checkm8.com/adam/inline?cat=mako.*=SAGIR_$object-subrequest
 @@||mako.checkm8.com/crossdomain.xml$object-subrequest
-@@||mako.checkm8.com/adam/inline*MAKOPAGE
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||sfx-images.mozilla.org^$image
-@@||stats.mako.co.il/crossdomain.xml$object-subrequest
 @@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
 @@||zvz.co.il/AdImages/$~third-party,image
 !
