@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gLzu9gK+DtiudKEv7JpXEA
+! Checksum: ppvNbWgEVnMvbRizkPyRWw
 ! Title: TheNewIsraelList
-! Last modified: 07/01/14  15:23 Jerusalem Standard Time
+! Last modified: 09/01/14  10:37 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -180,6 +180,10 @@
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
 ||tgspot.co.il/wp-content/cache/minify/000000/yygpKbDS18_JzMtMzs_VS87Xy8wB8bKL9ZPz88pSi0riTS31sooB.js
 ||view-movies.co.il/malabi/
+||view-movies.co.il/980Banner.jpg
+||view-movies.co.il/winner.jpg
+||view-movies.co.il/images/sideSticky.png
+||view-movies.co.il/allencar.jpg
 ||wcdn.co.il/banners/
 !
 !-------------------------------Whitelists------------------------------------!
@@ -628,6 +632,7 @@ themarker.com##[name="txtlnk"] + .border-box
 upf.co.il##.bgbanner
 view-movies.co.il###connect
 view-movies.co.il##A[href="http://www.view-movies.co.il/minisite.php"]
+view-movies.co.il##DIV[itemtype="http://data-vocabulary.org/Breadcrumb"]
 walla.co.il###ARKIA_CONTAINER
 walla.co.il###navbar
 walla.co.il###sec_jobcity_906
