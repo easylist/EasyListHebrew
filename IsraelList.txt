@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gsrBSfsbb0FWBWFS7XowSQ
+! Checksum: KEVCgnNujoxZeiPppWjzpA
 ! Title: TheNewIsraelList
-! Last modified: 10/01/14  01:00 Jerusalem Standard Time
+! Last modified: 10/01/14  15:44 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -44,7 +44,6 @@
 ||mvertex.co.il^$third-party
 ||pera.co.il^$third-party
 ||s.tool-site.com^$third-party
-||se.c04dl.vds-is.castup.net^$third-party
 ||sekindo.com^$popup
 ||talkahead.com^$third-party
 ||trivicell.com^$popup
@@ -114,6 +113,7 @@
 ||adserv.mako.co.il^
 ||api.conduit.com^$domain=mako.co.il
 ||apps.mako.co.il/minicampaigns/
+||c04dl.vds-is.castup.net^$domain=mako.co.il
 ||ds.keshet-i.com/jserver/
 ||img.mako.co.il/2013/09/22/74607881Tapet.jpg
 ||img.mako.co.il/2014/01/02/tapet
@@ -212,13 +212,13 @@
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
-@@||bs.serving-sys.com/BurstingPipe/adServer.bs?*$object-subrequest
-@@||bs.serving-sys.com/crossdomain.xml$object-subrequest
+@@||bs.serving-sys.com/BurstingPipe/adServer.bs?*$object-subrequest,domain=mako.co.il
+@@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=mako.co.il
 @@||gplanet.co.il/js/adx.js
 @@||hayadan.org.il/images/ads/logo
 @@||hayadan.org.il/images/ads/search
 @@||hiro.co.il/hiro/HiroServlet/$object-subrequest,domain=mako.co.il
-@@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il
+@@||ifat.com/VideoControl/makoinformation?$domain=mako.co.il
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
 @@||mako.checkm8.com/adam/em/$object-subrequest
