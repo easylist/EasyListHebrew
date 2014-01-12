@@ -595,6 +595,7 @@ tapuz.co.il###BannerRightBotDiv
 tapuz.co.il###BannerRightDiv
 tapuz.co.il###divTopBanner1
 tapuz.co.il###divTopBanner2
+tapuz.co.il###divTopBanner3
 tapuz.co.il###frm_1
 tapuz.co.il###ftrBnrDiv
 tapuz.co.il###googleSide
