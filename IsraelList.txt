@@ -605,6 +605,7 @@ tapuz.co.il##.Partners_Ctrl
 tapuz.co.il##.advContainer
 tapuz.co.il##.areaBanner
 tapuz.co.il##.areaLeftBnr
+tapuz.co.il##.areaSideBanner
 tapuz.co.il##.forumContentFooterBox
 tapuz.co.il##.partnersBox
 tapuz.co.il##.right.subsidiary
