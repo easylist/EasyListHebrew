@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KEVCgnNujoxZeiPppWjzpA
+! Checksum: 5eMSllgdraRwZahFgjYJGg
 ! Title: TheNewIsraelList
-! Last modified: 10/01/14  15:44 Jerusalem Standard Time
+! Last modified: 12/01/14  08:52 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
@@ -28,6 +28,7 @@
 ||213.8.137.51^
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||ad.msn.co.il^$third-party
+||adland.co.il^$third-party
 ||amazing-offers.co.il^$popup
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
@@ -399,6 +400,7 @@ inn.co.il##[id^="divLeftInf"]
 iphones.co.il###mainBannerSponsers2
 iphones.co.il##div[style="padding-top:10px;width:250px;height:250px"]
 israelhayom.co.il###mini-panel-top_banner
+israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelweather.co.il###weekFlashes
 jobmaster.co.il##TABLE[width="100%"][style="border-top:1px solid #EEEEEE;"]
 kikarhashabat.co.il###exposeMask
