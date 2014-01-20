@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: l8/iCFeQPI6MmekBDBESMg
+! Checksum: gp5DQwVKoN808/nm9euUEQ
 ! Title: TheNewIsraelList
-! Last modified: 20/01/14  09:46 Jerusalem Standard Time
+! Last modified: 20/01/14  17:01 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
-! Homepage: https://github.com/AdBlockPlusIsrael/EasyListIsrael
-! Forums: https://github.com/AdBlockPlusIsrael/EasyListIsrael/issues
+! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
+! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
 !
 !
 ! Fork of: IsraelList http://code.google.com/p/israellist/
