@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gp5DQwVKoN808/nm9euUEQ
+! Checksum: C5M1bqPhfnQlW++zYsgZxA
 ! Title: TheNewIsraelList
-! Last modified: 20/01/14  17:01 Jerusalem Standard Time
+! Last modified: 20/01/14  19:02 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -692,6 +692,7 @@ yeshanews.com###sideban
 ynet.co.il###ads\.300x600\.1
 ynet.co.il###art_bottom_adsense-1
 ynet.co.il###art_right_sponsored_links-1
+ynet.co.il###googleAdsenseMivzakim
 ynet.co.il###google_ads_iframe_\/ynt\.top\.central
 ynet.co.il###ww6s_Main
 ynet.co.il###ynet_lightbox_content_top
