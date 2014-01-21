@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2NIawyX9BouscRB0nABbQA
+! Checksum: yXTW5Cf0+IC7c4b3wxzLgw
 ! Title: TheNewIsraelList
-! Last modified: 20/01/14  19:48 Jerusalem Standard Time
+! Last modified: 21/01/14  22:50 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -32,7 +32,6 @@
 ||amazing-offers.co.il^$popup
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
-||gail.hit.gemius.pl^$third-party
 ||hiro.co.il^$third-party
 ||infomed.co.il^$third-party
 ||jdate.co.il^$third-party
@@ -94,7 +93,6 @@
 ||rm.tapuz.co.il^
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
 ||tapuz.co.il/communa/merlin_
-||tapuz.co.il/gemius/TChannelGemius.js
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
 ||tapuz.co.il^*ClosePopup.gif
