@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yXTW5Cf0+IC7c4b3wxzLgw
+! Checksum: aDxbNeVVtgIyjKObJL1ctQ
 ! Title: TheNewIsraelList
-! Last modified: 21/01/14  22:50 Jerusalem Standard Time
+! Last modified: 27/01/14  16:38 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -222,11 +222,11 @@
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
 @@||mako.checkm8.com/adam/em/$object-subrequest
-@@||mako.checkm8.com/adam/inline?cat=mako.*=HEAVY_PIC
+@@||mako.checkm8.com/adam/inline?*=HEAVY_PIC_$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.*=MIDROLL_$object-subrequest
-@@||mako.checkm8.com/adam/inline?cat=mako.*=OVERLAY
+@@||mako.checkm8.com/adam/inline?cat=mako.*=OVERLAY$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.*=SAGIR_$object-subrequest
-@@||mako.checkm8.com/adam/inline?cat=mako.*=STANDARD_TV_$object-subrequest
+@@||mako.checkm8.com/adam/inline?*=STANDARD_TV_$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.*=VIDEOSPOT_$object-subrequest
 @@||mako.checkm8.com/crossdomain.xml$object-subrequest
 @@||mccann.hiro.co.il/hiro/HiroServlet/HiroAdRequest*mako$object-subrequest,media
