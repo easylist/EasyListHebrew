@@ -18,7 +18,6 @@
 !---------------------------Generic Blocking Rules----------------------------!
 !
 .co.il/adv/$~object-subrequest
-.il/ads/
 /js/linicom/*
 /pirsum/*$script,object
 |http://ad.$domain=co.il
