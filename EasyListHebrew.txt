@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: q8AJNx6S5/n6eFH9r2zVHg
+! Checksum: 7SV6EKBVRxyq+w87kQKiCA
 ! Title: TheNewIsraelList
-! Last modified: 30/01/14  16:42 Jerusalem Standard Time
+! Last modified: 30/01/14  23:57 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -201,6 +201,7 @@
 @@||themarker.com/css/advertisement_article.css
 @@||themarker.com/dclk/dclk_ads.js
 @@||themarker.com/dclk/dclk_ads_init_tm_pol.js
+@@||themarker.com/dclk/dfp/dfp_init_tm.js$script
 @@||videos.hiro.co.il/Ynet/Player/$object-subrequest
 @@||y.net-games.co.il/adimages/
 !
@@ -623,18 +624,6 @@ tapuz.co.il##.rightBar1
 tapuz.co.il##.rightSideBanner
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
-themarker.com###bar_left
-themarker.com###dclk_objects_07
-themarker.com###dclk_objects_08
-themarker.com###dclk_objects_10
-themarker.com###dclk_objects_100
-themarker.com###dclk_objects_20
-themarker.com###dclk_objects_33
-themarker.com###dclk_objects_35
-themarker.com###dclk_objects_48
-themarker.com###dclk_objects_50
-themarker.com###dclk_objects_articleBody
-themarker.com###drushim
 themarker.com###floatingBannerDepPage
 themarker.com###floatingBannerHomePage
 themarker.com##.CutTransperetLine + .border-box
@@ -643,6 +632,7 @@ themarker.com##.banner_92008
 themarker.com##.border-box.noSourceList
 themarker.com##.sdera-banners
 themarker.com##.slideShowBannerGroup
+themarker.com##IFRAME[id^="google"]
 themarker.com##[name="txtlnk"] + .border-box
 upf.co.il##.bgbanner
 view-movies.co.il###connect
