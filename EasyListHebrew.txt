@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fJnRWGFq5FO5zqZnsCW+kQ
+! Checksum: q8AJNx6S5/n6eFH9r2zVHg
 ! Title: TheNewIsraelList
-! Last modified: 28/01/14  14:36 Jerusalem Standard Time
+! Last modified: 30/01/14  16:42 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -119,6 +119,7 @@
 ||kz-vd-se01.se.c04dl.vds-is.castup.net/$object-subrequest,media
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
+||tbwacdn.pas-rahav.com^$object-subrequest,domain=mako.co.il,media
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -205,7 +206,8 @@
 !
 !------Whitelists Element Hiding Rules (caused by EasyList / EasyPrivacy )----!
 !
-@@||adserver.adtech.de/^$object,domain=mako.co.il
+@@||adserver.adtech.de/?advideo/$object-subrequest,domain=mako.co.il
+@@||adserver.adtech.de/rmevent/$object-subrequest,domain=mako.co.il,media
 @@||advertising.themarker.com^$~third-party
 @@||agenda.nana10.co.il/counter.asp
 @@||arti-mediagroup.com/crossdomain.xml$object-subrequest,domain=ynet.co.il
@@ -220,20 +222,22 @@
 @@||gplanet.co.il/js/adx.js
 @@||hayadan.org.il/images/ads/logo
 @@||hayadan.org.il/images/ads/search
+@@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
 @@||mako.checkm8.com/adam/em/$object-subrequest
 @@||mako.checkm8.com/adam/inline?*=HEAVY_PIC_$object-subrequest
+@@||mako.checkm8.com/adam/inline?*=STANDARD_TV_$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.*=MIDROLL_$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.*=OVERLAY$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.*=SAGIR_$object-subrequest
-@@||mako.checkm8.com/adam/inline?*=STANDARD_TV_$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.*=VIDEOSPOT_$object-subrequest
 @@||mako.checkm8.com/crossdomain.xml$object-subrequest
 @@||mccann.hiro.co.il/hiro/HiroServlet/HiroAdRequest*mako$object-subrequest,media
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
 @@||one.co.il/ads/*.mp4$object-subrequest
+@@||se.c04dl.vds-is.castup.net/server12/468/208/20816834-115.mp4$domain=mako.co.il
 @@||sfx-images.mozilla.org^$image
 @@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
 @@||zvz.co.il/AdImages/$~third-party,image
