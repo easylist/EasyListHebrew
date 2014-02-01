@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CzEABzdrUoRo1jLktuN5Rg
+! Checksum: 250MjRy0ESWoOtDG6lAFdA
 ! Title: TheNewIsraelList
-! Last modified: 01/02/14  20:51 Jerusalem Standard Time
+! Last modified: 01/02/14  22:23 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -185,7 +185,7 @@
 ||view-movies.co.il/allencar.jpg
 ||wcdn.co.il/banners/
 !
-!-------------------------------Whitelists------------------------------------!
+!----------------------------------Whitelists---------------------------------!
 !
 @@||ads.doctors.co.il/banners/$~third-party,image
 @@||dclk.themarker.com/js.ng/$script
@@ -205,7 +205,7 @@
 @@||videos.hiro.co.il/Ynet/Player/$object-subrequest
 @@||y.net-games.co.il/adimages/
 !
-!------Whitelists Element Hiding Rules (caused by EasyList / EasyPrivacy )----!
+!--------------Whitelists Rules (caused by EasyList / EasyPrivacy )-----------!
 !
 @@||adserver.adtech.de/?advideo/$object-subrequest,domain=mako.co.il
 @@||adserver.adtech.de/rmevent/$object-subrequest,domain=mako.co.il,media
@@ -243,7 +243,7 @@
 @@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
 @@||zvz.co.il/AdImages/$~third-party,image
 !
-!------------Not by IsraelList (caused by EasyList / EasyPrivacy )------------!
+!------Whitelists Element Hiding Rules (caused by EasyList / EasyPrivacy )----!
 !
 ad.co.il#@#.ad-link
 bipbip.co.il#@#.adlist
@@ -283,7 +283,7 @@ haaretz.co.il,themarker.com##.topBanners
 haaretz.co.il,themarker.com##.topSectionBanners
 doctors.co.il,globes.co.il##[id^="ads."]
 !
-!----------------------------element hiding rules-----------------------------!
+!----------------------------Element hiding rules-----------------------------!
 !
 2all.co.il##.DivFlowBannerRight
 ashdodnet.com##.Banner
