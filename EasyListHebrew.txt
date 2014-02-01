@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7SV6EKBVRxyq+w87kQKiCA
+! Checksum: CzEABzdrUoRo1jLktuN5Rg
 ! Title: TheNewIsraelList
-! Last modified: 30/01/14  23:57 Jerusalem Standard Time
+! Last modified: 01/02/14  20:51 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -217,8 +217,8 @@
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
-@@||bs.serving-sys.com/BurstingPipe/adServer.bs$domain=mako.co.il
-@@||bs.serving-sys.com/crossdomain.xml$domain=mako.co.il
+@@||bs.serving-sys.com/BurstingPipe/adServer.bs$object-subrequest
+@@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||c04dl.vds-is.castup.net/crossdomain.net
 @@||gplanet.co.il/js/adx.js
 @@||hayadan.org.il/images/ads/logo
