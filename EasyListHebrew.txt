@@ -172,8 +172,8 @@
 ||scity.co.il/scity_728_sdarot.swf
 ||sdarot.tv/pyoutube.js
 ||sdarot.tv/banners
-||sdarot.ws/pyoutube.js
-||sdarot.ws/banners
+||sdarot.wf/pyoutube.js
+||sdarot.wf/banners
 ||seret.co.il/images/banners/pagehasut/PageHasut
 ||sport5.co.il/banners2/
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
@@ -568,9 +568,9 @@ saloona.co.il###footer_banner
 sdarot.tv###extra
 sdarot.tv##A[href^="http://cellebrate.mobi/il/heb"]
 sdarot.tv##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
-sdarot.ws###extra
-sdarot.ws##A[href^="http://cellebrate.mobi/il/heb"]
-sdarot.ws##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
+sdarot.wf###extra
+sdarot.wf##A[href^="http://cellebrate.mobi/il/heb"]
+sdarot.wf##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 seret.co.il##.RightColWhiteBox312x262
 seret.co.il##.cbthfds
 seret.co.il##DIV[style="width:100%;text-align:center;"]
