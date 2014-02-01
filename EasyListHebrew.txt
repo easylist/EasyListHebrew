@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 250MjRy0ESWoOtDG6lAFdA
+! Checksum: cOMUOYW0CNa9PZlu9URDyw
 ! Title: TheNewIsraelList
-! Last modified: 01/02/14  22:23 Jerusalem Standard Time
+! Last modified: 02/02/14  01:20 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -264,23 +264,29 @@ homeless.co.il#@#.postad
 !
 !------------------------General element hiding rules-------------------------!
 !
-mako.co.il,rest.co.il##.ad
+hydepark.co.il,bhol.co.il,bhol-forums.co.il,pic.co.il###Plasma_1
+getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 calcalist.co.il,mynet.co.il,ynet.co.il###ads\.top
 feeder.co.il,rest.co.il###banner
 bhol.co.il,bhol-forums.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
+sdarot.tv,sdarot.wf###extra
 bhol.co.il,bhol-forums.co.il###sdera.width100pc
-getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
 bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
 bhol.co.il,bhol-forums.co.il###top_banner_ph
+beok.co.il,winwin.co.il##.TopBanners
+mako.co.il,rest.co.il##.ad
 globes.co.il,onlife.co.il,sport5.co.il##.banner
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol.co.il,bhol-forums.co.il##.centered.padt10 > .clear
-beok.co.il,winwin.co.il##.TopBanners
+globes.co.il,nrg.co.il##.sekindo
 haaretz.co.il,themarker.com##.topBanners
 haaretz.co.il,themarker.com##.topSectionBanners
+sdarot.tv,sdarot.wf##A[href^="http://cellebrate.mobi/il/heb"]
+gamex.co.il,linicom.co.il##A[target="_blank"]
+sdarot.tv,sdarot.wf##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 doctors.co.il,globes.co.il##[id^="ads."]
 !
 !----------------------------Element hiding rules-----------------------------!
@@ -355,7 +361,6 @@ fxp.co.il##div[style^="position: fixed; width: 160px; height: 600px; top: 50px; 
 games.nana10.co.il###tmp1632_46
 games.nana10.co.il##.BannerMiddle
 gamex.co.il###skyscraper
-gamex.co.il##A[target="_blank"]
 gear.co.il###peelback
 gear.co.il##.ad_A1
 gear.co.il##.ad_B1
@@ -372,7 +377,6 @@ globes.co.il##.G_divTopSpace20
 globes.co.il##.banner_box_300x250.NoTopBorder
 globes.co.il##.banner_box_550x90
 globes.co.il##.banners
-globes.co.il##.sekindo
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
 google.co.il###mbEnd
 google.co.il###tads
@@ -393,7 +397,6 @@ hwzone.co.il###cubicbigarticlesbannertable
 hwzone.co.il##.box2.alljobBox
 hwzone.co.il##.wideBanner
 hwzone.co.il##[class^="banner"]
-hydepark.co.il,bhol.co.il,bhol-forums.co.il,pic.co.il###Plasma_1
 i.start.co.il###boxes
 ice.co.il##.top_pirsomet
 ilimudim.co.il##.mp-hd-banner
@@ -441,7 +444,6 @@ ladaat.info###divRightButtonsAds
 ladaat.info###divRightVideoAd
 lib.cet.ac.il##td[background^="/images/commercials"]
 likudnik.co.il##DIV[style="text-align: center;"]
-linicom.co.il##A[target="_blank"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
 link4u.co.il##.banner_main
@@ -566,12 +568,6 @@ s-maof.com###popupContact
 s-maof.com##DIV[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 saloona.co.il###footer_banner
-sdarot.tv###extra
-sdarot.tv##A[href^="http://cellebrate.mobi/il/heb"]
-sdarot.tv##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
-sdarot.wf###extra
-sdarot.wf##A[href^="http://cellebrate.mobi/il/heb"]
-sdarot.wf##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 seret.co.il##.RightColWhiteBox312x262
 seret.co.il##.cbthfds
 seret.co.il##DIV[style="width:100%;text-align:center;"]
