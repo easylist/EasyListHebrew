@@ -349,8 +349,8 @@ flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margi
 forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 fxp.co.il###adfxp
-fxp.co.il###tr4e
 fxp.co.il###web_3_tool
+fxp.co.il##div[style^="position: fixed; width: 160px; height: 600px; top: 50px; right:"]
 games.nana10.co.il###tmp1632_46
 games.nana10.co.il##.BannerMiddle
 gamex.co.il###skyscraper
