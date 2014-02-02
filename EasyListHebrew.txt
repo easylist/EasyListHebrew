@@ -594,10 +594,6 @@ start.co.il##.banner_105x79
 start.co.il##.banner_container
 start.co.il##section[zone="117"]
 start.co.il##section[zone="119"]
-szf.co.il###block_html_3
-szf.co.il###block_html_6
-szf.co.il###cat1
-szf.co.il##.blocksubhead
 tapuz.co.il###AsyncMlinkBanner
 tapuz.co.il###BannerRightBotDiv
 tapuz.co.il###BannerRightDiv
