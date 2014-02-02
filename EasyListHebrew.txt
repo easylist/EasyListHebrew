@@ -134,6 +134,7 @@
 ||banners.bizportal.co.il^$popup
 ||banners.news1.co.il^
 ||beok.co.il/banners/
+||besttv1.cdn.it.best-tv.com/reshet/components/BCPCLilyTrackBarCompanion/BCPCLilyTrackBarCompanion.swf
 ||bgu4u.co.il/download/banners/
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||cdn.mdigital.co.il/video/*.flv$domain=globes.co.il
