@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1OHZgu2gaxm8WDYJ0o/HAA
+! Checksum: x/jj2r1rY9pJdZyYiBs3KA
 ! Title: TheNewIsraelList
-! Last modified: 04/02/14  10:26 Jerusalem Standard Time
+! Last modified: 05/02/14  00:00 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -18,7 +18,6 @@
 !---------------------------Generic Blocking Rules----------------------------!
 !
 .co.il/adv/$~object-subrequest
-/js/linicom/*
 /pirsum/*$script,object
 |http://ad.$domain=co.il
 !
@@ -26,7 +25,6 @@
 !
 ||213.8.137.51^
 ||3dots.co.il^$third-party,domain=~maple-team.com
-||ad.msn.co.il^$third-party
 ||adland.co.il^$third-party
 ||amazing-offers.co.il^$popup
 ||clickcenter.net^$third-party
@@ -34,7 +32,6 @@
 ||hiro.co.il^$third-party
 ||infomed.co.il^$third-party
 ||jdate.co.il^$third-party
-||linicom.co.il^$third-party
 ||mako.buy2.co.il^$third-party
 ||media.foxweb.co.il^$third-party
 ||merlin.co.il^$third-party
@@ -46,7 +43,6 @@
 ||s.tool-site.com^$third-party
 ||sekindo.com^$popup
 ||talkahead.com^$third-party
-||trivicell.com^$popup
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
 ||yeppyepp.co.il^$popup
@@ -55,8 +51,6 @@
 !
 !-Walla!-!
 ||a.walla.co.il^
-||btg.mtvnservices.com/aria/$domain=mtv.walla.co.il
-||clicks.walla.co.il^
 ||fus.walla.co.il/vast/
 ||xwne.wcdn.co.il^$domain=walla.co.il
 !chrome
@@ -166,7 +160,6 @@
 ||news-israel.net/images/topAd
 ||pc.co.il/ajaxfilemanager/uploaded/$object
 ||pc.co.il/wp-content/uploads/$object
-||petri.co.il/media/$image
 ||pitro.net/Banners/
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
