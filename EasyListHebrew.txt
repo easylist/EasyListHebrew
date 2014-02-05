@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KR9Vx5dWp2t6vuQrKWmHzQ
+! Checksum: Orf9YK0k/N9LnVTfWTBADA
 ! Title: TheNewIsraelList
-! Last modified: 05/02/14  17:32 Jerusalem Standard Time
+! Last modified: 05/02/14  17:44 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -149,6 +149,7 @@
 ||israelpost.co.il/content.nsf/0/D4413A7599E19E34C2257B2300467D0D/$FILE/*.swf
 ||images.fxp.co.il/skins/
 ||images.fxp.co.il/skinfxp/image.php?*$image
+||images.fxp.co.il/skinfxp/show_skin.php
 ||jobmaster.co.il/code/kot/*$object
 ||jobmaster.co.il/images/banners/
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
