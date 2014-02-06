@@ -281,6 +281,7 @@ haaretz.co.il,themarker.com##.topBanners
 haaretz.co.il,themarker.com##.topSectionBanners
 sdarot.tv,sdarot.wf##A[href^="http://cellebrate.mobi/il/heb"]
 gamex.co.il,linicom.co.il##A[target="_blank"]
+sdarot.tv,sdarot.wf##DIV[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
 sdarot.tv,sdarot.wf##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 doctors.co.il,globes.co.il##[id^="ads."]
 !
