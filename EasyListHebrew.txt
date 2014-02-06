@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6McXXnMy1KVhj5nC4VhuJg
+! Checksum: 4Hb/obWApQXN0hdJZ2btqw
 ! Title: TheNewIsraelList
-! Last modified: 06/02/14  09:01 Jerusalem Standard Time
+! Last modified: 06/02/14  23:45 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -204,6 +204,7 @@
 !
 !--------------Whitelists Rules (caused by EasyList / EasyPrivacy )-----------!
 !
+@@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
 @@||adserver.adtech.de/?advideo/$object-subrequest,domain=mako.co.il
 @@||adserver.adtech.de/rmevent/$object-subrequest,domain=mako.co.il,media
 @@||advertising.themarker.com^$~third-party
@@ -246,6 +247,7 @@ bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
 blms.co.il#@#.addtitle
 homeless.co.il#@#.postad
+one.co.il#@#a[href^="http://xads.zedo.com/"]
 !
 !---------------------------------Mobile Ads----------------------------------!
 !
