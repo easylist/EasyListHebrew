@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Orf9YK0k/N9LnVTfWTBADA
+! Checksum: 6McXXnMy1KVhj5nC4VhuJg
 ! Title: TheNewIsraelList
-! Last modified: 05/02/14  17:44 Jerusalem Standard Time
+! Last modified: 06/02/14  09:01 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -112,6 +112,7 @@
 ||ds.keshet-i.com/jserver/
 ||img.mako.co.il/*/*/*/*apet*.jpg
 ||kz-vd-se01.se.c04dl.vds-is.castup.net/$object-subrequest,media
+||pas-rahav.com^$third-party
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
 ||tbwacdn.pas-rahav.com^$object-subrequest,domain=mako.co.il,media
@@ -249,7 +250,6 @@ homeless.co.il#@#.postad
 !---------------------------------Mobile Ads----------------------------------!
 !
 ||admin.applicaster.com/v12//7047/Channel0_Android_Banners
-||ads.one.co.il/images/ads/
 ||apps.mako.co.il/mobile/config/android/sport5/ad_config.xml
 ||apps.mako.co.il/mobile/config/android/sport5/banner_config.xml
 ||fus.walla.co.il/json/5804468/mint.walla_android.homepage/spons
