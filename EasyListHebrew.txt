@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wsD4AcshFzKsozvJfLvf3w
+! Checksum: REnc911+MIakP/GF7sgh7Q
 ! Title: EasyList Hebrew
-! Last modified: 12/02/14  16:10 Jerusalem Standard Time
+! Last modified: 12/02/14  16:14 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -43,6 +43,7 @@
 ||s.tool-site.com^$third-party
 ||sekindo.com^$popup
 ||talkahead.com^$third-party
+||tbuy.co.il^$popup
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
 ||yeppyepp.co.il^$popup
