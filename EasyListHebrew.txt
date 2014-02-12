@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: J3Jc217YVHTJOuQlfjCWPQ
+! Checksum: wsD4AcshFzKsozvJfLvf3w
 ! Title: EasyList Hebrew
-! Last modified: 12/02/14  16:09 Jerusalem Standard Time
+! Last modified: 12/02/14  16:10 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -209,7 +209,6 @@
 @@||adserver.adtech.de/rmevent/$object-subrequest,domain=mako.co.il,media
 @@||advertising.themarker.com^$~third-party
 @@||agenda.nana10.co.il/counter.asp
-@@||arti-mediagroup.com/flowplayer/amta_plugin.swf$object-subrequest,domain=ynet.co.il
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
 @@||bhol.co.il/imagebank/400x250
