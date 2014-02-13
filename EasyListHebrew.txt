@@ -88,6 +88,7 @@
 ||rm.tapuz.co.il^
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
 ||tapuz.co.il/communa/merlin_
+||tapuz.co.il/forums2008/googleInTreeFrame.html
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
 ||tapuz.co.il^*ClosePopup.gif
