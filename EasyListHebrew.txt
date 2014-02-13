@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Nb43OjxqWlIfLLQtxemDvw
+! Checksum: GGAGKCfyZvyO1vE/L0rTkw
 ! Title: EasyList Hebrew
-! Last modified: 13/02/14  14:46 Jerusalem Standard Time
+! Last modified: 13/02/14  14:53 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -297,12 +297,10 @@ doctors.co.il,globes.co.il##[id^="ads."]
 ashdodnet.com##.Banner
 ashdodnet.com##DIV[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##DIV[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
-auto.co.il###ctl00_MainContent_bannerTower
+auto.co.il###PlazmaOnOff
 auto.co.il###ctl00_MainContent_divBannerHasut
-auto.co.il###ctl00_PlazmaUnique_divPlazmaServer
 auto.co.il##.content.awLng[style="text-align: center;"]
 auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:auto;"]
-auto.co.il##div[style="width:450px;height:150px;margin-left:auto;margin-right:auto;"]
 bari-p2.co.il##TD[style="padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:4px"]
 beok.co.il##.BannerMid
 bhol.co.il###divPlazma
