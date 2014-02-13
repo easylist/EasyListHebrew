@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GGAGKCfyZvyO1vE/L0rTkw
+! Checksum: q5G/UQMcrI6XrCkRBqtG3Q
 ! Title: EasyList Hebrew
-! Last modified: 13/02/14  14:53 Jerusalem Standard Time
+! Last modified: 13/02/14  22:55 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -218,8 +218,6 @@
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||c04dl.vds-is.castup.net/crossdomain.net
 @@||gplanet.co.il/js/adx.js
-@@||hayadan.org.il/images/ads/logo
-@@||hayadan.org.il/images/ads/search
 @@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
@@ -451,23 +449,17 @@ link4u.co.il##.banner_main
 madas.co.il##.AdsContainer
 madas.co.il##.LeftColumn_container.Floater
 madas.co.il##.TextLinkBanner
-mail.ynet.co.il###divBottomCommercials
 maka.co.il##.leftBanner
 maka.co.il##.midBanner
 maka.co.il##.rightBanner
 mako.co.il###googleLinkUnits
-mako.co.il###hp_bottom_strip
 mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
 mako.co.il###rAdContainer
 mako.co.il###topPageStrip.not_for_print
-mako.co.il##.adv_ordering
-mako.co.il##.clearer.iPhone
 mako.co.il##.header_level2_container
 mako.co.il##.mako_banner_coast
 mako.co.il##.sidebar_pic
-mako.co.il##A[href*="bankhapoalim"]
-mako.co.il##IMG[width="276"][height="555"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
 mako.co.il##[href^="http://styleriver.mako.co.il/"]
 mako.co.il##[href^="http://www.mysupermarket.co.il/?banner"]
@@ -577,8 +569,6 @@ sport5.co.il##.banner-list
 sport5.co.il##.inner_adv
 sport5.co.il##.iphone
 sport5.co.il##.post.post-alt
-sratim.co.il###clickosmedia
-sratim.co.il###clickosmedia2
 srugim.co.il###front_rcol_ad
 srugim.co.il##.margin_10
 srugim.co.il##.srugim_top_slider

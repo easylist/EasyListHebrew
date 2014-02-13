@@ -8,14 +8,11 @@
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
 @@||c04dl.vds-is.castup.net/crossdomain.net
 @@||gplanet.co.il/js/adx.js
-@@||hayadan.org.il/images/ads/logo
-@@||hayadan.org.il/images/ads/search
 @@||hiro.co.il/clientaccesspolicy.xml
 @@||hiro.co.il/hiro/HiroServlet/ClientSynchronizationServlet?$domain=y.net-games.co.il
 @@||hiro.co.il/hiro/HiroServlet/HiroAdRequest?*http$domain=nrg.co.il
 @@||hiro.co.il^*/LayerWrapperReshet.swf
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
-@@||lips.co.il/ads/$image,~third-party
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
@@ -47,11 +44,6 @@ kikarhashabat.co.il##.kikar_trade_links
 lib.cet.ac.il##td[background^="/images/commercials"]
 madas.co.il##.AdsContainer
 mail.ynet.co.il###divBottomCommercials
-mako.co.il###hp_bottom_strip
-mako.co.il##.adv_ordering
-mako.co.il##.clearer.iPhone
-mako.co.il##A[href*="bankhapoalim"]
-mako.co.il##IMG[width="276"][height="555"]
 mapa.co.il###headerContenetBanner
 mapa.co.il##.cls_bannerRight_sideCubeInner
 mapa.co.il##.cls_banner_468X60
@@ -69,8 +61,6 @@ reshet.tv###prArea
 sdarot.tv,sdarot.wf##A[href^="http://cellebrate.mobi/il/heb"]
 seret.co.il##.RightColWhiteBox312x262
 seret.co.il##SPAN[style="line-height:192px;height:192px;clear:both;display:block;"]
-sratim.co.il###clickosmedia
-sratim.co.il###clickosmedia2
 srugim.co.il###front_rcol_ad
 starmed.co.il##.banner_forums_160x600_right
 start.co.il##section[zone="119"]
