@@ -222,6 +222,7 @@
 @@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
+@@||lips.co.il/ads/$image,~third-party
 @@||mako.checkm8.com/adam/em/$object-subrequest
 @@||mako.checkm8.com/adam/inline?*=HEAVY_PIC_$object-subrequest
 @@||mako.checkm8.com/adam/inline?*=STANDARD_TV_$object-subrequest
@@ -235,6 +236,9 @@
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||se.c04dl.vds-is.castup.net/server12/468/208/20816834-115.mp4$domain=mako.co.il
+@@||sexadir.co.il/ads/$image,~third-party
+@@||sexadir.co.il/banners/$image,~third-party
+@@||seximo.co.il/ads/$image,~third-party
 @@||sfx-images.mozilla.org^$image
 @@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
 @@||zvz.co.il/AdImages/$~third-party,image
