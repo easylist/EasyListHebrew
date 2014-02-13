@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: REnc911+MIakP/GF7sgh7Q
+! Checksum: OvA8S8XwrKQ4WJGjgdq0iA
 ! Title: EasyList Hebrew
-! Last modified: 12/02/14  16:14 Jerusalem Standard Time
+! Last modified: 13/02/14  08:48 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -548,7 +548,6 @@ onlife.co.il###block-freelancer-0
 onlife.co.il###block-freelancer-1
 onlife.co.il###top_article_ads_wrapper
 onlife.co.il##.commercial
-petri.co.il###sponsors
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
@@ -650,8 +649,6 @@ wallashops.co.il###mainBanner
 wallashops.co.il###megaBanner
 wallashops.co.il###promotionBanner0
 wallashops.co.il##[id^="textBanner"]
-wen.co.il###banner_preload
-wen.co.il##.swf_container
 winwin.co.il###tvBannerContWinWin
 winwin.co.il###tvBannerContWinWinDFP
 winwin.co.il##.MiddleBanners
