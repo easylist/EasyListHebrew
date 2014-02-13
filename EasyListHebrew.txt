@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OvA8S8XwrKQ4WJGjgdq0iA
+! Checksum: Nb43OjxqWlIfLLQtxemDvw
 ! Title: EasyList Hebrew
-! Last modified: 13/02/14  08:48 Jerusalem Standard Time
+! Last modified: 13/02/14  14:46 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -337,6 +337,7 @@ calcalist.co.il##[valign="top"] + [valign="top"] + TR[height="7"]
 calcalist.co.il##div[style="width: 315px; overflow-x: hidden;"]
 calcalist.co.il##table[width="150"]
 calcalist.co.il##table[width="478"]
+carsforum.co.il###bannerwrap
 carsforum.co.il##.box2
 carsforum.co.il##DIV[style="float:left;padding-left:3px;"]
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
