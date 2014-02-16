@@ -1,7 +1,7 @@
-[Adblock Plus 2.0]
-! Checksum: q5G/UQMcrI6XrCkRBqtG3Q
+s[Adblock Plus 2.0]
+! Checksum: gKDjNoJ7gFmjVhmQkbAnxQ
 ! Title: EasyList Hebrew
-! Last modified: 13/02/14  22:55 Jerusalem Standard Time
+! Last modified: 16/02/14  18:03 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -152,6 +152,7 @@
 ||images.fxp.co.il/skins/
 ||images.fxp.co.il/skinfxp/image.php?$image
 ||images.fxp.co.il/skinfxp/show_skin.php
+||images.fxp.co.il/a/b/s.php
 ||jobmaster.co.il/code/kot/$object
 ||jobmaster.co.il/images/banners/
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
@@ -356,7 +357,6 @@ forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 fxp.co.il###adfxp
 fxp.co.il###web_3_tool
-fxp.co.il##div[style^="position: fixed; width: 160px; height: 600px; top: 50px; right:"]
 games.nana10.co.il###tmp1632_46
 games.nana10.co.il##.BannerMiddle
 gamex.co.il###skyscraper
