@@ -1,7 +1,7 @@
 s[Adblock Plus 2.0]
-! Checksum: gKDjNoJ7gFmjVhmQkbAnxQ
+! Checksum: FhCRV+mLM4WQEmGR5NenHA
 ! Title: EasyList Hebrew
-! Last modified: 16/02/14  18:03 Jerusalem Standard Time
+! Last modified: 16/02/14  19:30 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -264,23 +264,23 @@ one.co.il#@#a[href^="http://xads.zedo.com/"]
 !
 !------------------------General element hiding rules-------------------------!
 !
-hydepark.co.il,bhol.co.il,bhol-forums.co.il,pic.co.il###Plasma_1
+bhol-forums.co.il,bhol.co.il,hydepark.co.il,pic.co.il###Plasma_1
 getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 ilimudim.co.il,rest.co.il###ads\.strip\.1
-calcalist.co.il,mynet.co.il,ynet.co.il###ads\.top
+calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 feeder.co.il,rest.co.il###banner
-bhol.co.il,bhol-forums.co.il###divBanner_Plazma
+bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
 sdarot.tv,sdarot.wf###extra
-bhol.co.il,bhol-forums.co.il###sdera.width100pc
+bhol-forums.co.il,bhol.co.il###sdera.width100pc
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
 bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
-bhol.co.il,bhol-forums.co.il###top_banner_ph
+bhol-forums.co.il,bhol.co.il###top_banner_ph
 beok.co.il,winwin.co.il##.TopBanners
 mako.co.il,rest.co.il##.ad
 globes.co.il,onlife.co.il,sport5.co.il##.banner
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
-bhol.co.il,bhol-forums.co.il##.centered.padt10 > .clear
+bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 globes.co.il,nrg.co.il##.sekindo
 haaretz.co.il,themarker.com##.topBanners
 haaretz.co.il,themarker.com##.topSectionBanners
@@ -355,6 +355,7 @@ flix.tapuz.co.il##.headerMiddle
 flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
 forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
+frogi.co.il##.adbox
 fxp.co.il###adfxp
 fxp.co.il###web_3_tool
 games.nana10.co.il###tmp1632_46
