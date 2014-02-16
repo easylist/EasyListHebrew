@@ -8,7 +8,7 @@ class Filter(object):
         self.domain=domain
 
     def __str__(self):
-        return ','.join(self.domain)+self.typ+self.filter
+        return ','.join(sorted(self.domain))+self.typ+self.filter
 
 regex=re.compile(r"^([a-zA-Z0-9-.]+)(#{2}[#.]?)(.*)",re.MULTILINE)
 regex2=re.compile(r"^([a-zA-Z0-9-.]+[,][a-zA-Z0-9-.,]+)(#{2}[#.]?)(.*)",re.MULTILINE)
