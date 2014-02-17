@@ -1,7 +1,7 @@
 s[Adblock Plus 2.0]
-! Checksum: FhCRV+mLM4WQEmGR5NenHA
+! Checksum: Lm9J9abh53GALvjxHWbCdA
 ! Title: EasyList Hebrew
-! Last modified: 16/02/14  19:30 Jerusalem Standard Time
+! Last modified: 17/02/14  12:57 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -135,7 +135,6 @@ s[Adblock Plus 2.0]
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||cdn.mdigital.co.il/video/*.flv$domain=globes.co.il
 ||chabad.info/images/pirsomot/
-||cs4u.co.il/mall_site_images/Promotions/
 ||d.co.il/Hebrew/images/Premium/
 ||date.dacho.co.il^
 ||ddlil.com/banners/
