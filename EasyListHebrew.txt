@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: pl1LCU0oHOybofIpL52Udw
+! Checksum: BhM9Ucc96co21zHB188yzA
 ! Title: EasyList Hebrew
-! Last modified: 24/02/14  18:09 Jerusalem Standard Time
+! Last modified: 01/03/14  22:23 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -587,6 +587,9 @@ start.co.il##.banner_105x79
 start.co.il##.banner_container
 start.co.il##section[zone="117"]
 start.co.il##section[zone="119"]
+subscenter.cinemast.com###advert
+subscenter.cinemast.com###bgLeft
+subscenter.cinemast.com##CENTER
 tapuz.co.il###AsyncMlinkBanner
 tapuz.co.il###BannerRightBotDiv
 tapuz.co.il###BannerRightDiv
