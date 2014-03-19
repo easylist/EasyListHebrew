@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KGv+WVIVMxrzpwKqsn93bg
+! Checksum: juZJdKvgpxYhcuRN+Nenqg
 ! Title: EasyList Hebrew
-! Last modified: 19/03/14  11:49 Jerusalem Standard Time
+! Last modified: 19/03/14  11:51 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -279,7 +279,7 @@ calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 feeder.co.il,rest.co.il###banner
 bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
-sdarot.tv,sdarot.wf###extra
+sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws###extra
 bhol-forums.co.il,bhol.co.il###sdera.width100pc
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
 bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
@@ -293,10 +293,10 @@ globes.co.il,nrg.co.il##.sekindo
 sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##.side
 haaretz.co.il,themarker.com##.topBanners
 haaretz.co.il,themarker.com##.topSectionBanners
-sdarot.tv,sdarot.wf##A[href^="http://cellebrate.mobi/il/heb"]
+sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##A[href^="http://cellebrate.mobi/il/heb"]
 gamex.co.il,linicom.co.il##A[target="_blank"]
-sdarot.tv,sdarot.wf##DIV[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
-sdarot.tv,sdarot.wf##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
+sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
+sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 doctors.co.il,globes.co.il##[id^="ads."]
 !
 !----------------------------Element hiding rules-----------------------------!
