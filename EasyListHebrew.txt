@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xAHDMS6qfLVYdEG25sJGQA
+! Checksum: KGv+WVIVMxrzpwKqsn93bg
 ! Title: EasyList Hebrew
-! Last modified: 18/03/14  17:31 Jerusalem Standard Time
+! Last modified: 19/03/14  11:49 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -290,6 +290,7 @@ globes.co.il,onlife.co.il,sport5.co.il##.banner
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 globes.co.il,nrg.co.il##.sekindo
+sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##.side
 haaretz.co.il,themarker.com##.topBanners
 haaretz.co.il,themarker.com##.topSectionBanners
 sdarot.tv,sdarot.wf##A[href^="http://cellebrate.mobi/il/heb"]
