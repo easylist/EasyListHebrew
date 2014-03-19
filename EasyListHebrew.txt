@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yXlUb4sstuKEOwLB7+aNyA
+! Checksum: tHhmctvL3u+Ad3aQHHAsUA
 ! Title: EasyList Hebrew
-! Last modified: 19/03/14  16:12 Jerusalem Standard Time
+! Last modified: 19/03/14  17:25 Jerusalem Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -259,6 +259,7 @@ bipbip.co.il#@#.adpic
 blms.co.il#@#.addtitle
 homeless.co.il#@#.postad
 one.co.il#@#a[href^="http://xads.zedo.com/"]
+yad2.junkyard.co.il#@#.ad-body
 !
 !---------------------------------Mobile Ads----------------------------------!
 !
@@ -674,6 +675,7 @@ yad2.co.il##.yad1_mergetitle
 yad2.co.il##TH[style="background: #505D6A; font-size: 13px; font-family: arial; text-align: left; color: white; font-weight: bold; padding: 0px; margin: 0px; padding-right: 0px; padding-left: 10px; height: 31px; border-bottom: 1px solid white;"][colspan="9"]
 yad2.co.il##div[style=" height: 90px; background-color: #DDDDDD; border-radius:6px; width:978px; padding-top:8px; padding-bottom:8px; margin-left: auto; margin-right: auto; margin-bottom: 8px; position: relative;"]
 yad2.junkyard.co.il##.plasma_banner
+yad2.junkyard.co.il##DIV[id^="banner"]
 yeshanews.com###sideban
 ynet.co.il###ads\.300x600\.1
 ynet.co.il###art_bottom_adsense-1
