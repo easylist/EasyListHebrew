@@ -144,7 +144,8 @@
 ||ddlil.com/banners/
 ||dimpact.co.il/Live/Banner/
 ||gear.co.il/Content/MediaItems/Campaigns/
-||gozlan.co/st_p.js
+||gozlan.co/st_j.js
+//gozlan.co/st_j.js|
 ||haflla.com/download/banners/
 ||holesinthenet.co.il/uploads/*/res/*.swf
 ||hometheater.co.il/opx/
