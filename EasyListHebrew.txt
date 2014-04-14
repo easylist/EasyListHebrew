@@ -28,6 +28,7 @@
 ||ad-sys.com^$third-party
 ||adland.co.il^$third-party
 ||amazing-offers.co.il^$popup
+||asafnewcalc.mataniphone.tempurl.co.il/calculator3/$popup
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
 ||hiro.co.il^$third-party
