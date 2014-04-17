@@ -578,6 +578,7 @@ seret.co.il##.RightColWhiteBox312x262
 seret.co.il##.cbthfds
 seret.co.il##DIV[style="width:100%;text-align:center;"]
 seret.co.il##SPAN[style="line-height:192px;height:192px;clear:both;display:block;"]
+seretil.me###ads516516as
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il##.article-holder > .alt
