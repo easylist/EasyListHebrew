@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bWNhwV4EUgcKJcoiE7ebNQ
+! Checksum: oKjaOO7YAA2fzBh5AmCXUA
 ! Title: EasyList Hebrew
-! Last modified: 23/04/14  13:14 Jerusalem Daylight Time
+! Last modified: 23/04/14  20:54 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -35,6 +35,7 @@
 ||ha-deal.co.il^$popup
 ||hiro.co.il^$third-party
 ||infomed.co.il^$third-party
+||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
 ||mako.buy2.co.il^$third-party
 ||media.foxweb.co.il^$third-party
@@ -144,6 +145,7 @@
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||cdn.mdigital.co.il/video/*.flv$domain=globes.co.il
 ||chabad.info/images/pirsomot/
+||cinema-city.co.il/media/nlc2013/flash/*banner
 ||d.co.il/Hebrew/images/Premium/
 ||date.dacho.co.il^
 ||ddlil.com/banners/
@@ -205,6 +207,7 @@
 @@||hiro.co.il/hiro/HiroServlet/HiroAdRequest?*http$domain=nrg.co.il
 @@||hiro.co.il^*/LayerWrapperReshet.swf
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
+@@||internet-bee.com/Feats/
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||themarker.com/css/advertisement_article.css
 @@||themarker.com/dclk/dclk_ads.js
@@ -361,6 +364,9 @@ chabad.info###text_pirsomet
 chabad.info###top2_ad_container
 chabad.info##.bet_ads
 chabad.info##.left_pirsomot
+cinema-city.co.il##[style="position:absolute;width:258px;height:256px;left:33px;top:13px;"]
+cinema-city.co.il##[style="position:absolute;width:258px;height:256px;left:33px;top:852px;"]
+cinema-city.co.il##[style="position:absolute;width:275px;height:155px;left:24px;top:1140px;"]
 d.co.il##.header_banner
 d.co.il##.premium-d-strip-banner-container
 dacho.co.il##.fixed_position1
