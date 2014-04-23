@@ -167,6 +167,7 @@
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
 ||kipa.co.il/banner/
 ||kipasruga.com/banner/
+||local.co.il/banners/
 ||moreshet.co.il/banners/
 ||my.yad2.co.il/Banner/
 ||nanafiles.co.il//Upload/92011/File/File_*swf
