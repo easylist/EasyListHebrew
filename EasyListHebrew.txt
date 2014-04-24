@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oKjaOO7YAA2fzBh5AmCXUA
+! Checksum: /HIUSYgs8emZFSeQJAx3cg
 ! Title: EasyList Hebrew
-! Last modified: 23/04/14  20:54 Jerusalem Daylight Time
+! Last modified: 24/04/14  12:16 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -445,6 +445,7 @@ junkyard.co.il##.plasma_banner
 junkyard.co.il##DIV[id^="banner"]
 jobmaster.co.il##TABLE[width="100%"][style="border-top:1px solid #EEEEEE;"]
 kikarhashabat.co.il###exposeMask
+kikarhashabat.co.il###jumbo
 kikarhashabat.co.il###maavaron_overlay
 kikarhashabat.co.il###takeover_wrapper
 kikarhashabat.co.il##.ads_category_box
