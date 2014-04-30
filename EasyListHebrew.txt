@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EAIqG34eX5C5KVX142xFSA
+! Checksum: lQBf0glH6l5DgFm0OPO0hQ
 ! Title: EasyList Hebrew
-! Last modified: 27/04/14  16:25 Jerusalem Daylight Time
+! Last modified: 30/04/14  10:18 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -32,6 +32,7 @@
 ||best-offers.co.il^$popup
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
+||descreti.co.il^$popup
 ||ha-deal.co.il^$popup
 ||hiro.co.il^$third-party
 ||infomed.co.il^$third-party
