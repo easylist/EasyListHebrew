@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lQBf0glH6l5DgFm0OPO0hQ
+! Checksum: Hs565wxQTFWl9F+6XLmEPg
 ! Title: EasyList Hebrew
-! Last modified: 30/04/14  10:18 Jerusalem Daylight Time
+! Last modified: 01/05/14  10:32 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -33,6 +33,7 @@
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
 ||descreti.co.il^$popup
+||greenlead.co.il^$popup
 ||ha-deal.co.il^$popup
 ||hiro.co.il^$third-party
 ||infomed.co.il^$third-party
@@ -573,6 +574,9 @@ onlife.co.il###block-freelancer-0
 onlife.co.il###block-freelancer-1
 onlife.co.il###top_article_ads_wrapper
 onlife.co.il##.commercial
+ori-diamonds.co.il###hoverConnect
+ori-diamonds.co.il##A[href^="http://www.view-movies.co.il/"]
+ori-diamonds.co.il##IMG[style="cursor: default; width: 100%;"]
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
@@ -653,6 +657,8 @@ upf.co.il##.bgbanner
 view-movies.co.il###connect
 view-movies.co.il##A[href="http://www.view-movies.co.il/minisite.php"]
 view-movies.co.il##DIV[itemtype="http://data-vocabulary.org/Breadcrumb"]
+vodmovies.co.il###wrapper6
+vodmovies.co.il##A[href^="http://www.view-movies.co.il/"]
 walla.co.il###ARKIA_CONTAINER
 walla.co.il###navbar
 walla.co.il###sec_jobcity_906
