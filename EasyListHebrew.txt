@@ -34,6 +34,7 @@
 ||clickon.co.il^$third-party
 ||descreti.co.il^$popup
 ||expert-offers.com^$popup
+||great-offers.co.il^$popup
 ||greenlead.co.il^$popup
 ||ha-deal.co.il^$popup
 ||hiro.co.il^$third-party
@@ -56,6 +57,7 @@
 ||talkahead.com^$third-party
 ||tbuy.co.il^$popup
 ||unbouncepages.com^$popup
+||wesell.co.il^$popup
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
 ||yeppyepp.co.il^$popup
