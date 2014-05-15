@@ -54,6 +54,7 @@
 ||sekindo.com^$popup
 ||talkahead.com^$third-party
 ||tbuy.co.il^$popup
+||unbouncepages.com^$popup
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
 ||yeppyepp.co.il^$popup
