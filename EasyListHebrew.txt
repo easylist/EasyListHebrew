@@ -33,6 +33,7 @@
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
 ||descreti.co.il^$popup
+||expert-offers.com^$popup
 ||greenlead.co.il^$popup
 ||ha-deal.co.il^$popup
 ||hiro.co.il^$third-party
