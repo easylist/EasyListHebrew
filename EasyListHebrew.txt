@@ -49,6 +49,7 @@
 ||onclickads.net^$popup
 ||osef.co.il^$third-party
 ||pera.co.il^$third-party
+||pokemon-battle.co.il/$popup
 ||s.tool-site.com^$third-party
 ||sekindo.com^$popup
 ||talkahead.com^$third-party
