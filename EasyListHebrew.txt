@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: A/f756T2lJz2FDH72JVmmw
+! Checksum: hC0tcJhNINeAde/UVrF/iw
 ! Title: EasyList Hebrew
-! Last modified: 15/05/14  10:40 Jerusalem Daylight Time
+! Last modified: 15/05/14  11:49 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -335,6 +335,8 @@ auto.co.il###ctl00_MainContent_divBannerHasut
 auto.co.il##.content.awLng[style="text-align: center;"]
 auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:auto;"]
 bari-p2.co.il##TD[style="padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:4px"]
+bbls.co.il###phonepopup
+bbls.co.il###opacity_curtain
 beok.co.il##.BannerMid
 bhol.co.il###divPlazma
 bhol.co.il###test.f-right
@@ -360,6 +362,7 @@ bizportal.co.il##.baner1
 bizportal.co.il##.baner2
 bizportal.co.il##.kubia_banner
 bizportal.co.il##.single_section_world_short
+bul.co.il##BODY
 cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
@@ -372,6 +375,7 @@ carsforum.co.il###bannerwrap
 carsforum.co.il##.box2
 carsforum.co.il##DIV[style="float:left;padding-left:3px;"]
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
+cellebrate.mobi###flow
 chabad.info###rodefet_left
 chabad.info###rodefet_right
 chabad.info###text_pirsomet
@@ -713,6 +717,7 @@ yad2.co.il##.yad1_mergetitle
 yad2.co.il##TH[style="background: #505D6A; font-size: 13px; font-family: arial; text-align: left; color: white; font-weight: bold; padding: 0px; margin: 0px; padding-right: 0px; padding-left: 10px; height: 31px; border-bottom: 1px solid white;"][colspan="9"]
 yad2.co.il##div[style=" height: 90px; background-color: #DDDDDD; border-radius:6px; width:978px; padding-top:8px; padding-bottom:8px; margin-left: auto; margin-right: auto; margin-bottom: 8px; position: relative;"]
 yeshanews.com###sideban
+yesno.co.il###wrapper
 ynet.co.il###ads\.300x600\.1
 ynet.co.il###art_bottom_adsense-1
 ynet.co.il###art_right_sponsored_links-1
