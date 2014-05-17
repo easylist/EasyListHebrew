@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8LyJRvjXlya2ORIwxbQezw
+! Checksum: 5bx4LTxKARcST4tvElNzNg
 ! Title: EasyList Hebrew
-! Last modified: 18/05/14  00:08 Jerusalem Daylight Time
+! Last modified: 18/05/14  00:27 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -216,6 +216,7 @@
 @@||hiro.co.il/crossdomain.xml
 @@||hiro.co.il/hiro/HiroServlet/ClientSynchronizationServlet?$domain=y.net-games.co.il
 @@||hiro.co.il/hiro/HiroServlet/HiroAdRequest?*http$domain=nrg.co.il
+@@||hiro.co.il/hiro/HiroServlet/HiroBeacon$object-subrequest,domain=mako.co.il
 @@||hiro.co.il^*/LayerWrapperReshet.swf
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
 @@||internet-bee.com/Feats/
