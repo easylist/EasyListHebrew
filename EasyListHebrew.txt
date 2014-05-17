@@ -398,6 +398,7 @@ forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 frogi.co.il##.adbox
 fxp.co.il###adfxp
+fxp.co.il###vc_widget
 fxp.co.il###web_3_tool
 games.nana10.co.il###tmp1632_46
 games.nana10.co.il##.BannerMiddle
