@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5bx4LTxKARcST4tvElNzNg
+! Checksum: 5D7h549xbZ4EsJoGXSoZCw
 ! Title: EasyList Hebrew
-! Last modified: 18/05/14  00:27 Jerusalem Daylight Time
+! Last modified: 18/05/14  14:06 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -37,7 +37,6 @@
 ||great-offers.co.il^$popup
 ||greenlead.co.il^$popup
 ||ha-deal.co.il^$popup
-||hiro.co.il^$third-party
 ||infomed.co.il^$third-party
 ||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
@@ -212,12 +211,6 @@
 @@||dclk.themarker.com/js.ng/$script
 @@||forbes.co.il/download/banners/
 @@||go.ynet.co.il/short/commerce/2012/weathernew/
-@@||hiro.co.il/clientaccesspolicy.xml
-@@||hiro.co.il/crossdomain.xml
-@@||hiro.co.il/hiro/HiroServlet/ClientSynchronizationServlet?$domain=y.net-games.co.il
-@@||hiro.co.il/hiro/HiroServlet/HiroAdRequest?*http$domain=nrg.co.il
-@@||hiro.co.il/hiro/HiroServlet/HiroBeacon$object-subrequest,domain=mako.co.il
-@@||hiro.co.il^*/LayerWrapperReshet.swf
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
 @@||internet-bee.com/Feats/
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
@@ -226,7 +219,6 @@
 @@||themarker.com/dclk/dclk_ads_init_tm_pol.js
 @@||themarker.com/dclk/dfp/dfp_init_base.js
 @@||themarker.com/dclk/dfp/dfp_init_tm.js$script
-@@||videos.hiro.co.il/Ynet/Player/$object-subrequest
 @@||y.net-games.co.il/adimages/
 !
 !--------------Whitelists Rules (caused by EasyList / EasyPrivacy )-----------!
@@ -260,7 +252,6 @@
 @@||mako.checkm8.com/adam/inline?cat=mako.*=SAGIR_$object-subrequest
 @@||mako.checkm8.com/adam/inline?cat=mako.*=VIDEOSPOT_$object-subrequest
 @@||mako.checkm8.com/crossdomain.xml$object-subrequest
-@@||mccann.hiro.co.il/hiro/HiroServlet/HiroAdRequest*mako$object-subrequest,media
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
 @@||one.co.il/ads/*.mp4$object-subrequest
