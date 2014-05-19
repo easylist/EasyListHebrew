@@ -168,8 +168,7 @@
 ||hometheater.co.il/opx/
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
-||images.fxp.co.il/a/*/*.php
-||images.fxp.co.il/a/*/*.php$popup
+||images.fxp.co.il/*/*/*.php
 ||images.fxp.co.il/skinfxp
 ||images.fxp.co.il/skins/
 ||israelpost.co.il/content.nsf/0/D4413A7599E19E34C2257B2300467D0D/$FILE/*.swf
