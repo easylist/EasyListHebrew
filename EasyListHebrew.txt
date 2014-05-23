@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DfsPq3RSSWhnG02mSsf6BA
+! Checksum: yhsc2YiZIIFKnEjgraZesw
 ! Title: EasyList Hebrew
-! Last modified: 20/05/14  14:23 Jerusalem Daylight Time
+! Last modified: 23/05/14  16:21 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -159,7 +159,7 @@
 ||date.dacho.co.il^
 ||ddlil.com/banners/
 ||dimpact.co.il/Live/Banner/
-||fcdn.co.il/a/$domain=fxp.co.il
+||fcdn.co.il/*/*/*.php$domain=fxp.co.il
 ||gear.co.il/Content/MediaItems/Campaigns/
 ||gozlan.co/st_j.js
 //gozlan.co/st_j.js|
@@ -389,9 +389,11 @@ flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margi
 forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 frogi.co.il##.adbox
-fxp.co.il###adfxp
 fxp.co.il###vc_widget
+fxp.co.il###adfxp
 fxp.co.il###web_3_tool
+fxp.co.il##A[href^="http://fcdn.co.il"]
+fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 9.5px;"]
 games.nana10.co.il###tmp1632_46
 games.nana10.co.il##.BannerMiddle
 gamex.co.il###skyscraper
