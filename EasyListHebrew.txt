@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tVZcAp9KM2+NYJT/sQbu4Q
+! Checksum: 274sbRnYJrylPLXTtP192g
 ! Title: EasyList Hebrew
-! Last modified: 30/05/14  17:50 Jerusalem Daylight Time
+! Last modified: 30/05/14  17:52 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -277,6 +277,7 @@ bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
 blms.co.il#@#.addtitle
 homeless.co.il#@#.postad
+inn.co.il#@##divTopAd
 junkyard.co.il#@#.ad-body
 one.co.il#@#a[href^="http://xads.zedo.com/"]
 !
