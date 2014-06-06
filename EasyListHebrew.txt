@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ydhnZGW999NtmRKONoGIEw
+! Checksum: KAWLpbcZZ3HWmRdwhe7/Og
 ! Title: EasyList Hebrew
-! Last modified: 04/06/14  22:35 Jerusalem Daylight Time
+! Last modified: 06/06/14  18:21 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -218,6 +218,7 @@
 @@||go.ynet.co.il/short/commerce/2012/weathernew/
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
 @@||info.a7.org/info/$script,domain=inn.co.il
+@@||info.a7.org/info/delivery/
 @@||internet-bee.com/Feats/
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||themarker.com/css/advertisement_article.css
