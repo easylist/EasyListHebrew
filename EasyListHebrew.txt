@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Q4TjfVrbl7zgsn8fbaOe9w
+! Checksum: 8qgZkwTa5cJ4B/kMVdaPUg
 ! Title: EasyList Hebrew
-! Last modified: 17/06/14  10:25 Jerusalem Daylight Time
+! Last modified: 18/06/14  08:55 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -294,6 +294,7 @@ blms.co.il#@#.addtitle
 homeless.co.il#@#.postad
 inn.co.il#@##divTopAd
 junkyard.co.il#@#.ad-body
+kml.co.il#@#div[id^="div-gpt-ad-"]
 one.co.il#@#a[href^="http://xads.zedo.com/"]
 !
 !---------------------------------Mobile Ads----------------------------------!
@@ -500,6 +501,7 @@ kipa.co.il##.textualy
 kipa.co.il##A[href="http://www.babetov.co.il"]
 kipa.co.il##DIV[style=" float:right; width:300px; margin:-2px ; height:160px; padding:0px;"]
 kipa.co.il##[id^="pir-"]
+kml.co.il###div-gpt-ad-1389452292530-0
 ladaat.info###divBranzaRightBanner
 ladaat.info###divMainBanner
 ladaat.info###divMekomiRightBanner
