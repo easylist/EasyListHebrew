@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BrqR8DJpe9D9tseBddMrnw
+! Checksum: iOfclJIXp7e3PAJ7V6qIVw
 ! Title: EasyList Hebrew
-! Last modified: 29/06/14  11:18 Jerusalem Daylight Time
+! Last modified: 29/06/14  14:45 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -234,6 +234,7 @@
 !
 !--------------Whitelists Rules (caused by EasyList / EasyPrivacy )-----------!
 !
+@@||adnxs.com^$object-subrequest,domain=mako.co.il
 @@||ads.one.co.il/images/Ads/2014/05/22/1500/51x20.gif
 @@||ads.one.co.il/images/MSites/2014/05/22/1530/cremahadash.png
 @@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
