@@ -599,6 +599,7 @@ nrg.co.il##IFRAME[style="height:250px;width:300px;"]
 one.co.il###Adv2
 one.co.il###adBomba
 one.co.il###divAdChance
+one.co.il###divFarzda
 one.co.il###divYnetNews
 one.co.il###tblAdBlock
 one.co.il##.adBg
