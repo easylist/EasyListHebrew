@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iCnygwW7j4YFoGzZ48j2jA
+! Checksum: XtM3fWD+yyYEXY1yMg5QRQ
 ! Title: EasyList Hebrew
-! Last modified: 02/07/14  08:44 Jerusalem Daylight Time
+! Last modified: 07/07/14  12:22 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -649,6 +649,7 @@ sport5.co.il##.inner_adv
 sport5.co.il##.iphone
 sport5.co.il##.post.post-alt
 srugim.co.il###front_rcol_ad
+srugim.co.il###maavaron
 srugim.co.il##.margin_10
 srugim.co.il##.srugim_top_slider
 starmed.co.il##.banner_forums_160x600_right
