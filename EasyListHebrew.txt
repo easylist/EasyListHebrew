@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xvWq0XmOkKTGaKFanSMxOg
+! Checksum: PXY6bSg8iVbfyV74hrfu6A
 ! Title: EasyList Hebrew
-! Last modified: 20/07/14  10:41 Arabic Standard Time
+! Last modified: 20/07/14  17:42 Jerusalem Daylight Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -23,6 +23,7 @@
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
+||213.8.137.51^$popup
 ||213.8.137.51^
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||ad-sys.com^$third-party
@@ -32,6 +33,7 @@
 ||amazing-offers.co.il^$popup
 ||asafnewcalc.mataniphone.tempurl.co.il/calculator3/$popup
 ||best-offers.co.il^$popup
+||bizportal.co.il/web/secur/redirreklama.asp*213.8.137.51/Erate/LinkTo$popup
 ||clickcenter.net^$third-party
 ||clickon.co.il^$third-party
 ||descreti.co.il^$popup
