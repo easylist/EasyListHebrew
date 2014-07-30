@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PXY6bSg8iVbfyV74hrfu6A
+! Checksum: VlPqRixWDACplGZvcMNGtQ
 ! Title: EasyList Hebrew
-! Last modified: 20/07/14  17:42 Jerusalem Daylight Time
+! Last modified: 30/07/14  12:35 Jordan Standard Time
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -59,6 +59,7 @@
 ||s.tool-site.com^$third-party
 ||sekindo.com^$popup
 ||streamin.to^$popup
+||syngrestic.com/null^$popup
 ||talkahead.com^$third-party
 ||tbuy.co.il^$popup
 ||unbouncepages.com^$popup
