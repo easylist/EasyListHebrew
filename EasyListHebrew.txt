@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qhyOrgaXfkyEvNjIsqmORA
+! Checksum: zNHp2/P+7srwHHdJfSwyqg
 ! Title: EasyList Hebrew
-! Last modified: 21/08/14  11:35
+! Last modified: 21/08/14  11:51
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -350,8 +350,8 @@ haaretz.co.il,themarker.com##.topSectionBanners
 sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##A[href^="http://cellebrate.mobi/il/heb"]
 ori-diamonds.co.il,vodmovies.co.il##A[href^="http://www.view-movies.co.il/"]
 gamex.co.il,linicom.co.il##A[target="_blank"]
-sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
-sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
+sdarot.li,sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
+sdarot.li,sdarot.pl,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 doctors.co.il,globes.co.il##[id^="ads."]
 !
 !----------------------------Element hiding rules-----------------------------!
