@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Gb9PUNPmNXaCmyiaRsf0GQ
+! Checksum: IgZWFCbSPStAL5I6H8UgCA
 ! Title: EasyList Hebrew
-! Last modified: 24/08/14  11:08
+! Last modified: 24/08/14  11:14
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -32,7 +32,7 @@
 ||akamaihd.net^$image,third-party,domain=fxp.co.il
 ||amazing-offers.co.il^$popup,third-party
 ||asafnewcalc.mataniphone.tempurl.co.il/calculator3/$popup
-||ashleymadison.com/app/public/$popup
+||ashleymadison.com/app/public/$popup,third-party
 ||best-offers.co.il^$popup
 ||bizportal.co.il/web/secur/redirreklama.asp*213.8.137.51/Erate/LinkTo$popup
 ||campaign.alpha.co.il/?campaign^$popup,third-party
@@ -61,7 +61,7 @@
 ||osef.co.il^$third-party
 ||pera.co.il^$third-party
 ||s.tool-site.com^$third-party
-||sekindo.com^$popup
+||sekindo.com^$popup,third-party
 ||streamin.to^$popup
 ||syngrestic.com/null^$popup
 ||talkahead.com^$third-party
