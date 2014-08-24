@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gbl4a1QlZoxNShQUhZT0iA
+! Checksum: Gb9PUNPmNXaCmyiaRsf0GQ
 ! Title: EasyList Hebrew
-! Last modified: 24/08/14  11:05
+! Last modified: 24/08/14  11:08
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -431,6 +431,7 @@ frogi.co.il##.adbox
 fxp.co.il###adfxp
 fxp.co.il###vc_widget
 fxp.co.il###web_3_tool
+fxp.co.il##.captain
 fxp.co.il##A[href^="http://fcdn.co.il"]
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 286.5px;"]
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 9.5px;"]
