@@ -178,6 +178,7 @@
 ||fcdn.co.il/*.swf$domain=fxp.co.il
 ||fcdn.co.il/*/*/*.php$domain=fxp.co.il
 ||gear.co.il/Content/MediaItems/Campaigns/
+||globusmax.co.il/images/950x171leumi_diners(5).swf
 ||gozlan.be/st_j.js
 //gozlan.be/st_j.js|
 ||haflla.com/download/banners/
