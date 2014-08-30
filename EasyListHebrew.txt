@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4LgDsUgCY0nYqzR67Hz96w
+! Checksum: oSn/IyR3iCeZfU07frL9dg
 ! Title: EasyList Hebrew
-! Last modified: 28/08/14  10:53
+! Last modified: 30/08/14  22:49
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -66,6 +66,7 @@
 ||syngrestic.com/null^$popup
 ||talkahead.com^$third-party
 ||tbuy.co.il^$popup
+||trtmm.info^$third-party
 ||unbouncepages.com^$popup
 ||wesell.co.il^$popup
 ||wesell.co.il^$third-party
@@ -439,6 +440,7 @@ fxp.co.il###adfxp
 fxp.co.il###vc_widget
 fxp.co.il###web_3_tool
 fxp.co.il##.captain
+fxp.co.il##.hungry
 fxp.co.il##A[href^="http://fcdn.co.il"]
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 286.5px;"]
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 9.5px;"]
