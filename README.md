@@ -19,4 +19,4 @@ In order to add this list to AdBlockPlus just add
 to your adblock subscriptions, click [here](abp:subscribe?location=https://easylist-downloads.adblockplus.org/israellist+easylist.txt&amp;title=EasyListIsraelList)
 or go to [their website](https://adblockplus.org/en/subscriptions) and choose `israellist+easylist`.
 
-If you don't have AdBlock you can easly install it. AdBlock has versions for Mozilla Firefox, Google Chrome, Internet Explorer, Android and Opera.
+If you don't have AdBlockPlus you can easily install it. AdBlock has versions for Mozilla Firefox, Google Chrome, Internet Explorer, Android and Opera.
