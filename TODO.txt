@@ -1,4 +1,4 @@
-רשימה של דברים שצריך לעשות | List of things need to do
+רשימה של דברים שצריך לעשות | List of things that need to be done
 
 English:
 1. Add a filter list for Android.
