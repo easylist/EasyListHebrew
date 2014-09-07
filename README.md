@@ -6,16 +6,17 @@ Engish instructions will be followed by the Hebrew one.
 
 ##Hebrew
 
-זוהי הרשימה העברית של [AdBlockPlus](https://adblockplus.org). הוסיפו אותה לAdblockPlus על מנת לחסום מודעות פרסום באתרים עבריים.
+זוהי הרשימה העברית של [AdBlockPlus](https://adblockplus.org). הוספתה תחסום מודעות פרסום באתרים עבריים.
 
 ##התקנת AdblockPlus
 ‫במידה שאין ברשותכם את AdBlockPlus, עליכם להתקין אותה קודם. ניתן לעשות זאת בקלות דרך האתר של [AdBlockPlus](https://adblockplus.org). 
+
 ישנן גרסאות של AdBlock עבור דפדפן Mozilla Firefox, דפדפן Google Chrome, דפדפן Internet Explorer, מערכת Android ודפדפן Opera.
 
 ##התקנת הרשימה העברית
 לאחר התקנת AdblockPlus, ישנן שלושה דרכים להוסיף את הרשימה העברית:
 - מומלץ: הוספה אוטומטית דרך [לחיצה פה](https://cdn.rawgit.com/wiseoldman95/EasyListHebrew/new_readme/install.html).
-- הוספה דרך האתר של AdblockPlus [כאן](https://adblockplus.org/en/subscriptions). יש להיכנס לאתר ולחפש את הרשימה העברית.
+- הוספה דרך [האתר הרשמי](https://adblockplus.org/en/subscriptions). יש להיכנס לאתר ולחפש את הרשימה העברית.
 - הוספה ידנית [לקובץ הטקסט](https://easylist-downloads.adblockplus.org/israellist+easylist.txt).
 
 ##שימו לב
