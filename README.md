@@ -2,7 +2,7 @@ AdBlockIsraelList
 =================
 
 
-Engish instructions will be followed by the Hebrew one.
+Engish instructions are below the Hebrew instructions.
 
 ##Hebrew
 
@@ -38,7 +38,7 @@ In case you don't already have AdBlockPlus, you must first install it through th
 ##Installing Easylist Hebrew
 Once AdblockPlus is installed, there are 3 ways to install Easylist Hebrew:
 - Recommended: Install automatically by [clicking here](https://cdn.rawgit.com/wiseoldman95/EasyListHebrew/new_readme/install.html).
-- Install through the [AdblockPlus site](https://adblockplus.org/en/subscriptions). יש להיכנס לאתר ולחפש את הרשימה העברית.
+- Install through the [AdblockPlus site](https://adblockplus.org/en/subscriptions). Search for the Hebrew list and add it.
 - Manually add the [raw text file](https://easylist-downloads.adblockplus.org/israellist+easylist.txt).
 
 ##Notice
