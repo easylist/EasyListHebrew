@@ -11,16 +11,23 @@ Engish instructions will be followed by the Hebrew one.
 ##התקנת AdblockPlus
 ‫במידה שאין ברשותכם את AdBlockPlus, עליכם להתקין אותה קודם. ניתן לעשות זאת בקלות דרך האתר של [AdBlockPlus](https://adblockplus.org). 
 
-ישנן גרסאות של AdBlock עבור דפדפן Mozilla Firefox, דפדפן Google Chrome, דפדפן Internet Explorer, מערכת Android ודפדפן Opera.
+ישנן גרסאות של AdBlockPlus עבור:
+- Mozilla Firefox
+- Google Chrome
+- Internet Explorer
+- Android
+- Opera
 
 ##התקנת הרשימה העברית
-לאחר התקנת AdblockPlus, ישנן שלושה דרכים להוסיף את הרשימה העברית:
+לאחר התקנת התוכנה, ישנן שלושה דרכים להוסיף את הרשימה העברית:
 - מומלץ: הוספה אוטומטית דרך [לחיצה פה](https://cdn.rawgit.com/wiseoldman95/EasyListHebrew/new_readme/install.html).
 - הוספה דרך [האתר הרשמי](https://adblockplus.org/en/subscriptions). יש להיכנס לאתר ולחפש את הרשימה העברית.
 - הוספה ידנית [לקובץ הטקסט](https://easylist-downloads.adblockplus.org/israellist+easylist.txt).
 
 ##שימו לב
-במידה והשתמשתם בהוספה האוטומטית, תותקן רשימת EasyListHebrew+EasyList, ולכן אין צורך להוסיף את Easylist בנפרד.
+במידה והשתמשתם בהוספה האוטומטית, תותקן רשימת EasyListHebrew+EasyList.
+
+ולכן אין צורך להוסיף את Easylist בנפרד.
 ##English
 
 This is the Hebrew Subscription list of [AdBlockPlus](https://adblockplus.org). Add it to AdblockPlus in order to block ads on Hebrew websites.
