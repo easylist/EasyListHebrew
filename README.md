@@ -1,22 +1,37 @@
 AdBlockIsraelList
 =================
 
+
 Engish instructions will be followed by the Hebrew one.
 
-‫כדי להתקין את הרשימה הזו על AdBlockPlus עליכם להוסיף את `https://easylist-downloads.adblockplus.org/israellist+easylist.txt`
-אל רשימת המינויים שלכם ב־ AdblockPlus. כמו כן ניתן ללחוץ [כאן] כדי להוסיף את הרשימה או לבקר ב[אתר הבית של AdBlockPlus] ולבחור את `israellist+easylist`.
+##Hebrew
 
-[כאן]:(abp:subscribe?location=https://easylist-downloads.adblockplus.org/israellist+easylist.txt&amp;title=EasyListIsraelList)
-[אתר הבית של AdBlockPlus]:https://adblockplus.org/en/subscriptions
+זוהי הרשימה העברית של [AdBlockPlus](https://adblockplus.org). הוסיפו אותה לAdblockPlus על מנת לחסום מודעות פרסום באתרים עבריים.
 
-‫במידה שאין ברשותכם את AdBlock, ניתן להתקין זאת בקלות. ישנן גרסאות של AdBlock עבור דפדפן Mozilla Firefox, דפדפן Google Chrome, דפדפן Internet Explorer, מערכת Android ודפדפן Opera.
+##התקנת AdblockPlus
+‫במידה שאין ברשותכם את AdBlockPlus, עליכם להתקין אותה קודם. ניתן לעשות זאת בקלות דרך האתר של [AdBlockPlus](https://adblockplus.org). 
+ישנן גרסאות של AdBlock עבור דפדפן Mozilla Firefox, דפדפן Google Chrome, דפדפן Internet Explorer, מערכת Android ודפדפן Opera.
 
+##התקנת הרשימה העברית
+לאחר התקנת AdblockPlus, ישנן שלושה דרכים להוסיף את הרשימה העברית:
+- מומלץ: הוספה אוטומטית דרך [לחיצה פה](https://cdn.rawgit.com/wiseoldman95/EasyListHebrew/new_readme/install.html).
+- הוספה דרך האתר של AdblockPlus [כאן](https://adblockplus.org/en/subscriptions). יש להיכנס לאתר ולחפש את הרשימה העברית.
+- הוספה ידנית [לקובץ הטקסט](https://easylist-downloads.adblockplus.org/israellist+easylist.txt).
 
+##שימו לב
+במידה והשתמשתם בהוספה האוטומטית, תותקן רשימת EasyListHebrew+EasyList, ולכן אין צורך להוסיף את Easylist בנפרד.
+##English
 
+This is the Hebrew Subscription list of [AdBlockPlus](https://adblockplus.org). Add it to AdblockPlus in order to block ads on Hebrew websites.
 
-In order to add this list to AdBlockPlus just add 
-`https://easylist-downloads.adblockplus.org/israellist+easylist.txt`
-to your adblock subscriptions, click [here](abp:subscribe?location=https://easylist-downloads.adblockplus.org/israellist+easylist.txt&amp;title=EasyListIsraelList)
-or go to [their website](https://adblockplus.org/en/subscriptions) and choose `israellist+easylist`.
+##Installing AdblockPlus
+In case you don't already have AdBlockPlus, you must first install it through the [AdBlockPlus site](https://adblockplus.org). Adblockplus is compatible with Internet Explorer, Google Chrome, Mozilla Firefox, Android, and Opera Browser.
 
-If you don't have AdBlockPlus you can easily install it. AdBlock has versions for Mozilla Firefox, Google Chrome, Internet Explorer, Android and Opera.
+##Installing Easylist Hebrew
+Once AdblockPlus is installed, there are 3 ways to install Easylist Hebrew:
+- Recommended: Install automatically by [clicking here](https://cdn.rawgit.com/wiseoldman95/EasyListHebrew/new_readme/install.html).
+- Install through the [AdblockPlus site](https://adblockplus.org/en/subscriptions). יש להיכנס לאתר ולחפש את הרשימה העברית.
+- Manually add the [raw text file](https://easylist-downloads.adblockplus.org/israellist+easylist.txt).
+
+##Notice
+If you used the automatic installation, you have installed EasylistHebrew+Easylist and you do not need to install Easylist seperately.
