@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6YBoC62MmLGDo/c0GPTyQQ
+! Checksum: nzrvQBCEf4OciAtOjVBy0w
 ! Title: EasyList Hebrew
-! Last modified: 09/09/14  12:50
+! Last modified: 09/09/14  12:51
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -164,7 +164,7 @@
 !
 !--------------------------1st party blocking rules---------------------------!
 !
-||212.129.12.90/zivlin/t4/*.swf
+||212.129.12.90/zivlin/*.swf
 ||2eat.co.il/banner/
 ||ads.one.co.il^
 ||ashdodnet.com/dyncontent/t_ad/
