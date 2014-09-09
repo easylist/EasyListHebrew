@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qZBLQrmRgsdHHTHAoBoajQ
+! Checksum: 6YBoC62MmLGDo/c0GPTyQQ
 ! Title: EasyList Hebrew
-! Last modified: 09/09/14  09:50
+! Last modified: 09/09/14  12:50
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -157,6 +157,8 @@
 !-fxp-!
 ||cdn.salamtak.org.uk^$domain=fxp.co.il
 ||fcdn.co.il/*.swf$domain=fxp.co.il
+||fortest.info^$domain=fxp.co.il
+||fxp.co.il/skinfxp/*.php$script,image
 ||roni.salamtak.org.uk^$third-party,domain=fxp.co.il
 
 !
