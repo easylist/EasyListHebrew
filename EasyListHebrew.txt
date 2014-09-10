@@ -660,6 +660,8 @@ onlife.co.il##.commercial
 ori-diamonds.co.il##IMG[style="cursor: default; width: 100%;"]
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 rateonclick.com##A[href*="campaigns.layer.co.il/"]
+reshet.tv##div[id^="CM8ShowAd"]
+reshet.tv###Ctrl_nPromotionBanner
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
 rest.co.il###divLeftBanner
