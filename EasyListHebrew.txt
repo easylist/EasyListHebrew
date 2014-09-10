@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mExmlWoJBX2y2t6nXvmFXA
+! Checksum: 2HCEfhN+675xq7ybM3HSqQ
 ! Title: EasyList Hebrew
-! Last modified: 10/09/14  15:55
+! Last modified: 10/09/14  18:58
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -23,8 +23,8 @@
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
-||213.8.137.51^$popup
 ||213.8.137.51^
+||213.8.137.51^$popup,third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||ad-sys.com^$third-party
 ||adland.co.il^$third-party
@@ -39,13 +39,16 @@
 ||campaign.alpha.co.il/?campaign^$popup,third-party
 ||campaign.chevrolet.co.il/$popup,third-party
 ||clickcenter.net^$third-party
-||clickon.co.il^$third-party
+||clickon.co.il^$popup,third-party
 ||descreti.co.il^$popup
+||etrader.co.il^$popup,third-party
 ||expert-offers.com^$popup
 ||forifiha.com/null^$popup
 ||great-offers.co.il^$popup
 ||greenlead.co.il^$popup
 ||ha-deal.co.il^$popup
+||hizoq.com^$popup,third-party
+||horserace.co.il^$popup,third-party
 ||ilikethis.info/il^$popup
 ||infomed.co.il^$third-party
 ||internet-bee.com^$third-party
