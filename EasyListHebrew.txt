@@ -580,6 +580,7 @@ mishlohim.co.il###TopMenu1_bannerDiv
 mishlohim.co.il##.Banners
 moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
+mouse.co.il###articleAdvert
 mouse.co.il###floatingbannerdiv
 mouse.co.il##.ads
 mouse.co.il##.noprint + .inline-box-text_new.noprint
