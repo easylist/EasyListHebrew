@@ -172,8 +172,8 @@
 ||2eat.co.il/banner/
 ||ads.one.co.il^
 ||ashdodnet.com/dyncontent/t_ad/
-||auto.co.il/Banner/
-||auto.co.il/BannersIfarme/
+||auto.co.il/Banner
+||auto.co.il/Base/UserControls/Banner/IframeBanner.aspx?
 ||banners*.bizportal.co.il^
 ||banners.bizportal.co.il^$popup
 ||banners.news1.co.il^
@@ -375,13 +375,16 @@ doctors.co.il,globes.co.il##[id^="ads."]
 ashdodnet.com##.Banner
 ashdodnet.com##DIV[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##DIV[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
-auto.co.il###PlazmaOnOff
 auto.co.il###ctl00_MainContent_divBannerHasut
+auto.co.il###PlazmaOnOff
+auto.co.il###top-banners-container
+auto.co.il##.banner2
 auto.co.il##.content.awLng[style="text-align: center;"]
+auto.co.il##.tower-banner
 auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:auto;"]
 bari-p2.co.il##TD[style="padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:4px"]
-bbls.co.il###phonepopup
 bbls.co.il###opacity_curtain
+bbls.co.il###phonepopup
 beok.co.il##.BannerMid
 bhol.co.il###AdvertisementSystemTakeOver
 bhol.co.il###divPlazma
