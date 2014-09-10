@@ -553,6 +553,7 @@ likudnik.co.il##DIV[style="text-align: center;"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
 link4u.co.il##.banner_main
+maariv.co.il##TABLE[width="748"][height="110"][style="background-color:#e8e8e8"]
 madas.co.il##.AdsContainer
 madas.co.il##.LeftColumn_container.Floater
 madas.co.il##.TextLinkBanner
