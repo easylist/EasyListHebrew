@@ -432,6 +432,8 @@ chabad.info##.left_pirsomot
 cinema-city.co.il##[style="position:absolute;width:258px;height:256px;left:33px;top:13px;"]
 cinema-city.co.il##[style="position:absolute;width:258px;height:256px;left:33px;top:852px;"]
 cinema-city.co.il##[style="position:absolute;width:275px;height:155px;left:24px;top:1140px;"]
+cinemascope.mako.co.il###jambo_div
+cinemascope.mako.co.il###monster1_div
 d.co.il##.header_banner
 d.co.il##.premium-d-strip-banner-container
 dacho.co.il##.fixed_position1
