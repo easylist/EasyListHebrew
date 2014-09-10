@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nzrvQBCEf4OciAtOjVBy0w
+! Checksum: mExmlWoJBX2y2t6nXvmFXA
 ! Title: EasyList Hebrew
-! Last modified: 09/09/14  12:51
+! Last modified: 10/09/14  15:55
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -29,6 +29,7 @@
 ||ad-sys.com^$third-party
 ||adland.co.il^$third-party
 ||adtv.me^$popup
+||ahituv.biz^$popup,third-party
 ||akamaihd.net^$image,third-party,domain=fxp.co.il
 ||amazing-offers.co.il^$popup,third-party
 ||asafnewcalc.mataniphone.tempurl.co.il/calculator3/$popup
