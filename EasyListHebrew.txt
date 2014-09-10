@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2HCEfhN+675xq7ybM3HSqQ
+! Checksum: Uiuds42UGSd5MLxucJeq0Q
 ! Title: EasyList Hebrew
-! Last modified: 10/09/14  18:58
+! Last modified: 10/09/14  19:30
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -372,6 +372,7 @@ doctors.co.il,globes.co.il##[id^="ads."]
 !----------------------------Element hiding rules-----------------------------!
 !
 2all.co.il##.DivFlowBannerRight
+api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
 ashdodnet.com##DIV[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##DIV[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
