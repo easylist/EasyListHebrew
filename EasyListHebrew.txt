@@ -586,6 +586,9 @@ mishlohim.co.il##.Banners
 moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
 mouse.co.il###articleAdvert
+mouse.co.il###commercial_box
+mouse.co.il###div-gpt-ad2-top-banner728x90
+mouse.co.il###div-gpt-extra_670x189_madors
 mouse.co.il###floatingbannerdiv
 mouse.co.il##.ads
 mouse.co.il##.noprint + .inline-box-text_new.noprint
