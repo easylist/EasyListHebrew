@@ -110,7 +110,6 @@
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
 !-Haaretz/TheMarker/Mouse.co.il-!
-/neto_search.$domain=haaretz.co.il|themarker.com|mouse.co.il
 |http://dclk.$domain=haaretz.co.il|themarker.com|mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
