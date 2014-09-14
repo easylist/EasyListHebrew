@@ -569,6 +569,7 @@ mako.co.il###topPageStrip.not_for_print
 mako.co.il##.header_level2_container
 mako.co.il##.mako_banner_coast
 mako.co.il##.sidebar_pic
+mako.co.il##div[id^="dclk_overlay_"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
 mako.co.il##[href^="http://styleriver.mako.co.il/"]
 mako.co.il##[href^="http://www.mysupermarket.co.il/?banner"]
