@@ -61,6 +61,7 @@
 ||movies-club.com/$popup
 ||multidown.co.il/affiliates.php$third-party
 ||mvertex.co.il^$third-party
+||newclio.co.il/sep$popup,third-party
 ||oceanmedia.co.il/landingpages/$popup
 ||onclickads.net^$popup
 ||osef.co.il^$third-party
