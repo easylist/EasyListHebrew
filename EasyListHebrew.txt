@@ -525,6 +525,7 @@ israelweather.co.il###weekFlashes
 junkyard.co.il##.plasma_banner
 junkyard.co.il##DIV[id^="banner"]
 jobmaster.co.il##TABLE[width="100%"][style="border-top:1px solid #EEEEEE;"]
+kafe.co.il###adv
 kikarhashabat.co.il###exposeMask
 kikarhashabat.co.il###jumbo
 kikarhashabat.co.il###maavaron_overlay
