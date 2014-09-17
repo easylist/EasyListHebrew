@@ -40,6 +40,7 @@
 ||campaign.chevrolet.co.il/$popup,third-party
 ||clickcenter.net^$third-party
 ||clickon.co.il^$popup,third-party
+||clickon.co.il^$third-party
 ||descreti.co.il^$popup
 ||etrader.co.il^$popup,third-party
 ||expert-offers.com^$popup
