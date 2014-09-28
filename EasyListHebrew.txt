@@ -167,6 +167,7 @@
 ||fortest.info^$domain=fxp.co.il
 ||fxp.co.il/skinfxp/*.php$script,image
 ||games-il.org.uk^$domain=fxp.co.il
+||ofofof.info^$domain=fxp.co.il
 ||roni.salamtak.org.uk^$third-party,domain=fxp.co.il
 
 !
@@ -460,6 +461,7 @@ fxp.co.il###vc_widget
 fxp.co.il###web_3_tool
 fxp.co.il##.captain
 fxp.co.il##.hungry
+fxp.co.il##A[href*="ofofof.info"]
 fxp.co.il##A[href^="http://fcdn.co.il"]
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 286.5px;"]
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 9.5px;"]
