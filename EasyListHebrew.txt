@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LpAOcjeRQVEmJmzgSRZZoQ
+! Checksum: fkr5zr20t+8Ng3VwiPKF9A
 ! Title: EasyList Hebrew
-! Last modified: 18/09/14  00:10
+! Last modified: 28/09/14  13:09
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -326,6 +326,9 @@ ad.co.il#@#.ad-link
 bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
 blms.co.il#@#.addtitle
+foodsdictionary.co.il#@#.AdSense
+foodsdictionary.co.il#@#.Adsense
+foodsdictionary.co.il#@#.adSense
 homeless.co.il#@#.postad
 junkyard.co.il#@#.ad-body
 kml.co.il#@#div[id^="div-gpt-ad-"]
@@ -453,6 +456,7 @@ fxp.co.il##.condition
 flix.mako.co.il###topBannerTable
 flix.tapuz.co.il##.headerMiddle
 flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
+foodsdictionary.co.il###main-header-ad
 forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 frogi.co.il##.adbox
