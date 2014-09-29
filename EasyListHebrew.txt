@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dIS58LfL1CxAQCihOx5KnQ
+! Checksum: 8/wM3TMv3GSuiuqCivzU8Q
 ! Title: EasyList Hebrew
-! Last modified: 29/09/14  14:53
+! Last modified: 29/09/14  14:54
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -794,6 +794,7 @@ winwin.co.il##.MiddleBanners
 wisebuy.co.il##.LboxGrey[style="height:270px;text-align:center;"]
 wisebuy.co.il##.LboxGrey[style="height:337px;text-align:center;"]
 wisebuy.co.il##table[width="100%"][align="center"]
+xnet.co.il###ads\.250x250\.top
 xnet.co.il###ads\.top\.1
 xnet.co.il###XnetAdSenceThinkAdAD-300
 xnet.co.il##.ContentLink.banner.Low
