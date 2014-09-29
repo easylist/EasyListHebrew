@@ -284,6 +284,8 @@
 @@||c04dl.vds-is.castup.net/crossdomain.net
 @@||cbci16.b1.cdn.co.il^
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
+@@||googleadservices.com/gpt/pubads_$domain=m.ynet.co.il
+@@||googlesyndication.com/safeframe/$domain=m.ynet.co.il
 @@||googletagservices.com/tag/js/gpt_mobile.js$domain=m.ynet.co.il
 @@||gplanet.co.il/js/adx.js
 @@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
