@@ -118,16 +118,13 @@
 ||haaretz.co.il^*/Banners/
 ||themarker.com/dclk/
 !-Tapuz/Flix-!
-/albums/intro5.flv$domain=flix.co.il|tapuz.co.il
-=adv1.tapuz.co.il/
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
-||rm.tapuz.co.il^
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
 ||tapuz.co.il/communa/merlin_
 ||tapuz.co.il/forums2008/googleInTreeFrame.html
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
-||tapuz.co.il^*ClosePopup.gif
+||tapuz.hiro.co.il^
 !-inn-!
 ||dwnmedia.a7.org/inntv/media/
 ||info.a7.org^$domain=inn.co.il
