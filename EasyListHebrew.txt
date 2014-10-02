@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8/wM3TMv3GSuiuqCivzU8Q
+! Checksum: ISe3KW5RfVLwVfzaBVXtIQ
 ! Title: EasyList Hebrew
-! Last modified: 29/09/14  14:54
+! Last modified: 02/10/14  11:20
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -673,6 +673,7 @@ onlife.co.il###block-freelancer-1
 onlife.co.il###top_article_ads_wrapper
 onlife.co.il##.commercial
 ori-diamonds.co.il##IMG[style="cursor: default; width: 100%;"]
+pcmagazine.co.il##.ad
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 rateonclick.com##A[href*="campaigns.layer.co.il/"]
 reshet.tv##div[id^="CM8ShowAd"]
