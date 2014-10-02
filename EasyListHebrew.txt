@@ -797,6 +797,7 @@ wisebuy.co.il##table[width="100%"][align="center"]
 xnet.co.il###ads\.250x250\.top
 xnet.co.il###ads\.top\.1
 xnet.co.il###XnetAdSenceThinkAdAD-300
+xnet.co.il##.ad.hdn
 xnet.co.il##.ContentLink.banner.Low
 yad2.co.il###left_banner
 yad2.co.il###left_sekindo
