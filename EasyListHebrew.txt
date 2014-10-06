@@ -126,10 +126,11 @@
 ||tapuz.co.il^*CloseBanner.gif
 ||tapuz.hiro.co.il^
 !-inn-!
-||dwnmedia.a7.org/inntv/media/
+||a7.org/scripts/Maavaron.js
 ||info.a7.org^$domain=inn.co.il
 ||inn.co.il/info_en/
 ||inn.co.il/leads/view/$popup
+||dwnmedia.a7.org/inntv/media/
 !-Globes-!
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/data/js/gtv_ads.js
