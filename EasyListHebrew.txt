@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ISe3KW5RfVLwVfzaBVXtIQ
+! Checksum: zNh+Lu6miuQ4hf2ovrMaMw
 ! Title: EasyList Hebrew
-! Last modified: 02/10/14  11:20
+! Last modified: 06/10/14  14:44
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -167,7 +167,7 @@
 ||games-il.org.uk^$domain=fxp.co.il
 ||ofofof.info^$domain=fxp.co.il
 ||roni.salamtak.org.uk^$third-party,domain=fxp.co.il
-
+||why-love-fifa.me.uk^$domain=fxp.co.il
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -467,6 +467,7 @@ fxp.co.il##.captain
 fxp.co.il##.hungry
 fxp.co.il##A[href*="ofofof.info"]
 fxp.co.il##A[href^="http://fcdn.co.il"]
+fxp.co.il##[src="http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html"] + *
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 286.5px;"]
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 9.5px;"]
 fxp.co.il##[style^="opacity:"]
