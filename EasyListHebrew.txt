@@ -69,6 +69,7 @@
 ||onclickads.net^$popup
 ||osef.co.il^$third-party
 ||pera.co.il^$third-party
+||rateonclick.com^$popup,third-party
 ||s.tool-site.com^$third-party
 ||sekindo.com^$popup,third-party
 ||shorter.co.il/js/fp.js.php
@@ -775,6 +776,7 @@ vodmovies.co.il##.classtop_img
 vodmovies.co.il##.ulp-content
 vodmovies.co.il##.ulp-overlay
 vodmovies.co.il##.ulp-window
+vodmovies.co.il##.youtube
 vodx.co.il##.top-banner
 walla.co.il###ARKIA_CONTAINER
 walla.co.il###navbar
