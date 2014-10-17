@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fthGzAUm7lbG05aLXTJMfQ
+! Checksum: mJTQmVDoKgxr42Mnu6a/tA
 ! Title: EasyList Hebrew
-! Last modified: 17/10/14  00:08
+! Last modified: 17/10/14  16:52
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -466,6 +466,7 @@ dinovich.com##.overlay
 doctors.co.il###big_banner
 doctors.co.il##div[id^="dgBan"]
 dossinet.me###bg_banner_header_top
+fbssl.walla.co.il##.container_footer
 flix.mako.co.il###topBannerTable
 flix.tapuz.co.il##.headerMiddle
 flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
