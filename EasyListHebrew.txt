@@ -178,6 +178,7 @@
 !
 !--------------------------1st party blocking rules---------------------------!
 !
+||0404.co.il/public/assets/images/*banner
 ||212.129.12.90/zivlin/*.swf
 ||2eat.co.il/banner/
 ||ads.one.co.il^
