@@ -466,7 +466,6 @@ dinovich.com##.overlay
 doctors.co.il###big_banner
 doctors.co.il##div[id^="dgBan"]
 dossinet.me###bg_banner_header_top
-fxp.co.il##.condition
 flix.mako.co.il###topBannerTable
 flix.tapuz.co.il##.headerMiddle
 flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
@@ -478,6 +477,7 @@ fxp.co.il###adfxp
 fxp.co.il###vc_widget
 fxp.co.il###web_3_tool
 fxp.co.il##.captain
+fxp.co.il##.condition
 fxp.co.il##.hungry
 fxp.co.il##A[href*="ofofof.info"]
 fxp.co.il##A[href^="http://fcdn.co.il"]
