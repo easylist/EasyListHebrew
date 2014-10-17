@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fthGzAUm7lbG05aLXTJMfQ
+! Checksum: /okNPnIpsJ9OCPEIjLIPAw
 ! Title: EasyList Hebrew
-! Last modified: 17/10/14  00:08
+! Last modified: 17/10/14  11:22
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -42,6 +42,7 @@
 ||clickcenter.net^$third-party
 ||clickon.co.il^$popup,third-party
 ||clickon.co.il^$third-party
+||dcampaigns.mitsubishi-israel.co.il/space$popup,third-party
 ||descreti.co.il^$popup
 ||etrader.co.il^$popup,third-party
 ||expert-offers.com^$popup
@@ -171,6 +172,7 @@
 ||fifa.games-il.info/AHfVczS/fed/repeat/*
 ||fortest.info^$domain=fxp.co.il
 ||fxp.co.il/skinfxp/*.php$script,image
+||games-il.info^$domain=fxp.co.il
 ||games-il.org.uk^$domain=fxp.co.il
 ||ofofof.info^$domain=fxp.co.il
 ||roni.salamtak.org.uk^$third-party,domain=fxp.co.il
