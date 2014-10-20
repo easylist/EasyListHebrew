@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mJTQmVDoKgxr42Mnu6a/tA
+! Checksum: kn0Zruiu1KHRP+uiamzfaA
 ! Title: EasyList Hebrew
-! Last modified: 17/10/14  16:52
+! Last modified: 20/10/14  16:37
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -65,6 +65,7 @@
 ||movies-club.com/$popup
 ||multidown.co.il/affiliates.php$third-party
 ||mvertex.co.il^$third-party
+||mysupermarket.co.il/landingpages/^$popup,third-party
 ||newclio.co.il/sep$popup,third-party
 ||oceanmedia.co.il/landingpages/$popup
 ||onclickads.net^$popup
