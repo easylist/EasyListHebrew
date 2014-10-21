@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kn0Zruiu1KHRP+uiamzfaA
+! Checksum: VOg3VpSzKjZ9zwDE1VldKw
 ! Title: EasyList Hebrew
-! Last modified: 20/10/14  16:37
+! Last modified: 21/10/14  23:34
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -74,6 +74,7 @@
 ||rateonclick.com^$popup,third-party
 ||s.tool-site.com^$third-party
 ||sekindo.com^$popup,third-party
+||sex-party.co.il^$popup,third-party
 ||shorter.co.il/js/fp.js.php
 ||streamin.to^$popup
 ||syngrestic.com/null^$popup
