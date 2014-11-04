@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iwRoK80A+51kFD6cnraZLw
+! Checksum: KRCh5a6+87FA27Gh+h+NQw
 ! Title: EasyList Hebrew
-! Last modified: 03/11/14  20:45
+! Last modified: 04/11/14  10:14
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -43,7 +43,7 @@
 ||clickcenter.net^$third-party
 ||clickon.co.il^$popup,third-party
 ||clickon.co.il^$third-party
-||dcampaigns.mitsubishi-israel.co.il/space$popup,third-party
+||dcampaigns.mitsubishi-israel.co.il^$popup,third-party
 ||descreti.co.il^$popup
 ||etrader.co.il^$popup,third-party
 ||expert-offers.com^$popup
