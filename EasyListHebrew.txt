@@ -525,6 +525,7 @@ haaretz.co.il###comments_banner_wrapper
 haaretz.co.il##DIV[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
 haaretz.co.il##div[id^="dclk_objects_"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
+haaretz.co.il##.ad
 hashekel.co.il###block-13
 hashekel.co.il###block-14
 homeless.co.il###board_middle_advert
