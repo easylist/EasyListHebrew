@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: q7jtt5nbbAka/1+j4iH9yQ
+! Checksum: 5u51Xf0Z4RULW3upsCmSHg
 ! Title: EasyList Hebrew
-! Last modified: 13/11/14  15:02
+! Last modified: 26/11/14  23:17
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -765,6 +765,7 @@ tapuz.co.il###googleSide
 tapuz.co.il###googleTop
 tapuz.co.il###monsterMain
 tapuz.co.il###popDiv
+tapuz.co.il###smbMainPromotedMessage
 tapuz.co.il##.Partners_Ctrl
 tapuz.co.il##.advContainer
 tapuz.co.il##.areaBanner
