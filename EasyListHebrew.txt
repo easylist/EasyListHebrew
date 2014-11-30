@@ -10,10 +10,7 @@
 ! Fork of: IsraelList http://code.google.com/p/israellist/
 ! Fork of: Fanboy IsraelList https://secure.fanboy.co.nz/israelilist/IsraelList.txt
 ! License:
-!          CC-BY-SA 3.0 - http://creativecommons.org/licenses/by-sa/3.0/
-!          GFDL 1.3 or later - http://www.gnu.org/licenses/fdl.html
-!          GPL 2.0 or later - http://www.gnu.org/licenses/gpl-2.0.html
-!          (at your option)
+!          GPL 3.0 - http://www.gnu.org/copyleft/gpl.html
 !
 !---------------------------Generic Blocking Rules----------------------------!
 !
