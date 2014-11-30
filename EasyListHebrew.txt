@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5u51Xf0Z4RULW3upsCmSHg
+! Checksum: G3/Nil50qL6MquyQExQTiQ
 ! Title: EasyList Hebrew
-! Last modified: 26/11/14  23:17
+! Last modified: 30/11/14  19:31
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -64,6 +64,7 @@
 ||mapi.co.il/free_pu.php^$popup
 ||media.foxweb.co.il^$third-party
 ||merlin.co.il^$third-party
+||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
 ||movies-club.com/$popup
 ||multidown.co.il/affiliates.php$third-party
 ||mvertex.co.il^$third-party
@@ -74,6 +75,7 @@
 ||onlineproxyfree.com^$popup,third-party
 ||osef.co.il^$third-party
 ||pera.co.il^$third-party
+||pigment-adv.co.il/campaign^$popup,third-party
 ||rateonclick.com^$popup,third-party
 ||s.tool-site.com^$third-party
 ||sekindo.com^$popup,third-party
