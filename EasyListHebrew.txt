@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KzAb/K5N0OoHk5p1arLYgw
+! Checksum: VvMz6XgByiTcmq0V+hh2WA
 ! Title: EasyList Hebrew
-! Last modified: 01/12/14  10:39
+! Last modified: 07/12/14  11:37
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -37,6 +37,7 @@
 ||booking.com/index.html^$popup,domain=daka90.co.il
 ||campaign.alpha.co.il/?campaign^$popup,third-party
 ||campaign.chevrolet.co.il/$popup,third-party
+||campaign.nissan.co.il^$popup,third-party
 ||clickcenter.net^$third-party
 ||clickon.co.il^$popup,third-party
 ||clickon.co.il^$third-party
