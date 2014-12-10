@@ -42,6 +42,7 @@
 ||clickon.co.il^$popup,third-party
 ||clickon.co.il^$third-party
 ||dcampaigns.mitsubishi-israel.co.il^$popup,third-party
+||dcampaigns.hyundaimotors.co.il^$popup,third-party
 ||descreti.co.il^$popup
 ||etrader.co.il^$popup,third-party
 ||expert-offers.com^$popup
