@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VvMz6XgByiTcmq0V+hh2WA
+! Checksum: E6vwllysINe4QYZKmkdPtA
 ! Title: EasyList Hebrew
-! Last modified: 07/12/14  11:37
+! Last modified: 10/12/14  12:12
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -182,6 +182,7 @@
 ||games-il.org.uk^$domain=fxp.co.il
 ||ofofof.info^$domain=fxp.co.il
 ||roni.salamtak.org.uk^$third-party,domain=fxp.co.il
+||salamtak.org.uk^$domain=fxp.co.il
 ||shaoli-the-king.xyz^$domain=fxp.co.il
 ||why-love-fifa.me.uk^$domain=fxp.co.il
 !
@@ -498,6 +499,7 @@ fxp.co.il##.captain
 fxp.co.il##.condition
 fxp.co.il##.hungry
 fxp.co.il##A[href*="ofofof.info"]
+fxp.co.il##A[href*="salamtak.org.uk"]
 fxp.co.il##A[href^="http://fcdn.co.il"]
 fxp.co.il##A[href^="http://video.shaoli-the-king.xyz"]
 fxp.co.il##[src="http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html"] + *
