@@ -551,9 +551,10 @@ i.start.co.il###boxes
 ice.co.il##.top_pirsomet
 ilimudim.co.il##.mp-hd-banner
 infomed.co.il##.ad_01
-inn.co.il###MadLargeInf
+infomed.co.il##OL[anc="adclass"]
 inn.co.il###div160Info
 inn.co.il###div180Info
+inn.co.il###MadLargeInf
 inn.co.il###div300
 inn.co.il###div300ILPict
 inn.co.il###divContentRightInf
