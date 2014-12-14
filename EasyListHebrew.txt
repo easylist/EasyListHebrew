@@ -608,6 +608,7 @@ maariv.co.il##.article-box-banner-wrap
 maariv.co.il##.box-banner-wrap
 maariv.co.il##.horizontal-banner-wrap
 maariv.co.il##.level-6-horizontal-banner-wrap
+maariv.co.il##.news-feed-banner
 maariv.co.il##.xl-banner-wrap
 maariv.co.il##TABLE[width="748"][height="110"][style="background-color:#e8e8e8"]
 madas.co.il##.AdsContainer
