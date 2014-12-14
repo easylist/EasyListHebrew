@@ -10,7 +10,7 @@
 ! Fork of: IsraelList http://code.google.com/p/israellist/
 ! Fork of: Fanboy IsraelList https://secure.fanboy.co.nz/israelilist/IsraelList.txt
 ! License:
-!          GPL 3.0 - http://www.gnu.org/copyleft/gpl.html
+!          https://easylist-downloads.adblockplus.org/COPYING
 !
 !---------------------------Generic Blocking Rules----------------------------!
 !
