@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MZ0laraW2zMa1NotaDVBpw
+! Checksum: Ky5YrUs4XZIITJD5+4hjlA
 ! Title: EasyList Hebrew
-! Last modified: 16/12/14  22:49
+! Last modified: 16/12/14  23:26
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -252,14 +252,8 @@
 ||sport5.co.il/banners2/
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
 ||tgspot.co.il/wp-content/cache/minify/000000/yygpKbDS18_JzMtMzs_VS87Xy8wB8bKL9ZPz88pSi0riTS31sooB.js
-||view-movies.co.il/980Banner.jpg
-||view-movies.co.il/allencar.jpg
-||view-movies.co.il/images/sideSticky.png
-||view-movies.co.il/malabi/
-||view-movies.co.il/winner.jpg
-||view-movies.co.il^$popup
-||vodmovies.co.il/images/connect.jpg
-||vodmovies.co.il/tasia.jpg
+||view-movies.co.il^
+||vodmovies.co.il^
 ||wcdn.co.il/banners/
 !
 !----------------------------------Whitelists---------------------------------!
@@ -398,7 +392,6 @@ sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##.side
 haaretz.co.il,themarker.com##.topBanners
 haaretz.co.il,themarker.com##.topSectionBanners
 sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##A[href^="http://cellebrate.mobi/il/heb"]
-ori-diamonds.co.il,vodmovies.co.il##A[href^="http://www.view-movies.co.il/"]
 gamex.co.il,linicom.co.il##A[target="_blank"]
 sdarot.li,sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="overflow: hidden;"]
 sdarot.li,sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
@@ -807,14 +800,6 @@ themarker.com##.slideShowBannerGroup
 themarker.com##IFRAME[id^="google"]
 themarker.com##[name="txtlnk"] + .border-box
 upf.co.il##.bgbanner
-view-movies.co.il##A[href="http://www.view-movies.co.il/minisite.php"]
-view-movies.co.il##DIV[itemtype="http://data-vocabulary.org/Breadcrumb"]
-vodmovies.co.il###wrapper6
-vodmovies.co.il##.classtop_img
-vodmovies.co.il##.ulp-content
-vodmovies.co.il##.ulp-overlay
-vodmovies.co.il##.ulp-window
-vodmovies.co.il##.youtube
 vodx.co.il##.top-banner
 walla.co.il###ARKIA_CONTAINER
 walla.co.il###navbar
