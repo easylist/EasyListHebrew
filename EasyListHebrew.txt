@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ky5YrUs4XZIITJD5+4hjlA
+! Checksum: uNo+FL6bpH5oGwM/1lQK3A
 ! Title: EasyList Hebrew
-! Last modified: 16/12/14  23:26
+! Last modified: 16/12/14  23:57
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -215,6 +215,7 @@
 ||dimpact.co.il/Live/Banner/
 ||gear.co.il/Content/MediaItems/Campaigns/
 ||globusmax.co.il/images/950x171leumi_diners(5).swf
+||googleusercontent.com^$domain=trusted-software.com
 ||gozlan.be/st_j.js
 //gozlan.be/st_j.js|
 ||haflla.com/download/banners/
@@ -235,6 +236,7 @@
 ||local.co.il/banners/
 ||moreshet.co.il/banners/
 ||my.yad2.co.il/Banner/
+||myvod.me^
 ||nanafiles.co.il//Upload/92011/File/File_*swf
 ||news-israel.net/images/topAd
 ||pc.co.il/ajaxfilemanager/uploaded/$object
@@ -252,7 +254,9 @@
 ||sport5.co.il/banners2/
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
 ||tgspot.co.il/wp-content/cache/minify/000000/yygpKbDS18_JzMtMzs_VS87Xy8wB8bKL9ZPz88pSi0riTS31sooB.js
+||uply.co.il^$domain=myvod.me
 ||view-movies.co.il^
+||vodx.co.il^
 ||vodmovies.co.il^
 ||wcdn.co.il/banners/
 !
@@ -647,7 +651,6 @@ mouse.co.il##.ads
 mouse.co.il##.noprint + .inline-box-text_new.noprint
 mouse.co.il##div.inline-box-text
 mynet.co.il##DIV[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
-myvod.me###colourButton99[width="1002"][height="612"]
 nadlan.com##.middlebannerFlash
 nadlan.com##.wrapBoxSmall
 nadlan.com##.wrapshedbox
@@ -800,7 +803,6 @@ themarker.com##.slideShowBannerGroup
 themarker.com##IFRAME[id^="google"]
 themarker.com##[name="txtlnk"] + .border-box
 upf.co.il##.bgbanner
-vodx.co.il##.top-banner
 walla.co.il###ARKIA_CONTAINER
 walla.co.il###navbar
 walla.co.il###sec_jobcity_906
