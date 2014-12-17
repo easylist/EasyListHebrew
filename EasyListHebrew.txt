@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uNo+FL6bpH5oGwM/1lQK3A
+! Checksum: tdGWTHDL9gJ/WGwbrRLKyA
 ! Title: EasyList Hebrew
-! Last modified: 16/12/14  23:57
+! Last modified: 17/12/14  13:37
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -256,8 +256,9 @@
 ||tgspot.co.il/wp-content/cache/minify/000000/yygpKbDS18_JzMtMzs_VS87Xy8wB8bKL9ZPz88pSi0riTS31sooB.js
 ||uply.co.il^$domain=myvod.me
 ||view-movies.co.il^
-||vodx.co.il^
+||viewz.us^
 ||vodmovies.co.il^
+||vodx.co.il^
 ||wcdn.co.il/banners/
 !
 !----------------------------------Whitelists---------------------------------!
