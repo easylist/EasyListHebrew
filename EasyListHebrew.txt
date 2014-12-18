@@ -873,6 +873,7 @@ ynet.co.il##.element.B3.ghcite.noBottomPadding + .element.B3.ghcite + .element.B
 ynet.co.il##.ghciClickablePicture1
 ynet.co.il##.ghciClickablePicture3
 ynet.co.il##.ghciPromoLightbox1
+ynet.co.il##.google_ads_t4590B_wrapper
 ynet.co.il##.leshonitMain.leshonitBorderRectangle
 ynet.co.il##DIV[style="width:256px;height:66px;background-color:#FFFFFF;"]
 ynet.co.il##[style="DISPLAY: block; FLOAT: left"] > DIV[style="PADDING-BOTTOM: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px"]
