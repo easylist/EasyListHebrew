@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tdGWTHDL9gJ/WGwbrRLKyA
+! Checksum: PPuKgB1cxpI/PH8LIl3cjg
 ! Title: EasyList Hebrew
-! Last modified: 17/12/14  13:37
+! Last modified: 21/12/14  22:40
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -60,7 +60,7 @@
 ||jdate.co.il^$third-party
 ||layer.co.il^$popup
 ||mako.buy2.co.il^$third-party
-||mapi.co.il/free_pu.php^$popup
+||mapi.co.il^$popup,third-party
 ||media.foxweb.co.il^$third-party
 ||merlin.co.il^$third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
@@ -85,6 +85,7 @@
 ||talkahead.com^$third-party
 ||tbuy.co.il^$popup
 ||tinyurl.com^$popup,domain=daka90.co.il
+||totalmedia.co.il^$third-party
 ||trendsonline.me/?id$popup,third-party
 ||trtmm.info^$third-party
 ||unbouncepages.com^$popup
