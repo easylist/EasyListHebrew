@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xDU7ibIGxcW5bo25ANd2Tg
+! Checksum: gCaOOQoT7D1seWj/CvEi9A
 ! Title: EasyList Hebrew
-! Last modified: 31/12/14  15:01
+! Last modified: 31/12/14  16:15
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -447,6 +447,7 @@ bizportal.co.il###articleBannerMadadimLeft
 bizportal.co.il###hpBannerMadadimLeft
 bizportal.co.il###shdira
 bizportal.co.il###shdira_homepage
+bizportal.co.il###tapet_flash_top
 bizportal.co.il###tapet_superpremium_container
 bizportal.co.il##.adv_breatdcrumbs
 bizportal.co.il##.baner1
