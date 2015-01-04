@@ -459,9 +459,9 @@ cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
 calcalist.co.il###carouselAdLi
+calcalist.co.il##.SetArtWidth[style="margin-top: 7px;"]
 calcalist.co.il##div[style="width: 315px; overflow-x: hidden;margin-bottom:5px;"]
 calcalist.co.il##table[width="150"]
-calcalist.co.il##table[width="478"]
 calcalist.co.il##[height="7"] + [valign="top"] + TR[height="7"]
 calcalist.co.il##[valign="top"] + [valign="top"] + TR[height="7"]
 carsforum.co.il###bannerwrap
