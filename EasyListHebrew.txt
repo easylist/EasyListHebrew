@@ -840,6 +840,14 @@ winwin.co.il##.MiddleBanners
 wisebuy.co.il##.LboxGrey[style="height:270px;text-align:center;"]
 wisebuy.co.il##.LboxGrey[style="height:337px;text-align:center;"]
 wisebuy.co.il##table[width="100%"][align="center"]
+xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
+xnet.ynet.co.il###ads\.250x250\.top
+xnet.ynet.co.il###ads\.top\.1
+xnet.ynet.co.il##.CAATVcompAdvertiseTv
+xnet.ynet.co.il##.ContentLink.banner.High
+xnet.ynet.co.il##.ContentLink.banner.Low
+xnet.ynet.co.il##.ContentLink.banner.Low
+xnet.ynet.co.il##.ad.hdn
 yad2.co.il###left_banner
 yad2.co.il###left_sekindo
 yad2.co.il###td_banner
@@ -855,24 +863,18 @@ yad2.co.il##TH[style="background: #505D6A; font-size: 13px; font-family: arial; 
 yeshanews.com###sideban
 yesno.co.il###wrapper
 yesplanet.co.il###snatch
-ynet.co.il###ads\.250x250\.top
 ynet.co.il###ads\.300x600\.1
-ynet.co.il###ads\.top\.1
 ynet.co.il###art_bottom_adsense-1
 ynet.co.il###art_right_sponsored_links-1
 ynet.co.il###googleAdsenseMivzakim
 ynet.co.il###google_ads_iframe_\/ynt\.top\.central
 ynet.co.il###startPlaying
 ynet.co.il###ww6s_Main
-ynet.co.il###XnetAdSenceThinkAdAD-300
 ynet.co.il###ynet_lightbox_content_top
-ynet.co.il##.ad.hdn
 ynet.co.il##.art_tkb_talkback_advert
 ynet.co.il##.art_video_samsung_top
 ynet.co.il##.bigdeal
 ynet.co.il##.CAATVcompAdvertiseTv
-ynet.co.il##.ContentLink.banner.High
-ynet.co.il##.ContentLink.banner.Low
 ynet.co.il##.element.B3.ghcite.noBottomPadding + .element.B3.ghcite + .element.B3.ghcite + .element.B3.ghcite + .element.B3.ghcite
 ynet.co.il##.ghciClickablePicture1
 ynet.co.il##.ghciClickablePicture3
@@ -887,7 +889,7 @@ ynet.co.il##iframe[style="width:770px;height:191px;"]
 ynet.co.il##[style="DISPLAY: block; FLOAT: left"] > DIV[style="PADDING-BOTTOM: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px"]
 zap.co.il###dgBan_t12x1
 zap.co.il##.BannerBox
-zap.co.il##.Martef
 zap.co.il##.headerBannerCenter
 zap.co.il##.leftSideBanner
+zap.co.il##.Martef
 zone.walla.co.il##.w2.wp-0-b
