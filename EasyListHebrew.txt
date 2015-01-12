@@ -69,6 +69,7 @@
 ||mvertex.co.il^$third-party
 ||mysupermarket.co.il/landingpages/^$popup,third-party
 ||newclio.co.il/sep$popup,third-party
+||next-net.co.il^$third-party
 ||oceanmedia.co.il/landingpages/$popup
 ||onclickads.net^$popup
 ||onlineproxyfree.com^$popup,third-party
