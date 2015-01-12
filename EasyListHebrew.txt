@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7oUBAJ/WsXZrlJoi2pN0yw
+! Checksum: 2ZVuKrn78lWefsz1jCTjYw
 ! Title: EasyList Hebrew
-! Last modified: 04/01/15  20:47
+! Last modified: 12/01/15  22:02
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -559,16 +559,17 @@ infomed.co.il##.ad_01
 infomed.co.il##OL[anc="adclass"]
 inn.co.il###div160Info
 inn.co.il###div180Info
-inn.co.il###MadLargeInf
 inn.co.il###div300
 inn.co.il###div300ILPict
 inn.co.il###divContentRightInf
+inn.co.il###MadLargeInf
+inn.co.il##.Merlin
 inn.co.il##[class^="divMAD"]
-inn.co.il##[id^="LeftColInf"]
-inn.co.il##[id^="LeftInfo"]
 inn.co.il##[id^="divBottomAd"]
 inn.co.il##[id^="divHr"]
 inn.co.il##[id^="divLeftInf"]
+inn.co.il##[id^="LeftColInf"]
+inn.co.il##[id^="LeftInfo"]
 iphones.co.il###mainBannerSponsers2
 iphones.co.il##div[style="padding-top:10px;width:250px;height:250px"]
 israelhayom.co.il###mini-panel-top_banner
