@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: t9/EkWDtO/Ii49Cv11tVyQ
+! Checksum: NkaDa2Nk/UBMxh4TMTEulw
 ! Title: EasyList Hebrew
-! Last modified: 12/01/15  22:48
+! Last modified: 13/01/15  11:44
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -308,6 +308,7 @@
 @@||c04dl.vds-is.castup.net/crossdomain.net
 @@||cbci16.b1.cdn.co.il^
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
+@@||easy.co.il/adsense.js
 @@||goalim4u.org$elemhide
 @@||goalim4u.pw^$elemhide
 @@||googleadservices.com/gpt/pubads_$domain=m.ynet.co.il
