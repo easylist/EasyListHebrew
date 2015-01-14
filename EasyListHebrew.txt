@@ -78,6 +78,7 @@
 ||pigment-adv.co.il/campaign^$popup,third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||rateonclick.com^$popup,third-party
+||rpe.co.il/landing_^$popup,third-party
 ||s.tool-site.com^$third-party
 ||sekindo.com^$popup,third-party
 ||sex-party.co.il^$popup,third-party
