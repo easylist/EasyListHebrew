@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: c+tkKxs3IIP/GjjMqsu6Zg
+! Checksum: SOyrfmW9lnbclk8UM+cEPA
 ! Title: EasyList Hebrew
-! Last modified: 27/01/15  11:02
+! Last modified: 27/01/15  22:36
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -343,6 +343,7 @@ campaign*.co.il^$popup,third-party
 @@||sexadir.co.il/banners/$image,~third-party
 @@||seximo.co.il/ads/$image,~third-party
 @@||sfx-images.mozilla.org^$image
+@@||srugim.co.il/*670x100&front=true
 @@||streambb.one.co.il/ads/$media
 @@||upf.co.il/advertisment.js
 @@||xads.zedo.com^$popup,domain=one.co.il
