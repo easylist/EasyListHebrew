@@ -426,6 +426,9 @@ auto.co.il##.banner2
 auto.co.il##.content.awLng[style="text-align: center;"]
 auto.co.il##.tower-banner
 auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:auto;"]
+baba-mail.co.il###banner_google
+baba-mail.co.il##.banner
+baba-mail.co.il##.banner300x250
 bari-p2.co.il##TD[style="padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:4px"]
 bbls.co.il###opacity_curtain
 bbls.co.il###phonepopup
