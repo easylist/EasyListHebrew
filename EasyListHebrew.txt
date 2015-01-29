@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YoF4gbB+PdiBQxtOFSzvWw
+! Checksum: Aco5/6tOzjxzNvGfxsXzJA
 ! Title: EasyList Hebrew
-! Last modified: 28/01/15  23:12
+! Last modified: 29/01/15 09:49
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -73,7 +73,7 @@ campaign*.co.il^$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
 ||osef.co.il^$third-party
 ||pera.co.il^$third-party
-||pigment-adv.co.il/campaign^$popup,third-party
+||pigment-adv.co.il^$popup,third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||rateonclick.com^$popup,third-party
 ||rpe.co.il/landing_^$popup,third-party
