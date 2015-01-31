@@ -855,7 +855,6 @@ xnet.ynet.co.il###ads\.top\.1
 xnet.ynet.co.il##.CAATVcompAdvertiseTv
 xnet.ynet.co.il##.ContentLink.banner.High
 xnet.ynet.co.il##.ContentLink.banner.Low
-xnet.ynet.co.il##.ContentLink.banner.Low
 xnet.ynet.co.il##.ad.hdn
 yad2.co.il###left_banner
 yad2.co.il###left_sekindo
