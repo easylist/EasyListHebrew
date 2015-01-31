@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Aco5/6tOzjxzNvGfxsXzJA
+! Checksum: 8Pur6tQvOi1+eW6SAB8rlQ
 ! Title: EasyList Hebrew
-! Last modified: 29/01/15 09:49
+! Last modified: 01/02/15 01:42
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -65,7 +65,7 @@ campaign*.co.il^$popup,third-party
 ||movies-club.com/$popup
 ||multidown.co.il/affiliates.php$third-party
 ||mvertex.co.il^$third-party
-||mysupermarket.co.il/landingpages/^$popup,third-party
+||mysupermarket.co.il/landingpage$popup,third-party
 ||newclio.co.il/sep$popup,third-party
 ||next-net.co.il^$third-party
 ||oceanmedia.co.il/landingpages/$popup
@@ -175,15 +175,13 @@ campaign*.co.il^$popup,third-party
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
 !-fxp-!
-||cdn.salamtak.org.uk^$domain=fxp.co.il
 ||fcdn.co.il/*.swf$domain=fxp.co.il
-||fifa.games-il.info/AHfVczS/fed/repeat/*
+||fifa.games-il.info/AHfVczS/fed/repeat/
 ||fortest.info^$domain=fxp.co.il
 ||fxp.co.il/skinfxp/*.php$script,image
 ||games-il.info^$domain=fxp.co.il
 ||games-il.org.uk^$domain=fxp.co.il
 ||ofofof.info^$domain=fxp.co.il
-||roni.salamtak.org.uk^$third-party,domain=fxp.co.il
 ||salamtak.org.uk^$domain=fxp.co.il
 ||shaoli-the-king.xyz^$domain=fxp.co.il
 ||why-love-fifa.me.uk^$domain=fxp.co.il
@@ -288,7 +286,7 @@ campaign*.co.il^$popup,third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il
 @@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
 @@||ads.one.co.il/images/Ads/2014/05/22/1500/51x20.gif
-@@||ads.one.co.il/images/ads/2014/06/02/1415/*
+@@||ads.one.co.il/images/ads/2014/06/02/1415/
 @@||ads.one.co.il/images/ads/2014/06/02/1430/444.png
 @@||ads.one.co.il/images/MSites/2014/05/22/1530/cremahadash.png
 @@||adserver.adtech.de/?advideo/$object-subrequest,domain=mako.co.il
