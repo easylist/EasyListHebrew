@@ -584,6 +584,7 @@ inn.co.il##[id^="LeftInfo"]
 iphones.co.il###mainBannerSponsers2
 iphones.co.il##div[style="padding-top:10px;width:250px;height:250px"]
 israelhayom.co.il###mini-panel-top_banner
+israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelweather.co.il###weekFlashes
 junkyard.co.il##.plasma_banner
