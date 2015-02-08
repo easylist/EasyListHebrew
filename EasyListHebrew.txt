@@ -244,6 +244,7 @@
 ||pc.co.il/ajaxfilemanager/uploaded/$object
 ||pc.co.il/wp-content/uploads/$object
 ||pitro.net/Banners/
+||psakdin.co.il/Pictures/Banners/
 ||raddar.co.il/bannersa.php
 ||rol.co.il/files/banners/
 ||rotter.net/edit/text/
@@ -741,6 +742,7 @@ onlife.co.il###top_article_ads_wrapper
 onlife.co.il##.commercial
 ori-diamonds.co.il##IMG[style="cursor: default; width: 100%;"]
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
+psakdin.co.il###bnrTop
 rateonclick.com##A[href*="campaigns.layer.co.il/"]
 reshet.tv##div[id^="CM8ShowAd"]
 reshet.tv###Ctrl_nPromotionBanner
