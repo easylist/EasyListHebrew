@@ -46,6 +46,7 @@
 ||expert-offers.com^$popup
 ||fattal-alazman.co.il/?a_aid$popup,third-party
 ||forifiha.com/null^$popup
+||gitam.co.il^$popup,third-party
 ||great-offers.co.il^$popup
 ||greenlead.co.il^$popup
 ||ha-deal.co.il^$popup
