@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wECVMmTHQ72eJ5o1y7+nPw
+! Checksum: H/5ORPS7SKL/UXgFFQicrw
 ! Title: EasyList Hebrew
-! Last modified: 15/02/15 14:51
+! Last modified: 15/02/15 20:19
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -593,10 +593,11 @@ israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelweather.co.il###weekFlashes
+jobmaster.co.il##TABLE[width="100%"][style="border-top:1px solid #EEEEEE;"]
 junkyard.co.il##.plasma_banner
 junkyard.co.il##DIV[id^="banner"]
-jobmaster.co.il##TABLE[width="100%"][style="border-top:1px solid #EEEEEE;"]
 kafe.co.il###adv
+kikar.co.il##[id^="takeover"]
 kikarhashabat.co.il###exposeMask
 kikarhashabat.co.il###jumbo
 kikarhashabat.co.il###maavaron_overlay
