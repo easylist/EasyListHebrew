@@ -646,7 +646,6 @@ mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
 mako.co.il###rAdContainer
 mako.co.il###topPageStrip.not_for_print
-mako.co.il##.header_level2_container
 mako.co.il##.mako_banner_coast
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
