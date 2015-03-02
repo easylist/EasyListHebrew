@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 30XV55xaW4FGy0y/UEOCmw
+! Checksum: 6VoKVR+AxMS7ylGEu420pg
 ! Title: EasyList Hebrew
-! Last modified: 17/02/15 02:35
+! Last modified: 02/03/15 14:18
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -390,8 +390,10 @@ feeder.co.il,rest.co.il###banner
 rateonclick.com,view-movies.co.il###connect
 bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
+kikar.co.il,kikarhashabat.co.il###exposeMask
 sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws###extra
 ori-diamonds.co.il,popcorate.co.il###hoverConnect
+kikar.co.il,kikarhashabat.co.il###maavaron_overlay
 bhol-forums.co.il,bhol.co.il###sdera.width100pc
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
 bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
@@ -597,10 +599,9 @@ jobmaster.co.il##TABLE[width="100%"][style="border-top:1px solid #EEEEEE;"]
 junkyard.co.il##.plasma_banner
 junkyard.co.il##DIV[id^="banner"]
 kafe.co.il###adv
+kikar.co.il##.logo
 kikar.co.il##[id^="takeover"]
-kikarhashabat.co.il###exposeMask
 kikarhashabat.co.il###jumbo
-kikarhashabat.co.il###maavaron_overlay
 kikarhashabat.co.il###takeover_wrapper
 kikarhashabat.co.il##.ads_category_box
 kikarhashabat.co.il##.ads_category_header.subcat_cap
