@@ -77,6 +77,7 @@
 ||osef.co.il^$third-party
 ||pera.co.il^$third-party
 ||pigment-adv.co.il^$popup,third-party
+||pisrael.com/Campaign$popup,third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||rateonclick.com^$popup,third-party
 ||rpe.co.il/landing_^$popup,third-party
