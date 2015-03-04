@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: l+xe6llZn+iAlTniRGd7YA
+! Checksum: vZhIv/WspkzgqIYD51ULRg
 ! Title: EasyList Hebrew
-! Last modified: 04/03/15 10:22
+! Last modified: 04/03/15 10:27
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -731,8 +731,10 @@ nrg.co.il##.bannerWrapper
 nrg.co.il##.tallBanner
 nrg.co.il##IFRAME[style="height:250px;width:300px;"]
 one.co.il###Adv2
+one.co.il###WinnnerRacer
 one.co.il###adBomba
 one.co.il###divAdChance
+one.co.il###divEventCounter
 one.co.il###divFarzda
 one.co.il###divYnetNews
 one.co.il###tblAdBlock
