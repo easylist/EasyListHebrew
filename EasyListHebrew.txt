@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6VoKVR+AxMS7ylGEu420pg
+! Checksum: l+xe6llZn+iAlTniRGd7YA
 ! Title: EasyList Hebrew
-! Last modified: 02/03/15 14:18
+! Last modified: 04/03/15 10:22
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -20,6 +20,7 @@
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
+||035555555.co.il/landingpages$popup,third-party
 ||213.8.137.51^
 ||213.8.137.51^$popup,third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
@@ -29,6 +30,7 @@
 ||adtv.me^$popup
 ||ahituv.biz^$popup,third-party
 ||akamaihd.net^$image,third-party,domain=fxp.co.il
+||albar.co.il/ads$popup,third-party
 ||amazing-offers.co.il^$popup,third-party
 ||asafnewcalc.mataniphone.tempurl.co.il/calculator3/$popup
 ||ashleymadison.com^$popup,third-party
@@ -63,11 +65,13 @@
 ||mapi.co.il^$popup,third-party
 ||media.foxweb.co.il^$third-party
 ||merlin.co.il^$third-party
+||mini-sites.net^$popup,third-party
 ||mitbahon.co.il/Storage^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
 ||movies-club.com/$popup
 ||multidown.co.il/affiliates.php$third-party
 ||mvertex.co.il^$third-party
+||mylp.co.il/carasso$popup,third-party
 ||mysupermarket.co.il/landingpage$popup,third-party
 ||newclio.co.il/sep$popup,third-party
 ||next-net.co.il^$third-party
