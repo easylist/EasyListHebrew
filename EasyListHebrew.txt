@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vZhIv/WspkzgqIYD51ULRg
+! Checksum: wCWZ/ADCwnaUhCBa7d1uIA
 ! Title: EasyList Hebrew
-! Last modified: 04/03/15 10:27
+! Last modified: 05/03/15 22:58
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -766,6 +766,7 @@ rest.co.il##.adBox2
 rest.co.il##.ad_box_1
 rest.co.il##.ad_box_3
 rest.co.il##.left_box_1
+rotter.net##BR + * > P
 rotter.net##TD[style="width:120px;border:0px solid red;"]
 s-maof.com###backgroundPopup
 s-maof.com###popupContact
