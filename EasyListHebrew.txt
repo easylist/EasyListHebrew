@@ -759,7 +759,9 @@ reshet.tv##div[id^="CM8ShowAd"]
 reshet.tv###Ctrl_nPromotionBanner
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
+reshet.tv##.AsideBannerWrp.withAdvLabel
 reshet.tv##.comercialarea
+reshet.tv##.top-banner
 rest.co.il###divLeftBanner
 rest.co.il##.adBox2
 rest.co.il##.ad_box_1
