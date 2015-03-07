@@ -690,6 +690,8 @@ nadlan.com##table[width="192"][bgcolor="#dcdcdc"]
 nadlan.com##table[width="980"][bgcolor="#dcdcdc"]
 nana10.co.il###ArticleBanner2x2
 nana10.co.il###CM8ShowAd_Ozen_160x600
+nana10.co.il###CM8ShowAd_Box_180x150_1
+nana10.co.il###CM8ShowAd_Box_250x250_1
 nana10.co.il###GoogleAds400x223
 nana10.co.il###IndexPromotions
 nana10.co.il###bottomBannerBlock
