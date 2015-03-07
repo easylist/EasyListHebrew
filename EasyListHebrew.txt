@@ -789,6 +789,7 @@ sport5.co.il##.banner-list
 sport5.co.il##.inner_adv
 sport5.co.il##.iphone
 sport5.co.il##.post.post-alt
+sport5.co.il##.skin-header
 srugim.co.il###front_rcol_ad
 srugim.co.il###maavaron
 srugim.co.il##.margin_10
