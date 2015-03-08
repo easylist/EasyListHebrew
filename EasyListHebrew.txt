@@ -541,6 +541,7 @@ gear.co.il##.ad_B1
 gear.co.il##.ad_B2
 gear.co.il##.ad_B3
 gear.co.il##.ad_B4
+gear.co.il##.ad_C1
 gear.co.il##.ad_C2
 gear.co.il##.tab-logos
 geektime.co.il##.widget.sponsors-widget
