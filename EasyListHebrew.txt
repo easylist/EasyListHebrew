@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: IEXPm+rhBdjrdAhltmm9jQ
+! Checksum: qoHBsy9ZLPvKONp3D1BbUg
 ! Title: EasyList Hebrew
-! Last modified: 07/03/15 21:46
+! Last modified: 08/03/15 10:16
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -405,7 +405,7 @@ bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
 bhol-forums.co.il,bhol.co.il###top_banner_ph
 fun-city.co.il,popcorate.co.il###videoImage1_login
 beok.co.il,winwin.co.il##.TopBanners
-mako.co.il,pcmagazine.co.il,rest.co.il##.ad
+haaretz.co.il,infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
 globes.co.il,onlife.co.il,sport5.co.il##.banner
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
@@ -561,7 +561,6 @@ haaretz.co.il###comments_banner_wrapper
 haaretz.co.il##DIV[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
 haaretz.co.il##div[id^="dclk_objects_"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
-haaretz.co.il##.ad
 hashekel.co.il###block-13
 hashekel.co.il###block-14
 homeless.co.il###board_middle_advert
@@ -578,7 +577,6 @@ hwzone.co.il##.wideBanner
 i.start.co.il###boxes
 ice.co.il##.top_pirsomet
 ilimudim.co.il##.mp-hd-banner
-infomed.co.il##.ad
 infomed.co.il##.ad_01
 infomed.co.il##.google_adDiv
 infomed.co.il##.squere_ad
