@@ -124,6 +124,7 @@
 ||images1.ynet.co.il/PicServer4/2014/09/15/5587311/
 ||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
 ||ynet.co.il/images/headline_video_header_samsung.png
+||ynet.co.il/images/video/wobi/wobi_
 ||ynet.co.il/WinWinCooperation/
 ||ynet.co.il^*/ynetbanneradmin/
 ||ynet.hiro.co.il/crossdomain.xml
