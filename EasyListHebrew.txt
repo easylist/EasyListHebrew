@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qoHBsy9ZLPvKONp3D1BbUg
+! Checksum: e/hFXNCc3+eBnlJa+45+mg
 ! Title: EasyList Hebrew
-! Last modified: 08/03/15 10:16
+! Last modified: 11/03/15 23:20
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -303,6 +303,7 @@
 @@||adserver.adtech.de/?advideo/$object-subrequest,domain=mako.co.il
 @@||adserver.adtech.de/rmevent/$object-subrequest,domain=mako.co.il,media
 @@||advertising.themarker.com^$~third-party
+@@||advsnx.net/AdServer/$domain=globes.co.il
 @@||adworks.co.il^$~third-party
 @@||agenda.nana10.co.il/counter.asp
 @@||amazonaws.com/static.madlan.co.il/
