@@ -248,6 +248,7 @@
 ||myvod.me^
 ||nanafiles.co.il//Upload/92011/File/File_*swf
 ||news-israel.net/images/topAd
+||onlife.co.il/dbcads/
 ||pc.co.il/ajaxfilemanager/uploaded/$object
 ||pc.co.il/wp-content/uploads/$object
 ||pitro.net/Banners/
@@ -755,6 +756,7 @@ one.co.il##table[width="100%"] + table[width="100%"]
 onlife.co.il###block-freelancer-0
 onlife.co.il###block-freelancer-1
 onlife.co.il###top_article_ads_wrapper
+onlife.co.il###top_u_ads_wrapper
 onlife.co.il##.commercial
 ori-diamonds.co.il##IMG[style="cursor: default; width: 100%;"]
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
