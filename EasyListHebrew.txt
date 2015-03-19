@@ -152,6 +152,7 @@
 ||a7.org/scripts/Maavaron.js
 ||info.a7.org^$domain=inn.co.il
 ||inn.co.il/info_en/
+||inn.co.il/leads/content/upload/
 ||inn.co.il/leads/view/$popup
 ||dwnmedia.a7.org/inntv/media/
 !-Globes-!
