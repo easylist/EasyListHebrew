@@ -843,6 +843,7 @@ themarker.com###floatingBannerDepPage
 themarker.com###floatingBannerHomePage
 themarker.com##.CutTransperetLine + .border-box
 themarker.com##.ad.h-hidden--s-and-m
+themarker.com##.ad[style="margin-bottom: 30px; margin-top: 30px;"]
 themarker.com##.banner-area
 themarker.com##.banner_92008
 themarker.com##.border-box.noSourceList
