@@ -55,6 +55,7 @@
 ||ha-deal.co.il^$popup
 ||hizoq.com^$popup,third-party
 ||horserace.co.il^$popup,third-party
+||hotdate.co.il^$popup,third-party
 ||iforex.co.il/landing_pages^$popup,third-party
 ||ilikethis.info^$popup,third-party
 ||infomed.co.il^$third-party
