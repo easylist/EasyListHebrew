@@ -685,6 +685,7 @@ mouse.co.il##.ads
 mouse.co.il##.noprint + .inline-box-text_new.noprint
 mouse.co.il##div.inline-box-text
 mynet.co.il##DIV[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
+m.calcalist.co.il##.maavaron
 nadlan.com##.middlebannerFlash
 nadlan.com##.wrapBoxSmall
 nadlan.com##.wrapshedbox
