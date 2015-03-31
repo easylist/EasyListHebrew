@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kNYtr6uA1NbKaZoHYPMirg
+! Checksum: CQmqZgI+ClRSS0QmE7OJOg
 ! Title: EasyList Hebrew
-! Last modified: 19/03/15 22:50
+! Last modified: 31/03/15 17:36
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -62,9 +62,9 @@
 ||infomed.co.il^$third-party
 ||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
+||lastpage.pw^$popup,third-party
 ||layer.co.il^$popup
 ||mako.buy2.co.il^$third-party
-||mapi.co.il^$popup,third-party
 ||media.foxweb.co.il^$third-party
 ||merlin.co.il^$third-party
 ||mini-sites.net^$popup,third-party
