@@ -742,6 +742,7 @@ nrg.co.il##IFRAME[style="height:250px;width:300px;"]
 one.co.il###Adv2
 one.co.il###WinnnerRacer
 one.co.il###adBomba
+one.co.il###adWallaDeals
 one.co.il###divAdChance
 one.co.il###divEventCounter
 one.co.il###divFarzda
@@ -752,6 +753,7 @@ one.co.il##.adBg1
 one.co.il##.divZedoAd
 one.co.il##DIV[style="width:100%;height:25px;text-align:left;direction:rtl;"]
 one.co.il##DIV[style="width:300px;height:250px;padding:10px 12px 10px 12px;text-align:center;background:#ebebeb;"]
+one.co.il##DIV[style="width:775px;text-align:center;background:#ebebeb;padding:10px auto 10px auto;margin:0;clear:both;"]
 one.co.il##div[style="height:43px;padding-bottom:18px"]
 one.co.il##div[style="text-align:right;border:solid 1px #d5d5d5;"]
 one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
