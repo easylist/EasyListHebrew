@@ -944,6 +944,7 @@ ynet.co.il##.leshonitMain.leshonitBorderRectangle
 ynet.co.il##.shMainDiv
 ynet.co.il##DIV[style="width:256px;height:66px;background-color:#FFFFFF;"]
 ynet.co.il##[style="DISPLAY: block; FLOAT: left"] > DIV[style="PADDING-BOTTOM: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px"]
+ynet.co.il##IFRAME[name="ExternalWebpageIframe"][src^="http://go.ynet.co.il/short/commerce/"]
 ynet.co.il##iframe[style="width:770px;height:191px;"]
 zap.co.il###dgBan_t12x1
 zap.co.il##.BannerBox
