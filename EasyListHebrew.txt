@@ -16,10 +16,8 @@
 !
 .co.il/adv/$~object-subrequest
 /pirsum/*$script,object
-|http://ad.$domain=co.il
 ||campaign.*.co.il^$popup,third-party
 ||dcampaigns.*.co.il^$popup,third-party
-
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
