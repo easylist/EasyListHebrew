@@ -565,6 +565,7 @@ globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:r
 google.co.il###mbEnd
 google.co.il###tads
 haaretz.co.il###comments_banner_wrapper
+haaretz.co.il##.t-sec-head-ad
 haaretz.co.il##DIV[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
 hashekel.co.il###block-13
