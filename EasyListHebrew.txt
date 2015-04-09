@@ -141,7 +141,6 @@
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
 !-Haaretz/TheMarker/Mouse.co.il-!
-|http://dclk.$domain=haaretz.co.il|themarker.com|mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
 ||themarker.com/dclk/
@@ -412,7 +411,7 @@ bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
 bhol-forums.co.il,bhol.co.il###top_banner_ph
 fun-city.co.il,popcorate.co.il###videoImage1_login
 beok.co.il,winwin.co.il##.TopBanners
-haaretz.co.il,infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
+haaretz.co.il,infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il,themarker.com##.ad
 globes.co.il,onlife.co.il,sport5.co.il##.banner
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
@@ -430,6 +429,7 @@ almadar.co.il,marmar.co.il##IMG[src^="VIRARTICLES/shadv/"]
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 doctors.co.il,globes.co.il##[id^="ads."]
+haaretz.co.il,themarker.com##div[id^="dclk_objects_"]
 !
 !----------------------------Element hiding rules-----------------------------!
 !
@@ -566,7 +566,6 @@ google.co.il###mbEnd
 google.co.il###tads
 haaretz.co.il###comments_banner_wrapper
 haaretz.co.il##DIV[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
-haaretz.co.il##div[id^="dclk_objects_"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
 hashekel.co.il###block-13
 hashekel.co.il###block-14
@@ -850,16 +849,16 @@ timeout.co.il##[class^="to_ad_"]
 themarker.com###floatingBannerDepPage
 themarker.com###floatingBannerHomePage
 themarker.com##.CutTransperetLine + .border-box
-themarker.com##.ad.h-hidden--s-and-m
-themarker.com##.ad[style="margin-bottom: 30px; margin-top: 30px;"]
 themarker.com##.banner-area
 themarker.com##.banner_92008
 themarker.com##.border-box.noSourceList
 themarker.com##.click-tracker-banner.tadmit_300x100
 themarker.com##.sdera-banners
 themarker.com##.slideShowBannerGroup
+themarker.com##.t-sec-head.t-sec-head--b.c-pale
 themarker.com##IFRAME[id^="google"]
 themarker.com##[name="txtlnk"] + .border-box
+themarker.com###RelevantiWidget
 upf.co.il##.bgbanner
 walla.co.il###ARKIA_CONTAINER
 walla.co.il###navbar
