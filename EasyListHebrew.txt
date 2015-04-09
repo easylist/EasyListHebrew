@@ -863,7 +863,6 @@ themarker.com##IFRAME[id^="google"]
 themarker.com##[name="txtlnk"] + .border-box
 themarker.com###RelevantiWidget
 upf.co.il##.bgbanner
-walla.co.il###ARKIA_CONTAINER
 walla.co.il###navbar
 walla.co.il###sec_jobcity_906
 walla.co.il###sec_kama_910
@@ -949,4 +948,3 @@ zap.co.il##.BannerBox
 zap.co.il##.Martef
 zap.co.il##.headerBannerCenter
 zap.co.il##.leftSideBanner
-zone.walla.co.il##.w2.wp-0-b
