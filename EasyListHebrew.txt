@@ -111,6 +111,8 @@
 !
 !-Walla!-!
 ||a.walla.co.il^
+||fus.walla.co.il/js/
+||fus.walla.co.il/report/
 ||fus.walla.co.il/vast/
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||xwbe.wcdn.co.il/$image
