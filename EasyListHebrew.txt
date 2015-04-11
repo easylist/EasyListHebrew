@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ykog/CEVHQlpOB/gONzrmA
+! Checksum: mbizcC7ni08xdzWxdutFYA
 ! Title: EasyList Hebrew
-! Last modified: 12/04/15 00:12
+! Last modified: 12/04/15 00:18
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -798,6 +798,7 @@ solitaire.co.il##.viv
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il##.article-holder > .alt
+sport5.co.il##.aside > .banner-container
 sport5.co.il##.banner-list
 sport5.co.il##.inner_adv
 sport5.co.il##.iphone
