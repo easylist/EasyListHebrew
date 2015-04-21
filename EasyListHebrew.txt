@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qCAkWmuTEtbvcRTvrsOWBg
+! Checksum: qblGtKzhYvoGe7crDsh1ag
 ! Title: EasyList Hebrew
-! Last modified: 21/04/15 10:00
+! Last modified: 21/04/15 11:15
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -301,7 +301,7 @@
 !--------------Whitelists Rules (caused by EasyList / EasyPrivacy )-----------!
 !
 @@||10tv.nana10.co.il/Video/advert.png
-@@||adline.co.il^
+@@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il
 @@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
 @@||ads.one.co.il/images/Ads/2014/05/22/1500/51x20.gif
