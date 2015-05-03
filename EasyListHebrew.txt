@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JJv+EAbGAvX++rWCrW3pzQ
+! Checksum: HrYY0uXmNJggwXVUsledyA
 ! Title: EasyList Hebrew
-! Last modified: 02/05/15 23:07
+! Last modified: 03/05/15 09:57
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -802,6 +802,7 @@ seret.co.il##DIV[style="width:100%;text-align:center;"]
 seret.co.il##SPAN[style="line-height:192px;height:192px;clear:both;display:block;"]
 seretil.me###ads516516as
 shironet.mako.co.il###playerAdArea
+simania.co.il##[style="clear:both;width:936px;text-align:center;padding:10px;margin:auto;margin-top:10px;margin-bottom:10px;background-color: rgb(244, 243, 238);text-align:center;"]
 solitaire.co.il##.viv
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
