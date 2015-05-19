@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qspNKXI6i4su0w/trvpuxw
+! Checksum: NZqHy4zwt+KC32Y8gxQJtg
 ! Title: EasyList Hebrew
-! Last modified: 06/05/15 17:10
+! Last modified: 19/05/15 13:04
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -206,6 +206,7 @@
 ||0404.co.il/public/assets/images/*banner
 ||212.129.12.90/zivlin/*.swf
 ||2eat.co.il/banner/
+||93fm.co.il/wp-content/uploads/2015/05/21523.jpg
 ||ads.one.co.il^
 ||ashdodnet.com/dyncontent/t_ad/
 ||auto.co.il/Banner
@@ -437,6 +438,7 @@ haaretz.co.il,themarker.com##div[id^="dclk_objects_"]
 !----------------------------Element hiding rules-----------------------------!
 !
 2all.co.il##.DivFlowBannerRight
+93fm.co.il##.arti-banners
 aiwa.co.il##.bigbnr
 api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
