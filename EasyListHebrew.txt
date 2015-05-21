@@ -394,6 +394,7 @@ one.co.il#@#a[href^="http://xads.zedo.com/"]
 ||images.yad2.co.il/Pic/yad2new/homepage_promotions/prom
 ||live.sekindo.com/uploads/users/*/ads/
 ||m.ynet.co.il/Services/MaavaronData.aspx
+||mob-server.com^$script,domain=m.nrg.co.il
 ||sport5.co.il/cm8ads/
 !
 !------------------------General element hiding rules-------------------------!
