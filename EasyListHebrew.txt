@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PHWFZqeK0J25BVQt5swGEQ
+! Checksum: k9e58VSsjAhUNVIl0L71RA
 ! Title: EasyList Hebrew
-! Last modified: 21/05/15 23:47
+! Last modified: 22/05/15 01:12
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -396,7 +396,10 @@ one.co.il#@#a[href^="http://xads.zedo.com/"]
 ||m.ynet.co.il/Services/MaavaronData.aspx
 ||mob-server.com^$script,domain=m.nrg.co.il
 ||sport5.co.il/cm8ads/
-||ynet.co.il/Maavaron
+!
+!---------------------------------Mobile Whitelist----------------------------------!
+!
+@@||g.doubleclick.net/gampad/$domain=m.ynet.co.il
 !
 !------------------------General element hiding rules-------------------------!
 !
