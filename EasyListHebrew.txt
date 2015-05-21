@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NZqHy4zwt+KC32Y8gxQJtg
+! Checksum: EPeNqm2cNN2X0tMq5LVLzg
 ! Title: EasyList Hebrew
-! Last modified: 19/05/15 13:04
+! Last modified: 21/05/15 23:22
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -393,6 +393,7 @@ one.co.il#@#a[href^="http://xads.zedo.com/"]
 ||fus.walla.co.il/json/5804468/mint.walla_android.homepage/spons
 ||images.yad2.co.il/Pic/yad2new/homepage_promotions/prom
 ||live.sekindo.com/uploads/users/*/ads/
+||m.ynet.co.il/Services/MaavaronData.aspx
 ||sport5.co.il/cm8ads/
 !
 !------------------------General element hiding rules-------------------------!
