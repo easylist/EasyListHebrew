@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: k9e58VSsjAhUNVIl0L71RA
+! Checksum: VNAY4TlYjsR3mXz62oM5Ww
 ! Title: EasyList Hebrew
-! Last modified: 22/05/15 01:12
+! Last modified: 22/05/15 01:22
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -393,11 +393,16 @@ one.co.il#@#a[href^="http://xads.zedo.com/"]
 ||fus.walla.co.il/json/5804468/mint.walla_android.homepage/spons
 ||images.yad2.co.il/Pic/yad2new/homepage_promotions/prom
 ||live.sekindo.com/uploads/users/*/ads/
+||m.sport5.co.il/Images/DreamTeam320X40.png
 ||m.ynet.co.il/Services/MaavaronData.aspx
 ||mob-server.com^$script,domain=m.nrg.co.il
 ||sport5.co.il/cm8ads/
 !
-!---------------------------------Mobile Whitelist----------------------------------!
+!---------------------------------Mobile element hiding rules-----------------!
+!
+m.sport5.co.il##.ad
+!
+!---------------------------------Mobile Whitelist----------------------------!
 !
 @@||g.doubleclick.net/gampad/$domain=m.ynet.co.il
 !
@@ -422,7 +427,7 @@ bhol-forums.co.il,bhol.co.il###top_banner_ph
 fun-city.co.il,popcorate.co.il###videoImage1_login
 beok.co.il,winwin.co.il##.TopBanners
 haaretz.co.il,infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il,themarker.com##.ad
-globes.co.il,onlife.co.il,sport5.co.il##.banner
+globes.co.il,onlife.co.il##.banner
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 globes.co.il,nrg.co.il##.sekindo
