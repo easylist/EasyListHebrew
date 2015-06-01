@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XrJkgljV3/WaxFlvmAYN0A
+! Checksum: LocZtaW4EqnFJ6+Od3BC0A
 ! Title: EasyList Hebrew
-! Last modified: 25/05/15 23:59
+! Last modified: 01/06/15 12:57
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -426,14 +426,14 @@ bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
 bhol-forums.co.il,bhol.co.il###top_banner_ph
 fun-city.co.il,popcorate.co.il###videoImage1_login
 beok.co.il,winwin.co.il##.TopBanners
-haaretz.co.il,infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il,themarker.com##.ad
+infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il,themarker.com##.ad
 globes.co.il,onlife.co.il##.banner
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 globes.co.il,nrg.co.il##.sekindo
 sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##.side
 haaretz.co.il,themarker.com##.topBanners
-haaretz.co.il,themarker.com##.topSectionBanners
+themarker.com##.topSectionBanners
 atmag.co.il,timeout.co.il##.to_ad
 sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##A[href^="http://cellebrate.mobi/il/heb"]
 gamex.co.il,linicom.co.il##A[target="_blank"]
