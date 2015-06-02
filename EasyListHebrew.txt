@@ -611,6 +611,7 @@ inn.co.il###div300ILPict
 inn.co.il###divContentRightInf
 inn.co.il###MadLargeInf
 inn.co.il##.Merlin
+inn.co.il##.MessageToolbar > .InfoLink
 inn.co.il##[class^="divMAD"]
 inn.co.il##[id^="divBottomAd"]
 inn.co.il##[id^="divHr"]
