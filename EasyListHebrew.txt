@@ -398,13 +398,17 @@ one.co.il#@#a[href^="http://xads.zedo.com/"]
 ||m.ynet.co.il/Services/MaavaronData.aspx
 ||mob-server.com^$script,domain=m.nrg.co.il
 ||sport5.co.il/cm8ads/
-!
+​!
 !---------------------------------Mobile element hiding rules-----------------!
 !
 m.sport5.co.il##.ad
 !
 !---------------------------------Mobile Whitelist----------------------------!
 !
+@@||m.calcalist.co.il##.maavaron
+@@||googleadservices.com/gpt/pubads_$domain=m.ynet.co.il
+@@||googlesyndication.com/safeframe/$domain=m.ynet.co.il
+@@||googletagservices.com/tag/js/gpt_mobile.js$domain=m.ynet.co.il
 @@||g.doubleclick.net/gampad/$domain=m.ynet.co.il
 !
 !------------------------General element hiding rules-------------------------!
