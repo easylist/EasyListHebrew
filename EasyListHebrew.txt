@@ -251,6 +251,8 @@
 ||leadim4u.com/accounts/default1/banners/
 ||lev.co.il/download/HomeBackground/$image
 ||local.co.il/banners/
+||magazin.org.il/cut/baner
+||magazin.org.il/show_banner
 ||moreshet.co.il/banners/
 ||my.yad2.co.il/Banner/
 ||myvod.me^
