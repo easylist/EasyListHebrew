@@ -604,6 +604,7 @@ infomed.co.il##.ad_01
 infomed.co.il##.google_adDiv
 infomed.co.il##.squere_ad
 infomed.co.il##OL[anc="adclass"]
+inn.co.il###div160Down.div160Info
 inn.co.il###div160Info
 inn.co.il###div180Info
 inn.co.il###div300
