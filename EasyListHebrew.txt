@@ -320,14 +320,14 @@
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
-@@||blogspot.com$image,domain=goalim4you.net
+@@||blogspot.com$image,domain=goalim4you.com
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?cn=is&c=*VAST$object-subrequest
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||c04dl.vds-is.castup.net/crossdomain.net
 @@||cbci16.b1.cdn.co.il^
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||easy.co.il/adsense.js
-@@||goalim4you.net^$elemhide
+@@||goalim4you.com^$elemhide
 @@||googleadservices.com/gpt/pubads_$domain=m.ynet.co.il
 @@||googleapis.com/flash$object-subrequest,domain=globes.co.il
 @@||googlesyndication.com/safeframe/$domain=m.ynet.co.il
