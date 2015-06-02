@@ -83,6 +83,7 @@
 ||onclickads.net^$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
 ||osef.co.il^$popup,third-party
+||osef.co.il^$third-party
 ||pera.co.il^$popup,third-party
 ||pigment-adv.co.il^$popup,third-party
 ||pisrael.com/Campaign$popup,third-party
