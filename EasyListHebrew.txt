@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 434oQFxHCKzKS18MjWK3/w
+! Checksum: z1tGzbuyCQIUMQqAWBx53A
 ! Title: EasyList Hebrew
-! Last modified: 06/06/15 22:17
+! Last modified: 06/06/15 22:24
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -333,10 +333,7 @@
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||easy.co.il/adsense.js
 @@||goalim4you.com^$elemhide
-@@||googleadservices.com/gpt/pubads_$domain=m.ynet.co.il
 @@||googleapis.com/flash$object-subrequest,domain=globes.co.il
-@@||googlesyndication.com/safeframe/$domain=m.ynet.co.il
-@@||googletagservices.com/tag/js/gpt_mobile.js$domain=m.ynet.co.il
 @@||gplanet.co.il/js/adx.js
 @@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
 @@||ilgde.adocean.pl/$object-subrequest,domain=mako.co.il
@@ -406,11 +403,11 @@ one.co.il#@#a[href^="http://xads.zedo.com/"]
 ​!
 !---------------------------------Mobile element hiding rules-----------------!
 !
+m.calcalist.co.il##.maavaron
 m.sport5.co.il##.ad
 !
 !---------------------------------Mobile Whitelist----------------------------!
 !
-@@||m.calcalist.co.il##.maavaron
 @@||googleadservices.com/gpt/pubads_$domain=m.ynet.co.il
 @@||googlesyndication.com/safeframe/$domain=m.ynet.co.il
 @@||googletagservices.com/tag/js/gpt_mobile.js$domain=m.ynet.co.il
