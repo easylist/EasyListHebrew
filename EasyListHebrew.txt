@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: avg4rywZZmaUpz+Nze6A6Q
+! Checksum: SJvBVJL16CMN5Ndpf+i9kQ
 ! Title: EasyList Hebrew
-! Last modified: 14/06/15 11:43
+! Last modified: 15/06/15 15:25
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -331,7 +331,7 @@
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||c04dl.vds-is.castup.net/crossdomain.net
 @@||cbci16.b1.cdn.co.il^
-​@@||clalit.co.il/AdImages$~third-party
+​@@||clalit.co.il/AdImages
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||easy.co.il/adsense.js
 @@||goalim4you.com^$elemhide
@@ -389,6 +389,7 @@ kikar.co.il#@#.adunit
 kml.co.il#@#div[id^="div-gpt-ad-"]
 lavender.co.il#@##topAds
 one.co.il#@#a[href^="http://xads.zedo.com/"]
+pitria.com#@#.header-ad
 !
 !---------------------------------Mobile Ads----------------------------------!
 !
