@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SJvBVJL16CMN5Ndpf+i9kQ
+! Checksum: BOqOujddQkSl6H9v5mBckg
 ! Title: EasyList Hebrew
-! Last modified: 15/06/15 15:25
+! Last modified: 18/06/15 15:41
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -403,7 +403,7 @@ pitria.com#@#.header-ad
 ||m.ynet.co.il/Services/MaavaronData.aspx
 ||mob-server.com^$script,domain=m.nrg.co.il
 ||sport5.co.il/cm8ads/
-​!
+!
 !---------------------------------Mobile element hiding rules-----------------!
 !
 m.calcalist.co.il##.maavaron
