@@ -129,8 +129,6 @@
 ||article.yedioth.co.il/assets/Banners
 ||go.ynet.co.il/short/content/2010/Career/banner/
 ||go.ynet.co.il/short/Demos/*/Ads/
-||images1.ynet.co.il/PicServer3/2013/10/17/4920698/150_200.jpg
-||images1.ynet.co.il/PicServer4/2014/09/15/5587311/
 ||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
 ||ynet.co.il/images/headline_video_header_samsung.png
 ||ynet.co.il/images/video/wobi/wobi_
@@ -436,7 +434,7 @@ bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
 bhol-forums.co.il,bhol.co.il###top_banner_ph
 fun-city.co.il,popcorate.co.il###videoImage1_login
 beok.co.il,winwin.co.il##.TopBanners
-infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il,themarker.com##.ad
+haaretz.co.il,infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il,themarker.com##.ad
 globes.co.il,onlife.co.il##.banner
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
@@ -552,6 +550,8 @@ foodsdictionary.co.il###main-header-ad
 forbes.co.il##EMBED[src^="/download/banners/"]
 forbes.co.il##TABLE[style="background-color:#e8e8e8"]
 frogi.co.il##.adbox
+frogi.co.il##.article_item_adbox
+frogi.co.il##.topbanner
 fxp.co.il###adfxp
 fxp.co.il###vc_widget
 fxp.co.il###web_3_tool
@@ -608,12 +608,14 @@ hwzone.co.il###cubicbigarticlesbannertable
 hwzone.co.il##.box2.alljobBox
 hwzone.co.il##.wideBanner
 i.start.co.il###boxes
+ice.co.il##.kubia_banner
 ice.co.il##.top_pirsomet
 ilimudim.co.il##.mp-hd-banner
 infomed.co.il##.ad_01
 infomed.co.il##.google_adDiv
 infomed.co.il##.squere_ad
 infomed.co.il##OL[anc="adclass"]
+infomed.co.il###overlayBanner
 inn.co.il###div160Down.div160Info
 inn.co.il###div160Info
 inn.co.il###div180Info
@@ -817,6 +819,7 @@ seretil.me###ads516516as
 shironet.mako.co.il###playerAdArea
 simania.co.il##[style="clear:both;width:936px;text-align:center;padding:10px;margin:auto;margin-top:10px;margin-bottom:10px;background-color: rgb(244, 243, 238);text-align:center;"]
 solitaire.co.il##.viv
+sponser.co.il###BannerHeader
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il##.article-holder > .alt
@@ -839,6 +842,7 @@ start.co.il##.banner_105x79
 start.co.il##.banner_container
 start.co.il##section[zone="117"]
 start.co.il##section[zone="119"]
+stips.co.il##.adsenseAd
 subscenter.cinemast.com###advert
 subscenter.cinemast.com###bgLeft
 subscenter.cinemast.com##CENTER
