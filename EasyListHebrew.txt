@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qoO64yRd/cuVPmlWaUHi6g
+! Checksum: IPfy+bx2yQFN3yiTPy0y3g
 ! Title: EasyList Hebrew
-! Last modified: 05/07/15 12:09
+! Last modified: 05/07/15 12:11
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -197,10 +197,9 @@
 ||fortest.info^$domain=fxp.co.il
 ||fxp.co.il/skinfxp/*.php$script,image
 ||games-il.info^$domain=fxp.co.il
-||games-il.org.uk^$domain=fxp.co.il
 ||new-shekel-50.xyz^$domain=fxp.co.il
 ||ofofof.info^$domain=fxp.co.il
-||salamtak.org.uk^$domain=fxp.co.il
+||org.uk$domain=fxp.co.il
 ||shaoli-the-king.xyz^$domain=fxp.co.il
 ||why-love-fifa.me.uk^$domain=fxp.co.il
 !
@@ -559,10 +558,6 @@ fxp.co.il###web_3_tool
 fxp.co.il##.captain
 fxp.co.il##.condition
 fxp.co.il##.hungry
-fxp.co.il##A[href*="ofofof.info"]
-fxp.co.il##A[href*="salamtak.org.uk"]
-fxp.co.il##A[href^="http://fcdn.co.il"]
-fxp.co.il##A[href^="http://video.shaoli-the-king.xyz"]
 fxp.co.il##[src="http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html"] + *
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 286.5px;"]
 fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 9.5px;"]
