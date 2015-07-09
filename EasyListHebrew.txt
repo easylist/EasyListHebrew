@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UXkhAG6FQRvog1eaqR+9aQ
+! Checksum: wJw2iXZNJtTuWIRIZ5FaRQ
 ! Title: EasyList Hebrew
-! Last modified: 06/07/15 19:05
+! Last modified: 09/07/15 10:05
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -118,6 +118,7 @@
 ||fus.walla.co.il/report/
 ||fus.walla.co.il/vast/
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
+||waab.walla.co.il^$object-subrequest
 ||wrtm.walla.co.il^
 ||xwbe.wcdn.co.il/$image
 ||xwne.wcdn.co.il^$domain=walla.co.il
@@ -366,6 +367,7 @@
 @@||sfx-images.mozilla.org^$image
 @@||srugim.co.il/*670x100&front=true
 @@||streambb.one.co.il/ads/$media
+@@||taimeod.co.il^$document
 @@||upf.co.il/advertisment.js
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
