@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WTayofKQbhFnkxMfzCdIaw
+! Checksum: wBp5Rk85FODaKUlHjrvIHQ
 ! Title: EasyList Hebrew
-! Last modified: 15/07/15 01:13
+! Last modified: 20/07/15 21:26
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -14,8 +14,6 @@
 !
 !---------------------------Generic Blocking Rules----------------------------!
 !
-.co.il/adv/$~object-subrequest
-/pirsum/*$script,object
 ||campaign.*.co.il^$popup,third-party
 ||dcampaigns.*.co.il^$popup,third-party
 !
@@ -339,6 +337,7 @@
 @@||gplanet.co.il/js/adx.js
 @@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
 @@||ilgde.adocean.pl/$object-subrequest,domain=mako.co.il
+@@||images*.ynet.co.il/PicServer*/201*/*TIZER.$image
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
 @@||kikar.co.il/js/ads.js
@@ -593,6 +592,7 @@ globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:r
 google.co.il###mbEnd
 google.co.il###tads
 haaretz.co.il###comments_banner_wrapper
+haaretz.co.il##.bg-ad
 haaretz.co.il##.t-sec-head-ad
 haaretz.co.il##DIV[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
