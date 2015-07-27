@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OSlSrsx8MySPLKrgwbhGZA
+! Checksum: cfMa2unzESjtNKaETztF8A
 ! Title: EasyList Hebrew
-! Last modified: 25/07/15 23:43
+! Last modified: 27/07/15 23:46
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -282,6 +282,7 @@
 ||vodmovies.co.il^
 ||vodx.co.il^
 ||wcdn.co.il/banners/
+||yad2.co.il/js-new/blockAd.js
 !
 !----------------------------------Whitelists---------------------------------!
 !
