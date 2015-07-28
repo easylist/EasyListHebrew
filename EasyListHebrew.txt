@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cfMa2unzESjtNKaETztF8A
+! Checksum: fY8KLrzvvMBYxVn2qsqzHg
 ! Title: EasyList Hebrew
-! Last modified: 27/07/15 23:46
+! Last modified: 28/07/15 19:17
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -236,6 +236,7 @@
 ||gozlan.be/st_j.js
 //gozlan.be/st_j.js|
 ||haflla.com/download/banners/
+||hagdolim.info^
 ||holesinthenet.co.il/uploads/*/res/*.swf
 ||hometheater.co.il/opx/
 ||hometheater.co.il/pir/
@@ -251,8 +252,10 @@
 ||leadim4u.com/accounts/default1/banners/
 ||lev.co.il/download/HomeBackground/$image
 ||local.co.il/banners/
+||lools.info^
 ||magazin.org.il/cut/baner
 ||magazin.org.il/show_banner
+||metador.info^
 ||moreshet.co.il/banners/
 ||my.yad2.co.il/Banner/
 ||myvod.me^
@@ -273,12 +276,14 @@
 ||seretil.me/cdn-cgi/*rocket.js
 ||seretil.me/cdn-cgi/nexp/dok9
 ||shoofoo.co.il/banners
+||sirtoonim.info^
 ||sport5.co.il/banners2/
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
+||stomi.info^
 ||tgspot.co.il/wp-content/cache/minify/000000/yygpKbDS18_JzMtMzs_VS87Xy8wB8bKL9ZPz88pSi0riTS31sooB.js
+||trolim.info^
 ||uply.co.il^$domain=myvod.me
 ||view-movies.co.il^
-||viewz.us^
 ||vodmovies.co.il^
 ||vodx.co.il^
 ||wcdn.co.il/banners/
