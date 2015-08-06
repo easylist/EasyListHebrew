@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3iPQ/eDR2t9ZHxMojB31MQ
+! Checksum: rMHI711QlYRMvxgWXEkklw
 ! Title: EasyList Hebrew
-! Last modified: 05/08/15 23:58
+! Last modified: 06/08/15 23:25
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -202,6 +202,28 @@
 ||shaoli-the-king.xyz^$domain=fxp.co.il
 ||why-love-fifa.me.uk^$domain=fxp.co.il
 !
+!--------------------------SPAM SITES blocking rules--------------------------!
+!
+||dealsclubspecial.pw^
+||facebook.net^$domain=iastrology.net
+||uply.co.il^$domain=myvod.me
+||hagdolim.info^
+||iastrology.net^
+||jpg.co.il$domain=hagdolim.info|lools.info|madlik.info|metador.info|sirtoonim.info|stomi.info|trolim.info
+||lools.info^
+||madlik.info^
+||metador.info^
+||myvod.me^
+||sirtoonim.info^
+||siz.co.il$domain=hagdolim.info|lools.info|madlik.info|metador.info|sirtoonim.info|stomi.info|trolim.info
+||sratim.co.il$domain=myvod.me
+||stomi.info^
+||trolim.info^
+||view-movies.co.il^
+||vodmovies.co.il^
+||vodx.co.il^
+
+!
 !--------------------------1st party blocking rules---------------------------!
 !
 ||0404.co.il/public/assets/images/*banner
@@ -236,12 +258,10 @@
 ||gozlan.be/st_j.js
 //gozlan.be/st_j.js|
 ||haflla.com/download/banners/
-||hagdolim.info^
 ||holesinthenet.co.il/uploads/*/res/*.swf
 ||hometheater.co.il/opx/
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
-||iastrology.net^
 ||israelpost.co.il/content.nsf/0/D4413A7599E19E34C2257B2300467D0D/$FILE/*.swf
 ||jobmaster.co.il/code/kot/$object
 ||jobmaster.co.il/images/banners/
@@ -253,14 +273,10 @@
 ||leadim4u.com/accounts/default1/banners/
 ||lev.co.il/download/HomeBackground/$image
 ||local.co.il/banners/
-||lools.info^
-||madlik.info^
 ||magazin.org.il/cut/baner
 ||magazin.org.il/show_banner
-||metador.info^
 ||moreshet.co.il/banners/
 ||my.yad2.co.il/Banner/
-||myvod.me^
 ||nanafiles.co.il//Upload/92011/File/File_*swf
 ||news-israel.net/images/topAd
 ||onlife.co.il/dbcads/
@@ -278,16 +294,9 @@
 ||seretil.me/cdn-cgi/*rocket.js
 ||seretil.me/cdn-cgi/nexp/dok9
 ||shoofoo.co.il/banners
-||sirtoonim.info^
 ||sport5.co.il/banners2/
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
-||stomi.info^
 ||tgspot.co.il/wp-content/cache/minify/000000/yygpKbDS18_JzMtMzs_VS87Xy8wB8bKL9ZPz88pSi0riTS31sooB.js
-||trolim.info^
-||uply.co.il^$domain=myvod.me
-||view-movies.co.il^
-||vodmovies.co.il^
-||vodx.co.il^
 ||wcdn.co.il/banners/
 ||yad2.co.il/js-new/blockPirsum.js
 !
