@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rMHI711QlYRMvxgWXEkklw
+! Checksum: MLenkhQUfwUWh44mrXzXJA
 ! Title: EasyList Hebrew
-! Last modified: 06/08/15 23:25
+! Last modified: 12/08/15 18:18
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -877,6 +877,8 @@ tahazit.co.il###ad-preload-gray-bg
 tapuz.co.il###AsyncMlinkBanner
 tapuz.co.il###BannerRightBotDiv
 tapuz.co.il###BannerRightDiv
+tapuz.co.il###divMaavaron
+tapuz.co.il###divMaavaronBG
 tapuz.co.il###divTopBanner1
 tapuz.co.il###divTopBanner2
 tapuz.co.il###divTopBanner3
