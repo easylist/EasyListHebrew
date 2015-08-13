@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MLenkhQUfwUWh44mrXzXJA
+! Checksum: oacK5tIaAY1Rvb1gh0MJ+Q
 ! Title: EasyList Hebrew
-! Last modified: 12/08/15 18:18
+! Last modified: 13/08/15 08:51
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -12,101 +12,76 @@
 ! License:
 !          https://easylist-downloads.adblockplus.org/COPYING
 !
-!---------------------------Generic Blocking Rules----------------------------!
-!
-||campaign.*.co.il^$popup,third-party
-||dcampaigns.*.co.il^$popup,third-party
-!
 !--------------------------3rd party blocking rules---------------------------!
 !
-||035555555.co.il/landingpages$popup,third-party
 ||213.8.137.51^
+||adland.co.il^$third-party
+||booking.com/index.html^$popup,domain=daka90.co.il
+||clickon.co.il^$third-party
+||infomed.co.il^$third-party
+||internet-bee.com^$third-party
+||jdate.co.il^$third-party
+||mako.buy2.co.il^$third-party
+||media.foxweb.co.il^$third-party
+||next-net.co.il^$third-party
+||psakdin.co.il^$domain=calcalist.co.il
+||s.tool-site.com^$third-party
+||shorter.co.il/js/fp.js.php
+||talkahead.com^$third-party
+||wesell.co.il^$third-party
+||ws.walla.co.il^$third-party
+!
+!--------------------------Popup Sites----------------------------------------!
+!
 ||213.8.137.51^$popup,third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
-||ad-sys.com^$third-party
-||adland.co.il^$third-party
 ||adson.biz^$popup,third-party
-||adtv.me^$popup
 ||adventuredigital.co.il^$popup,third-party
-||ahituv.biz^$popup,third-party
-||akamaihd.net^$image,third-party,domain=fxp.co.il
 ||albar.co.il/ads$popup,third-party
 ||amazing-offers.co.il^$popup,third-party
-||asafnewcalc.mataniphone.tempurl.co.il/calculator3/$popup
 ||ashleymadison.com^$popup,third-party
 ||ashleyrnadison.com^$popup,third-party
 ||asakimerp.co.il^$popup,third-party
-||beauty-place.co.il^$popup,third-party
-||best-offers.co.il^$popup
-||bizportal.co.il/web/secur/redirreklama.asp*213.8.137.51/Erate/LinkTo$popup
-||booking.com/index.html^$popup,domain=daka90.co.il
-||clickcenter.net^$third-party
+||best-offers.co.il^$popup,third-party
+||campaign.*.co.il^$popup,third-party
 ||clickon.co.il^$popup,third-party
-||clickon.co.il^$third-party
-||descreti.co.il^$popup
+||dcampaigns.*.co.il^$popup,third-party
+||descreti.co.il^$popup,third-party
 ||etrader.co.il^$popup,third-party
-||expert-offers.com^$popup
+||expert-offers.com^$popup,third-party
 ||fattal-alazman.co.il/?a_aid$popup,third-party
-||forifiha.com/null^$popup
 ||gin.co.il^$popup,third-party
 ||gitam.co.il^$popup,third-party
-||gnsdigital.co.il^$popup,third-party
-||great-offers.co.il^$popup
-||greenlead.co.il^$popup
-||ha-deal.co.il^$popup
-||hizoq.com^$popup,third-party
+||great-offers.co.il^$popup,third-party
+||greenlead.co.il^$popup,third-party
+||ha-deal.co.il^$popup,third-party
 ||horserace.co.il^$popup,third-party
 ||hotdate.co.il^$popup,third-party
 ||iforex.co.il/landing_pages^$popup,third-party
 ||ilikethis.info^$popup,third-party
-||infomed.co.il^$third-party
-||internet-bee.com^$third-party
-||jdate.co.il^$third-party
 ||lastpage.pw^$popup,third-party
-||layer.co.il^$popup
-||mako.buy2.co.il^$third-party
-||media.foxweb.co.il^$third-party
-||merlin.co.il^$third-party
+||layer.co.il^$popup,third-party
 ||mini-sites.net^$popup,third-party
 ||mitbahon.co.il/Storage^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
-||movies-club.com/$popup
-||multidown.co.il/affiliates.php$third-party
-||mvertex.co.il^$third-party
-||mylp.co.il/carasso$popup,third-party
 ||mysupermarket.co.il/landingpage$popup,third-party
-||newclio.co.il/sep$popup,third-party
-||next-net.co.il^$third-party
 ||oceanmedia.co.il^$popup,third-party
 ||onclickads.net^$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
 ||osef.co.il^$popup,third-party
-||osef.co.il^$third-party
-||pera.co.il^$popup,third-party
-||pigment-adv.co.il^$popup,third-party
+||padv.co.il^$popup,third-party
 ||pisrael.com/Campaign$popup,third-party
-||psakdin.co.il^$domain=calcalist.co.il
 ||rateonclick.com^$popup,third-party
 ||rpe.co.il^$popup,third-party
-||s.tool-site.com^$third-party
 ||sekindo.com^$popup,third-party
 ||sex-party.co.il^$popup,third-party
-||shorter.co.il/js/fp.js.php
 ||strauss-water-campaign.co.il^$popup,third-party
 ||streamin.to^$popup
-||syngrestic.com/null^$popup
-||talkahead.com^$third-party
-||tbuy.co.il^$popup
 ||tinyurl.com^$popup,domain=daka90.co.il
-||totalmedia.co.il^$third-party
 ||trendsonline.me/?id$popup,third-party
-||trtmm.info^$third-party
-||unbouncepages.com^$popup
-||wesell.co.il^$popup
-||wesell.co.il^$third-party
-||ws.walla.co.il^$third-party
-||yeppyepp.co.il^$popup
-||zxxds.net^$popup
+||unbouncepages.com^$popup,third-party
+||wesell.co.il^$popup,third-party
+||yeppyepp.co.il^$popup,third-party
 !
 !-----------------------Site specific ad blocking rules-----------------------!
 !
@@ -190,6 +165,7 @@
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
 !-fxp-!
+||akamaihd.net^$image,third-party,domain=fxp.co.il
 ||iotest.me.uk^$domain=fxp.co.il
 ||fcdn.co.il/*.swf$domain=fxp.co.il
 ||fifa.games-il.info/AHfVczS/fed/repeat/
