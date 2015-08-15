@@ -357,6 +357,7 @@
 @@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
 @@||one.co.il/images/Ads/2013/10/20/2230/racer_51x20hp.png
 @@||one.co.il/images/ads/2014/06/02/1415/MNDL2.swf
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=repo.thewiz.info
 @@||parkinson.org.il/_Uploads/dbsBanners/
 @@||players.edgesuite.net/flash/analytics/qos$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
