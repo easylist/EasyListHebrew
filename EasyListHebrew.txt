@@ -519,7 +519,6 @@ calcalist.co.il###ArticleBanner
 calcalist.co.il###carouselAdLi
 calcalist.co.il###relevanti_area
 calcalist.co.il##div[style="width: 315px; overflow-x: hidden;margin-bottom:5px;"]
-calcalist.co.il##table[width="150"]
 calcalist.co.il##TABLE[width="478"][height="174"]
 calcalist.co.il##[height="7"] + [valign="top"] + TR[height="7"]
 calcalist.co.il##[valign="top"] + [valign="top"] + TR[height="7"]
@@ -754,7 +753,7 @@ news-israel.net##TABLE[style="width: 931px; height: 136px; margin-top: 8px; marg
 news-israel.net##TABLE[style="width: 931px; height: 136px; margin-top: 8px;"]
 news1.co.il###UcInsideRight_1_1_tblWidth
 news1.co.il##TABLE[bgcolor="#eeeeee"][height="150"]
-news1.co.il##TABLE[height="160"]
+news1.co.il##TABLE[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##TD[width="237"][style="background-color: #EEEEEE;"]
 nrg.co.il###CM8ShowAd
 nrg.co.il###FrmTguvut + #nadlanBox
