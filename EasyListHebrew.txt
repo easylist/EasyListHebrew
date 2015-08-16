@@ -923,9 +923,12 @@ wallashops.co.il###megaBanner
 wallashops.co.il###promotionBanner0
 wallashops.co.il##[id^="textBanner"]
 wen.co.il##.wenBanner
+winwin.co.il###TotalMediaVerticalBannersIframe
 winwin.co.il###tvBannerContWinWin
 winwin.co.il###tvBannerContWinWinDFP
 winwin.co.il##.MiddleBanners
+winwin.co.il##.SponsoredAds
+winwin.co.il##.innerLeftAdPanel
 wisebuy.co.il##.LboxGrey[style="height:270px;text-align:center;"]
 wisebuy.co.il##.LboxGrey[style="height:337px;text-align:center;"]
 wisebuy.co.il##table[width="100%"][align="center"]
