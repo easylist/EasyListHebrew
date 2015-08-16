@@ -28,6 +28,7 @@
 ||s.tool-site.com^$third-party
 ||shorter.co.il/js/fp.js.php
 ||talkahead.com^$third-party
+||trustmedia.co.il^$third-party
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
 !
@@ -79,6 +80,7 @@
 ||streamin.to^$popup
 ||tinyurl.com^$popup,domain=daka90.co.il
 ||trendsonline.me/?id$popup,third-party
+||trustmedia.co.il^$popup,third-party
 ||unbouncepages.com^$popup,third-party
 ||wesell.co.il^$popup,third-party
 ||yeppyepp.co.il^$popup,third-party
