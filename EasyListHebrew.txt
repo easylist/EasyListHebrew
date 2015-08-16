@@ -92,6 +92,7 @@
 ||fus.walla.co.il/js/
 ||fus.walla.co.il/report/
 ||fus.walla.co.il/vast/
+||i.walla.co.il/w9/swf/video_swf/userslider.swf
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||waab.walla.co.il^$object-subrequest
 ||wrtm.walla.co.il^
