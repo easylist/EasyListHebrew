@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oacK5tIaAY1Rvb1gh0MJ+Q
+! Checksum: aDrmlXQAQU9mLz4gwFz8Ag
 ! Title: EasyList Hebrew
-! Last modified: 13/08/15 08:51
+! Last modified: 18/08/15 21:13
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -183,25 +183,43 @@
 !
 !--------------------------SPAM SITES blocking rules--------------------------!
 !
-||dealsclubspecial.pw^
-||facebook.net^$domain=iastrology.net
-||uply.co.il^$domain=myvod.me
-||hagdolim.info^
-||iastrology.net^
-||jpg.co.il$domain=hagdolim.info|lools.info|madlik.info|metador.info|sirtoonim.info|stomi.info|trolim.info
-||lools.info^
-||madlik.info^
-||metador.info^
-||myvod.me^
-||sirtoonim.info^
-||siz.co.il$domain=hagdolim.info|lools.info|madlik.info|metador.info|sirtoonim.info|stomi.info|trolim.info
-||sratim.co.il$domain=myvod.me
-||stomi.info^
-||trolim.info^
-||view-movies.co.il^
-||vodmovies.co.il^
-||vodx.co.il^
-
+asface.pw##*
+bitys.pw##*
+bobuzz.com##*
+dealclick.pw##*
+dealsclubspecial.pw##*
+dubim.net##*
+gefun.net##*
+gubuzz.com##*
+gbuzz.net##*
+hagdolim.info##*
+iastrology.net##*
+ilbuzz.net##*
+israfun.net##*
+jobuzz.net##*
+lead.foxweb.co.il##*
+lools.info##*
+lp.playsmart.co.il##*
+lyfun.net##*
+lyplay.net##*
+madlik.info##*
+matokli.net##*
+metador.info##*
+myvod.me##*
+sirtoonim.info##*
+stomi.info##*
+trolim.info##*
+usbuzz.co##*
+usbuzz.com##*
+usbuzz.info##*
+usbuzz.net##*
+usbuzz.tk##*
+usbuzz.us##*
+vebuzz.net##*
+vefun.net##*
+view-movies.co.il##*
+vodmovies.co.il##*
+vodx.co.il##*
 !
 !--------------------------1st party blocking rules---------------------------!
 !
