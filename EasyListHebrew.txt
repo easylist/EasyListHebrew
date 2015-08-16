@@ -469,6 +469,7 @@ api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
 ashdodnet.com##DIV[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##DIV[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
+atmag.co.il,timeout.co.il##.btmspcl_wrap.up
 auto.co.il###ctl00_MainContent_divBannerHasut
 auto.co.il###PlazmaOnOff
 auto.co.il###top-banners-container
