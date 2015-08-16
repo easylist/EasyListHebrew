@@ -336,6 +336,7 @@
 @@||gplanet.co.il/js/adx.js
 @@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
 @@||ilgde.adocean.pl/$object-subrequest,domain=mako.co.il
+@@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||isramedia.net^$elemhide
 @@||isramedia.net/images/header/header2_01.jpg
 @@||images*.ynet.co.il/PicServer*/201*/*TIZER.$image
