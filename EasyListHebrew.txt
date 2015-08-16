@@ -527,6 +527,7 @@ carsforum.co.il##.box2
 carsforum.co.il##DIV[style="float:left;padding-left:3px;"]
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 cellebrate.mobi###flow
+ch10.co.il##.arti-banners
 ch10.co.il##.rt-banners
 chabad.info###rodefet_left
 chabad.info###rodefet_right
