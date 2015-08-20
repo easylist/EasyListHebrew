@@ -53,6 +53,7 @@
 ||fattal-alazman.co.il/?a_aid$popup,third-party
 ||gin.co.il^$popup,third-party
 ||gitam.co.il^$popup,third-party
+||gnsdigital.co.il^$popup,third-party
 ||great-offers.co.il^$popup,third-party
 ||greenlead.co.il^$popup,third-party
 ||ha-deal.co.il^$popup,third-party
@@ -71,7 +72,8 @@
 ||onlineproxyfree.com^$popup,third-party
 ||osef.co.il^$popup,third-party
 ||padv.co.il^$popup,third-party
-||pisrael.com/Campaign$popup,third-party
+||pigment-adv.co.il^$popup,third-party
+||pisrael.com^$popup,third-party
 ||rateonclick.com^$popup,third-party
 ||rpe.co.il^$popup,third-party
 ||sekindo.com^$popup,third-party
