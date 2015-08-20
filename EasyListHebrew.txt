@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aDrmlXQAQU9mLz4gwFz8Ag
+! Checksum: 5e5N7JCuwFZxM9EbAmLn+A
 ! Title: EasyList Hebrew
-! Last modified: 18/08/15 21:13
+! Last modified: 20/08/15 11:30
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -124,6 +124,7 @@
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
 !-Haaretz/TheMarker/Mouse.co.il-!
+||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
 ||themarker.com/dclk/
@@ -152,6 +153,7 @@
 ||zvz.co.il/BannerCommunication.
 !-d-group-!
 ||ban.d-group.co.il/banners/$third-party
+||d.co.il/Hebrew/images/Premium/
 ||madas-ads.securest.org^$third-party
 !-mako-!
 ||1host.co.il/$object-subrequest,domain=mako.co.il
@@ -247,7 +249,6 @@ vodx.co.il##*
 ||cdn.shorte.st/link-converter.min.js
 ||chabad.info/images/pirsomot/
 ||cinema-city.co.il/media/nlc2013/flash/*banner
-||d.co.il/Hebrew/images/Premium/
 ||date.dacho.co.il^
 ||ddlil.com/banners/
 ||dimpact.co.il/Live/Banner/
@@ -463,6 +464,7 @@ fun-city.co.il,popcorate.co.il###videoImage1_login
 beok.co.il,winwin.co.il##.TopBanners
 haaretz.co.il,infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il,themarker.com##.ad
 globes.co.il,onlife.co.il##.banner
+atmag.co.il,timeout.co.il##.btmspcl_wrap.up
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 globes.co.il,nrg.co.il##.sekindo
@@ -470,6 +472,7 @@ sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##.side
 haaretz.co.il,themarker.com##.topBanners
 themarker.com##.topSectionBanners
 atmag.co.il,timeout.co.il##.to_ad
+atmag.co.il,timeout.co.il##.to_ad_2a7_wrap.clearfix
 sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##A[href^="http://cellebrate.mobi/il/heb"]
 gamex.co.il,linicom.co.il##A[target="_blank"]
 sdarot.li,sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="overflow: hidden;"]
@@ -490,7 +493,6 @@ api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
 ashdodnet.com##DIV[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##DIV[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
-atmag.co.il,timeout.co.il##.btmspcl_wrap.up
 auto.co.il###ctl00_MainContent_divBannerHasut
 auto.co.il###PlazmaOnOff
 auto.co.il###top-banners-container
@@ -732,6 +734,7 @@ mishlohim.co.il###TopMenu1_bannerDiv
 mishlohim.co.il##.Banners
 moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
+mouse.co.il###Hdiv[style^="position: fixed; width: auto; height: auto; background: rgb(255, 255, 255) none repeat scroll "]
 mouse.co.il###articleAdvert
 mouse.co.il###commercial_box
 mouse.co.il###div-gpt-ad2-top-banner728x90
@@ -904,7 +907,6 @@ tapuz.co.il##.rightSideBanner
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
 terof.net##.rectangle
-timeout.co.il##[class^="to_ad_"]
 themarker.com###floatingBannerDepPage
 themarker.com###floatingBannerHomePage
 themarker.com##.CutTransperetLine + .border-box
