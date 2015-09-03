@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: p1iAZmAiMDGx6WcLn1iYsw
+! Checksum: 6yL4VoMHJog0Im0Lna0eyA
 ! Title: EasyList Hebrew
-! Last modified: 01/09/15 21:53
+! Last modified: 03/09/15 16:10
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -187,6 +187,7 @@
 !--------------------------SPAM SITES blocking rules--------------------------!
 !
 asface.pw##*
+balimon.info##*
 bitys.pw##*
 bobuzz.com##*
 dealclick.pw##*
@@ -209,10 +210,12 @@ lyplay.net##*
 madlik.info##*
 matokli.net##*
 metador.info##*
+movitop.info##*
 myvod.me##*
 sirtoonim.info##*
 stomi.info##*
 trolim.info##*
+tukid.info##*
 usbuzz.co##*
 usbuzz.com##*
 usbuzz.info##*
@@ -227,6 +230,7 @@ viralymaster.com##.video-share
 vodmovies.co.il##*
 vodx.co.il##*
 worldhotnews.net##*
+youlim.info##*
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -960,7 +964,7 @@ wisebuy.co.il##.LboxGrey[style="height:337px;text-align:center;"]
 wisebuy.co.il##table[width="100%"][align="center"]
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
-​xnet.ynet.co.il###ads\.blog\.250x250
+xnet.ynet.co.il###ads\.blog\.250x250
 xnet.ynet.co.il###ads\.top\.1
 xnet.ynet.co.il##.CAATVcompAdvertiseTv
 xnet.ynet.co.il##.ContentLink.banner.High
