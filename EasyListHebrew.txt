@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: b/YdiKGs3XuFT51Zy0z56w
+! Checksum: 0qwdC/cO7TOCgz4vG4IucA
 ! Title: EasyList Hebrew
-! Last modified: 06/09/15 17:23
+! Last modified: 06/09/15 17:30
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -753,7 +753,6 @@ mouse.co.il##.ads
 mouse.co.il##.noprint + .inline-box-text_new.noprint
 mouse.co.il##div.inline-box-text
 mynet.co.il##DIV[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
-m.calcalist.co.il##.maavaron
 nadlan.com##.middlebannerFlash
 nadlan.com##.wrapBoxSmall
 nadlan.com##.wrapshedbox
