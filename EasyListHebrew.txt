@@ -887,6 +887,7 @@ subscenter.cinemast.com###bgLeft
 subscenter.cinemast.com##CENTER
 tahazit.co.il###ad-preload
 tahazit.co.il###ad-preload-gray-bg
+takdin.co.il##.mainUpperBanner
 tapuz.co.il###AsyncMlinkBanner
 tapuz.co.il###BannerRightBotDiv
 tapuz.co.il###BannerRightDiv
