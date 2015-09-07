@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gLYkhCs+ICMGwJNAKqCvTw
+! Checksum: 4HmU7O6sulmROsJeWp7azA
 ! Title: EasyList Hebrew
-! Last modified: 07/09/15 12:56
+! Last modified: 07/09/15 20:36
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -21,8 +21,8 @@
 ||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
 ||mako.buy2.co.il^$third-party
-||media.foxweb.co.il^$third-p
-||mitbahon.co.il^$third-partyarty
+||media.foxweb.co.il^$third-party
+||mitbahon.co.il^$third-party
 ||next-net.co.il^$third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||s.tool-site.com^$third-party
@@ -635,6 +635,7 @@ google.co.il###mbEnd
 google.co.il###tads
 haaretz.co.il###comments_banner_wrapper
 haaretz.co.il##.bg-ad
+haaretz.co.il##.js-dfp-resp-refresh
 haaretz.co.il##.t-sec-head-ad
 haaretz.co.il##DIV[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
