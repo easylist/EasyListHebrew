@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0qwdC/cO7TOCgz4vG4IucA
+! Checksum: gLYkhCs+ICMGwJNAKqCvTw
 ! Title: EasyList Hebrew
-! Last modified: 06/09/15 17:30
+! Last modified: 07/09/15 12:56
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -18,7 +18,6 @@
 ||adland.co.il^$third-party
 ||booking.com/index.html^$popup,domain=daka90.co.il
 ||clickon.co.il^$third-party
-||infomed.co.il^$third-party
 ||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
 ||mako.buy2.co.il^$third-party
@@ -113,6 +112,7 @@
 ||go.ynet.co.il/short/content/2010/Career/banner/
 ||go.ynet.co.il/short/content/2013/Career/SideJobs/
 ||go.ynet.co.il/short/Demos/*/Ads/
+||infomed.co.il/ynet/sidebox.aspx?
 ||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
 ||ynet.co.il/images/headline_video_header_samsung.png
 ||ynet.co.il/images/video/wobi/wobi_
