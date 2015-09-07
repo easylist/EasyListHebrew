@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4HmU7O6sulmROsJeWp7azA
+! Checksum: BoIQ4eUsCeRenPnz2K4c8w
 ! Title: EasyList Hebrew
-! Last modified: 07/09/15 20:36
+! Last modified: 07/09/15 21:20
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -1006,9 +1006,14 @@ yesplanet.co.il###snatch
 ynet.co.il###ads\.300x600\.1
 ynet.co.il###art_bottom_adsense-1
 ynet.co.il###art_right_sponsored_links-1
+ynet.co.il###bigdealhomepage-1
 ynet.co.il###googleAdsenseMivzakim
 ynet.co.il###google_ads_iframe_\/ynt\.top\.central
+ynet.co.il###marketingRecommended-1-0
+ynet.co.il###marketingRecommended-2-0
 ynet.co.il###startPlaying
+ynet.co.il###MarketingCarousel1024-1
+ynet.co.il###WinWinHP1024-1
 ynet.co.il###ww6s_Main
 ynet.co.il###ynet_lightbox_content_top
 ynet.co.il##.CAATVcompAdvertiseTv
@@ -1018,6 +1023,7 @@ ynet.co.il##.MRec_main
 ynet.co.il##.art_tkb_talkback_advert
 ynet.co.il##.art_video_samsung_top
 ynet.co.il##.bigdeal
+ynet.co.il##.element.B2b.ghcite > #wrapper
 ynet.co.il##.ghciClickablePicture1
 ynet.co.il##.ghciClickablePicture3
 ynet.co.il##.ghciPromoLightbox1
@@ -1027,6 +1033,8 @@ ynet.co.il##.hp_player_header
 ynet.co.il##.leshonitMain.leshonitBorderRectangle
 ynet.co.il##.shMainDiv
 ynet.co.il##DIV[style="width:256px;height:66px;background-color:#FFFFFF;"]
+ynet.co.il##[id^="promo"]
+ynet.co.il##[id^="Promo"]
 ynet.co.il##[style="DISPLAY: block; FLOAT: left"] > DIV[style="PADDING-BOTTOM: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px"]
 ynet.co.il##IFRAME[name="ExternalWebpageIframe"][src^="http://go.ynet.co.il/short/commerce/"]
 ynet.co.il##iframe[style="width:770px;height:191px;"]
