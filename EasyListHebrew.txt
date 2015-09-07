@@ -22,13 +22,15 @@
 ||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
 ||mako.buy2.co.il^$third-party
-||media.foxweb.co.il^$third-party
+||media.foxweb.co.il^$third-p
+||mitbahon.co.il^$third-partyarty
 ||next-net.co.il^$third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||s.tool-site.com^$third-party
 ||shorter.co.il/js/fp.js.php
 ||talkahead.com^$third-party
 ||trustmedia.co.il^$third-party
+||wee.co.il^$third-party
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
 !
@@ -36,6 +38,7 @@
 !
 ||213.8.137.51^$popup,third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
+||activated.digital^$popup,third-party
 ||adson.biz^$popup,third-party
 ||adventuredigital.co.il^$popup,third-party
 ||albar.co.il/ads$popup,third-party
@@ -83,7 +86,9 @@
 ||tinyurl.com^$popup,domain=daka90.co.il
 ||trendsonline.me/?id$popup,third-party
 ||trustmedia.co.il^$popup,third-party
+||um-per.com^$popup,third-party
 ||unbouncepages.com^$popup,third-party
+||wee.co.il^$popup,third-party
 ||wesell.co.il^$popup,third-party
 ||yeppyepp.co.il^$popup,third-party
 !
