@@ -123,6 +123,7 @@
 !-nrg-!
 ||nrg.co.il/cache/banners
 ||nrg.co.il/images/banners
+||nrg.co.il/online/xml/sundor_promobox_
 ||nrg.co.il^*/maavaron.$script
 !-nana10-!
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
@@ -805,6 +806,7 @@ nrg.co.il###sekindo
 nrg.co.il##.bannerWrapper
 nrg.co.il##.tallBanner
 nrg.co.il##IFRAME[style="height:250px;width:300px;"]
+omritv.co.il##.post-content > DIV[style="width:300px; height:600px; margin:0 auto;"]
 one.co.il###Adv2
 one.co.il###WinnnerRacer
 one.co.il###adBomba
@@ -817,6 +819,7 @@ one.co.il###tblAdBlock
 one.co.il##.adBg
 one.co.il##.adBg1
 one.co.il##.divZedoAd
+one.co.il##.f12[bgcolor="#ffffff"] > DIV[style="width:450px;border:solid 1px #d2d2d2;padding:5px 0;margin-bottom:20px;"]
 one.co.il##DIV[style="width:100%;height:25px;text-align:left;direction:rtl;"]
 one.co.il##DIV[style="width:300px;height:250px;padding:10px 12px 10px 12px;text-align:center;background:#ebebeb;"]
 one.co.il##DIV[style="width:775px;text-align:center;background:#ebebeb;padding:10px auto 10px auto;margin:0;clear:both;"]
@@ -919,6 +922,8 @@ tapuz.co.il##.partnersBox
 tapuz.co.il##.right.subsidiary
 tapuz.co.il##.rightBar1
 tapuz.co.il##.rightSideBanner
+tapuz.co.il##.smallAdd
+tapuz.co.il##[id^="netex_"]
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
 terof.net##.rectangle
@@ -988,6 +993,9 @@ yad2.co.il##.plasma_banner.pie
 yad2.co.il##.search_banners
 yad2.co.il##.yad1_mergetitle
 yad2.co.il##div[style=" height: 90px; background-color: #DDDDDD; border-radius:6px; width:978px; padding-top:8px; padding-bottom:8px; margin-left: auto; margin-right: auto; margin-bottom: 8px; position: relative;"]
+yad2.co.il##DIV[style="   border-bottom: 1px #d4d4d4 solid; background-color: #fff;border-right: 1px #d4d4d4 solid;border-left: 1px #d4d4d4 solid;width: 179px;height:130px;margin: auto;"]
+yad2.co.il##DIV[style^="margin-top: 5px; width: 179px;height: 130px;background-color: #fff;margin-left: auto;margin-right: auto;border-bottom: 1px #e8e8e8 solid;border-left: 1px #d4d4d4"]
+yad2.co.il##TABLE[style^="direction: rtl; margin-bottom: 0px; width: 792px;"] TD[style="padding-bottom: 10px; height: 150px;"][colspan="2"]
 yad2.co.il##TD[style="background:#FFFFFF;"][colspan="22"]
 yad2.co.il##TD[width="200"][valign="top"][style="border-right: 0px solid #ffffff; border-left: 0px solid #ffffff; background: #E7E7E7;"]
 yad2.co.il##TH[style="background: #505D6A; font-size: 13px; font-family: arial; text-align: left; color: white; font-weight: bold; padding: 0px; margin: 0px; padding-right: 0px; padding-left: 10px; height: 31px; border-bottom: 1px solid white;"][colspan="9"]
