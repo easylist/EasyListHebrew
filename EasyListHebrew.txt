@@ -366,6 +366,7 @@ youlim.info##*
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
 @@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
 @@||ilgde.adocean.pl/$object-subrequest,domain=mako.co.il
+@@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||isramedia.net^$elemhide
 @@||isramedia.net/images/header/header2_01.jpg
