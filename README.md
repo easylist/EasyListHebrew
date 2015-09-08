@@ -1,4 +1,6 @@
-
+קודם כל אתם צריכים שיהיה מותקן AdBlock Plus 
+במידה ויש לכם כבר מותקן - מצוין כל שאת צריכים לעשות זה לוודא שיש לכם את הרשימה הנכונה
+על ידי [לחיצה כאן](abp:subscribe?location=https%3A//easylist-downloads.adblockplus.org/israellist%2Beasylist.txt&title=EasyList%20Hebrew%2BEasyList)
 
 English
 
