@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BoIQ4eUsCeRenPnz2K4c8w
+! Checksum: /LzGb8R7lWjokVGFZzfGvQ
 ! Title: EasyList Hebrew
-! Last modified: 07/09/15 21:20
+! Last modified: 08/09/15 23:23
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -482,6 +482,7 @@ globes.co.il,onlife.co.il##.banner
 atmag.co.il,timeout.co.il##.btmspcl_wrap.up
 haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
+haaretz.co.il,themarker.com##.js-dfp-resp-refresh
 globes.co.il,nrg.co.il##.sekindo
 sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##.side
 haaretz.co.il,themarker.com##.topBanners
