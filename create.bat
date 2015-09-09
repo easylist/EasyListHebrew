@@ -1,3 +1,4 @@
+@echo off
 cd %~p0
 python tools\addChecksum.py < EasyListHebrew.txt > IsraelList2.txt
 python tools\validateChecksum.py < IsraelList2.txt
