@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DafaF6KWc5uJE58Qt/Q2cQ
+! Checksum: ZT0KMLeNvIE5Bnsj6ynD6A
 ! Title: EasyList Hebrew
-! Last modified: 09/09/15 10:18
+! Last modified: 16/09/15 10:17
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -356,7 +356,7 @@ youlim.info##*
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
-@@||blogspot.com$image,domain=goalim4you.com
+@@||blogspot.com$image,domain=goalim4you.xyz
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?cn=is&c=*VAST$object-subrequest
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||c04dl.vds-is.castup.net/crossdomain.net
@@ -366,7 +366,7 @@ youlim.info##*
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||easy.co.il/adsense.js
 @@||eco99fm.maariv.co.il/Servicesrotator
-@@||goalim4you.com^$elemhide
+@@||goalim4you.xyz^$elemhide
 @@||googleapis.com/flash$object-subrequest,domain=globes.co.il
 @@||gplanet.co.il/js/adx.js
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
