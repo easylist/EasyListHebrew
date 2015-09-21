@@ -279,7 +279,6 @@ youlim.info##*
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
 ||israelpost.co.il/content.nsf/0/D4413A7599E19E34C2257B2300467D0D/$FILE/*.swf
-||israelpost.co.il/modiin.nsf/searchunits?OpenForm
 ||jobmaster.co.il/code/kot/$object
 ||jobmaster.co.il/images/banners/
 ||karmel.co.il/images/banners/
