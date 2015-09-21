@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: S+BgI1reHKwZyv8bc3Fr3w
+! Checksum: Xa8BKEETp5HHDox9uYMjMA
 ! Title: EasyList Hebrew
-! Last modified: 21/09/15 12:58
+! Last modified: 21/09/15 19:36
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -403,6 +403,7 @@ youlim.info##*
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=repo.thewiz.info|pitaronfree.blogspot.co.il
 @@||parkinson.org.il/_Uploads/dbsBanners/
+@@||partner.googleadservices.com/gpt/pubads_$script,domain=reshet.tv
 @@||pitaronfree.blogspot.co.il^$elemhide
 @@||players.edgesuite.net/flash/analytics/qos$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
@@ -849,6 +850,7 @@ reshet.tv##div[id^="CM8ShowAd"]
 reshet.tv###Ctrl_nPromotionBanner
 reshet.tv###DivContent[rel="5498"]
 reshet.tv###prArea
+reshet.tv##.ArticleRelated > .rightClmn.show-in-large-web-only
 reshet.tv##.AsideBannerWrp
 reshet.tv##.comercialarea
 reshet.tv##.top-banner
