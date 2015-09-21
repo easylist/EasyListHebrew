@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fMWfGpAnuutbhQ/LvyfiFg
+! Checksum: S+BgI1reHKwZyv8bc3Fr3w
 ! Title: EasyList Hebrew
-! Last modified: 19/09/15 21:52
+! Last modified: 21/09/15 12:58
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -222,6 +222,7 @@ movitop.info##*
 myvod.me##*
 sirtoonim.info##*
 stomi.info##*
+thebestvod.com##*
 trolim.info##*
 tukid.info##*
 usbuzz.co##*
