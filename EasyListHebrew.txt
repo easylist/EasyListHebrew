@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Xa8BKEETp5HHDox9uYMjMA
+! Checksum: vpwfgxo5g5tI5w9R8s1Wow
 ! Title: EasyList Hebrew
-! Last modified: 21/09/15 19:36
+! Last modified: 24/09/15 00:40
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -447,7 +447,6 @@ pitria.com#@#.header-ad
 ||images.yad2.co.il/Pic/yad2new/homepage_promotions/prom
 ||live.sekindo.com/uploads/users/*/ads/
 ||m.sport5.co.il/Images/DreamTeam320X40.png
-||m.ynet.co.il/Services/MaavaronData.aspx
 ||mob-server.com^$script,domain=m.nrg.co.il
 ||sport5.co.il/cm8ads/
 !
@@ -458,10 +457,6 @@ m.sport5.co.il##.ad
 !
 !---------------------------------Mobile Whitelist----------------------------!
 !
-@@||googleadservices.com/gpt/pubads_$domain=m.ynet.co.il
-@@||googlesyndication.com/safeframe/$domain=m.ynet.co.il
-@@||googletagservices.com/tag/js/gpt_mobile.js$domain=m.ynet.co.il
-@@||g.doubleclick.net/gampad/$domain=m.ynet.co.il
 !
 !------------------------General element hiding rules-------------------------!
 !
