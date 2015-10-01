@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vpwfgxo5g5tI5w9R8s1Wow
+! Checksum: vKxC3iPn8/vK8wD4tkzFpw
 ! Title: EasyList Hebrew
-! Last modified: 24/09/15 00:40
+! Last modified: 06/10/15 19:54
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -396,6 +396,7 @@ youlim.info##*
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
+@@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
 @@||one.co.il/images/Ads/2013/10/20/2230/racer_51x20hp.png
@@ -988,6 +989,7 @@ xnet.ynet.co.il##.CAATVcompAdvertiseTv
 xnet.ynet.co.il##.ContentLink.banner.High
 xnet.ynet.co.il##.ContentLink.banner.Low
 xnet.ynet.co.il##.ad.hdn
+yad2.co.il###king_kong_contaner
 yad2.co.il###left_banner
 yad2.co.il###left_sekindo
 yad2.co.il###td_banner
