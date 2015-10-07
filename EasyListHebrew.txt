@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vKxC3iPn8/vK8wD4tkzFpw
+! Checksum: gwNTxIo3QFf0jh71PeqLBA
 ! Title: EasyList Hebrew
-! Last modified: 06/10/15 19:54
+! Last modified: 07/10/15 14:54
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -216,6 +216,7 @@ lp.playsmart.co.il##*
 lyfun.net##*
 lyplay.net##*
 madlik.info##*
+magnivim.info##*
 matokli.net##*
 metador.info##*
 movitop.info##*
@@ -223,6 +224,7 @@ myvod.me##*
 sirtoonim.info##*
 stomi.info##*
 thebestvod.com##*
+topise.info##*
 trolim.info##*
 tukid.info##*
 usbuzz.co##*
@@ -239,6 +241,7 @@ viralymaster.com##.video-share
 vodmovies.co.il##*
 vodx.co.il##*
 worldhotnews.net##*
+yosle.info##*
 youlim.info##*
 !
 !--------------------------1st party blocking rules---------------------------!
