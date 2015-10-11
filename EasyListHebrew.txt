@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: k4b9o0mJ5T3W/S8IIWM0jA
+! Checksum: qb4ROW5tQSlkpkvYQ7E9/g
 ! Title: EasyList Hebrew
-! Last modified: 11/10/15 21:47
+! Last modified: 11/10/15 21:52
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -17,11 +17,14 @@
 ||213.8.137.51^
 ||activated.co.il^$third-party
 ||adland.co.il^$third-party
+||anetkin.co.il^$popup,third-party
 ||booking.com/index.html^$popup,domain=daka90.co.il
 ||clickon.co.il^$third-party
+||erate.co.il^$third-party
 ||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
 ||mako.buy2.co.il^$third-party
+||media-goal.co.il^$popup,third-party
 ||media.foxweb.co.il^$third-party
 ||mitbahon.co.il^$third-party
 ||next-net.co.il^$third-party
