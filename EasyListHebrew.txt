@@ -997,6 +997,7 @@ xnet.ynet.co.il##.ContentLink.banner.High
 xnet.ynet.co.il##.ContentLink.banner.Low
 xnet.ynet.co.il##.ad.hdn
 yad2.co.il###king_kong_contaner
+yad2.co.il###leftSekindo
 yad2.co.il###left_banner
 yad2.co.il###left_sekindo
 yad2.co.il###td_banner
