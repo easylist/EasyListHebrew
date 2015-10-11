@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gwNTxIo3QFf0jh71PeqLBA
+! Checksum: OX6WrhwSn+AqPxIn47QOSQ
 ! Title: EasyList Hebrew
-! Last modified: 07/10/15 14:54
+! Last modified: 11/10/15 21:46
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -412,6 +412,7 @@ youlim.info##*
 @@||players.edgesuite.net/flash/analytics/qos$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||se.c04dl.vds-is.castup.net/server12/468/208/20816834-115.mp4$domain=mako.co.il
+@@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sexadir.co.il/ads/$image,~third-party
 @@||sexadir.co.il/banners/$image,~third-party
 @@||seximo.co.il/ads/$image,~third-party
