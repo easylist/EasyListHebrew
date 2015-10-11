@@ -508,8 +508,9 @@ haaretz.co.il,themarker.com##div[id^="dclk_objects_"]
 !
 !----------------------------Element hiding rules-----------------------------!
 !
-10tv.nana10.co.il##[style="top:800px; right:800px; width:320px; height:320px;"] > .tmplInner.size300x300
+10tv.nana10.co.il##.ArticleInlineObject[style="width:300px;border:0;padding:0;"]
 10tv.nana10.co.il##[style="top:800px; right:0px; width:320px; height:320px;"] > .tmplInner.size300x300
+10tv.nana10.co.il##[style="top:800px; right:800px; width:320px; height:320px;"] > .tmplInner.size300x300
 2all.co.il##.DivFlowBannerRight
 93fm.co.il##.arti-banners
 aiwa.co.il##.bigbnr
