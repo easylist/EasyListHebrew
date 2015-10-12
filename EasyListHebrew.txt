@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ntTR9Pi6CRAjrICh2Tzf+g
+! Checksum: TccwvUEbPhyZsOb7dvoyJg
 ! Title: EasyList Hebrew
-! Last modified: 11/10/15 23:32
+! Last modified: 12/10/15 12:48
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -17,14 +17,11 @@
 ||213.8.137.51^
 ||activated.co.il^$third-party
 ||adland.co.il^$third-party
-||anetkin.co.il^$popup,third-party
-||booking.com/index.html^$popup,domain=daka90.co.il
 ||clickon.co.il^$third-party
 ||erate.co.il^$third-party
 ||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
 ||mako.buy2.co.il^$third-party
-||media-goal.co.il^$popup,third-party
 ||media.foxweb.co.il^$third-party
 ||mitbahon.co.il^$third-party
 ||next-net.co.il^$third-party
@@ -46,10 +43,12 @@
 ||adventuredigital.co.il^$popup,third-party
 ||albar.co.il/ads$popup,third-party
 ||amazing-offers.co.il^$popup,third-party
+||anetkin.co.il^$popup,third-party
 ||ashleymadison.com^$popup,third-party
 ||ashleyrnadison.com^$popup,third-party
 ||asakimerp.co.il^$popup,third-party
 ||best-offers.co.il^$popup,third-party
+||booking.com/index.html^$popup,domain=daka90.co.il
 ||campaign.*.co.il^$popup,third-party
 ||clickon.co.il^$popup,third-party
 ||dcampaigns.*.co.il^$popup,third-party
@@ -69,6 +68,7 @@
 ||ilikethis.info^$popup,third-party
 ||lastpage.pw^$popup,third-party
 ||layer.co.il^$popup,third-party
+||media-goal.co.il^$popup,third-party
 ||mini-sites.net^$popup,third-party
 ||mitbahon.co.il/Storage^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
