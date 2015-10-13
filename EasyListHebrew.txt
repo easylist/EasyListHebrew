@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TccwvUEbPhyZsOb7dvoyJg
+! Checksum: 5GK69qoGRhQnXJceUaNQZg
 ! Title: EasyList Hebrew
-! Last modified: 12/10/15 12:48
+! Last modified: 13/10/15 10:47
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -68,6 +68,7 @@
 ||ilikethis.info^$popup,third-party
 ||lastpage.pw^$popup,third-party
 ||layer.co.il^$popup,third-party
+||like-it.co.il^$popup,third-party
 ||media-goal.co.il^$popup,third-party
 ||mini-sites.net^$popup,third-party
 ||mitbahon.co.il/Storage^$popup,third-party
