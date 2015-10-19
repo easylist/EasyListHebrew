@@ -86,6 +86,7 @@
 ||rpe.co.il^$popup,third-party
 ||sekindo.com^$popup,third-party
 ||sex-party.co.il^$popup,third-party
+||sirtonim.me^$popup,third-party
 ||strauss-water-campaign.co.il^$popup,third-party
 ||streamin.to^$popup
 ||tinyurl.com^$popup,domain=daka90.co.il
