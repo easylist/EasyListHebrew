@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1LGGcHByOJ8y+vpM2i7rNA
+! Checksum: vKrP5nIehou3yb1MWjdEsA
 ! Title: EasyList Hebrew
-! Last modified: 14/10/15 14:47
+! Last modified: 19/10/15 13:15
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -84,6 +84,7 @@
 ||pisrael.com^$popup,third-party
 ||rateonclick.com^$popup,third-party
 ||rpe.co.il^$popup,third-party
+||sdarot.pm/daniel_dont_touch/flash-clipgrab-mahavar.gif
 ||sekindo.com^$popup,third-party
 ||sex-party.co.il^$popup,third-party
 ||sirtonim.me^$popup,third-party
@@ -482,7 +483,7 @@ rateonclick.com,view-movies.co.il###connect
 bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
 kikar.co.il###exposeMask
-sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws###extra
+sdarot.pm,sdarot.wf###extra
 ori-diamonds.co.il,popcorate.co.il###hoverConnect
 kikar.co.il###maavaron_overlay
 bhol-forums.co.il,bhol.co.il###sdera.width100pc
@@ -498,7 +499,7 @@ haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 haaretz.co.il,themarker.com##.js-dfp-resp-refresh
 globes.co.il,nrg.co.il##.sekindo
-sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##.side
+sdarot.pm,sdarot.wf##.side
 haaretz.co.il,themarker.com##.topBanners
 themarker.com##.topSectionBanners
 atmag.co.il,timeout.co.il##.to_ad
