@@ -544,6 +544,7 @@ beok.co.il##.BannerMid
 bhol.co.il###AdvertisementSystemTakeOver
 bhol.co.il###divPlazma
 bhol.co.il###flashBtnX
+bhol.co.il###floatDownBar
 bhol.co.il###test.f-right
 bhol.co.il##.banner.clear
 bhol.co.il##.response[style="background-color:#F4F2F0"]
