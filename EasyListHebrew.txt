@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vKrP5nIehou3yb1MWjdEsA
+! Checksum: MXyDc9v3qK278fPE+rNqSA
 ! Title: EasyList Hebrew
-! Last modified: 19/10/15 13:15
+! Last modified: 23/10/15 01:36
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -163,9 +163,6 @@
 ||globes.co.il/data/js/gtv_ads.js
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||globes.co.il/news/frames/topbannerflash$subdocument
-!-zvz-!
-||bannerwebservice.zvz.co.il^
-||zvz.co.il/BannerCommunication.
 !-d-group-!
 ||ban.d-group.co.il/banners/$third-party
 ||d.co.il/Hebrew/images/Premium/
@@ -267,12 +264,12 @@ youlim.info##*
 ||banners.news1.co.il^
 ||banners.news1.co.il^$popup
 ||beaverscripts.com/openwindow.js
+||bannerwebservice.zvz.co.il^
 ||beok.co.il/banners/
 ||besttv1.cdn.it.best-tv.com/reshet/components/BCPCLilyTrackBarCompanion/BCPCLilyTrackBarCompanion.swf
 ||bgu4u.co.il/download/banners/
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||bladna.co.il/Public/flash/
-||cdn.mdigital.co.il/video/*.flv$domain=globes.co.il
 ||cdn.shorte.st/link-converter.min.js
 ||chabad.info/images/pirsomot/
 ||cinema-city.co.il/media/nlc2013/flash/*banner
@@ -326,6 +323,7 @@ youlim.info##*
 ||tgspot.co.il/wp-content/cache/minify/000000/yygpKbDS18_JzMtMzs_VS87Xy8wB8bKL9ZPz88pSi0riTS31sooB.js
 ||wcdn.co.il/banners/
 ||yad2.co.il/js-new/blockPirsum.js
+||zvz.co.il/BannerCommunication
 !
 !----------------------------------Whitelists---------------------------------!
 !
@@ -363,7 +361,6 @@ youlim.info##*
 @@||advertising.themarker.com^$~third-party
 @@||advsnx.net/AdServer/$domain=globes.co.il
 @@||adworks.co.il^$~third-party
-@@||agenda.nana10.co.il/counter.asp
 @@||amazonaws.com/static.madlan.co.il/
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
