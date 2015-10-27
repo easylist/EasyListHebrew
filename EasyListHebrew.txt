@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nbuskeZ1+6s00mKok0MBHA
+! Checksum: ZLovHSsW//Gb0aMJvaDyAA
 ! Title: EasyList Hebrew
-! Last modified: 27/10/15 09:22
+! Last modified: 27/10/15 12:11
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -203,6 +203,7 @@ asface.pw##*
 balimon.info##*
 bitys.pw##*
 bobuzz.com##*
+||cooldays.net/app/vod-blocker$script
 dealclick.pw##*
 dealsclubspecial.pw##*
 dubim.net##*
