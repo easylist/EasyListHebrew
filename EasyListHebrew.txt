@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nWky8DHS7hoivz8GCV+Gwg
+! Checksum: QcVxS5wKd4GeujE0HRoi3A
 ! Title: EasyList Hebrew
-! Last modified: 28/10/15 09:35
+! Last modified: 30/10/15 11:22
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -84,6 +84,7 @@
 ||pisrael.com^$popup,third-party
 ||rateonclick.com^$popup,third-party
 ||rpe.co.il^$popup,third-party
+||perfectpro.co.il^$popup,third-party
 ||sdarot.pm/daniel_dont_touch/flash-clipgrab-mahavar.gif
 ||sekindo.com^$popup,third-party
 ||sex-party.co.il^$popup,third-party
@@ -984,6 +985,7 @@ walla.co.il##div[style="padding-left:2px;width:134;"]
 walla.co.il##div[style="width:468px;height:70px;"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
 walla.co.il##iframe[src^="http://a.walla.co.il/adf.cgi?"]
+walla.co.il##[id^="ads_space_"]
 walla.co.il##[id^="Fusion_holder"]
 wallashops.co.il###mainBanner
 wallashops.co.il###megaBanner
