@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: dSdgtiPkN3PCHR9GA9XTmg
+! Checksum: DgdFEnuiaal9B7qxnrE6pA
 ! Title: EasyList Hebrew
 ! Last modified: 02/11/15 12:08
 ! Expires: 4 days (update frequency)
@@ -206,6 +206,7 @@ asface.pw##*
 balimon.info##*
 bitys.pw##*
 bobuzz.com##*
+buzzlix.com##.video-share
 ||cooldays.net/app/vod-blocker$script
 dealclick.pw##*
 dealsclubspecial.pw##*
@@ -219,6 +220,7 @@ iastrology.net##*
 ilbuzz.net##*
 israfun.net##*
 jobuzz.net##*
+kurtgeigers.co##*
 lead.foxweb.co.il##*
 lools.info##*
 lp.playsmart.co.il##*
@@ -233,6 +235,7 @@ myvod.me##*
 sirtoonim.info##*
 stomi.info##*
 thebestvod.com##*
+topfliightss.net##*
 topise.info##*
 trolim.info##*
 tukid.info##*
@@ -246,7 +249,6 @@ vebuzz.net##*
 vefun.net##*
 view-movies.co.il##*
 viral4buzz.net##*
-viralymaster.com##.video-share
 vodmovies.co.il##*
 vodx.co.il##*
 worldhotnews.net##*
