@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DgdFEnuiaal9B7qxnrE6pA
+! Checksum: dTyyybIFHqK/nz/hDSb5Xw
 ! Title: EasyList Hebrew
-! Last modified: 02/11/15 12:08
+! Last modified: 02/11/15 12:22
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -967,8 +967,6 @@ themarker.com##.t-sec-head.t-sec-head--b.c-pale
 themarker.com##IFRAME[id^="google"]
 themarker.com##[name="txtlnk"] + .border-box
 themarker.com###RelevantiWidget
-tv-guide.walla.co.il##DIV[style="position:fixed;*position:absolute; z-index:9999998; width:100%; height:100%; background-color:#ffffff;"]
-tv-guide.walla.co.il##DIV[style="width: 100%; height: 979px; position: absolute; z-index: 9999999; top: 0px; left: 0px; display: block;"]
 upf.co.il##.bgbanner
 vefun.net##.fblogin.lockoverlay.ng-scope
 walla.co.il###navbar
@@ -985,6 +983,8 @@ walla.co.il##.greenline_top
 walla.co.il##.internetmore
 walla.co.il##.jobsDiv
 walla.co.il##.top_banner_outer.relative
+walla.co.il##DIV[style$="position: absolute; z-index: 9999999; top: 0px; left: 0px; display: block;"]
+walla.co.il##DIV[style="width: 100%; height: 979px; position: absolute; z-index: 9999999; top: 0px; left: 0px; display: block;"]
 walla.co.il##div[style="padding-left:2px;width:134;"]
 walla.co.il##div[style="width:468px;height:70px;"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
