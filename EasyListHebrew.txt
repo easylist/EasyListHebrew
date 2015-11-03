@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dTyyybIFHqK/nz/hDSb5Xw
+! Checksum: RAScrr5EQYUWrZO8/BO6gg
 ! Title: EasyList Hebrew
-! Last modified: 02/11/15 12:22
+! Last modified: 03/11/15 09:43
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -509,6 +509,7 @@ themarker.com##.topSectionBanners
 atmag.co.il,timeout.co.il##.to_ad
 atmag.co.il,timeout.co.il##.to_ad_2a7_wrap.clearfix
 sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##A[href^="http://cellebrate.mobi/il/heb"]
+sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##A[href^="http://www.savey.net"]
 gamex.co.il,linicom.co.il##A[target="_blank"]
 sdarot.li,sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="overflow: hidden;"]
 sdarot.li,sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##DIV[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
