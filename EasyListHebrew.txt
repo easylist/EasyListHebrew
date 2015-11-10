@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RAScrr5EQYUWrZO8/BO6gg
+! Checksum: +t80ag3FpGnKD+yD/bkaKA
 ! Title: EasyList Hebrew
-! Last modified: 03/11/15 09:43
+! Last modified: 10/11/15 23:27
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -239,6 +239,7 @@ topfliightss.net##*
 topise.info##*
 trolim.info##*
 tukid.info##*
+ugbuzz.net##*
 usbuzz.co##*
 usbuzz.com##*
 usbuzz.info##*
@@ -254,6 +255,9 @@ vodx.co.il##*
 worldhotnews.net##*
 yosle.info##*
 youlim.info##*
+zegvid.com##*
+zegvid.net##*
+##.entry > .entry-inner > .wpvl.wpvl-youtube.ng-scope.size-l
 !
 !--------------------------1st party blocking rules---------------------------!
 !
