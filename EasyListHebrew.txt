@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XJl+oR5gLo4tgTYs6sJOCw
+! Checksum: rNd7HgSbooy57k/Lzw3XsQ
 ! Title: EasyList Hebrew
-! Last modified: 11/11/15 10:14
+! Last modified: 11/11/15 14:49
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -442,6 +442,7 @@ zegvid.net##*
 @@||upf.co.il/advertisment.js
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
+@@||ynet.co.il/common/javascript/ads.js
 @@||zvz.co.il/AdImages/$~third-party,image
 @@||צפייהישירה.net/js/ads/popunder.js
 !
