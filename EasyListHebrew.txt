@@ -44,12 +44,14 @@
 ||albar.co.il/ads$popup,third-party
 ||amazing-offers.co.il^$popup,third-party
 ||anetkin.co.il^$popup,third-party
+||anetkin.org^$popup,third-party
 ||ashleymadison.com^$popup,third-party
 ||ashleyrnadison.com^$popup,third-party
 ||asakimerp.co.il^$popup,third-party
 ||best-offers.co.il^$popup,third-party
 ||booking.com/index.html^$popup,domain=daka90.co.il
 ||campaign.*.co.il^$popup,third-party
+||cdn.mdigital.co.il^$third-party
 ||clickon.co.il^$popup,third-party
 ||dcampaigns.*.co.il^$popup,third-party
 ||descreti.co.il^$popup,third-party
@@ -70,6 +72,7 @@
 ||layer.co.il^$popup,third-party
 ||leshem.info^$popup,third-party
 ||like-it.co.il^$popup,third-party
+||mashrokit.info^$popup,third-party
 ||media-goal.co.il^$popup,third-party
 ||mimgoal.com^$popup,third-party
 ||mini-sites.net^$popup,third-party
@@ -177,7 +180,6 @@
 ||apps.mako.co.il/minicampaigns/
 ||bz-vd-se02.se.c04dl.vds-is.castup.net/$object-subrequest,media
 ||castup.net/server12/468/127/12740581-115.mp4$object-subrequest,media
-||cdn.mdigital.co.il^$third-party
 ||ds.keshet-i.com/jserver/
 ||img.mako.co.il/*/*/*/*apet*.jpg
 ||jwtdigital-media.co.il/$third-party
@@ -490,7 +492,7 @@ getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 feeder.co.il,rest.co.il###banner
-rateonclick.com,view-movies.co.il###connect
+rateonclick.com###connect
 bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
 kikar.co.il###exposeMask
@@ -663,11 +665,8 @@ globes.co.il##.banner_box_550x90
 globes.co.il##.banners
 globes.co.il##.topBanner.nocontent
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
-google.co.il###mbEnd
-google.co.il###tads
 haaretz.co.il###comments_banner_wrapper
 haaretz.co.il##.bg-ad
-haaretz.co.il##.js-dfp-resp-refresh
 haaretz.co.il##.t-sec-head-ad
 haaretz.co.il##DIV[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
@@ -976,7 +975,6 @@ themarker.com##IFRAME[id^="google"]
 themarker.com##[name="txtlnk"] + .border-box
 themarker.com###RelevantiWidget
 upf.co.il##.bgbanner
-vefun.net##.fblogin.lockoverlay.ng-scope
 walla.co.il###navbar
 walla.co.il###sec_jobcity_906
 walla.co.il###sec_kama_910
@@ -992,7 +990,6 @@ walla.co.il##.internetmore
 walla.co.il##.jobsDiv
 walla.co.il##.top_banner_outer.relative
 walla.co.il##DIV[style$="position: absolute; z-index: 9999999; top: 0px; left: 0px; display: block;"]
-walla.co.il##DIV[style="width: 100%; height: 979px; position: absolute; z-index: 9999999; top: 0px; left: 0px; display: block;"]
 walla.co.il##div[style="padding-left:2px;width:134;"]
 walla.co.il##div[style="width:468px;height:70px;"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
