@@ -542,6 +542,7 @@ api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
 ashdodnet.com##DIV[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##DIV[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
+askpeople.co.il##.pblock[style="margin-top: 1em; padding: 8px 6px 16px 6px;"]
 auto.co.il###ctl00_MainContent_ctl10_bannerContainer1
 auto.co.il###ctl00_MainContent_divBannerHasut
 auto.co.il###PlazmaOnOff
