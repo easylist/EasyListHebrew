@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rNd7HgSbooy57k/Lzw3XsQ
+! Checksum: UUCymQcc+l4Xm/EtzS+GwQ
 ! Title: EasyList Hebrew
-! Last modified: 11/11/15 14:49
+! Last modified: 15/11/15 22:11
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -1046,6 +1046,7 @@ yad2.co.il##TABLE[style^="direction: rtl; margin-bottom: 0px; width: 792px;"] TD
 yad2.co.il##TD[style="background:#FFFFFF;"][colspan="22"]
 yad2.co.il##TD[width="200"][valign="top"][style="border-right: 0px solid #ffffff; border-left: 0px solid #ffffff; background: #E7E7E7;"]
 yad2.co.il##TH[style="background: #505D6A; font-size: 13px; font-family: arial; text-align: left; color: white; font-weight: bold; padding: 0px; margin: 0px; padding-right: 0px; padding-left: 10px; height: 31px; border-bottom: 1px solid white;"][colspan="9"]
+yad2.co.il##[id$="bottom_banner"]
 yeshanews.com###sideban
 yesno.co.il###wrapper
 yesplanet.co.il###snatch
