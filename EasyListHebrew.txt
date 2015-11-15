@@ -78,6 +78,7 @@
 ||mini-sites.net^$popup,third-party
 ||mitbahon.co.il/Storage^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
+||mooma.mako.co.il/HeaderBanner.aspx
 ||mysupermarket.co.il/landingpage$popup,third-party
 ||oceanmedia.co.il^$popup,third-party
 ||onclickads.net^$popup,third-party
