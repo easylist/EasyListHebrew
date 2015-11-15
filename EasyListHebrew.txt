@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YVdPwMabBsRaTdZqsU4xig
+! Checksum: eiQczX0JGvLGMXMv/H5rbg
 ! Title: EasyList Hebrew
-! Last modified: 15/11/15 22:25
+! Last modified: 16/11/15 00:58
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -209,7 +209,6 @@ asface.pw##*
 balimon.info##*
 bitys.pw##*
 bobuzz.com##*
-buzzlix.com##.video-share
 ||cooldays.net/app/vod-blocker$script
 dealclick.pw##*
 dealsclubspecial.pw##*
@@ -218,7 +217,7 @@ faceu.us##*
 gefun.net##*
 gubuzz.com##*
 gbuzz.net##*
-hagdolim.info##*
+hagdolim.info###video-blocker
 iastrology.net##*
 ilbuzz.net##*
 israfun.net##*
@@ -231,29 +230,22 @@ lyfun.net##*
 lyplay.net##*
 madlik.info##*
 magnivim.info##*
-matokli.net##*
 metador.info##*
 movitop.info##*
 myvod.me##*
 sirtoonim.info##*
+shaardollar.co.il##*
 stomi.info##*
-thebestvod.com##*
 topfliightss.net##*
-topise.info##*
-trolim.info##*
 tukid.info##*
 ugbuzz.net##*
-usbuzz.co##*
-usbuzz.com##*
-usbuzz.info##*
 usbuzz.net##*
-usbuzz.tk##*
-usbuzz.us##*
 vebuzz.net##*
 vefun.net##*
 view-movies.co.il##*
 viral4buzz.net##*
 vodmovies.co.il##*
+vodxil.com##*
 vodx.co.il##*
 worldhotnews.net##*
 yosle.info##*
@@ -261,6 +253,7 @@ youlim.info##*
 zegvid.com##*
 zegvid.net##*
 ##.entry > .entry-inner > .wpvl.wpvl-youtube.ng-scope.size-l
+##.wpvl.wpvl-dailymotion > .fblogin.lockoverlay.ng-scope
 ##.wpvl.wpvl-youtube.ng-scope.size-xl > .ng-scope + .fblogin.lockoverlay.ng-scope
 ##.wpvl.wpvl-youtube.ng-scope.size-xxl > [ng-show="!blocked"] + * + .ng-scope + .fblogin.lockoverlay.ng-scope
 !
