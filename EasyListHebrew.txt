@@ -904,6 +904,9 @@ shironet.mako.co.il###playerAdArea
 simania.co.il##[style="clear:both;width:936px;text-align:center;padding:10px;margin:auto;margin-top:10px;margin-bottom:10px;background-color: rgb(244, 243, 238);text-align:center;"]
 solitaire.co.il##.viv
 sponser.co.il###BannerHeader
+sponser.co.il##DIV[style="display: inline;float: right;height:10px;width: 100%;margin-bottom:10px; border-bottom: 1px solid #D05A00;"]
+sponser.co.il###InnerPagePirsumBox
+sponser.co.il###PubBoxArticles
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il##.article-holder > .alt
