@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: eiQczX0JGvLGMXMv/H5rbg
+! Checksum: gSehoHKKDgVJ4S+lmZksbA
 ! Title: EasyList Hebrew
-! Last modified: 16/11/15 00:58
+! Last modified: 18/11/15 23:11
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -459,6 +459,7 @@ kml.co.il#@#div[id^="div-gpt-ad-"]
 lavender.co.il#@##topAds
 one.co.il#@#a[href^="http://xads.zedo.com/"]
 pitria.com#@#.header-ad
+tapuz.co.il#@#.afs_ads
 !
 !---------------------------------Mobile Ads----------------------------------!
 !
