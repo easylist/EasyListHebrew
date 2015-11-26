@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: weaSvehMK6o+8kHwiYMcxw
+! Checksum: Cww/ymP681+UQdJsdi3MpQ
 ! Title: EasyList Hebrew
-! Last modified: 22/11/15 12:01
+! Last modified: 26/11/15 09:52
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -20,11 +20,13 @@
 ||clickon.co.il^$third-party
 ||erate.co.il^$third-party
 ||internet-bee.com^$third-party
+||jwtdigital-media.co.il^$third-party
 ||jdate.co.il^$third-party
 ||mako.buy2.co.il^$third-party
 ||media.foxweb.co.il^$third-party
 ||mitbahon.co.il^$third-party
 ||next-net.co.il^$third-party
+||pas-rahav.com^$third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||s.tool-site.com^$third-party
 ||shorter.co.il/js/fp.js.php
@@ -183,10 +185,8 @@
 ||castup.net/server12/468/127/12740581-115.mp4$object-subrequest,media
 ||ds.keshet-i.com/jserver/
 ||img.mako.co.il/*/*/*/*apet*.jpg
-||jwtdigital-media.co.il/$third-party
 ||kz-vd-se01.se.c04dl.vds-is.castup.net/$object-subrequest,media
 ||makostorepdl-a.akamaihd.net^$third-party
-||pas-rahav.com^$third-party
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
 !-fxp-!
@@ -628,7 +628,8 @@ flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margi
 foodsdictionary.co.il###bottom-banner-container
 foodsdictionary.co.il###main-header-ad
 forbes.co.il##EMBED[src^="/download/banners/"]
-forbes.co.il##TABLE[style="background-color:#e8e8e8"]
+forbes.co.il##TABLE[width="264"][height="264"][style="background-color:#e8e8e8"]
+forbes.co.il##TABLE[width="980"][height="110"][style="background-color:#e8e8e8"]
 frogi.co.il##.adbox
 frogi.co.il##.article_item_adbox
 frogi.co.il##.topbanner
