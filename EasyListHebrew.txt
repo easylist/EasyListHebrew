@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rePT9iVoAY0N7/+7pXPjjw
+! Checksum: Xt8LXqqjBNrMFNUqmBrD9Q
 ! Title: EasyList Hebrew
-! Last modified: 01/12/15 21:08
+! Last modified: 01/12/15 21:36
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -45,6 +45,7 @@
 ||adventuredigital.co.il^$popup,third-party
 ||albar.co.il/ads$popup,third-party
 ||amazing-offers.co.il^$popup,third-party
+||anetkin.biz^$popup,third-party
 ||anetkin.co.il^$popup,third-party
 ||anetkin.org^$popup,third-party
 ||ashleymadison.com^$popup,third-party
@@ -697,6 +698,8 @@ infomed.co.il##.ad_01
 infomed.co.il##.google_adDiv
 infomed.co.il##.squere_ad
 infomed.co.il##OL[anc="adclass"]
+infomed.co.il###mada_adback
+infomed.co.il###mada_adlayer
 infomed.co.il###overlayBanner
 inn.co.il###div160Down.div160Info
 inn.co.il###div160Info
