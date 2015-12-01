@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: s/Kpwv55JaNfomDJ8CIF/Q
+! Checksum: jQPI7pMh0VE1g0L10nQd3g
 ! Title: EasyList Hebrew
-! Last modified: 26/11/15 10:10
+! Last modified: 01/12/15 21:08
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -369,6 +369,8 @@ zegvid.net##*
 @@||advertising.themarker.com^$~third-party
 @@||advsnx.net/AdServer/$domain=globes.co.il
 @@||adworks.co.il^$~third-party
+@@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il
+@@||akamai.advsnx.net/CDN/one/jw6/plugin.swf$domain=one.co.il
 @@||amazonaws.com/static.madlan.co.il/
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
@@ -418,6 +420,7 @@ zegvid.net##*
 @@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
 @@||one.co.il/images/Ads/2013/10/20/2230/racer_51x20hp.png
 @@||one.co.il/images/ads/2014/06/02/1415/MNDL2.swf
+@@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=repo.thewiz.info|pitaronfree.blogspot.co.il
 @@||parkinson.org.il/_Uploads/dbsBanners/
