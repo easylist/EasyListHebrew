@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: jQPI7pMh0VE1g0L10nQd3g
+! Checksum: rePT9iVoAY0N7/+7pXPjjw
 ! Title: EasyList Hebrew
 ! Last modified: 01/12/15 21:08
 ! Expires: 4 days (update frequency)
@@ -439,7 +439,6 @@ zegvid.net##*
 @@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
 @@||tornado-top.co.il/template/images/
-@@||trc.taboola.com/inncoil/log/3/ava$domain=inn.co.il
 @@||upf.co.il/advertisment.js
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
