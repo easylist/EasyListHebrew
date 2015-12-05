@@ -106,6 +106,7 @@
 ||um-per.com^$popup,third-party
 ||unbouncepages.com^$popup,third-party
 ||vodmovies.net/random$popup
+||webteam.co.il^$popup,third-party
 ||wee.co.il^$popup,third-party
 ||wesell.co.il^$popup,third-party
 ||yeppyepp.co.il^$popup,third-party
