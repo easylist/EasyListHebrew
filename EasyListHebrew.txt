@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Xt8LXqqjBNrMFNUqmBrD9Q
+! Checksum: hn3oT/0ZDgbx6ONqrLPkjw
 ! Title: EasyList Hebrew
-! Last modified: 01/12/15 21:36
+! Last modified: 05/12/15 22:02
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -379,7 +379,7 @@ zegvid.net##*
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
-@@||blogspot.com$image,domain=goalim4you.xyz
+@@||blogspot.com$image,domain=goalim4u.site
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?cn=is&c=*VAST$object-subrequest
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||c04dl.vds-is.castup.net/crossdomain.net
@@ -390,7 +390,7 @@ zegvid.net##*
 @@||easy.co.il/adsense.js
 @@||eco99fm.maariv.co.il/Servicesrotator
 @@||globes.co.il/js/ads.js
-@@||goalim4you.xyz^$elemhide
+@@||goalim4u.site^$elemhide
 @@||googleapis.com/flash$object-subrequest,domain=globes.co.il
 @@||gplanet.co.il/js/adx.js
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
