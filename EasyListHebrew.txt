@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hn3oT/0ZDgbx6ONqrLPkjw
+! Checksum: j+bUqJ9XgQgSFgU2Na+8EA
 ! Title: EasyList Hebrew
-! Last modified: 05/12/15 22:02
+! Last modified: 08/12/15 21:39
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -589,6 +589,7 @@ bizportal.co.il###tapet_superpremium_container
 bizportal.co.il##.adv_breatdcrumbs
 bizportal.co.il##.baner1
 bizportal.co.il##.baner2
+bizportal.co.il##.hp_baner_kub
 bizportal.co.il##.kubia_banner
 bizportal.co.il##.single_section_world_short
 bul.co.il##BODY
@@ -641,6 +642,7 @@ forbes.co.il##TABLE[width="980"][height="110"][style="background-color:#e8e8e8"]
 frogi.co.il##.adbox
 frogi.co.il##.article_item_adbox
 frogi.co.il##.topbanner
+fun.walla.co.il##.subMenuRightBorder.sprt_top_toolbar.page_border_right.right
 fxp.co.il###adfxp
 fxp.co.il###vc_widget
 fxp.co.il###web_3_tool
@@ -790,6 +792,8 @@ mapa.co.il##.cls_banner_468X60
 mapa.co.il##DIV[style^="text-align:center;width:374px;height:260px;*height:270px;_height:270px;*display:inline-block;background-color:#e3e3e3;padding-top:10px;"]
 mapa.co.il##DIV[style^="text-align:center;width:385px;height:260px;*height:270px;_height:270px;*display:inline-block;background-color:#e3e3e3;padding-top:10px;"]
 mapa.co.il##TD[bgcolor="#e3e3e3"][height="110"]
+mazaltov.walla.co.il##.banner-tower
+mazaltov.walla.co.il##.master-popup-banner
 mekusharim.walla.co.il##.center.footer-banner
 mekusharim.walla.co.il##.main-lower-corners.clearfix
 mishlohim.co.il###TopMenu1_bannerDiv
@@ -852,6 +856,7 @@ nrg.co.il###sekindo
 nrg.co.il##.bannerWrapper
 nrg.co.il##.tallBanner
 nrg.co.il##IFRAME[style="height:250px;width:300px;"]
+omritv.co.il###popup
 omritv.co.il##.post-content > DIV[style="width:300px; height:600px; margin:0 auto;"]
 one.co.il###Adv2
 one.co.il###WinnnerRacer
@@ -906,6 +911,7 @@ s-maof.com##DIV[style="position: absolute; right: 40px; top: 200px; z-index: 0; 
 saloona.co.il###footer_banner
 saloona.co.il##.popup_order_overlay
 seret.co.il###divMaavaronBanner
+seret.co.il###topbannercontainer
 seret.co.il##.RightColWhiteBox312x262
 seret.co.il##.cbthfds
 seret.co.il##DIV[style="width:100%;text-align:center;"]
