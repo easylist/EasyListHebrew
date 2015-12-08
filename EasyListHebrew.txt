@@ -430,6 +430,7 @@ zegvid.net##*
 @@||pitaronfree.blogspot.co.il^$elemhide
 @@||players.edgesuite.net/flash/analytics/qos$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
+@@||reshet.tv/ads.html
 @@||se.c04dl.vds-is.castup.net/server12/468/208/20816834-115.mp4$domain=mako.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sexadir.co.il/ads/$image,~third-party
