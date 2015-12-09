@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: j+bUqJ9XgQgSFgU2Na+8EA
+! Checksum: Bo9NkE5BYRzF2nqD69deIQ
 ! Title: EasyList Hebrew
-! Last modified: 08/12/15 21:39
+! Last modified: 09/12/15 22:26
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -138,7 +138,6 @@
 ||ynet.co.il/images/video/wobi/wobi_
 ||ynet.co.il/WinWinCooperation/
 ||ynet.co.il^*/ynetbanneradmin/
-||ynet.hiro.co.il/crossdomain.xml
 ||ynetshops.co.il/article/showbanner2/
 !-nrg-!
 ||nrg.co.il/cache/banners
@@ -393,6 +392,7 @@ zegvid.net##*
 @@||goalim4u.site^$elemhide
 @@||googleapis.com/flash$object-subrequest,domain=globes.co.il
 @@||gplanet.co.il/js/adx.js
+@@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
 @@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
 @@||ilgde.adocean.pl/$object-subrequest,domain=mako.co.il
@@ -446,6 +446,8 @@ zegvid.net##*
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
 @@||ynet.co.il/common/javascript/ads.js
+@@||youtube.com/yva_video?adformat$domain=y.net-games.co.il
+@@||y.net-games.co.il/js/adblock_detector.js
 @@||zvz.co.il/AdImages/$~third-party,image
 @@||צפייהישירה.net/js/ads/popunder.js
 !
