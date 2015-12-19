@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OPXhl3OWJfVDcXAOHBagYg
+! Checksum: WfIopFol/cgN3ImXkrKvJg
 ! Title: EasyList Hebrew
-! Last modified: 20/12/15 00:42
+! Last modified: 20/12/15 00:44
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -647,6 +647,7 @@ fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; righ
 fxp.co.il##[style^="opacity:"]
 games.nana10.co.il###tmp1632_46
 games.nana10.co.il##.BannerMiddle
+games.nrg.co.il###tower-ads
 gamex.co.il###skyscraper
 gear.co.il###peelback
 gear.co.il##.ad_A1
@@ -876,6 +877,7 @@ onlife.co.il###block-freelancer-1
 onlife.co.il###top_article_ads_wrapper
 onlife.co.il###top_u_ads_wrapper
 onlife.co.il##.commercial
+onlife.co.il##.flying-banner-wrapper
 ori-diamonds.co.il##IMG[style="cursor: default; width: 100%;"]
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 psakdin.co.il###bnrTop
@@ -1090,6 +1092,8 @@ ynet.co.il##[id^="Promo"]
 ynet.co.il##[style="DISPLAY: block; FLOAT: left"] > DIV[style="PADDING-BOTTOM: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px"]
 ynet.co.il##IFRAME[name="ExternalWebpageIframe"][src^="http://go.ynet.co.il/short/commerce/"]
 ynet.co.il##iframe[style="width:770px;height:191px;"]
+yummies.reshet.tv##.grid_banner_wrp
+yummies.reshet.tv###yms-side-banner
 zap.co.il###dgBan_t12x1
 zap.co.il##.BannerBox
 zap.co.il##.Martef
