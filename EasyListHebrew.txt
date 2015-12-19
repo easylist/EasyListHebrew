@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fm6OvSYHxxgasGf/b7L58w
+! Checksum: 1yG3ficQRBARIwqrR8z5xA
 ! Title: EasyList Hebrew
-! Last modified: 17/12/15 09:41
+! Last modified: 20/12/15 00:15
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -360,13 +360,12 @@ zegvid.net##*
 @@||10tv.nana10.co.il/Video/advert.png
 @@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
+@@||advsnx.net^$domain=mako.co.il
 @@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
 @@||ads.one.co.il/images/Ads/2014/05/22/1500/51x20.gif
 @@||ads.one.co.il/images/ads/2014/06/02/1415/
 @@||ads.one.co.il/images/ads/2014/06/02/1430/444.png
 @@||ads.one.co.il/images/MSites/2014/05/22/1530/cremahadash.png
-@@||adserver.adtech.de/?advideo/$object-subrequest,domain=mako.co.il
-@@||adserver.adtech.de/rmevent/$object-subrequest,domain=mako.co.il,media
 @@||advertising.themarker.com^$~third-party
 @@||advsnx.net/AdServer/$domain=globes.co.il
 @@||adworks.co.il^$~third-party
@@ -382,7 +381,6 @@ zegvid.net##*
 @@||blogspot.com$image,domain=goalim4u.site
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?cn=is&c=*VAST$object-subrequest
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
-@@||c04dl.vds-is.castup.net/crossdomain.net
 @@||cbci16.b1.cdn.co.il^
 @@||cdnwiz.com/adserver/uploads/bhol2.mp4
 @@||clalit.co.il/AdImages
@@ -395,8 +393,6 @@ zegvid.net##*
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
-@@||ifat.com/VideoControl/makoinformation$object-subrequest,domain=mako.co.il,media
-@@||ilgde.adocean.pl/$object-subrequest,domain=mako.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||isramedia.net^$elemhide
@@ -407,14 +403,6 @@ zegvid.net##*
 @@||kikar.co.il/js/ads.js
 @@||leava.co.il^$elemhide
 @@||lips.co.il/ads/$image,~third-party
-@@||mako.checkm8.com/adam/em/$object-subrequest
-@@||mako.checkm8.com/adam/inline?*=HEAVY_PIC_$object-subrequest
-@@||mako.checkm8.com/adam/inline?*=STANDARD_TV_$object-subrequest
-@@||mako.checkm8.com/adam/inline?*cat=mako.*VIDEOSPOT_$object-subrequest
-@@||mako.checkm8.com/adam/inline?cat=mako.*=MIDROLL_$object-subrequest
-@@||mako.checkm8.com/adam/inline?cat=mako.*=OVERLAY$object-subrequest
-@@||mako.checkm8.com/adam/inline?cat=mako.*=SAGIR_$object-subrequest
-@@||mako.checkm8.com/crossdomain.xml$object-subrequest
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
 @@||mouse.co.il/images/ad_mouse_cafe.jpg
 @@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
@@ -429,7 +417,6 @@ zegvid.net##*
 @@||parkinson.org.il/_Uploads/dbsBanners/
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=reshet.tv
 @@||pitaronfree.blogspot.co.il^$elemhide
-@@||players.edgesuite.net/flash/analytics/qos$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||reshet.tv/ads.html
 @@||se.c04dl.vds-is.castup.net/server12/468/208/20816834-115.mp4$domain=mako.co.il
