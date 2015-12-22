@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: g2xVZmGTh2mVfScZ1m8Wyw
+! Checksum: bvRR0swgPqldBrfYqj4G5w
 ! Title: EasyList Hebrew
-! Last modified: 21/12/15 14:06
+! Last modified: 22/12/15 23:28
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -215,6 +215,7 @@ dealclick.pw##*
 dealsclubspecial.pw##*
 dubim.net##*
 faceu.us##*
+freeoffers.co.il##*
 gefun.net##*
 gubuzz.com##*
 gbuzz.net##*
@@ -223,6 +224,7 @@ iastrology.net##*
 ilbuzz.net##*
 israfun.net##*
 jobuzz.net##*
+kelocote.prpl.co.il##*
 kurtgeigers.co##*
 lead.foxweb.co.il##*
 lools.info##*
