@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bvRR0swgPqldBrfYqj4G5w
+! Checksum: VNtm0nqGQE3Tkq1TF8HjCg
 ! Title: EasyList Hebrew
-! Last modified: 22/12/15 23:28
+! Last modified: 24/12/15 10:39
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -123,6 +123,7 @@
 ||wrtm.walla.co.il^
 ||xwbe.wcdn.co.il/$image
 ||xwne.wcdn.co.il^$domain=walla.co.il
+||x.walla.co.il$image,domain=mail.walla.co.il
 !-ynet-!
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
