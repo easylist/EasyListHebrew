@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: o6UQmRmpxt8DuLRkrVzHRg
+! Checksum: 1ojF9u30H1TeK8TJxtIbwQ
 ! Title: EasyList Hebrew
-! Last modified: 26/12/15 22:38
+! Last modified: 27/12/15 00:43
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -384,7 +384,7 @@ zegvid.net##*
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
-@@||blogspot.com$image,domain=goalim4u.site
+@@||blogspot.com$image,domain=goalim.pw
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs?cn=is&c=*VAST$object-subrequest
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||cbci16.b1.cdn.co.il^
@@ -395,7 +395,7 @@ zegvid.net##*
 @@||easy.co.il/adsense.js
 @@||eco99fm.maariv.co.il/Servicesrotator
 @@||globes.co.il/js/ads.js
-@@||goalim4u.site^$elemhide
+@@||goalim.pw^$elemhide
 @@||googleapis.com/flash$object-subrequest,domain=globes.co.il
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
