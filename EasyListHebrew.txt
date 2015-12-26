@@ -376,6 +376,7 @@ zegvid.net##*
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf$domain=one.co.il
+@@||akamai.advsnx.net/CDN/ynet/ynet.swf
 @@||akamai.advsnx.net^$domain=mako.co.il
 @@||amazonaws.com/static.madlan.co.il/
 @@||banners.e-dologic.co.il^$domain=bamba.co.il
