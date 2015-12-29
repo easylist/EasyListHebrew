@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7b/6sgXGXPhCZzVy2U932g
+! Checksum: UK4ZuI7U04x3Oq16D4ZViQ
 ! Title: EasyList Hebrew
-! Last modified: 29/12/15 15:20
+! Last modified: 29/12/15 19:56
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -181,15 +181,20 @@
 !-mako-!
 ||1host.co.il/$object-subrequest,domain=mako.co.il
 ||adserv.mako.co.il^
+||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
 ||apps.mako.co.il/minicampaigns/
 ||bz-vd-se02.se.c04dl.vds-is.castup.net/$object-subrequest,media
 ||castup.net/server12/468/127/12740581-115.mp4$object-subrequest,media
+||cellstats.mako.co.il^
 ||ds.keshet-i.com/jserver/
+||google-analytics.com^$third-party,domain=mako.co.il
+||logger.logidea.info^$third-party,domain=mako.co.il
 ||kz-vd-se01.se.c04dl.vds-is.castup.net/$object-subrequest,media
 ||makostorepdl-a.akamaihd.net^$third-party
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
+||stats.mako.co.il^
 !-fxp-!
 ||akamaihd.net^$image,third-party,domain=fxp.co.il
 ||iotest.me.uk^$domain=fxp.co.il
@@ -364,6 +369,7 @@ zegvid.net##*
 !--------------Whitelists Rules (caused by EasyList / EasyPrivacy )-----------!
 !
 @@||10tv.nana10.co.il/Video/advert.png
+@@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
@@ -409,7 +415,8 @@ zegvid.net##*
 @@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
 @@||kamaze.co.il/Advertisement/Logos/$~third-party,image
 @@||kikar.co.il/js/ads.js
-@@||lb.advsnx.net^$domain=mako.co.il
+@@||lb.advsnx.net/crossdomain.xml|$domain=mako.co.il
+@@||lb.advsnx.net/as/$domain=mako.co.il
 @@||leava.co.il^$elemhide
 @@||lips.co.il/ads/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
@@ -428,6 +435,8 @@ zegvid.net##*
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=reshet.tv
 @@||pitaronfree.blogspot.co.il^$elemhide
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
+@@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
+@@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||reshet.tv/ads.html
 @@||se.c04dl.vds-is.castup.net/server12/468/208/20816834-115.mp4$domain=mako.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
