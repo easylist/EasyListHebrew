@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UK4ZuI7U04x3Oq16D4ZViQ
+! Checksum: yY8umCsvW5/jO3Vpatj3BQ
 ! Title: EasyList Hebrew
-! Last modified: 29/12/15 19:56
+! Last modified: 06/01/16 10:56
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -432,7 +432,7 @@ zegvid.net##*
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=repo.thewiz.info|pitaronfree.blogspot.co.il
 @@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
 @@||parkinson.org.il/_Uploads/dbsBanners/
-@@||partner.googleadservices.com/gpt/pubads_$script,domain=reshet.tv
+@@||partner.googleadservices.com/gpt/pubads_$script,domain=one.co.il|reshet.tv
 @@||pitaronfree.blogspot.co.il^$elemhide
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
