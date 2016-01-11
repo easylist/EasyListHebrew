@@ -30,13 +30,13 @@
 #                                                                           #
 #############################################################################
 
-import sys, re, codecs, hashlib, base64 ,time
+import sys, re, codecs, hashlib, base64 ,datetime
 
 checksumRegexp = re.compile(r'^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n', re.I | re.M)
 dateRegexp= re.compile(r'^\s*!\s*Last modified[\s\-:]+([\w\+\/=]+).*\n', re.I | re.M)
 
 def addChecksum(data):
-  data = re.sub(dateRegexp, '! Last modified: '+time.strftime('%d/%m/%y %H:%M\n'), data)
+  data = re.sub(dateRegexp, '! Last modified: %s'%datetime.datetime.utcnow().strftime('%d %b %Y %H:%M UTC\n'), data)
   checksum = calculateChecksum(data)
   data = re.sub(checksumRegexp, '', data)
   data = re.sub(r'(\r?\n)', r'\1! Checksum: %s\1' % checksum, data, 1)
