@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Pmrsx7FxJwPnYlr1Ma992g
+! Checksum: WrWGd6IVhjoWv7stXk1Exw
 ! Title: EasyList Hebrew
-! Last modified: 13 Jan 2016 07:21 UTC
+! Last modified: 13 Jan 2016 20:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -71,6 +71,7 @@
 ||hotdate.co.il^$popup,third-party
 ||iforex.co.il/landing_pages^$popup,third-party
 ||ilikethis.info^$popup,third-party
+||imarkets.co.il^$popup,third-party
 ||lastpage.pw^$popup,third-party
 ||layer.co.il^$popup,third-party
 ||leshem.info^$popup,third-party
