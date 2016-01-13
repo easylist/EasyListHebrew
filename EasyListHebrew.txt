@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8oPLXKXvqRd+fYRm+YQV3Q
+! Checksum: Pmrsx7FxJwPnYlr1Ma992g
 ! Title: EasyList Hebrew
-! Last modified: 11 Jan 2016 16:55 UTC
+! Last modified: 13 Jan 2016 07:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -407,6 +407,7 @@ zegvid.net##*
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
+@@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||isramedia.net^$elemhide
@@ -469,6 +470,7 @@ foodsdictionary.co.il#@#.AdSense
 foodsdictionary.co.il#@#.Adsense
 foodsdictionary.co.il#@#.adSense
 homeless.co.il#@#.postad
+holmesplace.co.il#@#.image-advertisement
 ice.co.il#@#.afs_ads
 junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
