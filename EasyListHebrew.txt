@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WrWGd6IVhjoWv7stXk1Exw
+! Checksum: Cz4vlOzXE6TR2M3OeWaQoA
 ! Title: EasyList Hebrew
-! Last modified: 13 Jan 2016 20:54 UTC
+! Last modified: 14 Jan 2016 18:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -187,15 +187,12 @@
 ||apps.mako.co.il/minicampaigns/
 ||bz-vd-se02.se.c04dl.vds-is.castup.net/$object-subrequest,media
 ||castup.net/server12/468/127/12740581-115.mp4$object-subrequest,media
-||cellstats.mako.co.il^
 ||ds.keshet-i.com/jserver/
-||google-analytics.com^$third-party,domain=mako.co.il
 ||logger.logidea.info^$third-party,domain=mako.co.il
 ||kz-vd-se01.se.c04dl.vds-is.castup.net/$object-subrequest,media
 ||makostorepdl-a.akamaihd.net^$third-party
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
-||stats.mako.co.il^
 !-fxp-!
 ||akamaihd.net^$image,third-party,domain=fxp.co.il
 ||iotest.me.uk^$domain=fxp.co.il
