@@ -24,6 +24,7 @@
 ||jdate.co.il^$third-party
 ||mako.buy2.co.il^$third-party
 ||media.foxweb.co.il^$third-party
+||mimgoal.com^$third-party
 ||mitbahon.co.il^$third-party
 ||next-net.co.il^$third-party
 ||pas-rahav.com^$third-party
@@ -312,6 +313,8 @@ zegvid.net##*
 ||kipa.co.il/banner/
 ||kipasruga.com/banner/
 ||lametayel.co.il/landing/market.html$popup
+||lauyn.info^
+lauyn.info##*
 ||leadim4u.com/accounts/default1/banners/
 ||lev.co.il/download/HomeBackground/$image
 ||local.co.il/banners/
