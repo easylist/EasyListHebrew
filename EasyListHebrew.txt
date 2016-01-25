@@ -137,6 +137,7 @@
 ||go.ynet.co.il/short/Demos/*/Ads/
 ||infomed.co.il/ynet/sidebox.aspx?
 ||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
+||psakdin.co.il/ExternalFrames/$domain=ynet.co.il
 ||ynet.co.il/images/headline_video_header_samsung.png
 ||ynet.co.il/images/video/wobi/wobi_
 ||ynet.co.il/WinWinCooperation/
