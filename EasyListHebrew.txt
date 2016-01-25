@@ -1073,6 +1073,7 @@ yad2.co.il##DIV[style="   border-bottom: 1px #d4d4d4 solid; background-color: #f
 yad2.co.il##DIV[style^="margin-top: 5px; width: 179px;height: 130px;background-color: #fff;margin-left: auto;margin-right: auto;border-bottom: 1px #e8e8e8 solid;border-left: 1px #d4d4d4"]
 yad2.co.il##TABLE[style^="direction: rtl; margin-bottom: 0px; width: 792px;"] TD[style="padding-bottom: 10px; height: 150px;"][colspan="2"]
 yad2.co.il##TD[style="background:#FFFFFF;"][colspan="22"]
+yad2.co.il##TD[style="background:#FFFFFF"][colspan="22"]
 yad2.co.il##TD[width="200"][valign="top"][style="border-right: 0px solid #ffffff; border-left: 0px solid #ffffff; background: #E7E7E7;"]
 yad2.co.il##TH[style="background: #505D6A; font-size: 13px; font-family: arial; text-align: left; color: white; font-weight: bold; padding: 0px; margin: 0px; padding-right: 0px; padding-left: 10px; height: 31px; border-bottom: 1px solid white;"][colspan="9"]
 yad2.co.il##[id$="bottom_banner"]
