@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Cz4vlOzXE6TR2M3OeWaQoA
+! Checksum: z6x8xag641gYZvveAcxLcg
 ! Title: EasyList Hebrew
-! Last modified: 14 Jan 2016 18:01 UTC
+! Last modified: 25 Jan 2016 19:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -195,19 +195,6 @@
 ||makostorepdl-a.akamaihd.net^$third-party
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
-!-fxp-!
-||akamaihd.net^$image,third-party,domain=fxp.co.il
-||iotest.me.uk^$domain=fxp.co.il
-||fcdn.co.il/*.swf$domain=fxp.co.il
-||fifa.games-il.info/AHfVczS/fed/repeat/
-||fortest.info^$domain=fxp.co.il
-||fxp.co.il/skinfxp/*.php$script,image
-||games-il.info^$domain=fxp.co.il
-||new-shekel-50.xyz^$domain=fxp.co.il
-||ofofof.info^$domain=fxp.co.il
-||org.uk$domain=fxp.co.il
-||shaoli-the-king.xyz^$domain=fxp.co.il
-||why-love-fifa.me.uk^$domain=fxp.co.il
 !
 !--------------------------SPAM SITES blocking rules--------------------------!
 !
@@ -296,6 +283,7 @@ zegvid.net##*
 ||date.dacho.co.il^
 ||ddlil.com/banners/
 ||dimpact.co.il/Live/Banner/
+||fxp.co.il/skinfxp/*.php$script,image
 ||gear.co.il/Content/MediaItems/Campaigns/
 ||globusmax.co.il/images/950x171leumi_diners(5).swf
 ||googleusercontent.com^$domain=trusted-software.com
