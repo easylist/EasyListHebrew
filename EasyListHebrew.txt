@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4WCEn0fWDEK52JM5nO/eFg
+! Checksum: CykhBcWPOvr+7Uiavzzhgw
 ! Title: EasyList Hebrew
-! Last modified: 30 Jan 2016 17:47 UTC
+! Last modified: 06 Feb 2016 19:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -372,6 +372,7 @@ lauyn.info##*
 @@||advsnx.net/AdServer/$domain=globes.co.il
 @@||adworks.co.il^$~third-party
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il
+@@||akamai.advsnx.net/CDN/arutz7$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf$domain=one.co.il
 @@||akamai.advsnx.net/CDN/ynet/ynet.swf
