@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CykhBcWPOvr+7Uiavzzhgw
+! Checksum: WiS1hsBZxGoI+/j5+m8kmQ
 ! Title: EasyList Hebrew
-! Last modified: 06 Feb 2016 19:21 UTC
+! Last modified: 06 Feb 2016 20:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -338,38 +338,19 @@ lauyn.info##*
 !
 !----------------------------------Whitelists---------------------------------!
 !
-@@||ad.doubleclick.net/$object-subrequest,domain=mako.co.il
-@@||ads.doctors.co.il/banners/$~third-party,image
-@@||dclk.themarker.com/js.ng/$script
-@@||forbes.co.il/download/banners/
-@@||haaretz.co.il/st/inter/Global/Banners/paywall9/madora_835/barin_pop.jpg
-@@||haaretz.co.il/st/inter/Global/Banners/paywall9/madora_835/darkBrain.jpg
-@@||hamidrasha.co.il/ads
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
 @@||info.a7.org/info/$script
 @@||internet-bee.com/Feats/
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||pas-rahav.com/creativitys
-@@||themarker.com/css/advertisement_article.css
-@@||themarker.com/dclk/dclk_ads.js
-@@||themarker.com/dclk/dclk_ads_init_tm_pol.js
 @@||themarker.com/dclk/dfp/dfp_init_base.js
-@@||themarker.com/dclk/dfp/dfp_init_tm.js$script
-@@||y.net-games.co.il/adimages/
 !
 !--------------Whitelists Rules (caused by EasyList / EasyPrivacy )-----------!
 !
-@@||10tv.nana10.co.il/Video/advert.png
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
-@@||ads.one.co.il/images/Ads/2014/05/22/1500/51x20.gif
-@@||ads.one.co.il/images/ads/2014/06/02/1415/
-@@||ads.one.co.il/images/ads/2014/06/02/1430/444.png
-@@||ads.one.co.il/images/MSites/2014/05/22/1530/cremahadash.png
-@@||advertising.themarker.com^$~third-party
-@@||advsnx.net/AdServer/$domain=globes.co.il
 @@||adworks.co.il^$~third-party
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
@@ -378,43 +359,30 @@ lauyn.info##*
 @@||akamai.advsnx.net/CDN/ynet/ynet.swf
 @@||akamai.advsnx.net^$domain=mako.co.il
 @@||amazonaws.com/static.madlan.co.il/
-@@||banners.e-dologic.co.il^$domain=bamba.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||blogspot.com$image,domain=goalim.pw
-@@||bs.serving-sys.com/BurstingPipe/adServer.bs?cn=is&c=*VAST$object-subrequest
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
-@@||cbci16.b1.cdn.co.il^
-@@||cdnwiz.com/adserver/uploads/bhol2.mp4
 @@||clalit.co.il/AdImages
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||doubleclick.net/gampad/ads$domain=y.net-games.co.il
-@@||easy.co.il/adsense.js
-@@||eco99fm.maariv.co.il/Servicesrotator
+@@||forbes.co.il/download/banners/
 @@||globes.co.il/js/ads.js
 @@||goalim.pw^$elemhide
-@@||googleapis.com/flash$object-subrequest,domain=globes.co.il
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
-@@||isramedia.net^$elemhide
-@@||isramedia.net/images/header/header2_01.jpg
-@@||images*.ynet.co.il/PicServer*/201*/*TIZER.$image
-@@||kamaze.co.il/Advertisement/Image/callme/$~third-party,image
-@@||kamaze.co.il/Advertisement/Logos/$~third-party,image
 @@||kikar.co.il/js/ads.js
 @@||lb.advsnx.net/crossdomain.xml|$domain=mako.co.il
 @@||lb.advsnx.net/as/$domain=mako.co.il
 @@||leava.co.il^$elemhide
 @@||lips.co.il/ads/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
-@@||mouse.co.il/images/ad_mouse_cafe.jpg
-@@||nrg.co.il/online/*_468.htm$~third-party,xmlhttprequest
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
@@ -424,31 +392,25 @@ lauyn.info##*
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=repo.thewiz.info|pitaronfree.blogspot.co.il
 @@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
-@@||parkinson.org.il/_Uploads/dbsBanners/
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=one.co.il|reshet.tv
 @@||pitaronfree.blogspot.co.il^$elemhide
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||reshet.tv/ads.html
-@@||se.c04dl.vds-is.castup.net/server12/468/208/20816834-115.mp4$domain=mako.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sexadir.co.il/ads/$image,~third-party
 @@||sexadir.co.il/banners/$image,~third-party
 @@||seximo.co.il/ads/$image,~third-party
 @@||sfx-images.mozilla.org^$image
-@@||srugim.co.il/*670x100&front=true
-@@||streambb.one.co.il/ads/$media
 @@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
 @@||tornado-top.co.il/template/images/
-@@||upf.co.il/advertisment.js
 @@||xads.zedo.com^$popup,domain=one.co.il
-@@||yad2.co.il/ajax/click_stat.php?BannerID=$xmlhttprequest
 @@||ynet.co.il/common/javascript/ads.js
 @@||youtube.com/yva_video?adformat$domain=y.net-games.co.il
+@@||y.net-games.co.il/adimages/
 @@||y.net-games.co.il/js/adblock_detector.js
-@@||zvz.co.il/AdImages/$~third-party,image
 @@||צפייהישירה.net/js/ads/popunder.js
 !
 !------Whitelists Element Hiding Rules (caused by EasyList / EasyPrivacy )----!
