@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WiS1hsBZxGoI+/j5+m8kmQ
+! Checksum: T9A/bftX12pXzo2S/RyxZw
 ! Title: EasyList Hebrew
-! Last modified: 06 Feb 2016 20:08 UTC
+! Last modified: 16 Feb 2016 20:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -905,6 +905,7 @@ srugim.co.il###front_rcol_ad
 srugim.co.il###maavaron
 srugim.co.il##.margin_10
 srugim.co.il##.srugim_top_slider
+srugim.co.il##DIV[style="position: relative;left: 10px;height: 250px;width: 300px;background: #eee;padding: 10px 0;"]
 starmed.co.il##.banner_forums_160x600_right
 starmed.co.il##.banner_forums_tree_300x250
 starmed.co.il##div[style="width:990px;height:150px;margin:2px auto 4px auto"]
