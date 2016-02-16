@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: T9A/bftX12pXzo2S/RyxZw
+! Checksum: FWNQh1NfMWT3Ggtxl1TTsg
 ! Title: EasyList Hebrew
-! Last modified: 16 Feb 2016 20:14 UTC
+! Last modified: 16 Feb 2016 22:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -363,14 +363,14 @@ lauyn.info##*
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
-@@||blogspot.com$image,domain=goalim.pw
+@@||blogspot.com^$image,domain=goalim.club
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||clalit.co.il/AdImages
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||doubleclick.net/gampad/ads$domain=y.net-games.co.il
 @@||forbes.co.il/download/banners/
 @@||globes.co.il/js/ads.js
-@@||goalim.pw^$elemhide
+@@||goalim.club^$elemhide
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
