@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LGUnxdd008DjwOwf1Oizqw
+! Checksum: z7Y7jqqbQ5rgi/LkHurxfg
 ! Title: EasyList Hebrew
-! Last modified: 17 Feb 2016 13:45 UTC
+! Last modified: 17 Feb 2016 13:48 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -600,6 +600,9 @@ dossinet.me###bg_banner_header_top
 efinder.co.il###stp-bg
 efinder.co.il###stp-main
 fbssl.walla.co.il##.container_footer
+finance.themarker.com###subTopBaner
+finance.themarker.com##.c_advFrame
+finance.themarker.com##[id^="newsBanner"]
 flix.mako.co.il###topBannerTable
 flix.tapuz.co.il##.headerMiddle
 flix.tapuz.co.il##DIV[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
@@ -962,6 +965,7 @@ themarker.com##.banner-area
 themarker.com##.banner_92008
 themarker.com##.border-box.noSourceList
 themarker.com##.click-tracker-banner.tadmit_300x100
+themarker.com##.js-clickTracker-for-addBlocker
 themarker.com##.sdera-banners
 themarker.com##.slideShowBannerGroup
 themarker.com##.t-sec-head.t-sec-head--b.c-pale
