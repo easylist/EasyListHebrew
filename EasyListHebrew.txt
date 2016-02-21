@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z7Y7jqqbQ5rgi/LkHurxfg
+! Checksum: MNVd1690AQFIvhVvcx9R3g
 ! Title: EasyList Hebrew
-! Last modified: 17 Feb 2016 13:48 UTC
+! Last modified: 21 Feb 2016 21:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -365,7 +365,8 @@ lauyn.info##*
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
-@@||blogspot.com^$image,domain=goalim.club
+@@||blogblog.com^$image,domain=goalim.club
+@@||blogspot.com^$image,domain=goalim.club|sdarot.site
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||clalit.co.il/AdImages
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
@@ -392,6 +393,7 @@ lauyn.info##*
 @@||one.co.il/images/ads/2014/06/02/1415/MNDL2.swf
 @@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il
+@@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=goalim.club
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=repo.thewiz.info|pitaronfree.blogspot.co.il
 @@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=one.co.il|reshet.tv
@@ -400,6 +402,7 @@ lauyn.info##*
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||reshet.tv/ads.html
+@@||sdarot.site^$elemhide
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sexadir.co.il/ads/$image,~third-party
 @@||sexadir.co.il/banners/$image,~third-party
@@ -410,6 +413,7 @@ lauyn.info##*
 @@||themarker.com/dclk/dfp/dfp_htz.js
 @@||tornado-top.co.il/template/images/
 @@||xads.zedo.com^$popup,domain=one.co.il
+@@||xn--8dbanaba6epyi.net/js/ads/popunder.js
 @@||ynet.co.il/common/javascript/ads.js
 @@||youtube.com/yva_video?adformat$domain=y.net-games.co.il
 @@||y.net-games.co.il/adimages/
@@ -750,6 +754,8 @@ mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
 mako.co.il###rAdContainer
 mako.co.il###topPageStrip.not_for_print
+mako.co.il###ZA_CAMP_BG
+mako.co.il###ZA_CAMP_CONTAINER
 mako.co.il##.mako_banner_coast
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
