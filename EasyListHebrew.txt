@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MNVd1690AQFIvhVvcx9R3g
+! Checksum: YZfRKl6bXiw2BhWs76SxoA
 ! Title: EasyList Hebrew
-! Last modified: 21 Feb 2016 21:04 UTC
+! Last modified: 23 Feb 2016 08:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -382,7 +382,7 @@ lauyn.info##*
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||kikar.co.il/js/ads.js
 @@||lb.advsnx.net/crossdomain.xml|$domain=mako.co.il
-@@||lb.advsnx.net/as/$domain=mako.co.il
+@@||lb.advsnx.net/as$domain=mako.co.il
 @@||leava.co.il^$elemhide
 @@||lips.co.il/ads/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
