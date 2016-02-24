@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YZfRKl6bXiw2BhWs76SxoA
+! Checksum: EZZlORTcrBNSr6E7qGybJg
 ! Title: EasyList Hebrew
-! Last modified: 23 Feb 2016 08:36 UTC
+! Last modified: 24 Feb 2016 21:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -117,6 +117,7 @@
 !
 !-Walla!-!
 ||a.walla.co.il^
+||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
 ||fus.walla.co.il/vast/
 ||i.walla.co.il/w9/swf/video_swf/userslider.swf
@@ -993,7 +994,6 @@ walla.co.il##.greenline_top
 walla.co.il##.internetmore
 walla.co.il##.jobsDiv
 walla.co.il##.top_banner_outer.relative
-walla.co.il##DIV[style$="position: absolute; z-index: 9999999; top: 0px; left: 0px; display: block;"]
 walla.co.il##div[style="padding-left:2px;width:134;"]
 walla.co.il##div[style="width:468px;height:70px;"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
