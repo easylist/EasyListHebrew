@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: R8YLOSgtC9Q5RC63E0S2zQ
+! Checksum: R/MWr/Fm2jw3dtNzD84OFg
 ! Title: EasyList Hebrew
-! Last modified: 24 Feb 2016 21:04 UTC
+! Last modified: 24 Feb 2016 21:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
@@ -543,7 +543,6 @@ bhol.co.il###test.f-right
 bhol.co.il##.banner.clear
 bhol.co.il##.response[style="background-color:#F4F2F0"]
 bhol.co.il##.title14pxblue
-bhol.co.il##TABLE[style="border-top:1px solid #EAEAEA;border-bottom:1px solid #EAEAEA"]
 bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
 bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
