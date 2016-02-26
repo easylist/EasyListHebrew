@@ -1,16 +1,15 @@
 [Adblock Plus 2.0]
-! Checksum: XwcQCYfE/UBIWEHEB3tCQw
+! Checksum: L8tGLAE9rrFv+4mUgvgY+A
 ! Title: EasyList Hebrew
-! Last modified: 26 Feb 2016 12:53 UTC
+! Last modified: 26 Feb 2016 13:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
-! Forums: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
-!
+! License: https://easylist-downloads.adblockplus.org/COPYING
+! Please report any unblocked adverts or problems
+! in the forum: https://github.com/AdBlockPlusIsrael/EasyListHebrew/issues
 !
 ! Fork of: IsraelList http://code.google.com/p/israellist/
 ! Fork of: Fanboy IsraelList https://secure.fanboy.co.nz/israelilist/IsraelList.txt
-! License:
-!          https://easylist-downloads.adblockplus.org/COPYING
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
