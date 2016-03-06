@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xJ/Hpl+p/lLecm2Atp9rHg
+! Checksum: G+GcmGQdPnp0sWmFy79Sfw
 ! Title: EasyList Hebrew
-! Last modified: 06 Mar 2016 19:19 UTC
+! Last modified: 06 Mar 2016 20:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -14,106 +14,113 @@
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
+! *** Adservers *** !
+!
 ||213.8.137.51^
 ||activated.co.il^$third-party
 ||adland.co.il^$third-party
 ||clickon.co.il^$third-party
 ||erate.co.il^$third-party
-||internet-bee.com^$third-party
 ||jwtdigital-media.co.il^$third-party
-||jdate.co.il^$third-party
-||mako.buy2.co.il^$third-party
 ||media.foxweb.co.il^$third-party
 ||mimgoal.com^$third-party
 ||mitbahon.co.il^$third-party
 ||next-net.co.il^$third-party
 ||pas-rahav.com^$third-party
-||psakdin.co.il^$domain=calcalist.co.il
 ||s.tool-site.com^$third-party
-||shorter.co.il/js/fp.js.php
 ||talkahead.com^$third-party
 ||trustmedia.co.il^$third-party
 ||wee.co.il^$third-party
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
 !
-!--------------------------Popup Sites----------------------------------------!
+! *** Popup Adservers *** !
 !
 ||213.8.137.51^$popup,third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||activated.digital^$popup,third-party
 ||adson.biz^$popup,third-party
 ||adventuredigital.co.il^$popup,third-party
-||albar.co.il/ads$popup,third-party
 ||amazing-offers.co.il^$popup,third-party
 ||anetkin.biz^$popup,third-party
 ||anetkin.co.il^$popup,third-party
 ||anetkin.org^$popup,third-party
-||ashleymadison.com^$popup,third-party
-||ashleyrnadison.com^$popup,third-party
 ||asakimerp.co.il^$popup,third-party
 ||best-offers.co.il^$popup,third-party
-||booking.com/index.html^$popup,domain=daka90.co.il
 ||campaign.*.co.il^$popup,third-party
 ||cdn.mdigital.co.il^$third-party
 ||clickon.co.il^$popup,third-party
 ||dcampaigns.*.co.il^$popup,third-party
-||descreti.co.il^$popup,third-party
-||etrader.co.il^$popup,third-party
 ||expert-offers.com^$popup,third-party
-||fattal-alazman.co.il/?a_aid$popup,third-party
 ||gin.co.il^$popup,third-party
 ||gitam.co.il^$popup,third-party
 ||gnsdigital.co.il^$popup,third-party
 ||great-offers.co.il^$popup,third-party
 ||greenlead.co.il^$popup,third-party
 ||ha-deal.co.il^$popup,third-party
+||layer.co.il^$popup,third-party
+||like-it.co.il^$popup,third-party
+||mashrokit.info^$popup,third-party
+||media-goal.co.il^$popup,third-party
+||mimgoal.com^$popup,third-party
+||mini-sites.net^$popup,third-party
+||mitbahon.co.il^$popup,third-party
+||oceanmedia.co.il^$popup,third-party
+||onclickads.net^$popup,third-party
+||osef.co.il^$popup,third-party
+||padv.co.il^$popup,third-party
+||pigment-adv.co.il^$popup,third-party
+||pisrael.com^$popup,third-party
+||rpe.co.il^$popup,third-party
+||sekindo.com^$popup,third-party
+||treemedia.co.il^$popup,third-party
+||trendsonline.me/?id$popup,third-party
+||trustmedia.co.il^$popup,third-party
+||um-per.com^$popup,third-party
+||unbouncepages.com^$popup,third-party
+||webteam.co.il^$popup,third-party
+||wee.co.il^$popup,third-party
+||wesell.co.il^$popup,third-party
+!
+! *** 3rd party ads *** !
+||internet-bee.com^$third-party
+||jdate.co.il^$third-party
+||mako.buy2.co.il^$third-party
+||psakdin.co.il^$domain=calcalist.co.il
+||shorter.co.il/js/fp.js.php
+!
+! *** Popup sites *** !
+!
+||albar.co.il/ads$popup,third-party
+||ashleymadison.com^$popup,third-party
+||ashleyrnadison.com^$popup,third-party
+||booking.com/index.html^$popup,domain=daka90.co.il
+||descreti.co.il^$popup,third-party
+||etrader.co.il^$popup,third-party
+||fattal-alazman.co.il/?a_aid$popup,third-party
 ||horserace.co.il^$popup,third-party
 ||hotdate.co.il^$popup,third-party
 ||iforex.co.il/landing_pages^$popup,third-party
 ||ilikethis.info^$popup,third-party
 ||imarkets.co.il^$popup,third-party
 ||lastpage.pw^$popup,third-party
-||layer.co.il^$popup,third-party
 ||leshem.info^$popup,third-party
-||like-it.co.il^$popup,third-party
-||mashrokit.info^$popup,third-party
-||media-goal.co.il^$popup,third-party
-||mimgoal.com^$popup,third-party
-||mini-sites.net^$popup,third-party
-||mitbahon.co.il/Storage^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
 ||mysupermarket.co.il/landingpage$popup,third-party
-||oceanmedia.co.il^$popup,third-party
-||onclickads.net^$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
-||osef.co.il^$popup,third-party
-||padv.co.il^$popup,third-party
-||pigment-adv.co.il^$popup,third-party
-||pisrael.com^$popup,third-party
-||rateonclick.com^$popup,third-party
-||rpe.co.il^$popup,third-party
 ||perfectpro.co.il^$popup,third-party
-||sekindo.com^$popup,third-party
+||rateonclick.com^$popup,third-party
 ||sex-party.co.il^$popup,third-party
 ||sirtonim.me^$popup,third-party
 ||strauss-water-campaign.co.il^$popup,third-party
-||streamin.to^$popup
+||streamin.to^$popup,third-party
 ||tinyurl.com^$popup,domain=daka90.co.il
-||trendsonline.me/?id$popup,third-party
-||treemedia.co.il^$popup,third-party
-||trustmedia.co.il^$popup,third-party
-||um-per.com^$popup,third-party
-||unbouncepages.com^$popup,third-party
 ||vodmovies.net/random$popup
-||webteam.co.il^$popup,third-party
-||wee.co.il^$popup,third-party
-||wesell.co.il^$popup,third-party
 ||yeppyepp.co.il^$popup,third-party
 !
 !-----------------------Site specific ad blocking rules-----------------------!
 !
-!-Walla!-!
+!-Walla!
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
@@ -126,7 +133,7 @@
 ||xwbe.wcdn.co.il/$image
 ||xwne.wcdn.co.il^$domain=walla.co.il
 ||x.walla.co.il^$image,domain=mail.walla.co.il
-!-ynet-!
+!-ynet
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
 ||akamai.net/7/1948/5064/v0001/prdupl02.ynet.co.il/MediaSvrFiles/$domain=ynet.co.il
@@ -144,7 +151,7 @@
 ||ynet.co.il/WinWinCooperation/
 ||ynet.co.il^*/ynetbanneradmin/
 ||ynetshops.co.il/article/showbanner2/
-!-mako-!
+!-mako
 ||1host.co.il/$object-subrequest,domain=mako.co.il
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
@@ -159,25 +166,25 @@
 ||mooma.mako.co.il/HeaderBanner.aspx
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
-!-Globes-!
+!-Globes
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/data/js/gtv_ads.js
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||globes.co.il/news/frames/topbannerflash$subdocument
-!-Haaretz/TheMarker/Mouse.co.il-!
+!-Haaretz,TheMarker,Mouse.co.il-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
 ||themarker.com/dclk/
-!-nrg-!
+!-nrg
 ||nrg.co.il/cache/banners
 ||nrg.co.il/images/banners
 ||nrg.co.il/online/xml/sundor_promobox_
 ||nrg.co.il^*/maavaron.$script
-!-nana10-!
+!-nana10
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
-!-Tapuz/Flix-!
+!-Tapuz,Flix
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
 ||tapuz.co.il/Forums2008/outMaavaron.aspx
@@ -186,78 +193,17 @@
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
 ||tapuz.hiro.co.il^
-!-inn.co.il-!
+!-inn.co.il
 ||a7.org/scripts/Maavaron.js
 ||info.a7.org^$domain=inn.co.il
 ||inn.co.il/info_en/
 ||inn.co.il/leads/content/upload/
 ||inn.co.il/leads/view/$popup
 ||dwnmedia.a7.org/inntv/media/
-!-d-group-!
+!-d-group
 ||ban.d-group.co.il/banners/$third-party
 ||d.co.il/Hebrew/images/Premium/
 ||madas-ads.securest.org^$third-party
-!
-!--------------------------SPAM SITES blocking rules--------------------------!
-!
-asface.pw##*
-||alipim.net^
-balimon.info##*
-bitys.pw##*
-bobuzz.com##*
-||cooldays.net/app/vod-blocker$script
-dealclick.pw##*
-dealsclubspecial.pw##*
-dubim.net##*
-faceu.us##*
-freeoffers.co.il##*
-gefun.net##*
-gubuzz.com##*
-gbuzz.net##*
-hagdolim.info###video-blocker
-iastrology.net##*
-ilbuzz.net##*
-israfun.net##*
-jobuzz.net##*
-kelocote.prpl.co.il##*
-kurtgeigers.co##*
-lead.foxweb.co.il##*
-lools.info##*
-lp.infopage.co.il##*
-lp.playsmart.co.il##*
-lyfun.net##*
-lyplay.net##*
-madlik.info##*
-magnivim.info##*
-metador.info##*
-mklrty.info##*
-movitop.info##*
-||mporli.info^
-mporli.info##*
-myvod.me##*
-sirtoonim.info##*
-shaardollar.co.il##*
-stomi.info##*
-topfliightss.net##*
-tukid.info##*
-ugbuzz.net##*
-usbuzz.net##*
-vebuzz.net##*
-vefun.net##*
-view-movies.co.il##*
-viral4buzz.net##*
-vodmovies.co.il##*
-vodxil.com##*
-vodx.co.il##*
-worldhotnews.net##*
-yosle.info##*
-youlim.info##*
-zegvid.com##*
-zegvid.net##*
-##.entry > .entry-inner > .wpvl.wpvl-youtube.ng-scope.size-l
-##.wpvl.wpvl-dailymotion > .fblogin.lockoverlay.ng-scope
-##.wpvl.wpvl-youtube.ng-scope.size-xl > .ng-scope + .fblogin.lockoverlay.ng-scope
-##.wpvl.wpvl-youtube.ng-scope.size-xxl > [ng-show="!blocked"] + * + .ng-scope + .fblogin.lockoverlay.ng-scope
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -307,8 +253,6 @@ zegvid.net##*
 ||kipa.co.il/minisites/go.asp$popup
 ||kipasruga.com/banner/
 ||lametayel.co.il/landing/market.html$popup
-||lauyn.info^
-lauyn.info##*
 ||leadim4u.com/accounts/default1/banners/
 ||lev.co.il/download/HomeBackground/$image
 ||local.co.il/banners/
@@ -341,16 +285,78 @@ lauyn.info##*
 ||yad2.co.il/js-new/blockPirsum.js
 ||zvz.co.il/BannerCommunication
 !
-!----------------------------------Whitelists---------------------------------!
+!--------------------------SPAM SITES blocking rules--------------------------!
 !
-@@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
-@@||info.a7.org/info/$script
+asface.pw##*
+||alipim.net^
+balimon.info##*
+bitys.pw##*
+bobuzz.com##*
+||cooldays.net/app/vod-blocker$script
+dealclick.pw##*
+dealsclubspecial.pw##*
+dubim.net##*
+faceu.us##*
+freeoffers.co.il##*
+gefun.net##*
+gubuzz.com##*
+gbuzz.net##*
+hagdolim.info###video-blocker
+iastrology.net##*
+ilbuzz.net##*
+israfun.net##*
+jobuzz.net##*
+kelocote.prpl.co.il##*
+kurtgeigers.co##*
+||lauyn.info^
+lauyn.info##*
+lead.foxweb.co.il##*
+lools.info##*
+lp.infopage.co.il##*
+lp.playsmart.co.il##*
+lyfun.net##*
+lyplay.net##*
+madlik.info##*
+magnivim.info##*
+metador.info##*
+mklrty.info##*
+movitop.info##*
+||mporli.info^
+mporli.info##*
+myvod.me##*
+sirtoonim.info##*
+shaardollar.co.il##*
+stomi.info##*
+topfliightss.net##*
+tukid.info##*
+ugbuzz.net##*
+usbuzz.net##*
+vebuzz.net##*
+vefun.net##*
+view-movies.co.il##*
+viral4buzz.net##*
+vodmovies.co.il##*
+vodxil.com##*
+vodx.co.il##*
+worldhotnews.net##*
+yosle.info##*
+youlim.info##*
+zegvid.com##*
+zegvid.net##*
+##.entry > .entry-inner > .wpvl.wpvl-youtube.ng-scope.size-l
+##.wpvl.wpvl-dailymotion > .fblogin.lockoverlay.ng-scope
+##.wpvl.wpvl-youtube.ng-scope.size-xl > .ng-scope + .fblogin.lockoverlay.ng-scope
+##.wpvl.wpvl-youtube.ng-scope.size-xxl > [ng-show="!blocked"] + * + .ng-scope + .fblogin.lockoverlay.ng-scope
+!
+!----------------------Whitelists to fix broken sites-------------------------!
+!
+! *** Broken only by EasyList Hebrew *** !
+!
 @@||internet-bee.com/Feats/
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||pas-rahav.com/creativitys
-@@||themarker.com/dclk/dfp/dfp_init_base.js
 !
-!--------------Whitelists Rules (caused by EasyList / EasyPrivacy )-----------!
+! *** Broken by EasyList *** !
 !
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
@@ -381,6 +387,8 @@ lauyn.info##*
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
+@@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
+@@||info.a7.org/info/$script
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||kikar.co.il/js/ads.js
@@ -414,6 +422,7 @@ lauyn.info##*
 @@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
 @@||themarker.com/dclk/dfp/dfp_htz.js
+@@||themarker.com/dclk/dfp/dfp_init_base.js
 @@||tornado-top.co.il/template/images/
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||xn--8dbanaba6epyi.net/js/ads/popunder.js
@@ -423,7 +432,7 @@ lauyn.info##*
 @@||y.net-games.co.il/js/adblock_detector.js
 @@||צפייהישירה.net/js/ads/popunder.js
 !
-!------Whitelists Element Hiding Rules (caused by EasyList / EasyPrivacy )----!
+!------------Whitelists element hiding rules to fix broken sites--------------!
 !
 ad.co.il#@#.ad-link
 bipbip.co.il#@#.adlist
@@ -457,15 +466,16 @@ tapuz.co.il#@#.afs_ads
 ||mob-server.com^$script,domain=m.nrg.co.il
 ||sport5.co.il/cm8ads/
 !
-!---------------------------------Mobile element hiding rules-----------------!
+!-------------------------Mobile element hiding rules-------------------------!
 !
 m.calcalist.co.il##.maavaron
 m.sport5.co.il##.ad
 !
-!---------------------------------Mobile Whitelist----------------------------!
+!------------------------------Mobile Whitelist-------------------------------!
 !
+!----------------------------Element hiding rules-----------------------------!
 !
-!------------------------General element hiding rules-------------------------!
+! *** Multiple domains *** !
 !
 bhol-forums.co.il,bhol.co.il,hydepark.co.il,pic.co.il###Plasma_1
 getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
@@ -509,7 +519,7 @@ hwzone.co.il,shoofoo.co.il##[class^="banner"]
 doctors.co.il,globes.co.il##[id^="ads."]
 haaretz.co.il,themarker.com##div[id^="dclk_objects_"]
 !
-!----------------------------Element hiding rules-----------------------------!
+! *** Specific domain *** !
 !
 10tv.nana10.co.il##.ArticleInlineObject[style="width:300px;border:0;padding:0;"]
 10tv.nana10.co.il##[style="top:800px; right:0px; width:320px; height:320px;"] > .tmplInner.size300x300
@@ -1086,3 +1096,4 @@ zap.co.il##.BannerBox
 zap.co.il##.Martef
 zap.co.il##.headerBannerCenter
 zap.co.il##.leftSideBanner
+!
