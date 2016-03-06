@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kuNgFQAS24bgk4MViJ4afA
+! Checksum: xJ/Hpl+p/lLecm2Atp9rHg
 ! Title: EasyList Hebrew
-! Last modified: 05 Mar 2016 17:18 UTC
+! Last modified: 06 Mar 2016 19:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -83,7 +83,6 @@
 ||mini-sites.net^$popup,third-party
 ||mitbahon.co.il/Storage^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
-||mooma.mako.co.il/HeaderBanner.aspx
 ||mysupermarket.co.il/landingpage$popup,third-party
 ||oceanmedia.co.il^$popup,third-party
 ||onclickads.net^$popup,third-party
@@ -95,7 +94,6 @@
 ||rateonclick.com^$popup,third-party
 ||rpe.co.il^$popup,third-party
 ||perfectpro.co.il^$popup,third-party
-||sdarot.pm/daniel_dont_touch/flash-clipgrab-mahavar.gif
 ||sekindo.com^$popup,third-party
 ||sex-party.co.il^$popup,third-party
 ||sirtonim.me^$popup,third-party
@@ -158,6 +156,7 @@
 ||logger.logidea.info^$third-party,domain=mako.co.il
 ||kz-vd-se01.se.c04dl.vds-is.castup.net/$object-subrequest,media
 ||makostorepdl-a.akamaihd.net^$third-party
+||mooma.mako.co.il/HeaderBanner.aspx
 ||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
 !-Globes-!
@@ -330,6 +329,7 @@ lauyn.info##*
 ||rotter.net/edit/text/
 ||scity.co.il/scity_728_sdarot.swf
 ||sdarot.*/banner
+||sdarot.pm/daniel_dont_touch/flash-clipgrab-mahavar.gif
 ||seret.co.il/images/banners/pagehasut/PageHasut
 ||seretil.me/cdn-cgi/*rocket.js
 ||seretil.me/cdn-cgi/nexp/dok9
