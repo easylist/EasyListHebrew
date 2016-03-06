@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: G+GcmGQdPnp0sWmFy79Sfw
+! Checksum: 2is5vDD9aZ5xNadZdZhxSg
 ! Title: EasyList Hebrew
-! Last modified: 06 Mar 2016 20:55 UTC
+! Last modified: 06 Mar 2016 22:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -74,7 +74,6 @@
 ||rpe.co.il^$popup,third-party
 ||sekindo.com^$popup,third-party
 ||treemedia.co.il^$popup,third-party
-||trendsonline.me/?id$popup,third-party
 ||trustmedia.co.il^$popup,third-party
 ||um-per.com^$popup,third-party
 ||unbouncepages.com^$popup,third-party
@@ -114,6 +113,7 @@
 ||sirtonim.me^$popup,third-party
 ||strauss-water-campaign.co.il^$popup,third-party
 ||streamin.to^$popup,third-party
+||trendsonline.me/?id$popup,third-party
 ||tinyurl.com^$popup,domain=daka90.co.il
 ||vodmovies.net/random$popup
 ||yeppyepp.co.il^$popup,third-party
@@ -526,6 +526,7 @@ haaretz.co.il,themarker.com##div[id^="dclk_objects_"]
 10tv.nana10.co.il##[style="top:800px; right:800px; width:320px; height:320px;"] > .tmplInner.size300x300
 2all.co.il##.DivFlowBannerRight
 93fm.co.il##.arti-banners
+a.co.il##.banner
 aiwa.co.il##.bigbnr
 api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
@@ -672,6 +673,8 @@ haaretz.co.il##div[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
 haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
 hashekel.co.il###block-13
 hashekel.co.il###block-14
+hidabroot.org##.panel-row-upper
+hidabroot.org##.remove-ad
 homeless.co.il###board_middle_advert
 homeless.co.il###plasma_container
 homeless.co.il##.boardfooter_tr
@@ -716,6 +719,7 @@ israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelpost.co.il###AdvHorizontal
 israelweather.co.il###weekFlashes
+isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
 jobmaster.co.il##table[width="100%"][style="border-top:1px solid #EEEEEE;"]
 jobmaster.co.il##.pres[width="143"]
 junkyard.co.il##.plasma_banner
@@ -821,7 +825,10 @@ nana10.co.il##.rightTower.Banner
 nana10.co.il##div[style=";margin:20px 10px 0px 10px;width:298px;height:298px;"]
 nana10.co.il##div[style="top:1600px; right:800px; width:320px; height:320px;"]
 nana10.co.il##div[style="top:320px; left:640px; width:160px; height:640px;"]
-netex.mako.co.il###b2Wrapper
+nana10.co.il##.MainDiv[xmlns\:ms="urn:schemas-microsoft-com:xslt"] > .GlobalBorder[style="float:right;padding:10px;width:118px;"]
+netex.co.il##.b728x90.bottomBanner
+netex.co.il##.banner.b160x600
+netex.co.il##.banner.b180x150
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
 newmail.walla.co.il##.walTopBannerInside
@@ -900,7 +907,10 @@ s-maof.com###popupContact
 s-maof.com##div[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##div[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 saloona.co.il###footer_banner
+saloona.co.il###popular_top
+saloona.co.il##.popup_order_close
 saloona.co.il##.popup_order_overlay
+saloona.co.il##.text_links
 seret.co.il###divMaavaronBanner
 seret.co.il###topbannercontainer
 seret.co.il##.RightColWhiteBox312x262
