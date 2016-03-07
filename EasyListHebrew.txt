@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PBM7at1njpIowGzF2IjY8g
+! Checksum: W7fCnR2aXacp5yv67aeIJA
 ! Title: EasyList Hebrew
-! Last modified: 07 Mar 2016 20:13 UTC
+! Last modified: 07 Mar 2016 20:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -116,7 +116,6 @@
 ||trendsonline.me/?id$popup,third-party
 ||tinyurl.com^$popup,domain=daka90.co.il
 ||vodmovies.net/random$popup
-||yeppyepp.co.il^$popup,third-party
 !
 !-----------------------Site specific ad blocking rules-----------------------!
 !
@@ -583,7 +582,6 @@ bizportal.co.il##.baner2
 bizportal.co.il##.hp_baner_kub
 bizportal.co.il##.kubia_banner
 bizportal.co.il##.single_section_world_short
-bul.co.il##body
 cafe.themarker.com##.banner-wrapper
 cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
