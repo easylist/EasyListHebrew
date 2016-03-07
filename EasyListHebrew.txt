@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: W7fCnR2aXacp5yv67aeIJA
+! Checksum: e4QllJ4yL1khHdBsBYzXyA
 ! Title: EasyList Hebrew
-! Last modified: 07 Mar 2016 20:18 UTC
+! Last modified: 07 Mar 2016 20:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -84,7 +84,6 @@
 ! *** 3rd party ads *** !
 ||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
-||mako.buy2.co.il^$third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||shorter.co.il/js/fp.js.php
 !
@@ -151,19 +150,12 @@
 ||ynet.co.il^*/ynetbanneradmin/
 ||ynetshops.co.il/article/showbanner2/
 !-mako
-||1host.co.il/$object-subrequest,domain=mako.co.il
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
 ||apps.mako.co.il/minicampaigns/
-||bz-vd-se02.se.c04dl.vds-is.castup.net/$object-subrequest,media
-||castup.net/server12/468/127/12740581-115.mp4$object-subrequest,media
-||ds.keshet-i.com/jserver/
 ||logger.logidea.info^$third-party,domain=mako.co.il
-||kz-vd-se01.se.c04dl.vds-is.castup.net/$object-subrequest,media
-||makostorepdl-a.akamaihd.net^$third-party
 ||mooma.mako.co.il/HeaderBanner.aspx
-||rcs.mako.co.il/rss/yad2.
 ||sdc.mako.co.il^
 !-Globes
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
@@ -780,7 +772,6 @@ mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
 mako.co.il##div[id^="dclk_overlay_"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
-mako.co.il##[href^="http://styleriver.mako.co.il/"]
 mako.co.il##[href^="http://www.mysupermarket.co.il/?banner"]
 mapa.co.il###adSenseOnMap
 mapa.co.il###headerContenetBanner
