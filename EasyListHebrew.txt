@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DjPN+OWR8htMzZ/4i0V/6A
+! Checksum: C2SNoZ1iudL6dSWdTswrwA
 ! Title: EasyList Hebrew
-! Last modified: 07 Mar 2016 20:46 UTC
+! Last modified: 08 Mar 2016 20:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -82,7 +82,6 @@
 ||wesell.co.il^$popup,third-party
 !
 ! *** 3rd party ads *** !
-||internet-bee.com^$third-party
 ||jdate.co.il^$third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||shorter.co.il/js/fp.js.php
@@ -343,7 +342,6 @@ zegvid.net##*
 !
 ! *** Broken only by EasyList Hebrew *** !
 !
-@@||internet-bee.com/Feats/
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||pas-rahav.com/creativitys
 !
