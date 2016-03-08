@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: C2SNoZ1iudL6dSWdTswrwA
+! Checksum: sie5DEe9OkyjKSEAuZ9sXg
 ! Title: EasyList Hebrew
-! Last modified: 08 Mar 2016 20:13 UTC
+! Last modified: 08 Mar 2016 20:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -218,7 +218,6 @@
 ||bladna.co.il/Public/flash/
 ||cdn.shorte.st/link-converter.min.js
 ||chabad.info/images/pirsomot/
-||cinema-city.co.il/media/nlc2013/flash/*banner
 ||daatariel.org.il/kipa/$popup,domain=kipa.co.il
 ||date.dacho.co.il^
 ||ddlil.com/banners/
@@ -359,7 +358,7 @@ zegvid.net##*
 @@||akamai.advsnx.net/CDN/ynet/ynet.swf
 @@||akamai.advsnx.net^$domain=mako.co.il
 @@||amazonaws.com/static.madlan.co.il/
-@@||banners.hosting-il.com^$domain=cinema-city.co.il
+@@||banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
@@ -399,6 +398,7 @@ zegvid.net##*
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=repo.thewiz.info|pitaronfree.blogspot.co.il
 @@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=one.co.il|reshet.tv
+@@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||pitaronfree.blogspot.co.il^$elemhide
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
@@ -596,9 +596,6 @@ chabad.info###text_pirsomet
 chabad.info###top2_ad_container
 chabad.info##.bet_ads
 chabad.info##.left_pirsomot
-cinema-city.co.il##[style="position:absolute;width:258px;height:256px;left:33px;top:13px;"]
-cinema-city.co.il##[style="position:absolute;width:258px;height:256px;left:33px;top:852px;"]
-cinema-city.co.il##[style="position:absolute;width:275px;height:155px;left:24px;top:1140px;"]
 cinemascope.mako.co.il###jambo_div
 cinemascope.mako.co.il###monster1_div
 d.co.il##.header_banner
