@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sie5DEe9OkyjKSEAuZ9sXg
+! Checksum: zVcGYIscNSnHXnULcBzk0Q
 ! Title: EasyList Hebrew
-! Last modified: 08 Mar 2016 20:18 UTC
+! Last modified: 09 Mar 2016 01:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -182,7 +182,6 @@
 ||tapuz.co.il/forums2008/googleInTreeFrame.html
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
-||tapuz.hiro.co.il^
 !-inn.co.il
 ||a7.org/scripts/Maavaron.js
 ||info.a7.org^$domain=inn.co.il
@@ -217,7 +216,6 @@
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||bladna.co.il/Public/flash/
 ||cdn.shorte.st/link-converter.min.js
-||chabad.info/images/pirsomot/
 ||daatariel.org.il/kipa/$popup,domain=kipa.co.il
 ||date.dacho.co.il^
 ||ddlil.com/banners/
@@ -229,7 +227,6 @@
 ||gozlan.be/st_j.js
 //gozlan.be/st_j.js|
 ||haflla.com/download/banners/
-||holesinthenet.co.il/uploads/*/res/*.swf
 ||hometheater.co.il/opx/
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
@@ -252,12 +249,9 @@
 ||nanafiles.co.il//Upload/92011/File/File_*swf
 ||news-israel.net/images/topAd
 ||onlife.co.il/dbcads/
-||pc.co.il/ajaxfilemanager/uploaded/$object
-||pc.co.il/wp-content/uploads/$object
 ||pitro.net/Banners/
 ||psakdin.co.il/Pictures/Banners/
 ||raddar.co.il/bannersa.php
-||rol.co.il/files/banners/
 ||rotter.net/banners/
 ||rotter.net/edit/text/
 ||scity.co.il/scity_728_sdarot.swf
@@ -540,7 +534,6 @@ auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:au
 baba-mail.co.il###banner_google
 baba-mail.co.il##.banner
 baba-mail.co.il##.banner300x250
-bari-p2.co.il##td[style="padding-left:3px; padding-right:3px; padding-top:3px; padding-bottom:4px"]
 bbls.co.il###opacity_curtain
 bbls.co.il###phonepopup
 beok.co.il##.BannerMid
@@ -590,12 +583,7 @@ carsforum.co.il##table.tborder[style="margin-top:6px;"]
 cellebrate.mobi###flow
 ch10.co.il##.arti-banners
 ch10.co.il##.rt-banners
-chabad.info###rodefet_left
-chabad.info###rodefet_right
-chabad.info###text_pirsomet
-chabad.info###top2_ad_container
-chabad.info##.bet_ads
-chabad.info##.left_pirsomot
+chabad.info##.adpro
 cinemascope.mako.co.il###jambo_div
 cinemascope.mako.co.il###monster1_div
 d.co.il##.header_banner
@@ -612,9 +600,6 @@ fbssl.walla.co.il##.container_footer
 finance.themarker.com###subTopBaner
 finance.themarker.com##.c_advFrame
 finance.themarker.com##[id^="newsBanner"]
-flix.mako.co.il###topBannerTable
-flix.tapuz.co.il##.headerMiddle
-flix.tapuz.co.il##div[style="background-color: #FFFFFF; margin-left: auto; margin-right: auto; min-height: 94px;\a     padding-bottom: 10px; padding-top: 65px; text-align: center; width: 960px;"]
 foodsdictionary.co.il###bottom-banner-container
 foodsdictionary.co.il###main-header-ad
 forbes.co.il##embed[src^="/download/banners/"]
@@ -1055,7 +1040,6 @@ yad2.co.il##td[width="200"][valign="top"][style="border-right: 0px solid #ffffff
 yad2.co.il##th[style="background: #505D6A; font-size: 13px; font-family: arial; text-align: left; color: white; font-weight: bold; padding: 0px; margin: 0px; padding-right: 0px; padding-left: 10px; height: 31px; border-bottom: 1px solid white;"][colspan="9"]
 yad2.co.il##[id$="bottom_banner"]
 yeshanews.com###sideban
-yesno.co.il###wrapper
 yesplanet.co.il###snatch
 ynet.co.il###ads\.300x600\.1
 ynet.co.il###art_bottom_adsense-1
