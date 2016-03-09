@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hs1YpTti8cVL95X4+Z7gdg
+! Checksum: i1Mwb9nqyhPhoizZ3qIeMg
 ! Title: EasyList Hebrew
-! Last modified: 09 Mar 2016 19:52 UTC
+! Last modified: 09 Mar 2016 20:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -474,7 +474,6 @@ calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 feeder.co.il,rest.co.il###banner
 bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
-sdarot.pm,sdarot.wf###extra
 ori-diamonds.co.il,popcorate.co.il###hoverConnect
 bhol-forums.co.il,bhol.co.il###sdera.width100pc
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
@@ -489,16 +488,17 @@ haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 haaretz.co.il,themarker.com##.js-dfp-resp-refresh
 globes.co.il,nrg.co.il##.sekindo
-sdarot.pm,sdarot.wf##.side
 haaretz.co.il,themarker.com##.topBanners
 atmag.co.il,timeout.co.il##.to_ad
 atmag.co.il,timeout.co.il##.to_ad_2a7_wrap.clearfix
-sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##a[href^="http://cellebrate.mobi/il/heb"]
-sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##a[href^="http://www.savey.net"]
 gamex.co.il,linicom.co.il##a[target="_blank"]
-sdarot.li,sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##div[style="overflow: hidden;"]
-sdarot.li,sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##div[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
-sdarot.li,sdarot.pl,sdarot.pm,sdarot.tv,sdarot.wf,sdarot.ws##div[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
+sdarot.pm,sdarot.tv,sdarot.wf##.side
+sdarot.pm,sdarot.tv,sdarot.wf###extra
+sdarot.pm,sdarot.tv,sdarot.wf##div[style="overflow: hidden;"]
+sdarot.pm,sdarot.tv,sdarot.wf##div[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
+sdarot.pm,sdarot.tv,sdarot.wf##div[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
+sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://cellebrate.mobi/il/heb"]
+sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://www.savey.net"]
 almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
@@ -604,16 +604,7 @@ forbes.co.il##table[width="980"][height="110"][style="background-color:#e8e8e8"]
 frogi.co.il##.adbox
 frogi.co.il##.article_item_adbox
 frogi.co.il##.topbanner
-fun.walla.co.il##.subMenuRightBorder.sprt_top_toolbar.page_border_right.right
 fxp.co.il###adfxp
-fxp.co.il###vc_widget
-fxp.co.il###web_3_tool
-fxp.co.il##.captain
-fxp.co.il##.condition
-fxp.co.il##.hungry
-fxp.co.il##[src="http://tpc.googlesyndication.com/safeframe/1-0-0/html/container.html"] + *
-fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 286.5px;"]
-fxp.co.il##[style="width: 160px; height: 600px; top: 50px; position: fixed; right: 9.5px;"]
 fxp.co.il##[style^="opacity:"]
 games.nana10.co.il###tmp1632_46
 games.nana10.co.il##.BannerMiddle
@@ -703,7 +694,6 @@ kikar.co.il##[id^="takeover"]
 kipa.co.il###preItem
 kipa.co.il##.PirsumList
 kipa.co.il##.bannerJambo
-kipa.co.il##.homeCol3.PirsumList.col
 kipa.co.il##.pirsum110
 kipa.co.il##.textualy
 kipa.co.il##a[href="http://www.babetov.co.il"]
@@ -992,10 +982,6 @@ walla.co.il##div[style="width:468px;margin:0 auto;"]
 walla.co.il##iframe[src^="http://a.walla.co.il/adf.cgi?"]
 walla.co.il##[id^="ads_space_"]
 walla.co.il##[id^="Fusion_holder"]
-wallashops.co.il###mainBanner
-wallashops.co.il###megaBanner
-wallashops.co.il###promotionBanner0
-wallashops.co.il##[id^="textBanner"]
 wen.co.il##.wenBanner
 winwin.co.il###TotalMediaVerticalBannersIframe
 winwin.co.il###tvBannerContWinWin
@@ -1003,9 +989,6 @@ winwin.co.il###tvBannerContWinWinDFP
 winwin.co.il##.MiddleBanners
 winwin.co.il##.SponsoredAds
 winwin.co.il##.innerLeftAdPanel
-wisebuy.co.il##.LboxGrey[style="height:270px;text-align:center;"]
-wisebuy.co.il##.LboxGrey[style="height:337px;text-align:center;"]
-wisebuy.co.il##table[width="100%"][align="center"]
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.blog\.250x250
