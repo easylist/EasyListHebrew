@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: i1Mwb9nqyhPhoizZ3qIeMg
+! Checksum: +2sHRnq3GbNkv3hJdcfurA
 ! Title: EasyList Hebrew
-! Last modified: 09 Mar 2016 20:13 UTC
+! Last modified: 09 Mar 2016 20:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -16,6 +16,7 @@
 !
 ! *** Adservers *** !
 !
+||1host.co.il/Pais/$third-party
 ||213.8.137.51^
 ||activated.co.il^$third-party
 ||adland.co.il^$third-party
@@ -82,7 +83,6 @@
 ||wesell.co.il^$popup,third-party
 !
 ! *** 3rd party ads *** !
-||1host.co.il/Pais/$third-party
 ||jdate.co.il^$third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||rot.minifier.co.il$domain=rotter.net
