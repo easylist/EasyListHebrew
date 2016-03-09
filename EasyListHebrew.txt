@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zVcGYIscNSnHXnULcBzk0Q
+! Checksum: yJsqLRmpRm2sKvHdlRluGg
 ! Title: EasyList Hebrew
-! Last modified: 09 Mar 2016 01:26 UTC
+! Last modified: 09 Mar 2016 01:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -230,7 +230,6 @@
 ||hometheater.co.il/opx/
 ||hometheater.co.il/pir/
 ||hwzone.co.il/jobs/
-||israelpost.co.il/content.nsf/0/D4413A7599E19E34C2257B2300467D0D/$FILE/*.swf
 ||jobmaster.co.il/code/kot/$object
 ||jobmaster.co.il/images/banners/
 ||karmel.co.il/images/banners/
@@ -240,7 +239,6 @@
 ||kipasruga.com/banner/
 ||lametayel.co.il/landing/market.html$popup
 ||leadim4u.com/accounts/default1/banners/
-||lev.co.il/download/HomeBackground/$image
 ||local.co.il/banners/
 ||magazin.org.il/cut/baner
 ||magazin.org.il/show_banner
@@ -689,8 +687,6 @@ inn.co.il##[id^="divHr"]
 inn.co.il##[id^="divLeftInf"]
 inn.co.il##[id^="LeftColInf"]
 inn.co.il##[id^="LeftInfo"]
-iphones.co.il###mainBannerSponsers2
-iphones.co.il##div[style="padding-top:10px;width:250px;height:250px"]
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
