@@ -16,6 +16,7 @@
 !
 ! *** Adservers *** !
 !
+||1host.co.il/Pais/$third-party
 ||213.8.137.51^
 ||activated.co.il^$third-party
 ||adland.co.il^$third-party
