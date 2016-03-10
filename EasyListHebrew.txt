@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uH2GgRlTzpFjvwrxXEwRDw
+! Checksum: Ff3jszOyH94bp4w/NXRZ8Q
 ! Title: EasyList Hebrew
-! Last modified: 09 Mar 2016 21:03 UTC
+! Last modified: 10 Mar 2016 18:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -213,18 +213,16 @@
 ||beaverscripts.com/openwindow.js
 ||bannerwebservice.zvz.co.il^
 ||beok.co.il/banners/
-||besttv1.cdn.it.best-tv.com/reshet/components/BCPCLilyTrackBarCompanion/BCPCLilyTrackBarCompanion.swf
 ||bgu4u.co.il/download/banners/
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||bladna.co.il/Public/flash/
 ||cdn.shorte.st/link-converter.min.js
 ||daatariel.org.il/kipa/$popup,domain=kipa.co.il
-||date.dacho.co.il^
+||date.dacho.co.il^$domain=~date.dacho.co.il
 ||ddlil.com/banners/
 ||dimpact.co.il/Live/Banner/
 ||fxp.co.il/skinfxp/*.php$script,image
 ||gear.co.il/Content/MediaItems/Campaigns/
-||globusmax.co.il/images/950x171leumi_diners(5).swf
 ||googleusercontent.com^$domain=trusted-software.com
 ||gozlan.be/st_j.js
 //gozlan.be/st_j.js|
@@ -263,7 +261,6 @@
 ||shoofoo.co.il/banners
 ||sport5.co.il/banners2/
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
-||tgspot.co.il/wp-content/cache/minify/000000/yygpKbDS18_JzMtMzs_VS87Xy8wB8bKL9ZPz88pSi0riTS31sooB.js
 ||wcdn.co.il/banners/
 ||yad2.co.il/js-new/blockPirsum.js
 ||zvz.co.il/BannerCommunication
@@ -530,8 +527,6 @@ auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:au
 baba-mail.co.il###banner_google
 baba-mail.co.il##.banner
 baba-mail.co.il##.banner300x250
-bbls.co.il###opacity_curtain
-bbls.co.il###phonepopup
 beok.co.il##.BannerMid
 bhol.co.il###AdvertisementSystemTakeOver
 bhol.co.il###divPlazma
@@ -584,7 +579,6 @@ cinemascope.mako.co.il###jambo_div
 cinemascope.mako.co.il###monster1_div
 d.co.il##.header_banner
 d.co.il##.premium-d-strip-banner-container
-dacho.co.il##.fixed_position1
 dinovich.com###noLike
 dinovich.com##.overlay
 doctors.co.il###big_banner
@@ -719,9 +713,7 @@ maariv.co.il##.horizontal-banner-wrap
 maariv.co.il##.news-feed-banner
 maariv.co.il##.TwoBannersFloor
 maariv.co.il##.xl-banner-wrap
-madas.co.il##.AdsContainer
-madas.co.il##.LeftColumn_container.Floater
-madas.co.il##.TextLinkBanner
+madas.co.il###CloseshellAds
 mail.walla.co.il###ad1
 maka.co.il##.leftBanner
 maka.co.il##.midBanner
