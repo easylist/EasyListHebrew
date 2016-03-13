@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ff3jszOyH94bp4w/NXRZ8Q
+! Checksum: N6DL9eGQeq5KlPcpYvmAAQ
 ! Title: EasyList Hebrew
-! Last modified: 10 Mar 2016 18:23 UTC
+! Last modified: 13 Mar 2016 13:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -139,6 +139,7 @@
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||article.yedioth.co.il/assets/Banners
 ||cloudfront.net/$domain=ynet.co.il
+||goodluckblockingthis.com^$domain=ynet.co.il
 ||go.ynet.co.il/short/content/2010/Career/banner/
 ||go.ynet.co.il/short/content/2013/Career/SideJobs/
 ||go.ynet.co.il/short/Demos/*/Ads/
