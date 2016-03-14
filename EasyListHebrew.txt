@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RjqtmlqE2I84m/8WX97alg
+! Checksum: 5l370rQ6+e+ofrdnCg+9tw
 ! Title: EasyList Hebrew
-! Last modified: 14 Mar 2016 15:14 UTC
+! Last modified: 14 Mar 2016 15:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -728,6 +728,7 @@ mako.co.il###rAdContainer
 mako.co.il###topPageStrip.not_for_print
 mako.co.il###ZA_CAMP_BG
 mako.co.il###ZA_CAMP_CONTAINER
+mako.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 mako.co.il##.mako_banner_coast
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
@@ -1017,7 +1018,6 @@ yesplanet.co.il###snatch
 ynet.co.il###ads\.300x600\.1
 ynet.co.il###art_bottom_adsense-1
 ynet.co.il###art_right_sponsored_links-1
-ynet.co.il##.block.B1 > .element.B1.ghcite > #embedder-1.embedder.dyother.dyMonitor
 ynet.co.il###googleAdsenseMivzakim
 ynet.co.il###google_ads_iframe_\/ynt\.top\.central
 ynet.co.il###marketingRecommended-1-0
@@ -1035,6 +1035,7 @@ ynet.co.il##.WinWinHP1024 > .item_container
 ynet.co.il##.art_tkb_talkback_advert
 ynet.co.il##.art_video_samsung_top
 ynet.co.il##.bigdeal
+ynet.co.il##.block.B1 > .element.B1.ghcite > #embedder-1.embedder.dyother.dyMonitor
 ynet.co.il##.element.B2b.ghcite > #wrapper
 ynet.co.il##.ghciClickablePicture1
 ynet.co.il##.ghciClickablePicture3
