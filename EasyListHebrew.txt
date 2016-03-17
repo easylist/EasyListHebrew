@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: x4KKQ7VXkGO5zEqUsZTzKA
+! Checksum: Y/LJcMFsmjA6y2K7CcP1jQ
 ! Title: EasyList Hebrew
-! Last modified: 17 Mar 2016 20:51 UTC
+! Last modified: 17 Mar 2016 11:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -128,7 +128,6 @@
 ||i.walla.co.il/w9/swf/video_swf/userslider.swf
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||waab.walla.co.il^$object-subrequest
-||walla.co.il/resources/js/combine
 ||wrtm.walla.co.il^
 ||xwbe.wcdn.co.il/$image
 ||xwne.wcdn.co.il^$domain=walla.co.il
