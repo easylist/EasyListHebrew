@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zU+s/LM6cxU8MCNgP15tDg
+! Checksum: NaD45GWuxA1oE0VVlc0JaA
 ! Title: EasyList Hebrew
-! Last modified: 21 Mar 2016 09:33 UTC
+! Last modified: 23 Mar 2016 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -87,6 +87,7 @@
 ||psakdin.co.il^$domain=calcalist.co.il
 ||rot.minifier.co.il^$domain=rotter.net
 ||shorter.co.il/js/fp.js.php
+||static-api.com^$domain=mako.co.il
 !
 ! *** Popup sites *** !
 !
