@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cQ752FF7MD6lYh3RmX0xrQ
+! Checksum: cMrlpT1aAMGztbonkofXQQ
 ! Title: EasyList Hebrew
-! Last modified: 23 Mar 2016 15:35 UTC
+! Last modified: 23 Mar 2016 15:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -797,11 +797,6 @@ netex.co.il##.banner.b180x150
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
 newmail.walla.co.il##.walTopBannerInside
-news-israel.net##table[style="height: 60px; margin-top:10px; width: 468px;"]
-news-israel.net##table[style="height: 60px;margin-top:10px; width: 468px;float:right;"]
-news-israel.net##table[style="width: 300px; height: 251px; margin-bottom: 10px;"]
-news-israel.net##table[style="width: 931px; height: 136px; margin-top: 8px; margin-bottom: 8px;"]
-news-israel.net##table[style="width: 931px; height: 136px; margin-top: 8px;"]
 news1.co.il###UcInsideRight_1_1_tblWidth
 news1.co.il##table[bgcolor="#eeeeee"][height="150"]
 news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
