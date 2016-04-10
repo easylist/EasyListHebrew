@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: AwythEBsFKrqMRamJG6yHQ
+! Checksum: MWCxZzaD0o5na+ctKtkr8Q
 ! Title: EasyList Hebrew
-! Last modified: 09 Apr 2016 18:32 UTC
+! Last modified: 11 Apr 2016 10:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -347,7 +347,7 @@ zegvid.net##*
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
 @@||adworks.co.il^$~third-party
-@@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il
+@@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il|ynet.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
@@ -379,7 +379,7 @@ zegvid.net##*
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||kikar.co.il/js/ads.js
-@@||lb.advsnx.net/crossdomain.xml|$domain=mako.co.il
+@@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il|ynet.co.il
 @@||lb.advsnx.net/as$domain=mako.co.il
 @@||leava.co.il^$elemhide
 @@||lips.co.il/ads/$image,~third-party
