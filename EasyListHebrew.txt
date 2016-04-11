@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MWCxZzaD0o5na+ctKtkr8Q
+! Checksum: rGz78v+i4DjWDoMHbC7uzA
 ! Title: EasyList Hebrew
-! Last modified: 11 Apr 2016 10:19 UTC
+! Last modified: 11 Apr 2016 10:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -323,6 +323,7 @@ viral4buzz.net##*
 vodmovies.co.il##*
 vodxil.com##*
 vodx.co.il##*
+wacdfrt.info###video-blocker
 worldhotnews.net##*
 yosle.info##*
 youlim.info##*
@@ -332,6 +333,7 @@ zegvid.net##*
 ##.wpvl.wpvl-dailymotion > .fblogin.lockoverlay.ng-scope
 ##.wpvl.wpvl-youtube.ng-scope.size-xl > .ng-scope + .fblogin.lockoverlay.ng-scope
 ##.wpvl.wpvl-youtube.ng-scope.size-xxl > [ng-show="!blocked"] + * + .ng-scope + .fblogin.lockoverlay.ng-scope
+###HiddenMovie > [src^="http://www.youtube.com"] + #video-blocker
 !
 !----------------------Whitelists to fix broken sites-------------------------!
 !
