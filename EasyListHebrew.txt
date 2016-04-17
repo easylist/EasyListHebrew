@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dS7qjwwE/dYNquxnzeKy4A
+! Checksum: J1313tdPj7YJ94vCCbCSOQ
 ! Title: EasyList Hebrew
-! Last modified: 14 Apr 2016 08:22 UTC
+! Last modified: 17 Apr 2016 16:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -376,6 +376,7 @@ zegvid.net##*
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||kikar.co.il/js/ads.js
+@@||kml.co.il^$generichide
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il|ynet.co.il
 @@||lb.advsnx.net/as$domain=mako.co.il
 @@||leava.co.il^$elemhide
@@ -436,7 +437,6 @@ holmesplace.co.il#@#.image-advertisement
 ice.co.il#@#.afs_ads
 junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
-kml.co.il#@#div[id^="div-gpt-ad-"]
 lavender.co.il#@##topAds
 omritv.co.il#@##adsense
 one.co.il#@#a[href^="http://xads.zedo.com/"]
@@ -702,7 +702,6 @@ kipa.co.il##.textualy
 kipa.co.il##a[href="http://www.babetov.co.il"]
 kipa.co.il##div[style=" float:right; width:300px; margin:-2px ; height:160px; padding:0px;"]
 kipa.co.il##[id^="pir-"]
-kml.co.il###div-gpt-ad-1389452292530-0
 ladaat.info###divBranzaRightBanner
 ladaat.info###divMainBanner
 ladaat.info###divMekomiRightBanner
