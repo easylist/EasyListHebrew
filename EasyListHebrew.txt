@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: d09vfncdbEaVc/LADXkVoQ
+! Checksum: RSlVs3iH5dusLvtp9DKSCg
 ! Title: EasyList Hebrew
-! Last modified: 25 Apr 2016 14:33 UTC
+! Last modified: 26 Apr 2016 16:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -366,7 +366,7 @@ zegvid.net##*
 @@||forbes.co.il/download/banners/
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
-@@||goalim.club^$elemhide
+@@||goalim.club^$generichide
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
@@ -379,7 +379,7 @@ zegvid.net##*
 @@||kml.co.il^$generichide
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il|ynet.co.il
 @@||lb.advsnx.net/as$domain=mako.co.il
-@@||leava.co.il^$elemhide
+@@||leava.co.il^$generichide
 @@||lips.co.il/ads/$image,~third-party
 @@||lips.co.il/banners/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
@@ -395,12 +395,12 @@ zegvid.net##*
 @@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=one.co.il|reshet.tv
 @@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
-@@||pitaronfree.blogspot.co.il^$elemhide
+@@||pitaronfree.blogspot.co.il^$generichide
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||reshet.tv/ads.html
-@@||sdarot.site^$elemhide
+@@||sdarot.site^$generichide
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sexadir.co.il/ads/$image,~third-party
 @@||sexadir.co.il/banners/$image,~third-party
