@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: awBSRYVcR/lQ+IjYpH8mBw
+! Checksum: P9V3P6WNAOP4zBt3i/bvpQ
 ! Title: EasyList Hebrew
-! Last modified: 06 May 2016 08:55 UTC
+! Last modified: 06 May 2016 09:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -410,7 +410,7 @@ zegvid.net##*
 @@||seximo.co.il/ads/$image,~third-party
 @@||seximo.co.il/banners/160$~third-party
 @@||sfx-images.mozilla.org^$image
-@@||shukitv.ucoz.com/script/ads.js
+@@||shukitv.ucoz.com/script/ads.js 
 @@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
 @@||themarker.com/dclk/dfp/dfp_htz.js
@@ -1031,6 +1031,8 @@ ynet.co.il###googleAdsenseMivzakim
 ynet.co.il###google_ads_iframe_\/ynt\.top\.central
 ynet.co.il###marketingRecommended-1-0
 ynet.co.il###marketingRecommended-2-0
+ynet.co.il###PromoLightbox1024-1
+ynet.co.il###PromoLightbox1024-2
 ynet.co.il###promo_lightbox1
 ynet.co.il###promo_lightbox2
 ynet.co.il###startPlaying
