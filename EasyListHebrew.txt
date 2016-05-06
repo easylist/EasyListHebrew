@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: P9V3P6WNAOP4zBt3i/bvpQ
+! Checksum: STppxljNznqmQCGPROMi8w
 ! Title: EasyList Hebrew
-! Last modified: 06 May 2016 09:02 UTC
+! Last modified: 06 May 2016 10:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -226,6 +226,7 @@
 ||fxp.co.il/skinfxp/*.php$script,image
 ||gear.co.il/Content/MediaItems/Campaigns/
 ||googleusercontent.com^$domain=trusted-software.com
+||goo.gl^$popup,domain=kikar.co.il
 ||haflla.com/download/banners/
 ||hometheater.co.il/opx/
 ||hometheater.co.il/pir/
@@ -404,6 +405,7 @@ zegvid.net##*
 @@||reshet.tv/ads.html
 @@||sdarot.site^$generichide
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
+@@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
 @@||sexadir.co.il/ads/$image,~third-party
 @@||sexadir.co.il/banners/$image,~third-party
 @@||sexadir.co.il/images/ad_title_bg.png$~third-party
