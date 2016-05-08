@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: STppxljNznqmQCGPROMi8w
+! Checksum: +S+zk7t/E5VYHpBXUclH/Q
 ! Title: EasyList Hebrew
-! Last modified: 06 May 2016 10:39 UTC
+! Last modified: 08 May 2016 06:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -130,6 +130,7 @@
 ||xwne.wcdn.co.il^$domain=walla.co.il
 ||x.walla.co.il^$image,domain=mail.walla.co.il
 !-ynet
+||kmrnkjer.xyz^$domain=ynet.co.il,third-party
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
 ||akamai.net/7/1948/5064/v0001/prdupl02.ynet.co.il/MediaSvrFiles/$domain=ynet.co.il
@@ -165,6 +166,7 @@
 ||klnrew.site^$script,domain=globes.co.il
 ||njkiho.info^$script,domain=globes.co.il
 /e?url=$script,domain=globes.co.il,third-party
+.website/?$script,domain=globes.co.il,third-party
 !-Haaretz,TheMarker,Mouse.co.il-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
@@ -640,6 +642,7 @@ globes.co.il##.banners
 globes.co.il##.topBanner
 globes.co.il##div[id^="dclk_overlay_"]
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
+globes.co.il##IFRAME[width="300"][height="250"]
 haaretz.co.il###comments_banner_wrapper
 haaretz.co.il##.bg-ad
 haaretz.co.il##.t-sec-head-ad
