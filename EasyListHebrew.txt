@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +S+zk7t/E5VYHpBXUclH/Q
+! Checksum: myQ4pGFbWy14OAjjx80qpQ
 ! Title: EasyList Hebrew
-! Last modified: 08 May 2016 06:57 UTC
+! Last modified: 08 May 2016 07:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -678,6 +678,7 @@ inn.co.il###div160Info
 inn.co.il###div180Info
 inn.co.il###div300
 inn.co.il###div300ILPict
+inn.co.il###divB800Out
 inn.co.il###divContentRightInf
 inn.co.il###divMainLeftInfo
 inn.co.il###infin0
