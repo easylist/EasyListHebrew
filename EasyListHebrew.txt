@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LcIHXR92XbOh+qTpsYAYxQ
+! Checksum: Au+tRcRuvdA3PrT+jqo2vQ
 ! Title: EasyList Hebrew
-! Last modified: 09 May 2016 15:02 UTC
+! Last modified: 09 May 2016 15:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -352,6 +352,7 @@ zegvid.net##*
 @@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
 @@||adworks.co.il^$~third-party
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il|ynet.co.il
+@@||akamai.advsnx.net/CDN$domain=kikar.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
