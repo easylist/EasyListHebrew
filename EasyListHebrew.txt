@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TCLhwlBTiMLHScxSeqd+JA
+! Checksum: BEpOHpbuip+oRyygSIPqlA
 ! Title: EasyList Hebrew
-! Last modified: 15 May 2016 19:37 UTC
+! Last modified: 15 May 2016 19:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -153,6 +153,7 @@
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
 ||apps.mako.co.il/minicampaigns/
+||img.mako.co.il/2016/*/*/KanBonim*-970x90.
 ||logger.logidea.info^$third-party,domain=mako.co.il
 ||mooma.mako.co.il/HeaderBanner.aspx
 ||sdc.mako.co.il^
