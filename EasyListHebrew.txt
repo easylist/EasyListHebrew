@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Au+tRcRuvdA3PrT+jqo2vQ
+! Checksum: /iL3Ba6/ldbpK3gOLP3s9Q
 ! Title: EasyList Hebrew
-! Last modified: 09 May 2016 15:09 UTC
+! Last modified: 15 May 2016 19:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -81,7 +81,6 @@
 ! *** 3rd party ads *** !
 ||jdate.co.il^$third-party
 ||psakdin.co.il^$domain=calcalist.co.il
-||rot.minifier.co.il^$domain=rotter.net
 ||shorter.co.il/js/fp.js.php
 !
 ! *** Popup sites *** !
@@ -160,15 +159,11 @@
 ||mooma.mako.co.il/HeaderBanner.aspx
 ||sdc.mako.co.il^
 !-Globes
-||dascasdw.xyz^$third-party
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||globes.co.il/news/frames/topbannerflash$subdocument
-||klnrew.site^$script,domain=globes.co.il
-||njkiho.info^$script,domain=globes.co.il
 ||s3.amazonaws.com^$script,domain=globes.co.il
 /e?url=$script,domain=globes.co.il,third-party
-.website/?$script,domain=globes.co.il,third-party
 !-Haaretz,TheMarker,Mouse.co.il-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
@@ -418,7 +413,7 @@ zegvid.net##*
 @@||seximo.co.il/ads/$image,~third-party
 @@||seximo.co.il/banners/160$~third-party
 @@||sfx-images.mozilla.org^$image
-@@||shukitv.ucoz.com/script/ads.js 
+@@||shukitv.ucoz.com/script/ads.js
 @@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
 @@||themarker.com/dclk/dfp/dfp_htz.js
@@ -647,7 +642,7 @@ globes.co.il##.banners
 globes.co.il##.topBanner
 globes.co.il##div[id^="dclk_overlay_"]
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
-globes.co.il##IFRAME[width="300"][height="250"]
+globes.co.il##iframe[width="300"][height="250"]
 haaretz.co.il###comments_banner_wrapper
 haaretz.co.il##.bg-ad
 haaretz.co.il##.t-sec-head-ad
