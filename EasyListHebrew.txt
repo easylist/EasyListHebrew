@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VqxEunGMsEFameEhebwmCQ
+! Checksum: TmfJPofkfFae5De5INOxig
 ! Title: EasyList Hebrew
-! Last modified: 16 May 2016 03:34 UTC
+! Last modified: 16 May 2016 03:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -865,6 +865,7 @@ reshet.tv###prArea
 reshet.tv##.ArticleRelated > .rightClmn.show-in-large-web-only
 reshet.tv##.AsideBannerWrp
 reshet.tv##.comercialarea
+reshet.tv##.footer_strip_970x90
 reshet.tv##.top-banner
 rest.co.il###divLeftBanner
 rest.co.il##.ad_box_1
