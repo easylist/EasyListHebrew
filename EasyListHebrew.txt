@@ -82,6 +82,7 @@
 ||jdate.co.il^$third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||shorter.co.il/js/fp.js.php
+||texasboston.com^$third-party
 !
 ! *** Popup sites *** !
 !
@@ -165,6 +166,7 @@
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||globes.co.il/news/frames/topbannerflash$subdocument
 ||s3.amazonaws.com^$script,domain=globes.co.il
+||rkgnmwre.site^$domain=globes.co.il,third-party
 /e?url=$script,domain=globes.co.il,third-party
 !-Haaretz,TheMarker,Mouse.co.il-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
