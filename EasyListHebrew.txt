@@ -32,6 +32,7 @@
 ||wee.co.il^$third-party
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
+||media.adextent.com^$third-party
 !
 ! *** Popup Adservers *** !
 !
