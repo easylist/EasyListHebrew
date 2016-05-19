@@ -168,6 +168,7 @@
 ||globes.co.il/news/frames/topbannerflash$subdocument
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ||rkgnmwre.site^$domain=globes.co.il,third-party
+||loopmaze.com^$domain=globes.co.il,third-party
 /e?url=$script,domain=globes.co.il,third-party
 !-Haaretz,TheMarker,Mouse.co.il-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
