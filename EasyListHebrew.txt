@@ -649,6 +649,10 @@ globes.co.il##.topBanner
 globes.co.il##div[id^="dclk_overlay_"]
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
 globes.co.il##iframe[width="300"][height="250"]
+globes.co.il,ynet.co.il##iframe:not([src])
+globes.co.il,ynet.co.il##iframe[src^="about:blank"]
+globes.co.il,ynet.co.il##iframe[sandbox="allow-scripts"]
+globes.co.il,ynet.co.il##iframe[name*="function"]
 haaretz.co.il###comments_banner_wrapper
 haaretz.co.il##.bg-ad
 haaretz.co.il##.t-sec-head-ad
