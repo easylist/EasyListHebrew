@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: v8fBVxICqvWVsALhMLESAw
+! Checksum: jLWYnqZwHCco6iDLDd4pBQ
 ! Title: EasyList Hebrew
-! Last modified: 19 May 2016 10:47 UTC
+! Last modified: 21 May 2016 17:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -23,6 +23,7 @@
 ||erate.co.il^$third-party
 ||gitam.1host.co.il^$third-party
 ||jwtdigital-media.co.il^$third-party
+||media.adextent.com^$third-party
 ||media.foxweb.co.il^$third-party
 ||mimgoal.com^$third-party
 ||mitbahon.co.il^$third-party
@@ -32,7 +33,6 @@
 ||wee.co.il^$third-party
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
-||media.adextent.com^$third-party
 !
 ! *** Popup Adservers *** !
 !
@@ -167,9 +167,9 @@
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||globes.co.il/news/frames/topbannerflash$subdocument
 ||s3.amazonaws.com^$script,domain=globes.co.il
-||*.site^$domain=globes.co.il,third-party
 ||loopmaze.com^$domain=globes.co.il,third-party
 /e?url=$script,domain=globes.co.il,third-party
+.site^$domain=globes.co.il,third-party
 !-Haaretz,TheMarker,Mouse.co.il-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
@@ -185,10 +185,10 @@
 ||nana10.co.il/SiteServicePromotion/
 !-Tapuz,Flix
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
+||tapuz.co.il/Forums2008/googleInTreeFrame.html
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
 ||tapuz.co.il/Forums2008/outMaavaron.aspx
 ||tapuz.co.il/communa/merlin_
-||tapuz.co.il/forums2008/googleInTreeFrame.html
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
 !-inn.co.il
@@ -341,13 +341,6 @@ zegvid.net##*
 !
 !----------------------Whitelists to fix broken sites-------------------------!
 !
-! *** Broken only by EasyList Hebrew *** !
-!
-@@||net-games.co.il/flvPlayer/dist/flowplayer-$script
-@@||pas-rahav.com/creativitys
-!
-! *** Broken by EasyList *** !
-!
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
@@ -394,6 +387,7 @@ zegvid.net##*
 @@||lips.co.il/ads/$image,~third-party
 @@||lips.co.il/banners/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
+@@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
@@ -406,6 +400,7 @@ zegvid.net##*
 @@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=one.co.il|reshet.tv
 @@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
+@@||pas-rahav.com/creativitys
 @@||pitaronfree.blogspot.co.il^$generichide
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
