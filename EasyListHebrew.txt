@@ -132,8 +132,6 @@
 ||x.walla.co.il^$image,domain=mail.walla.co.il
 ||x.walla.co.il^*.mp4
 !-ynet
-||kmrnkjer.xyz^$domain=ynet.co.il,third-party
-||faweprsdf.pw^$domain=ynet.co.il,third-party
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
 ||akamai.net/7/1948/5064/v0001/prdupl02.ynet.co.il/MediaSvrFiles/$domain=ynet.co.il
@@ -168,8 +166,11 @@
 ||globes.co.il/news/frames/topbannerflash$subdocument
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ||loopmaze.com^$domain=globes.co.il,third-party
+||njkiho.info^$domain=globes.co.il|ynet.co.il,third-party
 /e?url=$script,domain=globes.co.il,third-party
-.site^$domain=globes.co.il,third-party
+.site^$domain=globes.co.il|ynet.co.il,third-party
+.xyz^$domain=globes.co.il|ynet.co.il,third-party
+.pw^$domain=globes.co.il|ynet.co.il,third-party
 !-Haaretz,TheMarker,Mouse.co.il-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
