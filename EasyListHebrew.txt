@@ -171,6 +171,8 @@
 .site^$domain=globes.co.il|ynet.co.il,third-party
 .xyz^$domain=globes.co.il|ynet.co.il,third-party
 .pw^$domain=globes.co.il|ynet.co.il,third-party
+.info^$domain=globes.co.il|ynet.co.il,third-party
+.website^$domain=globes.co.il|ynet.co.il,third-party
 !-Haaretz,TheMarker,Mouse.co.il-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
