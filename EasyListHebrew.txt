@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cWwyoVW0mcfIBMWWkna/vQ
+! Checksum: sM/uBBRHqkznbm/KVjmhCA
 ! Title: EasyList Hebrew
-! Last modified: 23 May 2016 20:25 UTC
+! Last modified: 24 May 2016 07:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -168,6 +168,7 @@
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ||loopmaze.com^$domain=globes.co.il,third-party
 ||newyorkwhil.com^$domain=globes.co.il,third-party
+||hulahooprect.com^$domain=globes.co.il,third-party
 /e?url=$script,domain=globes.co.il,third-party
 .site^$domain=globes.co.il|ynet.co.il,third-party
 .xyz^$domain=globes.co.il|ynet.co.il,third-party
