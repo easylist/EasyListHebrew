@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dopNQaQ9pgy1iqONXgxI/w
+! Checksum: 70NNUxIcb29uL3ZJsEWq1g
 ! Title: EasyList Hebrew
-! Last modified: 29 May 2016 17:32 UTC
+! Last modified: 29 May 2016 17:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -432,6 +432,7 @@ zegvid.net##*
 @@||shukitv.ucoz.com/script/ads.js
 @@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
+@@||themarker.com^$elemhide
 @@||themarker.com/dclk/dfp/dfp_htz.js
 @@||themarker.com/dclk/dfp/dfp_init_base.js
 @@||tornado-top.co.il/template/images/
