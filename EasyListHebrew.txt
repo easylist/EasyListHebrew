@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EUVB5XXkvubBgGC/EU9MCw
+! Checksum: dIArGq9wcx7na8NIXqlDGQ
 ! Title: EasyList Hebrew
-! Last modified: 25 May 2016 14:32 UTC
+! Last modified: 29 May 2016 01:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -46,6 +46,7 @@
 ||anetkin.org^$popup,third-party
 ||asakimerp.co.il^$popup,third-party
 ||best-offers.co.il^$popup,third-party
+||bsdygital.co.il^$popup,third-party
 ||campaign.*.co.il^$popup,third-party
 ||cdn.mdigital.co.il^$third-party
 ||clickon.co.il^$popup,third-party
@@ -130,7 +131,7 @@
 ||xwbe.wcdn.co.il/$image
 ||xwne.wcdn.co.il^$domain=walla.co.il
 ||x.walla.co.il^$image,domain=mail.walla.co.il
-||x.walla.co.il^*.mp4
+||x.walla.co.il^*.mp4|
 !-ynet
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
