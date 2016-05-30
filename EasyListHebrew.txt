@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 70NNUxIcb29uL3ZJsEWq1g
+! Checksum: B2Ye986j/Jf9Pa+4cCXbUw
 ! Title: EasyList Hebrew
-! Last modified: 29 May 2016 17:37 UTC
+! Last modified: 30 May 2016 16:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -153,7 +153,7 @@
 ||ynet.co.il/WinWinCooperation/
 ||ynetshops.co.il/article/showbanner2/
 !-mako
-&iu=$script,third-party,domain=mako.co.il
+|http:$script,third-party,domain=mako.co.il
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
@@ -161,7 +161,6 @@
 ||img.mako.co.il/2016/*/*/970_90_limudim_
 ||img.mako.co.il/2016/*/*/KanBonim*-970x90.
 ||logger.logidea.info^$third-party,domain=mako.co.il
-||minified.co.il^$script,domain=mako.co.il
 ||mooma.mako.co.il/HeaderBanner.aspx
 ||outbrain.com^$third-party,domain=mako.co.il
 ||sdc.mako.co.il^
@@ -360,6 +359,8 @@ zegvid.net##*
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.one.co.il/images/ads/2014/01/21/1400/home.png
 @@||adworks.co.il^$~third-party
+@@||ajax.aspnetcdn.com^$script,domain=mako.co.il
+@@||ajax.googleapis.com^$script,domain=mako.co.il
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il|ynet.co.il
 @@||akamai.advsnx.net/CDN$domain=kikar.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
@@ -378,6 +379,7 @@ zegvid.net##*
 @@||blogspot.com^$image,domain=goalim.club|sdarot.site
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||clalit.co.il/AdImages
+@@||code.jquery.com^$script,domain=mako.co.il
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||doubleclick.net/gampad/ads$domain=y.net-games.co.il
 @@||forbes.co.il/download/banners/
@@ -402,6 +404,7 @@ zegvid.net##*
 @@||lips.co.il/banners/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
+@@||odb.outbrain.com/crossdomain.xml$object-subrequest,domain=mako.co.il
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
@@ -416,6 +419,7 @@ zegvid.net##*
 @@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||pas-rahav.com/creativitys
 @@||pitaronfree.blogspot.co.il^$generichide
+@@||platform.instagram.com^$script,domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
