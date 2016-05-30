@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: B2Ye986j/Jf9Pa+4cCXbUw
+! Checksum: a3V/px4QZ2upkZL9171Opw
 ! Title: EasyList Hebrew
-! Last modified: 30 May 2016 16:17 UTC
+! Last modified: 30 May 2016 17:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/AdBlockPlusIsrael/EasyListHebrew/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -388,7 +388,7 @@ zegvid.net##*
 @@||goalim.club^$generichide
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
-@@||haaretz.co.il^$elemhide
+@@||haaretz.co.il^$generichide
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
@@ -436,7 +436,7 @@ zegvid.net##*
 @@||shukitv.ucoz.com/script/ads.js
 @@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
-@@||themarker.com^$elemhide
+@@||themarker.com^$generichide
 @@||themarker.com/dclk/dfp/dfp_htz.js
 @@||themarker.com/dclk/dfp/dfp_init_base.js
 @@||tornado-top.co.il/template/images/
@@ -511,14 +511,11 @@ bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
 bhol-forums.co.il,bhol.co.il###top_banner_ph
 fun-city.co.il,popcorate.co.il###videoImage1_login
 beok.co.il,winwin.co.il##.TopBanners
-haaretz.co.il,infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il,themarker.com##.ad
+infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
 globes.co.il,onlife.co.il##.banner
 atmag.co.il,timeout.co.il##.btmspcl_wrap.up
-haaretz.co.il,themarker.com##.border-box.bottomStripBanners
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
-haaretz.co.il,themarker.com##.js-dfp-resp-refresh
 globes.co.il,nrg.co.il##.sekindo
-haaretz.co.il,themarker.com##.topBanners
 atmag.co.il,timeout.co.il##.to_ad
 atmag.co.il,timeout.co.il##.to_ad_2a7_wrap.clearfix
 gamex.co.il,linicom.co.il##a[target="_blank"]
@@ -533,7 +530,6 @@ almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 doctors.co.il,globes.co.il##[id^="ads."]
-haaretz.co.il,themarker.com##div[id^="dclk_objects_"]
 !
 ! *** Specific domain *** !
 !
@@ -590,8 +586,6 @@ bizportal.co.il##.baner2
 bizportal.co.il##.hp_baner_kub
 bizportal.co.il##.kubia_banner
 bizportal.co.il##.single_section_world_short
-cafe.themarker.com##.banner-wrapper
-cafe.themarker.com##.hp_left_ad
 calcalist.co.il###ArticleBanner
 calcalist.co.il###ads\.premium
 calcalist.co.il###carouselAdLi
@@ -625,9 +619,6 @@ dossinet.me###bg_banner_header_top
 efinder.co.il###stp-bg
 efinder.co.il###stp-main
 fbssl.walla.co.il##.container_footer
-finance.themarker.com###subTopBaner
-finance.themarker.com##.c_advFrame
-finance.themarker.com##[id^="newsBanner"]
 foodsdictionary.co.il###bottom-banner-container
 foodsdictionary.co.il###main-header-ad
 forbes.co.il##embed[src^="/download/banners/"]
@@ -670,12 +661,6 @@ globes.co.il,ynet.co.il##iframe:not([src])
 globes.co.il,ynet.co.il##iframe[src^="about:blank"]
 globes.co.il,ynet.co.il##iframe[sandbox="allow-scripts"]
 globes.co.il,ynet.co.il##iframe[name*="function"]
-haaretz.co.il###comments_banner_wrapper
-haaretz.co.il##.bg-ad
-haaretz.co.il##.t-sec-head-ad
-haaretz.co.il##.modal-wrapper
-haaretz.co.il##div[style="font-size:19px; font-weight:bold;margin-bottom:10px;"]
-haaretz.co.il##div[style="background: url(/htz/images/bg/Ad_bg.gif) repeat; padding:10px 0; text-align:center;"]
 hashekel.co.il###block-13
 hashekel.co.il###block-14
 hidabroot.org##.panel-row-upper
@@ -987,21 +972,6 @@ tapuz.co.il##.smallAdd
 tapuz.co.il##[id^="netex_"]
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
-themarker.com###floatingBannerDepPage
-themarker.com###floatingBannerHomePage
-themarker.com##.CutTransperetLine + .border-box
-themarker.com##.banner-area
-themarker.com##.banner_92008
-themarker.com##.border-box.noSourceList
-themarker.com##.click-tracker-banner.tadmit_300x100
-themarker.com##.js-clickTracker-for-addBlocker
-themarker.com##.sdera-banners
-themarker.com##.slideShowBannerGroup
-themarker.com##.t-sec-head.t-sec-head--b.c-pale
-themarker.com##.topSectionBanners
-themarker.com##iframe[id^="google"]
-themarker.com##[name="txtlnk"] + .border-box
-themarker.com###RelevantiWidget
 totalchat.co.il###PublichVoiceChat
 upf.co.il##.bgbanner
 walla.co.il###navbar
