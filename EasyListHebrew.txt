@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mY+RBMXF71g4b5a1CZ3uYA
+! Checksum: VZ0UQDwn4vVnqUiZSTyWrw
 ! Title: EasyList Hebrew
-! Last modified: 31 May 2016 15:37 UTC
+! Last modified: 31 May 2016 22:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -155,6 +155,7 @@
 ||ynetshops.co.il/article/showbanner2/
 !-mako
 ||adserv.mako.co.il^
+||amazuk.com^$domain=mako.co.il
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
 ||apps.mako.co.il/minicampaigns/
@@ -397,7 +398,7 @@ zegvid.net##*
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||kikar.co.il/js/ads.js
 @@||kml.co.il^$generichide
-@@||lb.advsnx.net/AdServer/?ZoneID$domain=mako.co.il
+@@||lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il|ynet.co.il
 @@||lb.advsnx.net/as$domain=mako.co.il
 @@||leava.co.il^$generichide
