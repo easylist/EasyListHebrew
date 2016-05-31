@@ -1,3 +1,3 @@
 דיווח על פרסומות ובעיות | Reporting on ads and problems
 
-https://goo.gl/jlkI0q
+https://github.com/easylist/EasyListHebrew/wiki
