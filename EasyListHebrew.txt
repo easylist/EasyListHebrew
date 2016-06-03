@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4GI4Enfr158iSrNoee/iKw
+! Checksum: tczMsUQQMN1AIubU9ai41g
 ! Title: EasyList Hebrew
-! Last modified: 02 Jun 2016 11:55 UTC
+! Last modified: 03 Jun 2016 13:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -166,15 +166,21 @@
 ||outbrain.com^$third-party,domain=mako.co.il
 ||sdc.mako.co.il^
 !-
+akamhd.com##*
 amazuk.com##*
 sharedcdn.site##*
 storagecdncloud.co##*
+ymakeseb.club##*
 !-
 ##[style="margin: 0px; overflow: hidden;"][onload="init();"] > [target="_blank"] > #canvas
 ##[onload="init();"] #canvas[style="background-color:#FFFFFF"][width="300"][height="600"]
 ##[onload="init();"][style="background-color:#ffffff"] > #canvas[height="250"][width="970"]
+##[onload="init();"] > #canvas[style="background-color:#ffffff"][height="600"][width="300"]
+##[onload="init();"] > #canvas[style^="background-color: rgb(255, 255, 255)"][height="600"][width="160"]
 ##[target="_blank"] > #swiffycontainer canvas[width="300"][height="577"]
 ##[id^="ebDiv"][style^="display: inline; width: 160px; height: 600px; margin: 0px auto"]
+##a[target="_blank"][href^="https://mako."]
+###canvas[style="background-color:#FFF;position:absolute; top:0px; left:0px"][height="250"][width="970"]
 mako.co.il##[id^="ebBanner"][src^="https://"]
 mako.co.il##[style^="display: flex ! important; width: 120px; height: 600px;"]
 mako.co.il##[style^="display: flex ! important; width: 970px; height: 250px;"]
