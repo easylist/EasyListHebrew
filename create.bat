@@ -6,5 +6,5 @@ IF ERRORLEVEL 1 GOTO errorHandling
 move /y IsraelList2.txt EasyListHebrew.txt
 exit
 :errorHandling
-echo Somthing went wrong
+echo Something went wrong
 pause
