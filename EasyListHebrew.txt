@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tczMsUQQMN1AIubU9ai41g
+! Checksum: C65VmHqTyYUKawRPpwWWPg
 ! Title: EasyList Hebrew
-! Last modified: 03 Jun 2016 13:05 UTC
+! Last modified: 04 Jun 2016 18:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -166,26 +166,15 @@
 ||outbrain.com^$third-party,domain=mako.co.il
 ||sdc.mako.co.il^
 !-
-akamhd.com##*
-amazuk.com##*
-sharedcdn.site##*
-storagecdncloud.co##*
-ymakeseb.club##*
+||akamhd.com^
+||amazuk.com^
+||cloudbit.rocks^
+||sharedcdn.site^
+||storagecdncloud.co^
+||ymakeseb.club^
 !-
-##[style="margin: 0px; overflow: hidden;"][onload="init();"] > [target="_blank"] > #canvas
-##[onload="init();"] #canvas[style="background-color:#FFFFFF"][width="300"][height="600"]
-##[onload="init();"][style="background-color:#ffffff"] > #canvas[height="250"][width="970"]
-##[onload="init();"] > #canvas[style="background-color:#ffffff"][height="600"][width="300"]
-##[onload="init();"] > #canvas[style^="background-color: rgb(255, 255, 255)"][height="600"][width="160"]
-##[target="_blank"] > #swiffycontainer canvas[width="300"][height="577"]
-##[id^="ebDiv"][style^="display: inline; width: 160px; height: 600px; margin: 0px auto"]
-##a[target="_blank"][href^="https://mako."]
-###canvas[style="background-color:#FFF;position:absolute; top:0px; left:0px"][height="250"][width="970"]
-mako.co.il##[id^="ebBanner"][src^="https://"]
-mako.co.il##[style^="display: flex ! important; width: 120px; height: 600px;"]
-mako.co.il##[style^="display: flex ! important; width: 970px; height: 250px;"]
-mako.co.il##a[target="_blank"][href*="/w?s="]
-mako.co.il###CloseButton[onclick="plasmaClose()"]
+?iu=$third-party,domain=mako.co.il
+=*=*=*=*=*=$script,third-party,domain=mako.co.il
 !-
 !-Globes
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
@@ -391,6 +380,7 @@ zegvid.net##*
 @@||akamai.advsnx.net/CDN/ynet/ynet.swf
 @@||akamai.advsnx.net^$domain=mako.co.il
 @@||amazonaws.com/static.madlan.co.il/
+@@||apis.google.com^*=plusone/$script,third-party,domain=mako.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
