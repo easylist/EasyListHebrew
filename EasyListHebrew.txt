@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: C65VmHqTyYUKawRPpwWWPg
+! Checksum: 4VrlfFObQa9DtnAf0R1r0w
 ! Title: EasyList Hebrew
-! Last modified: 04 Jun 2016 18:49 UTC
+! Last modified: 04 Jun 2016 18:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -115,7 +115,6 @@
 ||streamin.to^$popup,third-party
 ||trendsonline.me/?id$popup,third-party
 ||tinyurl.com^$popup,domain=daka90.co.il
-||vodmovies.net/random$popup
 !
 !-----------------------Site specific ad blocking rules-----------------------!
 !
@@ -253,7 +252,6 @@
 ||daatariel.org.il/kipa/$popup,domain=kipa.co.il
 ||date.dacho.co.il^$domain=~date.dacho.co.il
 ||ddlil.com/banners/
-||dimpact.co.il/Live/Banner/
 ||fxp.co.il/skinfxp/*.php$script,image
 ||gear.co.il/Content/MediaItems/Campaigns/
 ||googleusercontent.com^$domain=trusted-software.com
@@ -719,7 +717,6 @@ inn.co.il##[id^="LeftInfo"]
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
-israelpost.co.il###AdvHorizontal
 israelweather.co.il###weekFlashes
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
 jobmaster.co.il##table[width="100%"][style="border-top:1px solid #EEEEEE;"]
