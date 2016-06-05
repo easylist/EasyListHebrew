@@ -1,13 +1,7 @@
 [Adblock Plus 2.0]
-<<<<<<< HEAD
-! Checksum: mSkUXjTBiP2m/6XNj3GPjQ
+! Checksum: nJPn8W+0S8LnIQFXs0zcjA
 ! Title: EasyList Hebrew
-! Last modified: 05 Jun 2016 16:40 UTC
-=======
-! Checksum: SbI0m32Sq3JDX7poYNdeUQ
-! Title: EasyList Hebrew
-! Last modified: 05 Jun 2016 16:37 UTC
->>>>>>> 05972b1e2ffb442bedd235b75d843262f280f8d0
+! Last modified: 05 Jun 2016 16:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -392,10 +386,7 @@ zegvid.net##*
 @@||lips.co.il/banners/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
-<<<<<<< HEAD
 @@||odb.outbrain.com/utils/get?url=$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-=======
->>>>>>> 05972b1e2ffb442bedd235b75d843262f280f8d0
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
