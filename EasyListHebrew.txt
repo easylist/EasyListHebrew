@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
-! Checksum: pn7jg3cJWfn7WoFskx6cYQ
+! Checksum: mSkUXjTBiP2m/6XNj3GPjQ
 ! Title: EasyList Hebrew
-! Last modified: 05 Jun 2016 14:28 UTC
+! Last modified: 05 Jun 2016 16:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
 !
 ! Please report any unblocked adverts or problems
 ! in the forum: https://github.com/easylist/EasyListHebrew/issues
-! By email: easylisthebrew@gmail.com
+! or via email: easylisthebrew@gmail.com
 !
 ! Based on Fanboy's IsraelList
 !
@@ -16,6 +16,7 @@
 !
 ! *** Adservers *** !
 !
+/.{360,}/$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 ||213.8.137.51^
 ||activated.co.il^$third-party
 ||adland.co.il^$third-party
@@ -133,7 +134,6 @@
 ||x.walla.co.il^$image,domain=mail.walla.co.il
 ||x.walla.co.il^*.mp4|
 !-ynet
-/*?*=*=$script,third-party,domain=ynet.co.il
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
 ||akamai.net/7/1948/5064/v0001/prdupl02.ynet.co.il/MediaSvrFiles/$domain=ynet.co.il
@@ -153,7 +153,6 @@
 ||ynet.co.il/WinWinCooperation/
 ||ynetshops.co.il/article/showbanner2/
 !-mako
-!-
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
@@ -163,19 +162,7 @@
 ||logger.logidea.info^$third-party,domain=mako.co.il
 ||mooma.mako.co.il/HeaderBanner.aspx
 ||sdc.mako.co.il^
-!-
-||akamhd.com^
-||amazuk.com^
-||cloudbit.rocks^
-||sharedcdn.site^
-||storagecdncloud.co^
-||ymakeseb.club^
-!-
-?iu=$third-party,domain=mako.co.il
-=*=*=*=*=*=$script,third-party,domain=mako.co.il
-!-
 !-Globes
-/*?*=*=$script,third-party,domain=globes.co.il
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||globes.co.il/news/frames/topbannerflash$subdocument
@@ -212,8 +199,6 @@
 ||ban.d-group.co.il/banners/$third-party
 ||d.co.il/Hebrew/images/Premium/
 ||madas-ads.securest.org^$third-party
-!-bizportal
-/*?*=*=$script,third-party,domain=bizportal.co.il
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -366,7 +351,6 @@ zegvid.net##*
 @@||akamai.advsnx.net/CDN/ynet/ynet.swf
 @@||akamai.advsnx.net^$domain=mako.co.il
 @@||amazonaws.com/static.madlan.co.il/
-@@||apis.google.com^*=plusone/$script,third-party,domain=mako.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
@@ -383,6 +367,7 @@ zegvid.net##*
 @@||globes.co.il/news/inc/banners/show_ads.js
 @@||goalim.club^$generichide
 @@||gplanet.co.il/js/adx.js
+@@||graph.facebook.com/fql?q=$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il^$generichide
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
@@ -401,7 +386,7 @@ zegvid.net##*
 @@||lips.co.il/banners/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
-@@||odb.outbrain.com/utils/get?$domain=mako.co.il
+@@||odb.outbrain.com/utils/get?url=$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
@@ -649,14 +634,8 @@ globes.co.il##.G_divTopSpace20
 globes.co.il##.banner_box_300x250.NoTopBorder
 globes.co.il##.banner_box_550x90
 globes.co.il##.banners
-globes.co.il##.topBanner
 globes.co.il##div[id^="dclk_overlay_"]
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
-globes.co.il##iframe[width="300"][height="250"]
-globes.co.il,ynet.co.il##iframe:not([src])
-globes.co.il,ynet.co.il##iframe[src^="about:blank"]
-globes.co.il,ynet.co.il##iframe[sandbox="allow-scripts"]
-globes.co.il,ynet.co.il##iframe[name*="function"]
 hashekel.co.il###block-13
 hashekel.co.il###block-14
 hidabroot.org##.panel-row-upper
