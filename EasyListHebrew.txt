@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RMUXTa7CH5KHydVefaQucA
+! Checksum: pR7agA0m/WTgYdESI5yaXg
 ! Title: EasyList Hebrew
-! Last modified: 04 Jun 2016 19:02 UTC
+! Last modified: 05 Jun 2016 07:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -175,24 +175,11 @@
 =*=*=*=*=*=$script,third-party,domain=mako.co.il
 !-
 !-Globes
+/*?*=*=$script,third-party,domain=globes.co.il
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||globes.co.il/news/frames/topbannerflash$subdocument
 ||s3.amazonaws.com^$script,domain=globes.co.il
-||loopmaze.com^$domain=globes.co.il,third-party
-||newyorkwhil.com^$domain=globes.co.il,third-party
-||hulahooprect.com^$domain=globes.co.il,third-party
-||nullenabler.com^$domain=globes.co.il,third-party
-||benchmarkingstuff.com^$domain=globes.co.il,third-party
-||bargainpricedude.com^$domain=globes.co.il,third-party
-||numberthreebear.com^$domain=globes.co.il,third-party
-/e?url=$script,domain=globes.co.il,third-party
-.site^$domain=globes.co.il|ynet.co.il,third-party
-.xyz^$domain=globes.co.il|ynet.co.il,third-party
-.pw^$domain=globes.co.il|ynet.co.il,third-party
-.info^$domain=globes.co.il|ynet.co.il,third-party
-.website^$domain=globes.co.il|ynet.co.il,third-party
-.space^$domain=globes.co.il|ynet.co.il,third-party
 !-Haaretz,TheMarker,Mouse.co.il-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
