@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Y8XLq0LD3ybqSpNym06+QQ
+! Checksum: BP0/v4DNLyi3pM/zqnlrsg
 ! Title: EasyList Hebrew
-! Last modified: 05 Jun 2016 18:50 UTC
+! Last modified: 06 Jun 2016 12:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -16,7 +16,7 @@
 !
 ! *** Adservers *** !
 !
-/.{360,}/$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/.{360,}/$script,xmlhttprequest,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 ||213.8.137.51^
 ||activated.co.il^$third-party
 ||adland.co.il^$third-party
@@ -37,6 +37,9 @@
 !
 ! *** Popup Adservers *** !
 !
+||campaign.*.co.il^$popup,third-party
+||dcampaigns.*.co.il^$popup,third-party
+!
 ||213.8.137.51^$popup,third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||activated.digital^$popup,third-party
@@ -48,10 +51,8 @@
 ||asakimerp.co.il^$popup,third-party
 ||best-offers.co.il^$popup,third-party
 ||bsdygital.co.il^$popup,third-party
-||campaign.*.co.il^$popup,third-party
 ||cdn.mdigital.co.il^$third-party
 ||clickon.co.il^$popup,third-party
-||dcampaigns.*.co.il^$popup,third-party
 ||expert-offers.com^$popup,third-party
 ||gin.co.il^$popup,third-party
 ||gitam.co.il^$popup,third-party
@@ -118,7 +119,7 @@
 !
 !-----------------------Site specific ad blocking rules-----------------------!
 !
-!-Walla!
+! * Walla! * !
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
@@ -133,7 +134,7 @@
 ||xwne.wcdn.co.il^$domain=walla.co.il
 ||x.walla.co.il^$image,domain=mail.walla.co.il
 ||x.walla.co.il^*.mp4|
-!-ynet
+! * ynet * !
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
 ||akamai.net/7/1948/5064/v0001/prdupl02.ynet.co.il/MediaSvrFiles/$domain=ynet.co.il
@@ -152,7 +153,7 @@
 ||ynet.co.il/images/video/wobi/wobi_
 ||ynet.co.il/WinWinCooperation/
 ||ynetshops.co.il/article/showbanner2/
-!-mako
+! * mako * !
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
@@ -162,25 +163,25 @@
 ||logger.logidea.info^$third-party,domain=mako.co.il
 ||mooma.mako.co.il/HeaderBanner.aspx
 ||sdc.mako.co.il^
-!-Globes
+! * Globes * !
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||globes.co.il/news/frames/topbannerflash$subdocument
 ||s3.amazonaws.com^$script,domain=globes.co.il
-!-Haaretz,TheMarker,Mouse.co.il-!
+! * Haaretz, TheMarker, Mouse.co.il * !
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il^*/Banners/
 ||themarker.com/dclk/
-!-nrg
+! * nrg * !
 ||nrg.co.il/cache/banners
 ||nrg.co.il/images/banners
 ||nrg.co.il/online/xml/sundor_promobox_
 ||nrg.co.il^*/maavaron.$script
-!-nana10
+! * nana10 * !
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
-!-Tapuz,Flix
+! * Tapuz, Flix * !
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
 ||tapuz.co.il/Forums2008/googleInTreeFrame.html
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
@@ -188,14 +189,14 @@
 ||tapuz.co.il/communa/merlin_
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
-!-inn.co.il
+! * inn.co.il * !
 ||a7.org/scripts/Maavaron.js
 ||info.a7.org^$domain=inn.co.il
 ||inn.co.il/info_en/
 ||inn.co.il/leads/content/upload/
 ||inn.co.il/leads/view/$popup
 ||dwnmedia.a7.org/inntv/media/
-!-d-group
+! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||d.co.il/Hebrew/images/Premium/
 ||madas-ads.securest.org^$third-party
