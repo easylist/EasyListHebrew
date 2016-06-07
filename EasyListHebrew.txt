@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: M1eYkYZart7gZDx4sFTiNg
+! Checksum: XPXzaE/ivRtLxVm6QG9ixw
 ! Title: EasyList Hebrew
-! Last modified: 07 Jun 2016 16:10 UTC
+! Last modified: 07 Jun 2016 16:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -873,7 +873,6 @@ one.co.il##div[style="height:43px;padding-bottom:18px"]
 one.co.il##div[style="text-align:right;border:solid 1px #d5d5d5;"]
 one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
 one.co.il##div[style="width:100%;text-align:center;background:#ebebeb;padding:10px auto 10px auto;"]
-one.co.il##table[width="100%"] + table[width="100%"]
 onlife.co.il###block-freelancer-0
 onlife.co.il###block-freelancer-1
 onlife.co.il###top_article_ads_wrapper
