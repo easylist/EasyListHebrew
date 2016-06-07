@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mpO86Oj53b3q2Pbm66892w
+! Checksum: 9xLAunsMrWgYO5XqBKFuLA
 ! Title: EasyList Hebrew
-! Last modified: 07 Jun 2016 12:04 UTC
+! Last modified: 07 Jun 2016 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -16,7 +16,11 @@
 !
 ! *** Adservers *** !
 !
-/.{360,}/$script,xmlhttprequest,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/.{360,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/[a-zA-Z]{80}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/[a-zA-Z]{2}\d{1}[a-zA-Z]{2}(.+)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/\?(.+)=(.+)[A-Z]{1}([a-z]+)[A-Z]{1}[a-zA-Z]{10}(.+)[a-z]{1}([A-Z]+)[a-z]{1}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+!
 ||213.8.137.51^
 ||activated.co.il^$third-party
 ||adland.co.il^$third-party
@@ -338,6 +342,13 @@ zegvid.net##*
 !
 !----------------------Whitelists to fix broken sites-------------------------!
 !
+@@||facebook.com/connect/$subdocument,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+@@||facebook.com/plugins/$subdocument,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+@@||facebook.com/v*/plugins/$subdocument,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+@@||images.outbrain.com/imageserver/$image,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+@@||graph.facebook.com/fql?q=$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+@@||odb.outbrain.com/utils/get?url=$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+!
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
@@ -368,7 +379,6 @@ zegvid.net##*
 @@||globes.co.il/news/inc/banners/show_ads.js
 @@||goalim.club^$generichide
 @@||gplanet.co.il/js/adx.js
-@@||graph.facebook.com/fql?q=$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il^$generichide
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
@@ -388,7 +398,6 @@ zegvid.net##*
 @@||lips.co.il/banners/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
-@@||odb.outbrain.com/utils/get?url=$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
@@ -730,15 +739,16 @@ mail.walla.co.il###ad1
 maka.co.il##.leftBanner
 maka.co.il##.midBanner
 maka.co.il##.rightBanner
+mako.co.il###CloseButton
+mako.co.il###ZA_CAMP_BG
+mako.co.il###ZA_CAMP_CONTAINER
+mako.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 mako.co.il###googleLinkUnits
 mako.co.il###hp_bottom_strip
 mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
 mako.co.il###rAdContainer
 mako.co.il###topPageStrip.not_for_print
-mako.co.il###ZA_CAMP_BG
-mako.co.il###ZA_CAMP_CONTAINER
-mako.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 mako.co.il##.maKoreWrapper
 mako.co.il##.mako_banner_coast
 mako.co.il##.pzm_banners
