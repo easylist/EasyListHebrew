@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9xLAunsMrWgYO5XqBKFuLA
+! Checksum: M1eYkYZart7gZDx4sFTiNg
 ! Title: EasyList Hebrew
-! Last modified: 07 Jun 2016 12:20 UTC
+! Last modified: 07 Jun 2016 16:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -92,6 +92,33 @@
 ||psakdin.co.il^$domain=calcalist.co.il
 ||shorter.co.il/js/fp.js.php
 ||texasboston.com^$third-party
+||bakkels.com^$third-party
+||bargainpricedude.com^$third-party
+||beerforthepipl.com^$third-party
+||benchmarkingstuff.com^$third-party
+||bostonparadise.com^$third-party
+||bostonwall.com^$third-party
+||bulgarine.com^$third-party
+||corruptcy.com^$third-party
+||dascasdw.xyz^$third-party
+||depresis.com^$third-party
+||havinates.com^$third-party
+||houstion.com^$third-party
+||hulahooprect.com^$third-party
+||indeterman.com^$third-party
+||jacquarter.com^$third-party
+||klnrew.site^$third-party
+||kmrnkjer.xyz^$third-party
+||loopmaze.com^$third-party
+||newyorkwhil.com^$third-party
+||njkiho.info^$third-party
+||nothering.com^$third-party
+||nullenabler.com^$third-party
+||numberthreebear.com^$third-party
+||oversailor.com^$third-party
+||retrayan.com^$third-party
+||sprawley.com^$third-party
+||yathmoth.com^$third-party
 !
 ! *** Popup sites *** !
 !
