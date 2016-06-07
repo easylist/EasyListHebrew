@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kmNwpCoRgcnJqpSqHVX74Q
+! Checksum: mpO86Oj53b3q2Pbm66892w
 ! Title: EasyList Hebrew
-! Last modified: 06 Jun 2016 14:38 UTC
+! Last modified: 07 Jun 2016 12:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -23,7 +23,7 @@
 ||clickon.co.il^$third-party
 ||erate.co.il^$third-party
 ||gitam.1host.co.il^$third-party
-||jwtdigital-media.co.il^$third-party
+||jwtdigital-media.co.il^$third-party,~font
 ||media.adextent.com^$third-party
 ||media.foxweb.co.il^$third-party
 ||mimgoal.com^$third-party
@@ -119,7 +119,7 @@
 !
 !-----------------------Site specific ad blocking rules-----------------------!
 !
-! * Walla! * !
+! * Walla! NEWS * !
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
