@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NTGIkAx6VxMR/LFX10JrxQ
+! Checksum: 6HWLiNNxzvM21BjO7PuZOw
 ! Title: EasyList Hebrew
-! Last modified: 08 Jun 2016 12:12 UTC
+! Last modified: 08 Jun 2016 17:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -15,11 +15,6 @@
 !--------------------------3rd party blocking rules---------------------------!
 !
 ! *** Adservers *** !
-!
-/.{360,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-/[a-zA-Z]{80}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-/[a-zA-Z]{2}\d{1}[a-zA-Z]{2}(.+)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-/\?(.+)=(.+)[A-Z]{1}([a-z]+)[A-Z]{1}[a-zA-Z]{10}(.+)[a-z]{1}([A-Z]+)[a-z]{1}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 !
 ||213.8.137.51^
 ||activated.co.il^$third-party
@@ -91,7 +86,7 @@
 ||jdate.co.il^$third-party
 ||psakdin.co.il^$domain=calcalist.co.il
 ||shorter.co.il/js/fp.js.php
-||texasboston.com^$third-party
+!
 ||bakkels.com^$third-party
 ||bargainpricedude.com^$third-party
 ||beerforthepipl.com^$third-party
@@ -118,7 +113,13 @@
 ||oversailor.com^$third-party
 ||retrayan.com^$third-party
 ||sprawley.com^$third-party
+||texasboston.com^$third-party
 ||yathmoth.com^$third-party
+!
+/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*).{360,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{80}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}(.+)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)\?(.+)=(.+)[A-Z]{1}([a-z]+)[A-Z]{1}[a-zA-Z]{10}(.+)[a-z]{1}([A-Z]+)[a-z]{1}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 !
 ! *** Popup sites *** !
 !
@@ -368,13 +369,6 @@ zegvid.net##*
 ###HiddenMovie > [src^="http://www.youtube.com"] + #video-blocker
 !
 !----------------------Whitelists to fix broken sites-------------------------!
-!
-@@||facebook.com/connect/$subdocument,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-@@||facebook.com/plugins/$subdocument,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-@@||facebook.com/v*/plugins/$subdocument,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-@@||images.outbrain.com/imageserver/$image,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-@@||graph.facebook.com/fql?q=$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-@@||odb.outbrain.com/utils/get?url=$script,third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 !
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
