@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MkIEY4CXqoIFL+RISZY49Q
+! Checksum: docyYt+BtDcZHSJwzag2Cg
 ! Title: EasyList Hebrew
-! Last modified: 09 Jun 2016 08:23 UTC
+! Last modified: 09 Jun 2016 14:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -1048,8 +1048,6 @@ ynet.co.il###art_bottom_adsense-1
 ynet.co.il###art_right_sponsored_links-1
 ynet.co.il###googleAdsenseMivzakim
 ynet.co.il###google_ads_iframe_\/ynt\.top\.central
-ynet.co.il###marketingRecommended-1-0
-ynet.co.il###marketingRecommended-2-0
 ynet.co.il###PromoLightbox1024-1
 ynet.co.il###PromoLightbox1024-2
 ynet.co.il###promo_lightbox1
@@ -1074,6 +1072,7 @@ ynet.co.il##.ghciWinWinShimushon1
 ynet.co.il##.google_ads_t4590B_wrapper
 ynet.co.il##.hp_player_header
 ynet.co.il##.leshonitMain.leshonitBorderRectangle
+ynet.co.il##.marketingRecommended
 ynet.co.il##.shMainDiv
 ynet.co.il##div[style="width:256px;height:66px;background-color:#FFFFFF;"]
 ynet.co.il##[style="DISPLAY: block; FLOAT: left"] > div[style="PADDING-BOTTOM: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px"]
