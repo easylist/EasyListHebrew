@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: X1gFWMYSMnZxJRU1aOnvjw
+! Checksum: wjQ/ru3WsRXeVjEZZlrnQg
 ! Title: EasyList Hebrew
-! Last modified: 10 Jun 2016 11:02 UTC
+! Last modified: 10 Jun 2016 11:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -545,6 +545,8 @@ almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 doctors.co.il,globes.co.il##[id^="ads."]
+haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
+haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 !
 ! *** Specific domain *** !
 !
