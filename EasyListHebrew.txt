@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: docyYt+BtDcZHSJwzag2Cg
+! Checksum: pPMHX8kfmfvoAnU3982AXA
 ! Title: EasyList Hebrew
-! Last modified: 09 Jun 2016 14:29 UTC
+! Last modified: 10 Jun 2016 09:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -720,6 +720,7 @@ israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelweather.co.il###weekFlashes
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
+isramedia.net###maska232
 jobmaster.co.il##table[width="100%"][style="border-top:1px solid #EEEEEE;"]
 jobmaster.co.il##.pres[width="143"]
 jobmaster.co.il###bannerDiv
