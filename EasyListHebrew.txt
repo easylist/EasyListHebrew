@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NokhRJoiYYuPH2JD28boEw
+! Checksum: /+0O7BdwI5H2wTor0jnYGw
 ! Title: EasyList Hebrew
-! Last modified: 10 Jun 2016 11:42 UTC
+! Last modified: 11 Jun 2016 22:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -116,10 +116,12 @@
 ||texasboston.com^$third-party
 ||yathmoth.com^$third-party
 !
-/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*).{360,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{80}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}(.+)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)\?(.+)=(.+)[A-Z]{1}([a-z]+)[A-Z]{1}[a-zA-Z]{10}(.+)[a-z]{1}([A-Z]+)[a-z]{1}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/^((?!http://ajax\.googleapis\.com/)(?!http://apis\.google\.com/)(?!http://assets\.pinterest\.com/)(?!http://assets\.vicomi\.com/)(?!http://assets-prod\.vicomi\.com/)(?!http://cdn\.taboola\.com/)(?!http://code\.jquery\.com/)(?!http://connect\.facebook\.net/)(?!http://giphy\.com/)(?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.instagram\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.googleadservices\.com/)(?!http://www\.googletagmanager\.com/)(?!http://www\.googletagservices\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!http://staticxx\.facebook\.com/)(?!http://widgets\.outbrain\.com/)(?!http://widgets\.twimg\.com/)(?!http://www\.youtube\.com/)(?!https://apis\.google\.com/)(?!https://api\.facebook\.com/)(?!https://api\.instagram\.com/)(?!https://connect\.facebook\.net/)(?!https://scontent\.cdninstagram\.com/)(?!https://staticxx\.facebook\.com/)(?!https://syndication\.twitter\.com/)(?!https://s\.ytimg\.com/)(?!https://www\.facebook\.com/)(?!https://www\.instagram\.com/)(?!https://www\.youtube\.com/))(.*)/$~font,third-party,domain=mako.co.il
+!
+/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*).{360,}/$third-party,domain=bizportal.co.il|globes.co.il|ynet.co.il
+/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{80}/$third-party,domain=bizportal.co.il|globes.co.il|ynet.co.il
+/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}(.+)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|ynet.co.il
+/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.google-analytics\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)\?(.+)=(.+)[A-Z]{1}([a-z]+)[A-Z]{1}[a-zA-Z]{10}(.+)[a-z]{1}([A-Z]+)[a-z]{1}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|ynet.co.il
 !
 ! *** Popup sites *** !
 !
@@ -370,6 +372,14 @@ zegvid.net##*
 !
 !----------------------Whitelists to fix broken sites-------------------------!
 !
+@@||mako.co.il^$generichide
+@@||akamaihd.net^$object-subrequest,xmlhttprequest,third-party,domain=mako.co.il
+@@||ctedgecdn.net^$object-subrequest,xmlhttprequest,third-party,domain=mako.co.il
+@@||cloudfrornt.net^$script,third-party,domain=mako.co.il
+@@||www.auto.co.il^$subdocument,domain=mako.co.il
+@@||www.sport5.co.il^$image,domain=mako.co.il
+@@||www.themarker.com^$image,domain=mako.co.il
+!
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
@@ -525,7 +535,7 @@ bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
 bhol-forums.co.il,bhol.co.il###top_banner_ph
 fun-city.co.il,popcorate.co.il###videoImage1_login
 beok.co.il,winwin.co.il##.TopBanners
-infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
+infomed.co.il,pcmagazine.co.il,rest.co.il##.ad
 globes.co.il,onlife.co.il##.banner
 atmag.co.il,timeout.co.il##.btmspcl_wrap.up
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
@@ -544,9 +554,9 @@ almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 doctors.co.il,globes.co.il##[id^="ads."]
-haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
-haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
+haaretz.co.il,themarker.com,mako.co.il##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
+haaretz.co.il,themarker.com,mako.co.il##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 !
 ! *** Specific domain *** !
 !
@@ -763,29 +773,12 @@ maariv.co.il##.news-feed-banner
 maariv.co.il##.TwoBannersFloor
 maariv.co.il##.xl-banner-wrap
 madas.co.il###CloseshellAds
-mail.walla.co.il#div[data-ads-space]
+mail.walla.co.il##div[data-ads-space]
 mail.walla.co.il###ad1
 mail.walla.co.il###ads-mail-cube
 maka.co.il##.leftBanner
 maka.co.il##.midBanner
 maka.co.il##.rightBanner
-mako.co.il###CloseButton
-mako.co.il###ZA_CAMP_BG
-mako.co.il###ZA_CAMP_CONTAINER
-mako.co.il###ZA_CAMP_SLIDEIN_CONTAINER
-mako.co.il###googleLinkUnits
-mako.co.il###hp_bottom_strip
-mako.co.il###mysupermarketcontainer
-mako.co.il###neoTopStrip
-mako.co.il###rAdContainer
-mako.co.il###topPageStrip.not_for_print
-mako.co.il##.maKoreWrapper
-mako.co.il##.mako_banner_coast
-mako.co.il##.pzm_banners
-mako.co.il##.sidebar_pic
-mako.co.il##div[id^="dclk_overlay_"]
-mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
-mako.co.il##[href^="http://www.mysupermarket.co.il/?banner"]
 mapa.co.il###adSenseOnMap
 mapa.co.il###headerContenetBanner
 mapa.co.il##.bannerPlace
