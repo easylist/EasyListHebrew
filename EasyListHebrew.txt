@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: v+tvqbJgh9qbDTrLVzLaUw
+! Checksum: 7+1Wyc7INJiXp1LwqeUrWg
 ! Title: EasyList Hebrew
-! Last modified: 12 Jun 2016 19:14 UTC
+! Last modified: 12 Jun 2016 19:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -87,6 +87,7 @@
 ||psakdin.co.il^$domain=calcalist.co.il
 ||shorter.co.il/js/fp.js.php
 !
+||agecdn.me^$third-party
 ||bakkels.com^$third-party
 ||bargainpricedude.com^$third-party
 ||beerforthepipl.com^$third-party
