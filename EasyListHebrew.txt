@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NokhRJoiYYuPH2JD28boEw
+! Checksum: v+tvqbJgh9qbDTrLVzLaUw
 ! Title: EasyList Hebrew
-! Last modified: 10 Jun 2016 11:42 UTC
+! Last modified: 12 Jun 2016 19:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -473,6 +473,15 @@ blms.co.il#@#.addtitle
 foodsdictionary.co.il#@#.AdSense
 foodsdictionary.co.il#@#.Adsense
 foodsdictionary.co.il#@#.adSense
+haaretz.co.il#@#.pub_300x250
+haaretz.co.il#@#.pub_300x250m
+haaretz.co.il#@#.pub_728x90
+haaretz.co.il#@#.text-ad
+haaretz.co.il#@#.textAd
+haaretz.co.il#@#.text_ad
+haaretz.co.il#@#.text_ads
+haaretz.co.il#@#.text-ads
+haaretz.co.il#@#.text-ad-links
 homeless.co.il#@#.postad
 holmesplace.co.il#@#.image-advertisement
 hwzone.co.il#@##adsense
