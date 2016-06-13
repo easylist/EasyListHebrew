@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5W4HkGzwVDGiPgM04hH3GQ
+! Checksum: PbBLLSSSEC4ETIvlnap46w
 ! Title: EasyList Hebrew
-! Last modified: 12 Jun 2016 21:42 UTC
+! Last modified: 13 Jun 2016 08:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -88,6 +88,8 @@
 ||shorter.co.il/js/fp.js.php
 !
 ||agecdn.me^$third-party
+||akamhd.com^$third-party
+||amazuk.com^$third-party
 ||bakkels.com^$third-party
 ||bargainpricedude.com^$third-party
 ||beerforthepipl.com^$third-party
@@ -95,6 +97,7 @@
 ||bostonparadise.com^$third-party
 ||bostonwall.com^$third-party
 ||bulgarine.com^$third-party
+||cloudbit.rocks^$third-party
 ||corruptcy.com^$third-party
 ||dascasdw.xyz^$third-party
 ||depresis.com^$third-party
@@ -112,10 +115,13 @@
 ||nullenabler.com^$third-party
 ||numberthreebear.com^$third-party
 ||oversailor.com^$third-party
+||sharedcdn.site^$third-party
+||storagecdncloud.co^$third-party
 ||retrayan.com^$third-party
 ||sprawley.com^$third-party
 ||texasboston.com^$third-party
 ||yathmoth.com^$third-party
+||ymakeseb.club^$third-party
 !
 /^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*).{360,}/$third-party,domain=bizportal.co.il|globes.co.il|ynet.co.il
 /^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{80}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
