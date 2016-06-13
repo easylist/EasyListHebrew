@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7UDJVIn9hoqheSxk5CJwLw
+! Checksum: LWz27TKIwOLB2Le6lh25ag
 ! Title: EasyList Hebrew
-! Last modified: 13 Jun 2016 10:17 UTC
+! Last modified: 13 Jun 2016 17:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -408,6 +408,7 @@ zegvid.net##*
 @@||goalim.club^$generichide
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
+@@||haaretz.co.il^$generichide
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
 @@||haaretz.co.il/htz/js/resp/minified/header-scripts-int.js
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
@@ -455,6 +456,7 @@ zegvid.net##*
 @@||shukitv.ucoz.com/script/ads.js
 @@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
+@@||themarker.com^$generichide
 @@||themarker.com/dclk/dfp/dfp_htz.js
 @@||themarker.com/dclk/dfp/dfp_init_base.js
 @@||tornado-top.co.il/template/images/
@@ -479,15 +481,6 @@ blms.co.il#@#.addtitle
 foodsdictionary.co.il#@#.AdSense
 foodsdictionary.co.il#@#.Adsense
 foodsdictionary.co.il#@#.adSense
-haaretz.co.il,themarker.com#@#.pub_300x250
-haaretz.co.il,themarker.com#@#.pub_300x250m
-haaretz.co.il,themarker.com#@#.pub_728x90
-haaretz.co.il,themarker.com#@#.text-ad
-haaretz.co.il,themarker.com#@#.textAd
-haaretz.co.il,themarker.com#@#.text_ad
-haaretz.co.il,themarker.com#@#.text_ads
-haaretz.co.il,themarker.com#@#.text-ads
-haaretz.co.il,themarker.com#@#.text-ad-links
 homeless.co.il#@#.postad
 holmesplace.co.il#@#.image-advertisement
 hwzone.co.il#@##adsense
@@ -560,6 +553,8 @@ aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 doctors.co.il,globes.co.il##[id^="ads."]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
+haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
+haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 !
 ! *** Specific domain *** !
 !
