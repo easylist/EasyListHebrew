@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PbBLLSSSEC4ETIvlnap46w
+! Checksum: 7UDJVIn9hoqheSxk5CJwLw
 ! Title: EasyList Hebrew
-! Last modified: 13 Jun 2016 08:38 UTC
+! Last modified: 13 Jun 2016 10:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -123,7 +123,7 @@
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
 !
-/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*).{360,}/$third-party,domain=bizportal.co.il|globes.co.il|ynet.co.il
+/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*).{360,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 /^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{80}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 /^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}(.+)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 /^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)\?(.+)=(.+)[A-Z]{1}([a-z]+)[A-Z]{1}[a-zA-Z]{10}(.+)[a-z]{1}([A-Z]+)[a-z]{1}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
@@ -559,8 +559,6 @@ almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 doctors.co.il,globes.co.il##[id^="ads."]
-haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
-haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 !
 ! *** Specific domain *** !
