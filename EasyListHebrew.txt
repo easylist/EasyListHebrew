@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OjleTT5FL/vNUh3ep1lDiA
+! Checksum: 4hYc4faKu2UzZ2Zn4LrNcw
 ! Title: EasyList Hebrew
-! Last modified: 13 Jun 2016 17:25 UTC
+! Last modified: 13 Jun 2016 17:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -846,6 +846,8 @@ nana10.co.il##div[style=";margin:20px 10px 0px 10px;width:298px;height:298px;"]
 nana10.co.il##div[style="top:1600px; right:800px; width:320px; height:320px;"]
 nana10.co.il##div[style="top:320px; left:640px; width:160px; height:640px;"]
 nana10.co.il##.MainDiv[xmlns\:ms="urn:schemas-microsoft-com:xslt"] > .GlobalBorder[style="float:right;padding:10px;width:118px;"]
+nana10.co.il##.item-label-href[href^="http://trc."][rel="nofollow"][target="_blank"]
+nana10.co.il##.item-thumbnail-href[href^="http://trc."][rel="nofollow"][target="_blank"]
 netex.co.il##.b728x90.bottomBanner
 netex.co.il##.banner.b160x600
 netex.co.il##.banner.b180x150
