@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4hYc4faKu2UzZ2Zn4LrNcw
+! Checksum: AIfaOL0GD1hlwX6SjiJcbw
 ! Title: EasyList Hebrew
-! Last modified: 13 Jun 2016 17:34 UTC
+! Last modified: 13 Jun 2016 17:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -204,6 +204,7 @@
 ||sdc.mako.co.il^
 .club^$domain=mako.co.il,third-party
 .info^$domain=mako.co.il,third-party
+.rocks^$domain=mako.co.il,third-party
 .site^$domain=mako.co.il,third-party
 .space^$domain=mako.co.il,third-party
 .website^$domain=mako.co.il,third-party
@@ -383,6 +384,14 @@ zegvid.net##*
 !
 !----------------------Whitelists to fix broken sites-------------------------!
 !
+@@||goalim.club^$generichide
+@@||haaretz.co.il^$generichide
+@@||kml.co.il^$generichide
+@@||leava.co.il^$generichide
+@@||pitaronfree.blogspot.co.il^$generichide
+@@||sdarot.site^$generichide
+@@||themarker.com^$generichide
+!
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
@@ -411,10 +420,8 @@ zegvid.net##*
 @@||forbes.co.il/download/banners/
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
-@@||goalim.club^$generichide
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
-@@||haaretz.co.il^$generichide
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
 @@||haaretz.co.il/htz/js/resp/minified/header-scripts-int.js
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
@@ -423,11 +430,9 @@ zegvid.net##*
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||kikar.co.il/js/ads.js
-@@||kml.co.il^$generichide
 @@||lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il|ynet.co.il
 @@||lb.advsnx.net/as$domain=mako.co.il
-@@||leava.co.il^$generichide
 @@||lips.co.il/ads/$image,~third-party
 @@||lips.co.il/banners/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
@@ -445,12 +450,10 @@ zegvid.net##*
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=one.co.il|reshet.tv
 @@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||pas-rahav.com/creativitys
-@@||pitaronfree.blogspot.co.il^$generichide
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||reshet.tv/ads.html
-@@||sdarot.site^$generichide
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
 @@||sexadir.co.il/ads/$image,~third-party
@@ -462,7 +465,6 @@ zegvid.net##*
 @@||shukitv.ucoz.com/script/ads.js
 @@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
-@@||themarker.com^$generichide
 @@||themarker.com/dclk/dfp/dfp_htz.js
 @@||themarker.com/dclk/dfp/dfp_init_base.js
 @@||tornado-top.co.il/template/images/
