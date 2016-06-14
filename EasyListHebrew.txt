@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: AIfaOL0GD1hlwX6SjiJcbw
+! Checksum: rrmsauP5DWpt9XOOSEK+CA
 ! Title: EasyList Hebrew
-! Last modified: 13 Jun 2016 17:45 UTC
+! Last modified: 14 Jun 2016 09:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -209,6 +209,8 @@
 .space^$domain=mako.co.il,third-party
 .website^$domain=mako.co.il,third-party
 .xyz^$domain=mako.co.il,third-party
+/\.[abcdefghjklmnopqrstuvwxyz][abcdefghijklmnopqrstuvwxyz]//$third-party,domain=mako.co.il
+/\.[abcdefghijklmnopqrstuvwxyz][abcdefghijkmnopqrstuvwxyz]//$third-party,domain=mako.co.il
 ! * Globes * !
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/globes/newsletters/minisites_2/banners/
