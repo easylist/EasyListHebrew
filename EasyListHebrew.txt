@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0fi8Tehdzl0X/1CToUTCew
+! Checksum: IJzZKirHgYdIc9cy0PxGoQ
 ! Title: EasyList Hebrew
-! Last modified: 14 Jun 2016 15:48 UTC
+! Last modified: 14 Jun 2016 16:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -123,10 +123,11 @@
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
 !
-/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*).{360,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{80}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}(.+)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
-/^((?!http://graph\.facebook\.com/)(?!http://images\.outbrain\.com/)(?!http://odb\.outbrain\.com/)(?!http://platform\.twitter\.com/)(?!http://www\.facebook\.com/)(?!http://www\.google-analytics\.com/)(?!http://www\.playbuzz\.com/)(?!https://syndication\.twitter\.com/)(?!https://www\.facebook\.com/))(.*)\?(.+)=(.+)[A-Z]{1}([a-z]+)[A-Z]{1}[a-zA-Z]{10}(.+)[a-z]{1}([A-Z]+)[a-z]{1}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+
+/^((?!http:\/\/graph\.facebook\.com\/)(?!http:\/\/images\.outbrain\.com\/)(?!http:\/\/odb\.outbrain\.com\/)(?!http:\/\/platform\.twitter\.com\/)(?!http:\/\/www\.facebook\.com\/)(?!http:\/\/www\.google-analytics\.com\/)(?!http:\/\/www\.playbuzz\.com\/)(?!https:\/\/syndication\.twitter\.com\/)(?!https:\/\/www\.facebook\.com\/))(.*).{360,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/^((?!http:\/\/graph\.facebook\.com\/)(?!http:\/\/images\.outbrain\.com\/)(?!http:\/\/odb\.outbrain\.com\/)(?!http:\/\/platform\.twitter\.com\/)(?!http:\/\/www\.facebook\.com\/)(?!http:\/\/www\.google-analytics\.com\/)(?!http:\/\/www\.playbuzz\.com\/)(?!https:\/\/syndication\.twitter\.com\/)(?!https:\/\/www\.facebook\.com\/))(.*)[a-zA-Z]{80}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/^((?!http:\/\/graph\.facebook\.com\/)(?!http:\/\/images\.outbrain\.com\/)(?!http:\/\/odb\.outbrain\.com\/)(?!http:\/\/platform\.twitter\.com\/)(?!http:\/\/www\.facebook\.com\/)(?!http:\/\/www\.google-analytics\.com\/)(?!http:\/\/www\.playbuzz\.com\/)(?!https:\/\/syndication\.twitter\.com\/)(?!https:\/\/www\.facebook\.com\/))(.*)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}(.+)[a-zA-Z]{2}\d{1}[a-zA-Z]{2}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
+/^((?!http:\/\/graph\.facebook\.com\/)(?!http:\/\/images\.outbrain\.com\/)(?!http:\/\/odb\.outbrain\.com\/)(?!http:\/\/platform\.twitter\.com\/)(?!http:\/\/www\.facebook\.com\/)(?!http:\/\/www\.google-analytics\.com\/)(?!http:\/\/www\.playbuzz\.com\/)(?!https:\/\/syndication\.twitter\.com\/)(?!https:\/\/www\.facebook\.com\/))(.*)\?(.+)=(.+)[A-Z]{1}([a-z]+)[A-Z]{1}[a-zA-Z]{10}(.+)[a-z]{1}([A-Z]+)[a-z]{1}.{80,}/$third-party,domain=bizportal.co.il|globes.co.il|mako.co.il|ynet.co.il
 !
 ! *** Popup sites *** !
 !
@@ -209,8 +210,8 @@
 .space^$domain=mako.co.il,third-party
 .website^$domain=mako.co.il,third-party
 .xyz^$domain=mako.co.il,third-party
-/\.[abcdefghjklmnopqrstuvwxyz][abcdefghijklmnopqrstuvwxyz]//$third-party,domain=mako.co.il
-/\.[abcdefghijklmnopqrstuvwxyz][abcdefghijkmnopqrstuvwxyz]//$third-party,domain=mako.co.il
+/\.[abcdefghjklmnopqrstuvwxyz][abcdefghijklmnopqrstuvwxyz]\//$third-party,domain=mako.co.il
+/\.[abcdefghijklmnopqrstuvwxyz][abcdefghijkmnopqrstuvwxyz]\//$third-party,domain=mako.co.il
 ! * Globes * !
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/globes/newsletters/minisites_2/banners/
