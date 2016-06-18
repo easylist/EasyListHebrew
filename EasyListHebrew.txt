@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sdz8845hniCtCJBClOtHRw
+! Checksum: t/FRA0OnYGuAy9H0v6OgAQ
 ! Title: EasyList Hebrew
-! Last modified: 18 Jun 2016 18:16 UTC
+! Last modified: 18 Jun 2016 21:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -383,12 +383,12 @@ zegvid.net##*
 !
 @@||goalim.club^$generichide
 @@||haaretz.co.il^$generichide
+@@||isramedia.net^$generichide
 @@||kml.co.il^$generichide
 @@||leava.co.il^$generichide
 @@||pitaronfree.blogspot.co.il^$generichide
 @@||sdarot.site^$generichide
 @@||themarker.com^$generichide
-@@||isramedia.net^$generichide
 !
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
@@ -427,6 +427,7 @@ zegvid.net##*
 @@||info.a7.org/info/$script
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
+@@||isramedia.net/images/header/header-normal.jpg$image,~third-party
 @@||kikar.co.il/js/ads.js
 @@||lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il|ynet.co.il
