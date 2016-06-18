@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nNdra6V2oGoT8uDFBbMs9A
+! Checksum: ZWwA0g5NkA/gMCHwhSzLbA
 ! Title: EasyList Hebrew
-! Last modified: 18 Jun 2016 21:54 UTC
+! Last modified: 18 Jun 2016 21:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -623,15 +623,11 @@ bizportal.co.il##.single_section_world_short
 calcalist.co.il###ArticleBanner
 calcalist.co.il###ads\.premium
 calcalist.co.il###carouselAdLi
-calcalist.co.il###mainCont > [id^="gpt-impl-"] + [style^="height: 70px;"]
-calcalist.co.il###mainCont > [type="text/javascript"] + [style^="height: 70px;"]
 calcalist.co.il###old_Arts_Ad
 calcalist.co.il###relevanti_area
-calcalist.co.il###rooj-calcalist-wrapper + [style="width: 315px; overflow-x: hidden;margin-bottom:5px;"]
-calcalist.co.il##table[width="478"][height="174"]
+calcalist.co.il##.SetArtWidth[style="margin-top:7px;"] > table[width="478"][height="174"]
 calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
-calcalist.co.il##[style*="padding: 0px 9px 9px; background-color: rgb(255, 255, 255);"]
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
 carsforum.co.il###bannerwrap
 carsforum.co.il##.box2
