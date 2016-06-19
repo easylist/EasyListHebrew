@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: koPrK4Fyh/gS1j7QIo6Ueg
+! Checksum: 1sFP8eBU8UhjccGJ8kMe8Q
 ! Title: EasyList Hebrew
-! Last modified: 19 Jun 2016 16:48 UTC
+! Last modified: 19 Jun 2016 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -200,11 +200,6 @@
 ||logger.logidea.info^$third-party,domain=mako.co.il
 ||mooma.mako.co.il/HeaderBanner.aspx
 ||sdc.mako.co.il^
-/^[a-z]+\:\/\/[\-\.a-z0-9]+\.[abcdefghjklmnopqrstuvwxyz][abcdefghijklmnopqrstuvwxyz][\/\:]/$third-party,domain=mako.co.il
-/^[a-z]+\:\/\/[\-\.a-z0-9]+\.[abcdefghijklmnopqrstuvwxyz][abcdefghijkmnopqrstuvwxyz][\/\:]/$third-party,domain=mako.co.il
-/^[a-z]+\:\/\/[\-\.a-z0-9]+\.[abcdefghijklmopqrstuvwxyz][abcdefghijklmnopqstuvwxyz][abcdefghijklnopqrstuvwxyz][\/\:]/$third-party,domain=mako.co.il
-/^[a-z]+\:\/\/[\-\.a-z0-9]+\.[abdefghijklmnopqrstuvwxyz][abcdfghijklmnopqrstuvwxyz][abcdefhijklmnopqrstuvwxyz][\/\:]/$third-party,domain=mako.co.il
-/^[a-z]+\:\/\/[\-\.a-z0-9]+\.[a-z]{4,24}[\/\:]/$third-party,domain=mako.co.il
 ! * Globes * !
 ||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/globes/newsletters/minisites_2/banners/
