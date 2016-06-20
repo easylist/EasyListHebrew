@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1sFP8eBU8UhjccGJ8kMe8Q
+! Checksum: Mb/m3zzejaBubS5PnsVHag
 ! Title: EasyList Hebrew
-! Last modified: 19 Jun 2016 16:52 UTC
+! Last modified: 20 Jun 2016 08:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -92,6 +92,7 @@
 ||agecdn.me^$third-party
 ||akamhd.com^$third-party
 ||amazuk.com^$third-party
+||asermtawlfs.xyz^$third-party
 ||bakkels.com^$third-party
 ||bargainpricedude.com^$third-party
 ||beerforthepipl.com^$third-party
@@ -103,7 +104,9 @@
 ||corruptcy.com^$third-party
 ||dascasdw.xyz^$third-party
 ||depresis.com^$third-party
+||dfskgmrepts.com^$third-party
 ||havinates.com^$third-party
+||heravda.com^$third-party
 ||houstion.com^$third-party
 ||hulahooprect.com^$third-party
 ||indeterman.com^$third-party
@@ -117,10 +120,11 @@
 ||nullenabler.com^$third-party
 ||numberthreebear.com^$third-party
 ||oversailor.com^$third-party
-||sharedcdn.site^$third-party
-||storagecdncloud.co^$third-party
 ||retrayan.com^$third-party
+||rkgnmwre.site^$third-party
+||sharedcdn.site^$third-party
 ||sprawley.com^$third-party
+||storagecdncloud.co^$third-party
 ||texasboston.com^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
@@ -237,6 +241,8 @@
 ||ban.d-group.co.il/banners/$third-party
 ||d.co.il/Hebrew/images/Premium/
 ||madas-ads.securest.org^$third-party
+! * bizportal.co.il * !
+||s3.amazonaws.com^$script,domain=bizportal.co.il
 !
 !--------------------------1st party blocking rules---------------------------!
 !
