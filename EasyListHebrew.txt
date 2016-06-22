@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /upS0lH/jLwjUYYwOKF84g
+! Checksum: v01zsCO4Av7D7gTNdPrelg
 ! Title: EasyList Hebrew
-! Last modified: 21 Jun 2016 16:09 UTC
+! Last modified: 22 Jun 2016 07:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -422,6 +422,7 @@ zegvid.net##*
 @@||forbes.co.il/download/banners/
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
+@@||googlesyndication.com/pagead/osd.js$domain=haaretz.co.il|themarker.com
 @@||gplanet.co.il/js/adx.js
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
@@ -688,6 +689,7 @@ globes.co.il##.banner_box_550x90
 globes.co.il##.banners
 globes.co.il##div[id^="dclk_overlay_"]
 globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
+haaretz.co.il###ad-block-wrapper
 hashekel.co.il###block-13
 hashekel.co.il###block-14
 hidabroot.org##.panel-row-upper
