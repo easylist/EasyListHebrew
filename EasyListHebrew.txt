@@ -1010,6 +1010,7 @@ tapuz.co.il##.smallAdd
 tapuz.co.il##[id^="netex_"]
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
+themarker.com##.footer-ruler
 totalchat.co.il###PublichVoiceChat
 upf.co.il##.bgbanner
 walla.co.il###navbar
