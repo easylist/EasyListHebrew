@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HzODz3mamDT4WIzPpwTQGg
+! Checksum: D3vZyhAGmuReaSiZB5iEFw
 ! Title: EasyList Hebrew
-! Last modified: 24 Jun 2016 13:28 UTC
+! Last modified: 26 Jun 2016 15:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -135,7 +135,6 @@
 ||albar.co.il/ads$popup,third-party
 ||ashleymadison.com^$popup,third-party
 ||ashleyrnadison.com^$popup,third-party
-||booking.com/index.html^$popup,domain=daka90.co.il
 ||descreti.co.il^$popup,third-party
 ||etrader.co.il^$popup,third-party
 ||fattal-alazman.co.il/?a_aid$popup,third-party
@@ -156,7 +155,6 @@
 ||strauss-water-campaign.co.il^$popup,third-party
 ||streamin.to^$popup,third-party
 ||trendsonline.me/?id$popup,third-party
-||tinyurl.com^$popup,domain=daka90.co.il
 !
 !-----------------------Site specific ad blocking rules-----------------------!
 !
@@ -287,7 +285,6 @@
 ||kipa.co.il/banner/
 ||kipa.co.il/minisites/go.asp$popup
 ||kipasruga.com/banner/
-||lametayel.co.il/landing/market.html$popup
 ||leadim4u.com/accounts/default1/banners/
 ||local.co.il/banners/
 ||magazin.org.il/cut/baner
