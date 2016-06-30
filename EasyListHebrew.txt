@@ -1015,6 +1015,7 @@ walla.co.il###sec_jobcity_906
 walla.co.il###sec_kama_910
 walla.co.il###sec_shops_907
 walla.co.il###sec_wallatours_916
+walla.co.il##.ads-spaces-shdera-hp
 walla.co.il##.banner-container
 walla.co.il##.benfitsAd
 walla.co.il##.btm_sep
