@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kt7rppsOfssy6kTq/mOG1Q
+! Checksum: 04Ff+y79HUbXTp2U7dmcQg
 ! Title: EasyList Hebrew
-! Last modified: 03 Jul 2016 16:27 UTC
+! Last modified: 03 Jul 2016 16:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -660,7 +660,9 @@ forbes.co.il##embed[src^="/download/banners/"]
 forbes.co.il##table[width="264"][height="264"][style="background-color:#e8e8e8"]
 forbes.co.il##table[width="980"][height="110"][style="background-color:#e8e8e8"]
 frogi.co.il##.adbox
+frogi.co.il##.adtextbox
 frogi.co.il##.article_item_adbox
+frogi.co.il##.leftadblock
 frogi.co.il##.topbanner
 fxp.co.il###adfxp
 fxp.co.il##[style^="opacity:"]
