@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: It5Jxm9puJOYBojQeQfUag
+! Checksum: p23o505ac3pAZNkp7YkrOw
 ! Title: EasyList Hebrew
-! Last modified: 04 Jul 2016 15:27 UTC
+! Last modified: 04 Jul 2016 15:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -571,8 +571,8 @@ aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 doctors.co.il,globes.co.il##[id^="ads."]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
-haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
-haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
+!haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
+!haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 !
 ! *** Specific domain *** !
 !
@@ -812,8 +812,8 @@ mako.co.il##.sidebar_pic
 mako.co.il##div[id^="dclk_overlay_"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
 mako.co.il##[href^="http://www.mysupermarket.co.il/?banner"]
-mako.co.il##a[target="_blank"][data-url^="http://paid.outbrain.com/network/redir?"]
-mako.co.il##a[target="_blank"][data-url^="http://paid.outbrain.com/network/redir?"] + .author
+!mako.co.il##a[target="_blank"][data-url^="http://paid.outbrain.com/network/redir?"]
+!mako.co.il##a[target="_blank"][data-url^="http://paid.outbrain.com/network/redir?"] + .author
 mapa.co.il###adSenseOnMap
 mapa.co.il###headerContenetBanner
 mapa.co.il##.bannerPlace
