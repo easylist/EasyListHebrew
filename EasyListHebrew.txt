@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZYQGl0tEyNKI2Sa/R1K60Q
+! Checksum: WXfX/33LHFjEWURKriGpfA
 ! Title: EasyList Hebrew
-! Last modified: 06 Jul 2016 10:46 UTC
+! Last modified: 07 Jul 2016 12:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -126,6 +126,7 @@
 ||sprawley.com^$third-party
 ||storagecdncloud.co^$third-party
 ||texasboston.com^$third-party
+||trace.events^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
 !
@@ -187,6 +188,7 @@
 ||infomed.co.il/ynet/sidebox.aspx?
 ||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
 ||psakdin.co.il/ExternalFrames/$domain=ynet.co.il
+||dynamicyield.com^$third-party,domain=ynet.co.il
 ||s3.amazonaws.com^$script,domain=ynet.co.il
 ||ynet.co.il/images/headline_video_header_samsung.png
 ||ynet.co.il/images/video/wobi/wobi_
