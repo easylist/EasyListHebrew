@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: WXfX/33LHFjEWURKriGpfA
+! Checksum: Rhv51bGew/8jFIoZXkrnvw
 ! Title: EasyList Hebrew
-! Last modified: 07 Jul 2016 12:55 UTC
+! Last modified: 08 Jul 2016 15:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
+!
 ! This subscription is provided "as-is," without any express or implied warranty.
 ! In no event shall the authors be held liable for any damages arising from the use of this subscription.
 !
@@ -126,10 +127,8 @@
 ||sprawley.com^$third-party
 ||storagecdncloud.co^$third-party
 ||texasboston.com^$third-party
-||trace.events^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
-!
 !
 ! *** Popup sites *** !
 !
@@ -188,6 +187,7 @@
 ||infomed.co.il/ynet/sidebox.aspx?
 ||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
 ||psakdin.co.il/ExternalFrames/$domain=ynet.co.il
+||trace.events^$third-party,domain=ynet.co.il
 ||dynamicyield.com^$third-party,domain=ynet.co.il
 ||s3.amazonaws.com^$script,domain=ynet.co.il
 ||ynet.co.il/images/headline_video_header_samsung.png
@@ -206,7 +206,7 @@
 ||sdc.mako.co.il^
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|mako\.tools|minidom\.org|jquerymin\.org|logidea\.info|zoomanalytics\.co|firstimpression\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=mako.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=mako.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|outbrain|ytimg|amazonaws|cloudflare|gstatic|sniperm|dinovich|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|addthis|addthisedge|reddit|apester|qmerce|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|themarker|adnxs|conduit|fourtips|makojs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|outbrain|ytimg|amazonaws|cloudflare|gstatic|sniperm|dinovich|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|addthis|addthisedge|reddit|apester|qmerce|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|themarker|adnxs|conduit|fourtips|makojs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|uploaditnow|edgesuite|doubleclick|dmcdn|slideshare|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|icdn|auto|sport5|smartair|mysupermarket|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 ! * Globes * !
@@ -717,7 +717,6 @@ hwzone.co.il##.wideBanner
 ice.co.il##.kubia_banner
 ice.co.il##.top_pirsomet
 ilimudim.co.il##.mp-hd-banner
-infomed.co.il##.ad_01
 infomed.co.il##.google_adDiv
 infomed.co.il##.squere_ad
 infomed.co.il##ol[anc="adclass"]
