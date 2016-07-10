@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ymd2h3wiqJacIhQgMXeQBw
+! Checksum: sxmU1IHGtoXk/7w4yqwFAA
 ! Title: EasyList Hebrew
-! Last modified: 09 Jul 2016 18:25 UTC
+! Last modified: 10 Jul 2016 07:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -100,6 +100,7 @@
 ||benchmarkingstuff.com^$third-party
 ||bostonparadise.com^$third-party
 ||bostonwall.com^$third-party
+||bluesli.de^$third-party
 ||bulgarine.com^$third-party
 ||cloudbit.rocks^$third-party
 ||corruptcy.com^$third-party
@@ -186,7 +187,7 @@
 ||go.ynet.co.il/short/Demos/*/Ads/
 ||infomed.co.il/ynet/sidebox.aspx?
 ||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
-||dynamicyield.com^$third-party,domain=ynet.co.il
+||dynamicyield.com^$script,domain=ynet.co.il
 ||psakdin.co.il/ExternalFrames/$domain=ynet.co.il
 ||trace.events^$third-party,domain=ynet.co.il
 ||totalmedia2.ynet.co.il^$third-party,domain=ynet.co.il
@@ -304,6 +305,7 @@
 ||onlife.co.il/dbcads/
 ||pitro.net/Banners/
 ||psakdin.co.il/Pictures/Banners/
+||asset.pagefair.net/ads.min.js
 ||raddar.co.il/bannersa.php
 ||rotter.net/banners/
 ||rotter.net/edit/text/
@@ -1070,6 +1072,7 @@ yad2.co.il###top_banners
 yad2.co.il##.banner_strip
 yad2.co.il##.hotpic_ad_block.pie
 yad2.co.il##.plasma_banner.pie
+ynet.co.il##.promo_lightbox
 yad2.co.il##.search_banners
 yad2.co.il##.yad1_mergetitle
 yad2.co.il##div[style=" height: 90px; background-color: #DDDDDD; border-radius:6px; width:978px; padding-top:8px; padding-bottom:8px; margin-left: auto; margin-right: auto; margin-bottom: 8px; position: relative;"]
