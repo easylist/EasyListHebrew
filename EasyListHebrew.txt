@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hGrBGd8oFefhWvTEiwzwEw
+! Checksum: XkG5xXhRS7mP4GHMfxKRAQ
 ! Title: EasyList Hebrew
-! Last modified: 15 Jul 2016 13:47 UTC
+! Last modified: 15 Jul 2016 14:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -165,7 +165,6 @@
 ||fus.walla.co.il/report/
 ||fus.walla.co.il/script.js?1$domain=tv-guide.walla.co.il
 ||fus.walla.co.il/vast/
-||i.walla.co.il/w9/swf/video_swf/userslider.swf
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||taboola.com^$third-party,domain=walla.co.il
 ||waab.walla.co.il^$object-subrequest
@@ -177,22 +176,18 @@
 ! * ynet * !
 /CdaMarketingLink/*
 /CdaMarketTextlinks_
-||akamai.net/7/1948/5064/v0001/prdupl02.ynet.co.il/MediaSvrFiles/$domain=ynet.co.il
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||article.yedioth.co.il/assets/Banners
 ||cloudfront.net^$domain=ynet.co.il
 ||goodluckblockingthis.com^$domain=calcalist.co.il|ynet.co.il
-||go.ynet.co.il/short/content/2010/Career/banner/
 ||go.ynet.co.il/short/content/2013/Career/SideJobs/
 ||go.ynet.co.il/short/Demos/*/Ads/
 ||infomed.co.il/ynet/sidebox.aspx?
-||mediadownload.ynet.co.il/static/FXG_V14_FULL/images/vertical_header.png
 ||dynamicyield.com^$script,domain=ynet.co.il
 ||psakdin.co.il/ExternalFrames/$domain=ynet.co.il
 ||trace.events^$third-party,domain=ynet.co.il
 ||totalmedia2.ynet.co.il^$third-party,domain=ynet.co.il
 ||s3.amazonaws.com^$script,domain=ynet.co.il
-||ynet.co.il/images/headline_video_header_samsung.png
 ||ynet.co.il/images/video/wobi/wobi_
 ||ynet.co.il/WinWinCooperation/
 ||ynetshops.co.il/article/showbanner2/
@@ -212,7 +207,6 @@
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|uploaditnow|edgesuite|doubleclick|dmcdn|slideshare|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|icdn|auto|sport5|smartair|mysupermarket|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 ! * Globes * !
-||download.cast-tv.com/*_flv/prerole$object-subrequest
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||globes.co.il/news/frames/topbannerflash$subdocument
 ||s3.amazonaws.com^$script,domain=globes.co.il
@@ -246,7 +240,6 @@
 ||dwnmedia.a7.org/inntv/media/
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
-||d.co.il/Hebrew/images/Premium/
 ||madas-ads.securest.org^$third-party
 ! * bizportal.co.il * !
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
@@ -256,9 +249,7 @@
 ||0404.co.il/public/assets/images/*banner
 ||212.129.12.90/zivlin/*.swf
 ||2eat.co.il/banner/
-||93fm.co.il/wp-content/uploads/2015/05/21523.jpg
 ||ads.one.co.il^
-||ashdodnet.com/dyncontent/t_ad/
 ||auto.co.il/Banner
 ||auto.co.il/Base/UserControls/Banner/IframeBanner.aspx?
 ||banners*.bizportal.co.il^
@@ -816,8 +807,6 @@ mako.co.il##.sidebar_pic
 mako.co.il##div[id^="dclk_overlay_"]
 mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
 mako.co.il##[href^="http://www.mysupermarket.co.il/?banner"]
-!mako.co.il##a[target="_blank"][data-url^="http://paid.outbrain.com/network/redir?"]
-!mako.co.il##a[target="_blank"][data-url^="http://paid.outbrain.com/network/redir?"] + .author
 mapa.co.il###adSenseOnMap
 mapa.co.il###headerContenetBanner
 mapa.co.il##.bannerPlace
