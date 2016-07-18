@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nTJIOURLEDuAJUFSkymIuw
+! Checksum: phSqzXS0/UrjvjHB6qo2Ow
 ! Title: EasyList Hebrew
-! Last modified: 17 Jul 2016 11:31 UTC
+! Last modified: 18 Jul 2016 07:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -165,6 +165,7 @@
 ||fus.walla.co.il/report/
 ||fus.walla.co.il/script.js?1$domain=tv-guide.walla.co.il
 ||fus.walla.co.il/vast/
+||i.walla.co.il/w9/swf/video_swf/userslider.swf
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||taboola.com^$third-party,domain=walla.co.il
 ||waab.walla.co.il^$object-subrequest
@@ -291,7 +292,7 @@
 ||moreshet.co.il/banners/
 ||my.yad2.co.il/Banner/
 ||nanafiles.co.il//Upload/92011/File/File_*swf
-||netform.co.il^$third-party,domain=0-15.co.il|add-syndrome.co.il|allergy.org.il|blinds.org.il|blood.co.il|cfs.org.il|cholesterol.org.il|cold.co.il|colon.org.il|commitment.org.il|committee.co.il|dialysis.org.il|ear.org.il|ent.org.il|gastro-israel.org.il|genes.co.il|hyperhidrosis.org.il|iaawh.co.il|ifeel.co.il|ilsi.org.il|immunology.org.il|israrights.com|le-la.co.il|lung.org.il|matnachim.co.il|medicalcannabis.co.il|mifrakim.co.il|myeyes.co.il|myhealth.co.il|myheart.co.il|myrights.co.il|my-rights.org.il|neurology.org.il|oncology.org.il|pain.org.il|parkinsons.org.il|pediatrics.co.il|pigur.co.il|psychiatry.org.il|stdinfo.co.il|stroke.org.il|sukarti.co.il|takana.co.il|tevalife.co.il|urinary.co.il
+||netform.co.il^$third-party,domain=0-15.co.il|add-syndrome.co.il|allergy.org.il|asthma.org.il|blinds.org.il|blood.co.il|cfs.org.il|cholesterol.org.il|cold.co.il|colon.org.il|commitment.org.il|committee.co.il|dementia.co.il|dialysis.org.il|ear.org.il|ent.org.il|gastro-israel.org.il|genes.co.il|hyperhidrosis.org.il|iaawh.co.il|ifeel.co.il|ilsi.org.il|immunology.org.il|implants.org.il|ioh.org.il|israrights.com|le-la.co.il|lung.org.il|lupus.org.il|matnachim.co.il|medicalcannabis.co.il|mifrakim.co.il|multiplesclerosis.org.il|myeyes.co.il|myhealth.co.il|myheart.co.il|myrights.co.il|my-rights.org.il|neurology.org.il|oncology.org.il|pain.org.il|parkinsons.org.il|pediatrics.co.il|pigur.co.il|psychiatry.org.il|stdinfo.co.il|stroke.org.il|sukarti.co.il|takana.co.il|tevalife.co.il|urinary.co.il
 ||news-israel.net/images/topAd
 ||onlife.co.il/dbcads/
 ||pitro.net/Banners/
@@ -529,10 +530,9 @@ m.sport5.co.il##.ad
 !
 ! *** Multiple domains *** !
 !
-!
-0-15.co.il,add-syndrome.co.il,allergy.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,israrights.com,le-la.co.il,lung.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,my-rights.org.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il##.widget-area.sidebar-primary.sidebar
-0-15.co.il,add-syndrome.co.il,allergy.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,israrights.com,le-la.co.il,lung.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,my-rights.org.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il###popupContainer
-0-15.co.il,add-syndrome.co.il,allergy.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,israrights.com,le-la.co.il,lung.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,my-rights.org.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il##div[style$="display: block; overflow: auto;"]
+0-15.co.il,add-syndrome.co.il,allergy.org.il,asthma.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dementia.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,my-rights.org.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il###popupContainer
+0-15.co.il,add-syndrome.co.il,allergy.org.il,asthma.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dementia.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,my-rights.org.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il##.widget-area.sidebar-primary.sidebar
+0-15.co.il,add-syndrome.co.il,allergy.org.il,asthma.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dementia.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,my-rights.org.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il##div[style$="display: block; overflow: auto;"]
 bhol-forums.co.il,bhol.co.il,hydepark.co.il,pic.co.il###Plasma_1
 getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 ilimudim.co.il,rest.co.il###ads\.strip\.1
