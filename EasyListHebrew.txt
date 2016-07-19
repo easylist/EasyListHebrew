@@ -127,6 +127,7 @@
 ||rkgnmwre.site^$third-party
 ||sharedcdn.site^$third-party
 ||sprawley.com^$third-party
+||srvjar.com^$third-party
 ||storagecdncloud.co^$third-party
 ||texasboston.com^$third-party
 ||yathmoth.com^$third-party
@@ -1101,6 +1102,7 @@ ynet.co.il##.art_video_samsung_top
 ynet.co.il##.bigdeal
 ynet.co.il##.block.B1 > .element.B1.ghcite > #embedder-1.embedder.dyother.dyMonitor
 ynet.co.il##.element.B2b.ghcite > #wrapper
+ynet.co.il##.ExternalWebpageIframeResp
 ynet.co.il##.ghciClickablePicture1
 ynet.co.il##.ghciClickablePicture3
 ynet.co.il##.ghciPromoLightbox1
