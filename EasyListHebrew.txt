@@ -248,6 +248,8 @@
 ||madas-ads.securest.org^$third-party
 ! * bizportal.co.il * !
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
+! * tvil.me * !
+||namesakeoscilloscopemarquis.com^$third-party,domain=tvil.me
 !
 !--------------------------1st party blocking rules---------------------------!
 !
