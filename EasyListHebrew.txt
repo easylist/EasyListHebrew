@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JaW8vZwQgQ7GFrmHJVqN9A
+! Checksum: 6DVicC4hF/YFLWhI+WBGcw
 ! Title: EasyList Hebrew
-! Last modified: 18 Jul 2016 08:04 UTC
+! Last modified: 20 Jul 2016 00:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -138,6 +138,7 @@
 ||albar.co.il/ads$popup,third-party
 ||ashleymadison.com^$popup,third-party
 ||ashleyrnadison.com^$popup,third-party
+||cglms.com^$popup,third-party
 ||descreti.co.il^$popup,third-party
 ||etrader.co.il^$popup,third-party
 ||fattal-alazman.co.il/?a_aid$popup,third-party
@@ -444,8 +445,8 @@ zegvid.net##*
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
-@@||one.co.il/images/Ads/2011/12/26/1015/logo_51x20.gif
-@@||one.co.il/images/Ads/2013/10/20/2230/racer_51x20hp.png
+@@||one.co.il/images/ads/2011/12/26/1015/logo_51x20.gif
+@@||one.co.il/images/ads/2013/10/20/2230/racer_51x20hp.png
 @@||one.co.il/images/ads/2014/06/02/1415/MNDL2.swf
 @@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il|sidorim.me
