@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6DVicC4hF/YFLWhI+WBGcw
+! Checksum: x1hOXOjo7ZVHqc3v01E3BQ
 ! Title: EasyList Hebrew
-! Last modified: 20 Jul 2016 00:30 UTC
+! Last modified: 20 Jul 2016 08:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -149,6 +149,7 @@
 ||imarkets.co.il^$popup,third-party
 ||lastpage.pw^$popup,third-party
 ||leshem.info^$popup,third-party
+||namesakeoscilloscopemarquis.com^$popup,$third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
 ||mysupermarket.co.il/landingpage$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
@@ -248,8 +249,6 @@
 ||madas-ads.securest.org^$third-party
 ! * bizportal.co.il * !
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
-! * tvil.me * !
-||namesakeoscilloscopemarquis.com^$third-party,domain=tvil.me
 !
 !--------------------------1st party blocking rules---------------------------!
 !
