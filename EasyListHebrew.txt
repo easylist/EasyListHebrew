@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: n+xepmV+8/zHJlaET9F1aA
+! Checksum: LK8vVqha7Pd4ojgPeovuVA
 ! Title: EasyList Hebrew
-! Last modified: 21 Jul 2016 09:45 UTC
+! Last modified: 21 Jul 2016 09:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -575,6 +575,8 @@ doctors.co.il,globes.co.il##[id^="ads."]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
+haaretz.co.il,themarker.com##div[class*="banner"]
+haaretz.co.il,themarker.com##div[class*="addBlocker"]
 !
 ! *** Specific domain *** !
 !
