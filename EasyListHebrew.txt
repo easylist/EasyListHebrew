@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: x1hOXOjo7ZVHqc3v01E3BQ
+! Checksum: z2XyZ5bExW8DEJOeeJLuuQ
 ! Title: EasyList Hebrew
-! Last modified: 20 Jul 2016 08:30 UTC
+! Last modified: 21 Jul 2016 09:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -52,6 +52,7 @@
 ||anetkin.org^$popup,third-party
 ||asakimerp.co.il^$popup,third-party
 ||best-offers.co.il^$popup,third-party
+||blanco-adv.co.il^$popup,third-party
 ||bsdygital.co.il^$popup,third-party
 ||cdn.mdigital.co.il^$third-party
 ||clickon.co.il^$popup,third-party
@@ -149,7 +150,6 @@
 ||imarkets.co.il^$popup,third-party
 ||lastpage.pw^$popup,third-party
 ||leshem.info^$popup,third-party
-||namesakeoscilloscopemarquis.com^$popup,$third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
 ||mysupermarket.co.il/landingpage$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
@@ -202,8 +202,6 @@
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
 ||apps.mako.co.il/minicampaigns/
-||img.mako.co.il/2016/*/*/970_90_limudim_
-||img.mako.co.il/2016/*/*/KanBonim*-970x90.
 ||logger.logidea.info^$third-party,domain=mako.co.il
 ||mooma.mako.co.il/HeaderBanner.aspx
 ||sdc.mako.co.il^
