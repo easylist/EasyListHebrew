@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7N4VzNhhXv8mWZisBYRTbQ
+! Checksum: isxb340BA3FUZG00RmXASw
 ! Title: EasyList Hebrew
-! Last modified: 24 Jul 2016 19:50 UTC
+! Last modified: 24 Jul 2016 19:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -568,7 +568,6 @@ sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://www.savey.net"]
 almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
-doctors.co.il,globes.co.il##[id^="ads."]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -654,6 +653,7 @@ d.co.il##.premium-d-strip-banner-container
 dinovich.com###noLike
 dinovich.com##.overlay
 doctors.co.il###big_banner
+doctors.co.il##[id^="ads."]
 doctors.co.il##div[id^="dgBan"]
 dossinet.me###bg_banner_header_top
 efinder.co.il###stp-bg
@@ -686,17 +686,8 @@ gear.co.il##.ad_C1
 gear.co.il##.ad_C2
 gear.co.il##.tab-logos
 globes.co.il###abpp
-globes.co.il###addNadlan
-globes.co.il###banner1
-globes.co.il###banner870x75
 globes.co.il###bannerLeft
 globes.co.il##.G_BoxTH
-globes.co.il##.G_divTopSpace20
-globes.co.il##.banner_box_300x250.NoTopBorder
-globes.co.il##.banner_box_550x90
-globes.co.il##.banners
-globes.co.il##div[id^="dclk_overlay_"]
-globes.co.il##div[style="border:0px solid #cacaca; padding:0px 25px; direction:rtl;"]
 haaretz.co.il###ad-block-wrapper
 hashekel.co.il###block-13
 hashekel.co.il###block-14
