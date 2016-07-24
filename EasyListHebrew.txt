@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ws0N5AzXJ3nABBo7692mog
+! Checksum: 7N4VzNhhXv8mWZisBYRTbQ
 ! Title: EasyList Hebrew
-! Last modified: 24 Jul 2016 19:32 UTC
+! Last modified: 24 Jul 2016 19:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -539,7 +539,7 @@ m.sport5.co.il##.ad
 bhol-forums.co.il,bhol.co.il,hydepark.co.il,pic.co.il###Plasma_1
 getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
 ilimudim.co.il,rest.co.il###ads\.strip\.1
-calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
+calcalist.co.il,frogi.co.il,mynet.co.il,xnet.ynet.co.il###ads\.top
 feeder.co.il,rest.co.il###banner
 bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 ladaat.info,tapuz.co.il###divTopBanner
@@ -1049,7 +1049,6 @@ yad2.co.il###top_banners
 yad2.co.il##.banner_strip
 yad2.co.il##.hotpic_ad_block.pie
 yad2.co.il##.plasma_banner.pie
-ynet.co.il##.promo_lightbox
 yad2.co.il##.search_banners
 yad2.co.il##.yad1_mergetitle
 yad2.co.il##div[style=" height: 90px; background-color: #DDDDDD; border-radius:6px; width:978px; padding-top:8px; padding-bottom:8px; margin-left: auto; margin-right: auto; margin-bottom: 8px; position: relative;"]
@@ -1063,43 +1062,7 @@ yad2.co.il##th[style="background: #505D6A; font-size: 13px; font-family: arial; 
 yad2.co.il##[id$="bottom_banner"]
 yeshanews.com###sideban
 yesplanet.co.il###snatch
-ynet.co.il###ads\.300x600\.1
-ynet.co.il###art_bottom_adsense-1
-ynet.co.il###art_right_sponsored_links-1
-ynet.co.il###googleAdsenseMivzakim
-ynet.co.il###google_ads_iframe_\/ynt\.top\.central
-ynet.co.il###marketingRecommended-1-0
-ynet.co.il###marketingRecommended-2-0
-ynet.co.il###PromoLightbox1024-1
-ynet.co.il###PromoLightbox1024-2
-ynet.co.il###promo_lightbox1
-ynet.co.il###promo_lightbox2
-ynet.co.il###startPlaying
-ynet.co.il###ww6s_Main.ww6s_Main
-ynet.co.il###ynet_lightbox_content_top
-ynet.co.il##.CAATVcompAdvertiseTv
-ynet.co.il##.HTcompData
-ynet.co.il##.HTleshonitDiv[style="width:300px; background: #000066;"]
-ynet.co.il##.MRec_main
-ynet.co.il##.WinWinHP1024 > .item_container
 ynet.co.il##.art_tkb_talkback_advert
-ynet.co.il##.art_video_samsung_top
-ynet.co.il##.bigdeal
-ynet.co.il##.block.B1 > .element.B1.ghcite > #embedder-1.embedder.dyother.dyMonitor
-ynet.co.il##.element.B2b.ghcite > #wrapper
-ynet.co.il##.ExternalWebpageIframeResp
-ynet.co.il##.ghciClickablePicture1
-ynet.co.il##.ghciClickablePicture3
-ynet.co.il##.ghciPromoLightbox1
-ynet.co.il##.ghciWinWinShimushon1
-ynet.co.il##.google_ads_t4590B_wrapper
-ynet.co.il##.hp_player_header
-ynet.co.il##.leshonitMain.leshonitBorderRectangle
-ynet.co.il##.shMainDiv
-ynet.co.il##div[style="width:256px;height:66px;background-color:#FFFFFF;"]
-ynet.co.il##[style="DISPLAY: block; FLOAT: left"] > div[style="PADDING-BOTTOM: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px"]
-ynet.co.il##iframe[name="ExternalWebpageIframe"][src^="http://go.ynet.co.il/short/commerce/"]
-ynet.co.il##iframe[style="width:770px;height:191px;"]
 yummies.reshet.tv##.grid_banner_wrp
 yummies.reshet.tv###yms-side-banner
 zap.co.il###dgBan_t12x1
