@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cSSfLC9gT0x907i2fuhm3Q
+! Checksum: Ws0N5AzXJ3nABBo7692mog
 ! Title: EasyList Hebrew
-! Last modified: 24 Jul 2016 09:21 UTC
+! Last modified: 24 Jul 2016 19:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -1018,29 +1018,12 @@ teamim.co.il###dnn_pageheaderpane
 themarker.com##.footer-ruler
 totalchat.co.il###PublichVoiceChat
 upf.co.il##.bgbanner
-walla.co.il###navbar
-walla.co.il###sec_jobcity_906
-walla.co.il###sec_kama_910
-walla.co.il###sec_shops_907
-walla.co.il###sec_wallatours_916
 walla.co.il##.ads-spaces-shdera-hp
-walla.co.il##.banner-container
-walla.co.il##.benfitsAd
-walla.co.il##.btm_sep
-walla.co.il##.greenLine.left
-walla.co.il##.greenline
-walla.co.il##.greenline_top
-walla.co.il##.internetmore
-walla.co.il##.jobsDiv
 walla.co.il##.taboola-widget
 walla.co.il##.top_banner_outer.relative
 walla.co.il##.walla-shops
-walla.co.il##div[style="padding-left:2px;width:134;"]
-walla.co.il##div[style="width:468px;height:70px;"]
+walla.co.il##div[id^="Fusion_holder"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
-walla.co.il##iframe[src^="http://a.walla.co.il/adf.cgi?"]
-walla.co.il##[id^="ads_space_"]
-walla.co.il##[id^="Fusion_holder"]
 wen.co.il##.wenBanner
 windos.co###h62d
 winwin.co.il###TotalMediaVerticalBannersIframe
