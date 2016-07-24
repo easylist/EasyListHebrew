@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: isxb340BA3FUZG00RmXASw
+! Checksum: o6tde5H/bacKpPEoVbkkIg
 ! Title: EasyList Hebrew
-! Last modified: 24 Jul 2016 19:57 UTC
+! Last modified: 24 Jul 2016 20:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -646,8 +646,6 @@ cellebrate.mobi###flow
 ch10.co.il##.arti-banners
 ch10.co.il##.rt-banners
 chabad.info##.adpro
-cinemascope.mako.co.il###jambo_div
-cinemascope.mako.co.il###monster1_div
 d.co.il##.header_banner
 d.co.il##.premium-d-strip-banner-container
 dinovich.com###noLike
@@ -791,18 +789,11 @@ maka.co.il##.rightBanner
 mako.co.il###ZA_CAMP_BG
 mako.co.il###ZA_CAMP_CONTAINER
 mako.co.il###ZA_CAMP_SLIDEIN_CONTAINER
-mako.co.il###googleLinkUnits
 mako.co.il###hp_bottom_strip
 mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
-mako.co.il###rAdContainer
-mako.co.il###topPageStrip.not_for_print
-mako.co.il##.mako_banner_coast
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
-mako.co.il##div[id^="dclk_overlay_"]
-mako.co.il##[href^="http://apps.mako.co.il/common/Advert"]
-mako.co.il##[href^="http://www.mysupermarket.co.il/?banner"]
 mapa.co.il###adSenseOnMap
 mapa.co.il###headerContenetBanner
 mapa.co.il##.bannerPlace
