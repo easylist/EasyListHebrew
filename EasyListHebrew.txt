@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Jot4QiMKCRHnDUxkUgBztA
+! Checksum: /tG1G7tsnipaRrqqRROWHA
 ! Title: EasyList Hebrew
-! Last modified: 25 Jul 2016 14:52 UTC
+! Last modified: 25 Jul 2016 20:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -124,6 +124,7 @@
 ||nullenabler.com^$third-party
 ||numberthreebear.com^$third-party
 ||oversailor.com^$third-party
+||pullcdn.pw^$third-party
 ||regi.tech^$third-party
 ||retrayan.com^$third-party
 ||rkgnmwre.site^$third-party
@@ -197,7 +198,7 @@
 ||s3.amazonaws.com^$script,domain=ynet.co.il
 ||ynet.co.il/images/video/wobi/wobi_
 ||ynet.co.il/WinWinCooperation/
-||ynetshops.co.il/article/showbanner2/
+||ynetbanneradmin.yit.co.il/assets/$subdocument,domain=ynet.co.il
 ! * mako * !
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
