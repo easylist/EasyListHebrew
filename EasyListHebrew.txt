@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /tG1G7tsnipaRrqqRROWHA
+! Checksum: SFGkSc1PNdoFzddZgIK1Cg
 ! Title: EasyList Hebrew
-! Last modified: 25 Jul 2016 20:35 UTC
+! Last modified: 26 Jul 2016 16:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -135,6 +135,7 @@
 ||texasboston.com^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
+||webeatyouradblocker.com^$third-party
 !
 ! *** Popup sites *** !
 !
