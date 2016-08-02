@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OBhFN8pl/oMAFxa3lDBBFw
+! Checksum: 5YP65P3009O+Ts35VZDb/g
 ! Title: EasyList Hebrew
-! Last modified: 26 Jul 2016 21:07 UTC
+! Last modified: 02 Aug 2016 10:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -102,17 +102,18 @@
 ||bostonparadise.com^$third-party
 ||bostonwall.com^$third-party
 ||bluesli.de^$third-party
+||bool.bid^$third-party
 ||bulgarine.com^$third-party
 ||cloudbit.rocks^$third-party
 ||corruptcy.com^$third-party
 ||dascasdw.xyz^$third-party
 ||depresis.com^$third-party
 ||dfskgmrepts.com^$third-party
+||hallucius.com^$third-party
 ||havinates.com^$third-party
 ||heravda.com^$third-party
 ||houstion.com^$third-party
 ||hulahooprect.com^$third-party
-||hallucius.com^$third-party
 ||indeterman.com^$third-party
 ||jacquarter.com^$third-party
 ||jscloudnow.com^$third-party
@@ -134,9 +135,9 @@
 ||srvjar.com^$third-party
 ||storagecdncloud.co^$third-party
 ||texasboston.com^$third-party
+||webeatyouradblocker.com^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
-||webeatyouradblocker.com^$third-party
 !
 ! *** Popup sites *** !
 !
