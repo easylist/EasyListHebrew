@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rqhZNsNkhnjrgqRi+Sms4w
+! Checksum: dSrfh57Z7Q0J5jEnhP5kKg
 ! Title: EasyList Hebrew
-! Last modified: 02 Aug 2016 19:33 UTC
+! Last modified: 03 Aug 2016 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -1057,6 +1057,7 @@ yad2.co.il##[id$="bottom_banner"]
 yeshanews.com###sideban
 yesplanet.co.il###snatch
 ynet.co.il##.art_tkb_talkback_advert
+ynet.co.il##[class*="PromoLightbox"]
 yummies.reshet.tv##.grid_banner_wrp
 yummies.reshet.tv###yms-side-banner
 zap.co.il###dgBan_t12x1
