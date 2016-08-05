@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5MsR9UeZnzSMiWsNN1c3gA
+! Checksum: O7BSdDvBdeZyWQ4aPPTVVQ
 ! Title: EasyList Hebrew
-! Last modified: 03 Aug 2016 14:34 UTC
+! Last modified: 05 Aug 2016 15:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -223,12 +223,11 @@
 ||globes.co.il/news/frames/topbannerflash$subdocument
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Haaretz, TheMarker, Mouse.co.il * !
-/*/media/*/content/*-*-2016/*$image,subdocument,domain=haaretz.co.il|themarker.com
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
+||haaretz.co.il^*/AB/aby.gif
 ||haaretz.co.il^*/Banners/
 ||haaretz.co.il^*/Houdini/
-||haaretz.co.il^*/AB/aby.gif
 ||themarker.com^*/Houdini/
 ||themarker.com/dclk/
 ! * nrg * !
@@ -403,7 +402,7 @@ zegvid.net##*
 @@||kml.co.il^$generichide
 @@||leava.co.il^$generichide
 @@||pitaronfree.blogspot.co.il^$generichide
-@@||sdarot.win^$generichide
+@@||sdarot.bz^$generichide
 @@||sidorim.me^$generichide
 @@||themarker.com^$generichide
 !
@@ -427,7 +426,7 @@ zegvid.net##*
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
 @@||blogblog.com^$image,domain=goalim.club
-@@||blogspot.com^$image,domain=goalim.club|sdarot.win
+@@||blogspot.com^$image,domain=goalim.club|sdarot.bz
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||clalit.co.il/AdImages
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
