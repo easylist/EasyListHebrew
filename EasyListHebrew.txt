@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: R4nDeGxOivlgF8lXZ0RRMA
+! Checksum: w2gPFuevVBlHADE5pTxqcA
 ! Title: EasyList Hebrew
-! Last modified: 06 Aug 2016 18:29 UTC
+! Last modified: 06 Aug 2016 18:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -221,7 +221,6 @@
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|icdn|auto|sport5|smartair|mysupermarket|blms|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 ! * Globes * !
 ||globes.co.il/globes/newsletters/minisites_2/banners/
-||globes.co.il/news/frames/topbannerflash$subdocument
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Haaretz, TheMarker, Mouse.co.il * !
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
