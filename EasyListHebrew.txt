@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: w2gPFuevVBlHADE5pTxqcA
+! Checksum: NlJevb2YNCW7zZar7cJBPA
 ! Title: EasyList Hebrew
-! Last modified: 06 Aug 2016 18:40 UTC
+! Last modified: 07 Aug 2016 18:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -119,6 +119,7 @@
 ||houstion.com^$third-party
 ||hulahooprect.com^$third-party
 ||ifreedns.org^$third-party
+||ilovedomains.pw^$third-party
 ||indeterman.com^$third-party
 ||jacquarter.com^$third-party
 ||jscloudnow.com^$third-party
@@ -130,11 +131,13 @@
 ||nothering.com^$third-party
 ||nullenabler.com^$third-party
 ||numberthreebear.com^$third-party
+||mohengdu.com^$third-party
 ||oversailor.com^$third-party
 ||pullcdn.pw^$third-party
 ||regi.tech^$third-party
 ||retrayan.com^$third-party
 ||rkgnmwre.site^$third-party
+||shakesider.com^$third-party
 ||sharedcdn.site^$third-party
 ||sprawley.com^$third-party
 ||srvjar.com^$third-party
@@ -749,7 +752,6 @@ inn.co.il##[id^="divHr"]
 inn.co.il##[id^="divLeftInf"]
 inn.co.il##[id^="LeftColInf"]
 inn.co.il##[id^="LeftInfo"]
-inn.co.il##a[href*="delivery/ck.php"][target="_blank"]
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
