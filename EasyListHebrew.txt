@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kLUkjpPtUNZgT8zzbK0lGw
+! Checksum: lsaFBEJCic969Ub1ysfjWw
 ! Title: EasyList Hebrew
-! Last modified: 09 Aug 2016 12:41 UTC
+! Last modified: 09 Aug 2016 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -189,7 +189,7 @@
 ||taboola.com^$third-party,domain=walla.co.il
 ||waab.walla.co.il^$object-subrequest
 ||wrtm.walla.co.il^
-||xwbe.wcdn.co.il/$image
+||xwbe.wcdn.co.il^$image
 ||xwne.wcdn.co.il^$domain=walla.co.il
 ||x.walla.co.il^$image,domain=mail.walla.co.il
 ||x.walla.co.il^*.mp4|
@@ -410,7 +410,7 @@ zegvid.net##*
 @@||pitaronfree.blogspot.co.il^$generichide
 @@||sdarot.bz^$generichide
 @@||sidorim.me^$generichide
-@@||stanga.club^$generichide
+@@||stanga.co^$generichide
 @@||themarker.com^$generichide
 !
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
