@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RY0T00h6tWqhfCKEU1xNOQ
+! Checksum: E0731Xii4akvMM/6Wc1BYg
 ! Title: EasyList Hebrew
-! Last modified: 11 Aug 2016 09:02 UTC
+! Last modified: 13 Aug 2016 08:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -271,7 +271,7 @@
 ! * FXP * !
 ||fxp.co.il/skinfxp/*.php$script,image
 ||images.fxp.co.il^$subdocument
-| * serethd.net * |
+! * serethd.net * !
 |http://$script,third-party,domain=serethd.net
 !
 !--------------------------1st party blocking rules---------------------------!
