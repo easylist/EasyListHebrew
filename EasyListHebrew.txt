@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: K58kRTxXX3WJxUiNfF1Uqg
+! Checksum: ryRzJ1iSkv3VF86u9HNW1Q
 ! Title: EasyList Hebrew
-! Last modified: 13 Aug 2016 08:45 UTC
+! Last modified: 14 Aug 2016 09:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -220,7 +220,7 @@
 ||sdc.mako.co.il^
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|mako\.tools|minidom\.org|jquerymin\.org|logidea\.info|zoomanalytics\.co|firstimpression\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=mako.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=mako.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|outbrain|ytimg|amazonaws|cloudflare|gstatic|sniperm|dinovich|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|themarker|adnxs|conduit|fourtips|makojs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|outbrain|ytimg|amazonaws|cloudflare|gstatic|sniperm|dinovich|shortaudition|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|themarker|adnxs|conduit|fourtips|makojs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|uploaditnow|edgesuite|doubleclick|dmcdn|slideshare|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|icdn|auto|sport5|smartair|mysupermarket|blms|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 ! * Globes * !
