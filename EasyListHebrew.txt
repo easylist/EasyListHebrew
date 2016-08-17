@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wKAYhBYby+v4TKh16zo2Hg
+! Checksum: S9YzO3VCoMx2V7TITEXyug
 ! Title: EasyList Hebrew
-! Last modified: 17 Aug 2016 12:40 UTC
+! Last modified: 17 Aug 2016 15:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -556,7 +556,7 @@ m.sport5.co.il##.ad
 0-15.co.il,add-syndrome.co.il,allergy.org.il,asthma.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dementia.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,my-rights.org.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il##.widget-area.sidebar-primary.sidebar
 0-15.co.il,add-syndrome.co.il,allergy.org.il,asthma.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dementia.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,my-rights.org.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il##div[style$="display: block; overflow: auto;"]
 bhol-forums.co.il,bhol.co.il,hydepark.co.il,pic.co.il###Plasma_1
-getit.co.il,nana10.co.il,tapuz.co.il###TopBanner
+getit.co.il,nana10.co.il,news1.co.il,tapuz.co.il###TopBanner
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 calcalist.co.il,frogi.co.il,mynet.co.il,xnet.ynet.co.il###ads\.top
 feeder.co.il,rest.co.il###banner
@@ -738,12 +738,13 @@ infomed.co.il##ol[style$="inline-block; width: 338px; height: 304px; left: 25%; 
 infomed.co.il###mada_adback
 infomed.co.il###mada_adlayer
 infomed.co.il###overlayBanner
-inn.co.il###divBottomAd
+inn.co.il###LeftInfo
 inn.co.il###divB800
+inn.co.il###divBottomAd
 inn.co.il###divInfMiddle1
 inn.co.il###divInfMiddle2
 inn.co.il###divMainLeftInfo
-inn.co.il###LeftInfo
+inn.co.il###divTopAd
 inn.co.il##.InfoIn
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
