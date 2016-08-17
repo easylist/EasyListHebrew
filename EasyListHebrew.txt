@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: S9YzO3VCoMx2V7TITEXyug
+! Checksum: 9sVgr/3/+Hbod7/wKr85ZA
 ! Title: EasyList Hebrew
-! Last modified: 17 Aug 2016 15:38 UTC
+! Last modified: 17 Aug 2016 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -570,9 +570,11 @@ bhol-forums.co.il,bhol.co.il###top_banner_ph
 fun-city.co.il,popcorate.co.il###videoImage1_login
 beok.co.il,winwin.co.il##.TopBanners
 infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
-globes.co.il,onlife.co.il##.banner
+93fm.co.il,ch10.co.il##.arti-banners
+a.co.il,baba-mail.co.il,globes.co.il,onlife.co.il##.banner
 atmag.co.il,timeout.co.il##.btmspcl_wrap.up
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
+bizportal.co.il,ice.co.il##.kubia_banner
 globes.co.il,nrg.co.il##.sekindo
 atmag.co.il,timeout.co.il##.to_ad
 atmag.co.il,timeout.co.il##.to_ad_2a7_wrap.clearfix
@@ -606,8 +608,6 @@ haaretz.co.il,themarker.com##[id*="div-gpt-ad"]
 10tv.nana10.co.il##[style="top:800px; right:0px; width:320px; height:320px;"] > .tmplInner.size300x300
 10tv.nana10.co.il##[style="top:800px; right:800px; width:320px; height:320px;"] > .tmplInner.size300x300
 2all.co.il##.DivFlowBannerRight
-93fm.co.il##.arti-banners
-a.co.il##.banner
 aiwa.co.il##.bigbnr
 api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
@@ -623,7 +623,6 @@ auto.co.il##.content.awLng[style="text-align: center;"]
 auto.co.il##.tower-banner
 auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:auto;"]
 baba-mail.co.il###banner_google
-baba-mail.co.il##.banner
 baba-mail.co.il##.banner300x250
 beok.co.il##.BannerMid
 bhol.co.il###AdvertisementSystemTakeOver
@@ -653,7 +652,6 @@ bizportal.co.il##.adv_breatdcrumbs
 bizportal.co.il##.baner1
 bizportal.co.il##.baner2
 bizportal.co.il##.hp_baner_kub
-bizportal.co.il##.kubia_banner
 bizportal.co.il##.single_section_world_short
 calcalist.co.il###ArticleBanner
 calcalist.co.il###ads\.premium
@@ -669,7 +667,6 @@ carsforum.co.il##.box2
 carsforum.co.il##div[style="float:left;padding-left:3px;"]
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 cellebrate.mobi###flow
-ch10.co.il##.arti-banners
 ch10.co.il##.rt-banners
 chabad.info##.adpro
 d.co.il##.header_banner
@@ -728,7 +725,6 @@ homeless.co.il##th[colspan="20"]
 hwzone.co.il###cubicbigarticlesbannertable
 hwzone.co.il##.box2.alljobBox
 hwzone.co.il##.wideBanner
-ice.co.il##.kubia_banner
 ice.co.il##.top_pirsomet
 ilimudim.co.il##.mp-hd-banner
 infomed.co.il##.google_adDiv
