@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: t0jjNWCU33cFnU+TAfKZpA
+! Checksum: wKAYhBYby+v4TKh16zo2Hg
 ! Title: EasyList Hebrew
-! Last modified: 17 Aug 2016 12:37 UTC
+! Last modified: 17 Aug 2016 12:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -738,9 +738,12 @@ infomed.co.il##ol[style$="inline-block; width: 338px; height: 304px; left: 25%; 
 infomed.co.il###mada_adback
 infomed.co.il###mada_adlayer
 infomed.co.il###overlayBanner
-inn.co.il###LeftInfo
 inn.co.il###divBottomAd
+inn.co.il###divB800
+inn.co.il###divInfMiddle1
+inn.co.il###divInfMiddle2
 inn.co.il###divMainLeftInfo
+inn.co.il###LeftInfo
 inn.co.il##.InfoIn
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
