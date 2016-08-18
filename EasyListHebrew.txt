@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qaGt7txkoeKuDiHXnwvxdg
+! Checksum: yue7oxdqFsUJv56MlrkoJw
 ! Title: EasyList Hebrew
-! Last modified: 18 Aug 2016 13:17 UTC
+! Last modified: 18 Aug 2016 15:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -92,7 +92,6 @@
 ! *** 3rd party ads *** !
 !
 ||jdate.co.il^$third-party
-||psakdin.co.il^$domain=calcalist.co.il
 ||shorter.co.il/js/fp.js.php
 !
 ||agecdn.me^$third-party
@@ -107,6 +106,7 @@
 ||bostonwall.com^$third-party
 ||bluesli.de^$third-party
 ||bool.bid^$third-party
+||boostquery.com^$third-party
 ||bulgarine.com^$third-party
 ||cloudbit.rocks^$third-party
 ||corruptcy.com^$third-party
@@ -134,6 +134,7 @@
 ||mohengdu.com^$third-party
 ||oversailor.com^$third-party
 ||pullcdn.pw^$third-party
+||regi.site^$third-party
 ||regi.tech^$third-party
 ||retrayan.com^$third-party
 ||rkgnmwre.site^$third-party
@@ -141,6 +142,7 @@
 ||sharedcdn.site^$third-party
 ||sprawley.com^$third-party
 ||srvjar.com^$third-party
+||syntetech.com^$third-party
 ||storagecdncloud.co^$third-party
 ||texasboston.com^$third-party
 ||typication.com^$third-party
@@ -227,6 +229,9 @@
 ! * Globes * !
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
+! * Calcalist * !
+||psakdin.co.il^$domain=calcalist.co.il
+||s3.amazonaws.com^$script,domain=calcalist.co.il
 ! * Haaretz, TheMarker, Mouse.co.il * !
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
@@ -268,11 +273,11 @@
 ||banners*.bizportal.co.il^
 ||banners.bizportal.co.il^$popup
 ||bizportal.co.il/Scripts/maavaron.js?v=
-||s3.amazonaws.com^$script,domain=bizportal.co.il,calcalist.co.il
+||s3.amazonaws.com^$script,domain=bizportal.co.il
 ! * FXP * !
 ||fxp.co.il/skinfxp/*.php$script,image
 ||images.fxp.co.il^$subdocument
-! * serethd.net * !
+! * SeretHD * !
 |http://$script,third-party,domain=serethd.net
 !
 !--------------------------1st party blocking rules---------------------------!
@@ -333,7 +338,6 @@
 ||shoofoo.co.il/banners
 ||sport5.co.il/banners2/
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
-||syntetech.com^$script,image,domain=calcalist.co.il
 ||takana.co.il^$image,third-party
 ||wcdn.co.il/banners/
 ||zvz.co.il/BannerCommunication
