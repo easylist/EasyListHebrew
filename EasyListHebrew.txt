@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yue7oxdqFsUJv56MlrkoJw
+! Checksum: PIaGqofmE0r9ADNTeo6wQg
 ! Title: EasyList Hebrew
-! Last modified: 18 Aug 2016 15:27 UTC
+! Last modified: 18 Aug 2016 17:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -484,6 +484,7 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||reshet.tv/ads.html
+@@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
 @@||sexadir.co.il/ads/$image,~third-party
