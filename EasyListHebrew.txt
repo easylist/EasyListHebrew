@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9sVgr/3/+Hbod7/wKr85ZA
+! Checksum: qaGt7txkoeKuDiHXnwvxdg
 ! Title: EasyList Hebrew
-! Last modified: 17 Aug 2016 16:30 UTC
+! Last modified: 18 Aug 2016 13:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -143,6 +143,7 @@
 ||srvjar.com^$third-party
 ||storagecdncloud.co^$third-party
 ||texasboston.com^$third-party
+||typication.com^$third-party
 ||webeatyouradblocker.com^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
@@ -267,7 +268,7 @@
 ||banners*.bizportal.co.il^
 ||banners.bizportal.co.il^$popup
 ||bizportal.co.il/Scripts/maavaron.js?v=
-||s3.amazonaws.com^$script,domain=bizportal.co.il
+||s3.amazonaws.com^$script,domain=bizportal.co.il,calcalist.co.il
 ! * FXP * !
 ||fxp.co.il/skinfxp/*.php$script,image
 ||images.fxp.co.il^$subdocument
