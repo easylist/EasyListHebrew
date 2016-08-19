@@ -60,9 +60,34 @@ def readStream(stream):
   except Exception, e:
     raise Exception('Failed reading data, most likely not encoded as UTF-8:\n%s' % e)
 
+def sort_file(data):
+  lines = data.split('\n')
+  res = lines[0] + '\n'
+  lst = []
+  for line in lines[1:]:
+    if line.startswith('!'):
+      if lst:
+        lst.sort()
+        res+= ''.join(lst)
+        lst = []
+      res+= line + '\n'
+    else:
+      if 'domain=' in line:
+        url = line[:line.rfind('$')], line[line.rfind('$') + 1:]
+        spl = url[1].split(',')
+        if len(spl) > 1:
+          spl = sorted(spl, key=lambda x: 'domain=' in x)
+        domain = sorted(spl[-1].split('=')[1].split('|'))
+        if len(spl) > 1:
+          line = url[0] + '$' + ','.join(spl[:-1]) +',domain='+ '|'.join(domain)
+        else:
+          line = url[0] + '$' + 'domain=' + '|'.join(domain)
+      lst.append(line + '\n')
+  return res
+
 if __name__ == '__main__':
   if sys.platform == "win32":
     import os, msvcrt
     msvcrt.setmode(sys.stdout.fileno(), os.O_BINARY)
-  data = addChecksum(readStream(sys.stdin))
+  data = addChecksum(sort_file(readStream(sys.stdin)))
   sys.stdout.write(data.encode('utf-8'))
