@@ -59,30 +59,72 @@ def readStream(stream):
     return reader.read()
   except Exception, e:
     raise Exception('Failed reading data, most likely not encoded as UTF-8:\n%s' % e)
+  
+# Coded by EasyList Hebrew Team
+# Licence: https://easylist.to/pages/licence.html
 
 def sort_file(data):
   lines = data.split('\n')
+  lines.append('\n')
   res = lines[0] + '\n'
   lst = []
   for line in lines[1:]:
-    if line.startswith('!'):
+    if line.startswith('!') or line == '\n'  or line == '':
       if lst:
         lst.sort()
         res+= ''.join(lst)
         lst = []
-      res+= line + '\n'
+      if line != '\n':
+        res+= line + '\n'
     else:
-      if 'domain=' in line:
-        url = line[:line.rfind('$')], line[line.rfind('$') + 1:]
-        spl = url[1].split(',')
-        if len(spl) > 1:
-          spl = sorted(spl, key=lambda x: 'domain=' in x)
-        domain = sorted(spl[-1].split('=')[1].split('|'))
-        if len(spl) > 1:
-          line = url[0] + '$' + ','.join(spl[:-1]) +',domain='+ '|'.join(domain)
-        else:
-          line = url[0] + '$' + 'domain=' + '|'.join(domain)
-      lst.append(line + '\n')
+      isRegex = False
+      isHidingRule = False
+      if len(line):
+        if line.startswith('/') and len(line) > 1 :
+          if line.endswith('/'):
+            isRegex = True
+          elif line.rfind('$') == ( line.rfind('/$') + 1 )  and  line.rfind('/') == line.rfind('/$') and len(line) > 2 :
+            isRegex = True
+        if '##' in line or '#@#' in line:
+          if not isRegex :
+            isHidingRule = True
+            sep = line.index('#')
+            url = line[:sep], line[sep:]
+            spl = url[0].split(',')
+            if len(spl) > 1:
+              spl = sorted(spl)
+            domain = ''
+            for s in spl:
+              domain += s + ','
+            line = domain[:len(domain)-1] + url[1]
+        if not isHidingRule :
+          cont = False
+          if '$domain=' in line or ',domain=' in line:
+            first = line.find('$')
+            last = line.rfind('$')
+            if isRegex :
+              if line.rfind('$domain=') == last or line.rfind(',domain=') > last :
+                cont = True
+            elif first == last and first != -1 :
+              if '$domain=' not in line :
+                if line.rfind(',domain=') > last:
+                  cont = True
+              else:
+                cont = True    
+          if cont :
+            sep = line.rfind('$')
+            url = line[:sep], line[sep + 1:]
+            spl = url[1].split(',')
+            if len(spl) > 1:
+              spl = sorted(spl, key=lambda x: 'domain=' in x)
+            domain = sorted(spl[-1].split('=')[1].split('|'))
+            if len(spl) > 1:
+              line = url[0] + '$' + ','.join(spl[:-1]) +',domain='+ '|'.join(domain)
+            else:
+              line = url[0] + '$' + 'domain=' + '|'.join(domain)
+        lst.append(line + '\n')
+  if res.endswith('\n') and res.rfind('\n') != res.find('\n'):
+    res = res[:-1]
   return res
 
 if __name__ == '__main__':
