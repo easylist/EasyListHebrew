@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OMTVP4691SbrCMl6kvlOHg
+! Checksum: pHiqvBJejfIe0oyAxbIo3w
 ! Title: EasyList Hebrew
-! Last modified: 26 Aug 2016 15:40 UTC
+! Last modified: 26 Aug 2016 15:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -410,6 +410,8 @@ zegvid.net##*
 !
 !----------------------Whitelists to fix broken sites-------------------------!
 !
+@@||bbroarmy.blogspot.co.il^$generichide
+@@||bbroarmy.blogspot.com^$generichide
 @@||goalim.club^$generichide
 @@||haaretz.co.il^$generichide
 @@||isramedia.net^$generichide
@@ -514,7 +516,6 @@ zegvid.net##*
 !
 ad.co.il#@#.ad-link
 banana.co.il#@#.txtAds
-bbroarmy.blogspot.co.il#@##textad
 bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
 bizportal.co.il#@#.afs_ads
