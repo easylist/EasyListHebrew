@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6s4/flyMGoS3jQQazSA2/Q
+! Checksum: OMTVP4691SbrCMl6kvlOHg
 ! Title: EasyList Hebrew
-! Last modified: 26 Aug 2016 15:39 UTC
+! Last modified: 26 Aug 2016 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.github.io/pages/licence.html
@@ -113,6 +113,7 @@
 ||dascasdw.xyz^$third-party
 ||depresis.com^$third-party
 ||dfskgmrepts.com^$third-party
+||enstatic.net^$third-party
 ||hallucius.com^$third-party
 ||havinates.com^$third-party
 ||heravda.com^$third-party
