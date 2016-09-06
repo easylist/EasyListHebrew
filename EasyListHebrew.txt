@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wSXKOGTqiYd8eIgThfS8tw
+! Checksum: MzMCUmWfWXpZYgsCahmZSQ
 ! Title: EasyList Hebrew
-! Last modified: 06 Sep 2016 14:55 UTC
+! Last modified: 06 Sep 2016 14:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.to/pages/licence.html
@@ -319,8 +319,6 @@
 ||kipasruga.com/banner/
 ||leadim4u.com/accounts/default1/banners/
 ||local.co.il/banners/
-||magazin.org.il/cut/baner
-||magazin.org.il/show_banner
 ||moreshet.co.il/banners/
 ||nanafiles.co.il//Upload/92011/File/File_*swf
 ||netform.co.il^$third-party,domain=0-15.co.il|2b-bari.co.il|acnecenter.co.il|add-syndrome.co.il|allergy.org.il|alzheimer.co.il|asthma.org.il|bariatric.org.il|blinds.org.il|blood.co.il|cfs.org.il|cholesterol.org.il|cold.co.il|colon.org.il|commitment.org.il|committee.co.il|degeneration.co.il|dementia.co.il|dialysis.org.il|ear.org.il|east-west.co.il|ent.org.il|feeling.co.il|gastro-israel.org.il|genes.co.il|human.co.il|hyperhidrosis.org.il|iaawh.co.il|ibd.org.il|ifeel.co.il|ilsi.org.il|immunology.org.il|implants.org.il|ioh.org.il|israrights.com|le-la.co.il|lung.org.il|lupus.org.il|maane.co.il|matnachim.co.il|matnachim.org.il|medicalcannabis.co.il|mifrakim.co.il|multiplesclerosis.org.il|my-rights.org.il|myeyes.co.il|myhealth.co.il|myheart.co.il|myrights.co.il|nashy.co.il|neurology.org.il|oncology.org.il|pain.org.il|parkinsons.org.il|pediatrics.co.il|pigur.co.il|psychiatry.org.il|stdinfo.co.il|stroke.org.il|sukarti.co.il|takana.co.il|tevalife.co.il|urinary.co.il|urine.org.il|voices.co.il
