@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: K+1NagWY/pjAvlvWpGXMBg
+! Checksum: wSXKOGTqiYd8eIgThfS8tw
 ! Title: EasyList Hebrew
-! Last modified: 06 Sep 2016 14:45 UTC
+! Last modified: 06 Sep 2016 14:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.to/pages/licence.html
@@ -75,6 +75,7 @@
 ||mitbahon.co.il^$popup,third-party
 ||namesakeoscilloscopemarquis.com^$popup,third-party
 ||oceanmedia.co.il^$popup,third-party
+||online-offer.co.il^$popup,third-party
 ||osef.co.il^$popup,third-party
 ||padv.co.il^$popup,third-party
 ||pigment-adv.co.il^$popup,third-party
@@ -312,7 +313,6 @@
 ||hwzone.co.il/jobs/
 ||jobmaster.co.il/code/kot/$object
 ||jobmaster.co.il/images/banners/
-||karmel.co.il/images/banners/
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
 ||kipa.co.il/banner/
 ||kipa.co.il/minisites/go.asp$popup
