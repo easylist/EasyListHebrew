@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ea9lsAgJ5T8UQbXDs8xWQg
+! Checksum: K+1NagWY/pjAvlvWpGXMBg
 ! Title: EasyList Hebrew
-! Last modified: 31 Aug 2016 20:45 UTC
+! Last modified: 06 Sep 2016 14:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.to/pages/licence.html
@@ -127,6 +127,7 @@
 ||klnrew.site^$third-party
 ||kmrnkjer.xyz^$third-party
 ||loopmaze.com^$third-party
+||maskoter.com^$third-party
 ||mohengdu.com^$third-party
 ||newyorkwhil.com^$third-party
 ||njkiho.info^$third-party
