@@ -933,6 +933,7 @@ rotter.net##[style="border: 0px solid red; width: 160px; table-layout: fixed;"]
 rotter.net##br + * > p
 rotter.net##td[style="border:0px solid red; width:160px; table-layout:fixed;"]
 rotter.net##td[style="width:120px;border:0px solid red;"]
+rotter.net##.rmodal-content
 s-maof.com###backgroundPopup
 s-maof.com###popupContact
 s-maof.com##div[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
