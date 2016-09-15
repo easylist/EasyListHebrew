@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /dO7+jgZu4pRvEHfTrOMVg
+! Checksum: TLsVEGlltFFjyMG7AJAixA
 ! Title: EasyList Hebrew
-! Last modified: 15 Sep 2016 16:55 UTC
+! Last modified: 15 Sep 2016 16:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.to/pages/licence.html
@@ -531,6 +531,7 @@ junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
 lavender.co.il#@##topAds
 omritv.co.il#@##adsense
+one.co.il##a[class*="one-article-strip"]
 one.co.il#@#a[href^="http://xads.zedo.com/"]
 pitria.com#@#.header-ad
 sexadir.co.il#@#.ad_title
