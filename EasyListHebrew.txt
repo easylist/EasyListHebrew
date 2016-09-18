@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TLsVEGlltFFjyMG7AJAixA
+! Checksum: xHbmRMpTASXquW0nWXPTSA
 ! Title: EasyList Hebrew
-! Last modified: 15 Sep 2016 16:56 UTC
+! Last modified: 18 Sep 2016 14:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.to/pages/licence.html
@@ -124,6 +124,7 @@
 ||ifreedns.org^$third-party
 ||ilovedomains.pw^$third-party
 ||indeterman.com^$third-party
+||iystorage.com^$third-party
 ||jacquarter.com^$third-party
 ||jscloudnow.com^$third-party
 ||klnrew.site^$third-party
@@ -1067,6 +1068,8 @@ yeshanews.com###sideban
 yesplanet.co.il###snatch
 ynet.co.il##.art_tkb_talkback_advert
 ynet.co.il##[class*="PromoLightbox"]
+ynet.co.il##div[class="block B2b spacer"]
+ynet.co.il##div[id^="marketschedual_"]
 yummies.reshet.tv###yms-side-banner
 yummies.reshet.tv##.grid_banner_wrp
 zap.co.il###dgBan_t12x1
