@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: f5LxZ5pMtTbknA3rpWuUZg
+! Checksum: z9WkMCa4zJCNF1Ee1uFUjg
 ! Title: EasyList Hebrew
-! Last modified: 18 Sep 2016 23:05 UTC
+! Last modified: 18 Sep 2016 23:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.to/pages/licence.html
@@ -99,6 +99,7 @@
 ||agecdn.me^$third-party
 ||akamhd.com^$third-party
 ||amazuk.com^$third-party
+||apiscdn.com^$third-party
 ||asermtawlfs.xyz^$third-party
 ||bakkels.com^$third-party
 ||bargainpricedude.com^$third-party
@@ -1022,10 +1023,11 @@ themarker.com##.footer-ruler
 totalchat.co.il###PublichVoiceChat
 upf.co.il##.bgbanner
 walla.co.il##.ads-spaces-shdera-hp
+walla.co.il##.slot-top-margin + .static-spaces-rectangle-buzzer.no-tablet.no-mobile
 walla.co.il##.taboola-widget
 walla.co.il##.top_banner_outer.relative
 walla.co.il##.walla-shops
-walla.co.il##[class^="ads-spaces"]
+walla.co.il##div[class^="ads-spaces"]
 walla.co.il##div[id^="Fusion_holder"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
 wen.co.il##.wenBanner
