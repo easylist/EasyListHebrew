@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ViX7sZ60T1xLjUNqoPRQBQ
+! Checksum: KMOUQ68jyuZnJo9PClVteg
 ! Title: EasyList Hebrew
-! Last modified: 18 Sep 2016 23:12 UTC
+! Last modified: 19 Sep 2016 07:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.to/pages/licence.html
@@ -334,6 +334,7 @@
 ||raddar.co.il/bannersa.php
 ||rotter.net/banners/
 ||rotter.net/edit/text/
+||rotter.net/rotterP.html
 ||scity.co.il/scity_728_sdarot.swf
 ||sdarot.*/banner
 ||sdarot.pm/daniel_dont_touch/flash-clipgrab-mahavar.gif
@@ -934,6 +935,7 @@ rest.co.il###divLeftBanner
 rest.co.il##.ad_box_1
 rest.co.il##.ad_box_3
 rest.co.il##.left_box_1
+rotter.net###RoterHePromo
 rotter.net##[style="border: 0px solid red; width: 160px; table-layout: fixed;"]
 rotter.net##br + * > p
 rotter.net##td[style="border:0px solid red; width:160px; table-layout:fixed;"]
