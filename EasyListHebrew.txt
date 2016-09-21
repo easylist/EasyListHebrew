@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8GmcKoEysG8rKK3PQYmD7A
+! Checksum: 0hRPWfZzQqEYFna5SOnkJQ
 ! Title: EasyList Hebrew
-! Last modified: 21 Sep 2016 18:12 UTC
+! Last modified: 21 Sep 2016 18:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! License: https://easylist.to/pages/licence.html
@@ -684,6 +684,9 @@ carsforum.co.il##.box2
 carsforum.co.il##div[style="float:left;padding-left:3px;"]
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 cellebrate.mobi###flow
+ch10.co.il###arti-banner-popup
+ch10.co.il###stSegmentFrame
+ch10.co.il##.contento_Container
 ch10.co.il##.rt-banners
 chabad.info##.adpro
 d.co.il##.header_banner
