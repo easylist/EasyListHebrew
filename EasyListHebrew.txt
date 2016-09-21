@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0hRPWfZzQqEYFna5SOnkJQ
+! Checksum: cffx6IAvzTKr5wqBsGSB1g
 ! Title: EasyList Hebrew
-! Last modified: 21 Sep 2016 18:22 UTC
+! Last modified: 21 Sep 2016 21:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
-! License: https://easylist.to/pages/licence.html
+! Licence: https://easylist.to/pages/licence.html
 !
 ! This filter list is provided "as-is," without any express or implied warranty.
 ! In no event shall the authors be held liable for any damages arising from the use of this filter list.
@@ -154,7 +154,7 @@
 ||syntetech.com^$third-party
 ||texasboston.com^$third-party
 ||typication.com^$third-party
-||wal.uvinory.com^$third-party
+||uvinory.com^$third-party
 ||webeatyouradblocker.com^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
@@ -538,7 +538,6 @@ junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
 lavender.co.il#@##topAds
 omritv.co.il#@##adsense
-one.co.il##a[class*="one-article-strip"]
 one.co.il#@#a[href^="http://xads.zedo.com/"]
 pitria.com#@#.header-ad
 sexadir.co.il#@#.ad_title
@@ -909,6 +908,7 @@ one.co.il##.adBg
 one.co.il##.adBg1
 one.co.il##.divZedoAd
 one.co.il##.f12[bgcolor="#ffffff"] > div[style="width:450px;border:solid 1px #d2d2d2;padding:5px 0;margin-bottom:20px;"]
+one.co.il##a[class*="one-article-strip"]
 one.co.il##div[style="height:43px;padding-bottom:18px"]
 one.co.il##div[style="text-align:right;border:solid 1px #d5d5d5;"]
 one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
