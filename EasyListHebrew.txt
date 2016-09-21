@@ -130,6 +130,7 @@
 ||jacquarter.com^$third-party
 ||jscloudnow.com^$third-party
 ||klnrew.site^$third-party
+||kozikar.com^$third-party
 ||kmrnkjer.xyz^$third-party
 ||loopmaze.com^$third-party
 ||maskoter.com^$third-party
@@ -153,6 +154,7 @@
 ||syntetech.com^$third-party
 ||texasboston.com^$third-party
 ||typication.com^$third-party
+||wal.uvinory.com^$third-party
 ||webeatyouradblocker.com^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
