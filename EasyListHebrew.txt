@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cffx6IAvzTKr5wqBsGSB1g
+! Checksum: PAf8DyTo70t9UlyolLWTyA
 ! Title: EasyList Hebrew
-! Last modified: 21 Sep 2016 21:34 UTC
+! Last modified: 26 Sep 2016 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -112,6 +112,7 @@
 ||bostonparadise.com^$third-party
 ||bostonwall.com^$third-party
 ||bulgarine.com^$third-party
+||cdnic.site^$third-party
 ||cloudbit.rocks^$third-party
 ||corruptcy.com^$third-party
 ||dascasdw.xyz^$third-party
@@ -154,10 +155,14 @@
 ||syntetech.com^$third-party
 ||texasboston.com^$third-party
 ||typication.com^$third-party
+||umamdmo.com^$third-party
 ||uvinory.com^$third-party
+||uzotli.com^$third-party
 ||webeatyouradblocker.com^$third-party
+||wodoka.com^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
+||zipodita.com^$third-party
 !
 ! *** Popup sites *** !
 !
@@ -192,6 +197,12 @@
 !-----------------------Site specific ad blocking rules-----------------------!
 !
 ! * Walla! NEWS * !
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|edgesuite|doubleclick|dmcdn|slideshare|windows|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|ytimg|amazonaws|gstatic|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|sharethis|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|scorecardresearch|serving-sys|dynamicyield|chartbeat|exposebox|cooladata|pusher|vidnt|jwpcdn|jwpltx|fortvision|getsentry|gamezhero|pas-rahav|adnxs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|wcdn|wallashops|wallatours|wallaart|globes|madlan|yad2|emap|b144|wlcdn|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+/^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|atom-data\.io|sentry\.io|github\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+/^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+!
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
@@ -207,6 +218,12 @@
 ||xwbe.wcdn.co.il^$image
 ||xwne.wcdn.co.il^$domain=walla.co.il
 ! * ynet * !
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|edgesuite|doubleclick|dmcdn|slideshare|advsnx|pagefair|msecnd|freegeoip|total-media)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|ytimg|amazonaws|cloudflare|gstatic|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|sharethis|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|scorecardresearch|serving-sys|bootstrapcdn|adnxs|pagefair|dynamicyield|exposebox|visualrevenue|connatix|sekindo|roojoom|babator|sphereup|chartbeat|pusher|relevanti|mimgoal|goodluckblockingthis|ukstatic|snapwidget|arcgis|ynetnews)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|yit|yedioth|yedioth-magazine|ynet|calcalist|pplus|xnet|blazermagazine|frogi|winwin|kick|mynet|kikar|mame|telesport|ynetshops|ynettours|ynetart|ynetalbums|yschool|yedschool|shoppinglaisha|zikaronet|alljobs|bigdeal|pro|madlan|emap|e-vrit|cloudboost|cloudflame)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+!
 /CdaMarketTextlinks_
 /CdaMarketingLink/*
 /ads.min.js$domain=ynet.co.il
@@ -225,10 +242,11 @@
 ||ynetbanneradmin.yit.co.il/assets/$subdocument,domain=ynet.co.il
 ! * mako * !
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|uploaditnow|zencdn|edgesuite|doubleclick|dmcdn|slideshare|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|outbrain|ytimg|amazonaws|cloudflare|gstatic|sniperm|dinovich|shortaudition|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|syteapi|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|themarker|adnxs|conduit|fourtips|makojs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|outbrain|ytimg|amazonaws|cloudflare|gstatic|sniperm|dinovich|shortaudition|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|syteapi|sharethis|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|themarker|adnxs|conduit|fourtips|makojs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|icdn|auto|sport5|smartair|mysupermarket|blms|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|mako\.tools|minidom\.org|jquerymin\.org|logidea\.info|zoomanalytics\.co|firstimpression\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=mako.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=mako.co.il
+!
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
@@ -823,6 +841,8 @@ mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
+mako.co.il##[src="about:blank"]
+mako.co.il##[src^="data:"]
 mapa.co.il###adSenseOnMap
 mapa.co.il###headerContenetBanner
 mapa.co.il##.bannerPlace
