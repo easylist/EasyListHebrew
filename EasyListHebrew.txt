@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: PAf8DyTo70t9UlyolLWTyA
+! Checksum: Powe0W7sjrtfaNCQYEbTRg
 ! Title: EasyList Hebrew
-! Last modified: 26 Sep 2016 16:41 UTC
+! Last modified: 27 Sep 2016 17:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
-! Licence: https://easylist.to/pages/licence.html
+! License: https://easylist.github.io/pages/licence.html
 !
 ! This filter list is provided "as-is," without any express or implied warranty.
 ! In no event shall the authors be held liable for any damages arising from the use of this filter list.
@@ -45,7 +45,6 @@
 ||213.8.137.51^$popup,third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||activated.digital^$popup,third-party
-||activetrail.biz^$popup,third-party
 ||adson.biz^$popup,third-party
 ||adventuredigital.co.il^$popup,third-party
 ||afaktrio.com^$popup,third-party
@@ -76,7 +75,6 @@
 ||mitbahon.co.il^$popup,third-party
 ||namesakeoscilloscopemarquis.com^$popup,third-party
 ||oceanmedia.co.il^$popup,third-party
-||online-offer.co.il^$popup,third-party
 ||osef.co.il^$popup,third-party
 ||padv.co.il^$popup,third-party
 ||pigment-adv.co.il^$popup,third-party
@@ -99,7 +97,6 @@
 ||agecdn.me^$third-party
 ||akamhd.com^$third-party
 ||amazuk.com^$third-party
-||apiscdn.com^$third-party
 ||asermtawlfs.xyz^$third-party
 ||bakkels.com^$third-party
 ||bargainpricedude.com^$third-party
@@ -108,11 +105,9 @@
 ||bluesli.de^$third-party
 ||bool.bid^$third-party
 ||boostquery.com^$third-party
-||boritra.com^$third-party
 ||bostonparadise.com^$third-party
 ||bostonwall.com^$third-party
 ||bulgarine.com^$third-party
-||cdnic.site^$third-party
 ||cloudbit.rocks^$third-party
 ||corruptcy.com^$third-party
 ||dascasdw.xyz^$third-party
@@ -127,14 +122,11 @@
 ||ifreedns.org^$third-party
 ||ilovedomains.pw^$third-party
 ||indeterman.com^$third-party
-||iystorage.com^$third-party
 ||jacquarter.com^$third-party
 ||jscloudnow.com^$third-party
 ||klnrew.site^$third-party
 ||kmrnkjer.xyz^$third-party
-||kozikar.com^$third-party
 ||loopmaze.com^$third-party
-||maskoter.com^$third-party
 ||mohengdu.com^$third-party
 ||newyorkwhil.com^$third-party
 ||njkiho.info^$third-party
@@ -155,14 +147,9 @@
 ||syntetech.com^$third-party
 ||texasboston.com^$third-party
 ||typication.com^$third-party
-||umamdmo.com^$third-party
-||uvinory.com^$third-party
-||uzotli.com^$third-party
 ||webeatyouradblocker.com^$third-party
-||wodoka.com^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
-||zipodita.com^$third-party
 !
 ! *** Popup sites *** !
 !
@@ -182,7 +169,6 @@
 ||lastpage.pw^$popup,third-party
 ||leshem.info^$popup,third-party
 ||makelove.co.il^$popup,third-party
-||medical-rights.co.il^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
 ||mysupermarket.co.il/landingpage$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
@@ -197,12 +183,6 @@
 !-----------------------Site specific ad blocking rules-----------------------!
 !
 ! * Walla! NEWS * !
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|edgesuite|doubleclick|dmcdn|slideshare|windows|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|ytimg|amazonaws|gstatic|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|sharethis|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|scorecardresearch|serving-sys|dynamicyield|chartbeat|exposebox|cooladata|pusher|vidnt|jwpcdn|jwpltx|fortvision|getsentry|gamezhero|pas-rahav|adnxs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|wcdn|wallashops|wallatours|wallaart|globes|madlan|yad2|emap|b144|wlcdn|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
-/^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|atom-data\.io|sentry\.io|github\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
-/^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
-!
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
@@ -218,12 +198,6 @@
 ||xwbe.wcdn.co.il^$image
 ||xwne.wcdn.co.il^$domain=walla.co.il
 ! * ynet * !
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|edgesuite|doubleclick|dmcdn|slideshare|advsnx|pagefair|msecnd|freegeoip|total-media)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|ytimg|amazonaws|cloudflare|gstatic|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|sharethis|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|scorecardresearch|serving-sys|bootstrapcdn|adnxs|pagefair|dynamicyield|exposebox|visualrevenue|connatix|sekindo|roojoom|babator|sphereup|chartbeat|pusher|relevanti|mimgoal|goodluckblockingthis|ukstatic|snapwidget|arcgis|ynetnews)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|yit|yedioth|yedioth-magazine|ynet|calcalist|pplus|xnet|blazermagazine|frogi|winwin|kick|mynet|kikar|mame|telesport|ynetshops|ynettours|ynetart|ynetalbums|yschool|yedschool|shoppinglaisha|zikaronet|alljobs|bigdeal|pro|madlan|emap|e-vrit|cloudboost|cloudflame)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-!
 /CdaMarketTextlinks_
 /CdaMarketingLink/*
 /ads.min.js$domain=ynet.co.il
@@ -241,12 +215,11 @@
 ||trace.events^$third-party,domain=ynet.co.il
 ||ynetbanneradmin.yit.co.il/assets/$subdocument,domain=ynet.co.il
 ! * mako * !
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|uploaditnow|zencdn|edgesuite|doubleclick|dmcdn|slideshare|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|outbrain|ytimg|amazonaws|cloudflare|gstatic|sniperm|dinovich|shortaudition|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|syteapi|sharethis|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|themarker|adnxs|conduit|fourtips|makojs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|uploaditnow|edgesuite|doubleclick|dmcdn|slideshare|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|outbrain|ytimg|amazonaws|cloudflare|gstatic|sniperm|dinovich|shortaudition|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|syteapi|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|themarker|adnxs|conduit|fourtips|makojs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|icdn|auto|sport5|smartair|mysupermarket|blms|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|mako\.tools|minidom\.org|jquerymin\.org|logidea\.info|zoomanalytics\.co|firstimpression\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=mako.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=mako.co.il
-!
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
 ||api.conduit.com^$domain=mako.co.il
@@ -338,15 +311,18 @@
 ||hwzone.co.il/jobs/
 ||jobmaster.co.il/code/kot/$object
 ||jobmaster.co.il/images/banners/
+||karmel.co.il/images/banners/
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
 ||kipa.co.il/banner/
 ||kipa.co.il/minisites/go.asp$popup
 ||kipasruga.com/banner/
 ||leadim4u.com/accounts/default1/banners/
 ||local.co.il/banners/
+||magazin.org.il/cut/baner
+||magazin.org.il/show_banner
 ||moreshet.co.il/banners/
 ||nanafiles.co.il//Upload/92011/File/File_*swf
-||netform.co.il^$third-party,domain=0-15.co.il|2b-bari.co.il|acnecenter.co.il|add-syndrome.co.il|allergy.org.il|alzheimer.co.il|asthma.org.il|bariatric.org.il|blinds.org.il|blood.co.il|cfs.org.il|cholesterol.org.il|cold.co.il|colon.org.il|commitment.org.il|committee.co.il|degeneration.co.il|dementia.co.il|dialysis.org.il|ear.org.il|east-west.co.il|ent.org.il|feeling.co.il|gastro-israel.org.il|genes.co.il|human.co.il|hyperhidrosis.org.il|iaawh.co.il|ibd.org.il|ifeel.co.il|ilsi.org.il|immunology.org.il|implants.org.il|ioh.org.il|israrights.com|le-la.co.il|lung.org.il|lupus.org.il|maane.co.il|matnachim.co.il|matnachim.org.il|medicalcannabis.co.il|mifrakim.co.il|multiplesclerosis.org.il|my-rights.org.il|myeyes.co.il|myhealth.co.il|myheart.co.il|myrights.co.il|nashy.co.il|neurology.org.il|oncology.org.il|pain.org.il|parkinsons.org.il|pediatrics.co.il|pigur.co.il|psychiatry.org.il|stdinfo.co.il|stroke.org.il|sukarti.co.il|takana.co.il|tevalife.co.il|urinary.co.il|urine.org.il|voices.co.il
+||netform.co.il^$third-party,domain=0-15.co.il|add-syndrome.co.il|allergy.org.il|asthma.org.il|blinds.org.il|blood.co.il|cfs.org.il|cholesterol.org.il|cold.co.il|colon.org.il|commitment.org.il|committee.co.il|dementia.co.il|dialysis.org.il|ear.org.il|ent.org.il|gastro-israel.org.il|genes.co.il|hyperhidrosis.org.il|iaawh.co.il|ifeel.co.il|ilsi.org.il|immunology.org.il|implants.org.il|ioh.org.il|israrights.com|le-la.co.il|lung.org.il|lupus.org.il|matnachim.co.il|medicalcannabis.co.il|mifrakim.co.il|multiplesclerosis.org.il|my-rights.org.il|myeyes.co.il|myhealth.co.il|myheart.co.il|myrights.co.il|neurology.org.il|oncology.org.il|pain.org.il|parkinsons.org.il|pediatrics.co.il|pigur.co.il|psychiatry.org.il|stdinfo.co.il|stroke.org.il|sukarti.co.il|takana.co.il|tevalife.co.il|urinary.co.il
 ||news-israel.net/images/topAd
 ||onlife.co.il/dbcads/
 ||pitro.net/Banners/
@@ -354,7 +330,6 @@
 ||raddar.co.il/bannersa.php
 ||rotter.net/banners/
 ||rotter.net/edit/text/
-||rotter.net/rotterP.html
 ||scity.co.il/scity_728_sdarot.swf
 ||sdarot.*/banner
 ||sdarot.pm/daniel_dont_touch/flash-clipgrab-mahavar.gif
@@ -443,7 +418,7 @@ zegvid.net##*
 @@||kml.co.il^$generichide
 @@||leava.co.il^$generichide
 @@||pitaronfree.blogspot.co.il^$generichide
-@@||sdarot.tech^$generichide
+@@||sdarot.co^$generichide
 @@||sidorim.me^$generichide
 @@||stanga.co^$generichide
 @@||themarker.com^$generichide
@@ -469,7 +444,7 @@ zegvid.net##*
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
 @@||blogblog.com^$image,domain=goalim.club
-@@||blogspot.com^$image,domain=goalim.club|sdarot.tech
+@@||blogspot.com^$image,domain=goalim.club|sdarot.co
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||clalit.co.il/AdImages
 @@||doubleclick.net/gampad/ads$domain=y.net-games.co.il
@@ -586,9 +561,9 @@ m.sport5.co.il##.ad
 !
 ! *** Multiple domains *** !
 !
-0-15.co.il,2b-bari.co.il,acnecenter.co.il,add-syndrome.co.il,allergy.org.il,alzheimer.co.il,asthma.org.il,bariatric.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,degeneration.co.il,dementia.co.il,dialysis.org.il,ear.org.il,east-west.co.il,ent.org.il,feeling.co.il,gastro-israel.org.il,genes.co.il,human.co.il,hyperhidrosis.org.il,iaawh.co.il,ibd.org.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,maane.co.il,matnachim.co.il,matnachim.org.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,my-rights.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,nashy.co.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il,urine.org.il,voices.co.il###popupContainer
-0-15.co.il,2b-bari.co.il,acnecenter.co.il,add-syndrome.co.il,allergy.org.il,alzheimer.co.il,asthma.org.il,bariatric.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,degeneration.co.il,dementia.co.il,dialysis.org.il,ear.org.il,east-west.co.il,ent.org.il,feeling.co.il,gastro-israel.org.il,genes.co.il,human.co.il,hyperhidrosis.org.il,iaawh.co.il,ibd.org.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,maane.co.il,matnachim.co.il,matnachim.org.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,my-rights.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,nashy.co.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il,urine.org.il,voices.co.il##.widget-area.sidebar-primary.sidebar
-0-15.co.il,2b-bari.co.il,acnecenter.co.il,add-syndrome.co.il,allergy.org.il,alzheimer.co.il,asthma.org.il,bariatric.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,degeneration.co.il,dementia.co.il,dialysis.org.il,ear.org.il,east-west.co.il,ent.org.il,feeling.co.il,gastro-israel.org.il,genes.co.il,human.co.il,hyperhidrosis.org.il,iaawh.co.il,ibd.org.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,maane.co.il,matnachim.co.il,matnachim.org.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,my-rights.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,nashy.co.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il,urine.org.il,voices.co.il##div[style$="display: block; overflow: auto;"]
+0-15.co.il,add-syndrome.co.il,allergy.org.il,asthma.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dementia.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,my-rights.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il###popupContainer
+0-15.co.il,add-syndrome.co.il,allergy.org.il,asthma.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dementia.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,my-rights.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il##.widget-area.sidebar-primary.sidebar
+0-15.co.il,add-syndrome.co.il,allergy.org.il,asthma.org.il,blinds.org.il,blood.co.il,cfs.org.il,cholesterol.org.il,cold.co.il,colon.org.il,commitment.org.il,committee.co.il,dementia.co.il,dialysis.org.il,ear.org.il,ent.org.il,gastro-israel.org.il,genes.co.il,hyperhidrosis.org.il,iaawh.co.il,ifeel.co.il,ilsi.org.il,immunology.org.il,implants.org.il,ioh.org.il,israrights.com,le-la.co.il,lung.org.il,lupus.org.il,matnachim.co.il,medicalcannabis.co.il,mifrakim.co.il,multiplesclerosis.org.il,my-rights.org.il,myeyes.co.il,myhealth.co.il,myheart.co.il,myrights.co.il,neurology.org.il,oncology.org.il,pain.org.il,parkinsons.org.il,pediatrics.co.il,pigur.co.il,psychiatry.org.il,stdinfo.co.il,stroke.org.il,sukarti.co.il,takana.co.il,tevalife.co.il,urinary.co.il##div[style$="display: block; overflow: auto;"]
 93fm.co.il,ch10.co.il##.arti-banners
 a.co.il,baba-mail.co.il,globes.co.il,onlife.co.il##.banner
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
@@ -701,9 +676,6 @@ carsforum.co.il##.box2
 carsforum.co.il##div[style="float:left;padding-left:3px;"]
 carsforum.co.il##table.tborder[style="margin-top:6px;"]
 cellebrate.mobi###flow
-ch10.co.il###arti-banner-popup
-ch10.co.il###stSegmentFrame
-ch10.co.il##.contento_Container
 ch10.co.il##.rt-banners
 chabad.info##.adpro
 d.co.il##.header_banner
@@ -841,8 +813,6 @@ mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
-mako.co.il##[src="about:blank"]
-mako.co.il##[src^="data:"]
 mapa.co.il###adSenseOnMap
 mapa.co.il###headerContenetBanner
 mapa.co.il##.bannerPlace
@@ -928,7 +898,6 @@ one.co.il##.adBg
 one.co.il##.adBg1
 one.co.il##.divZedoAd
 one.co.il##.f12[bgcolor="#ffffff"] > div[style="width:450px;border:solid 1px #d2d2d2;padding:5px 0;margin-bottom:20px;"]
-one.co.il##a[class*="one-article-strip"]
 one.co.il##div[style="height:43px;padding-bottom:18px"]
 one.co.il##div[style="text-align:right;border:solid 1px #d5d5d5;"]
 one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
@@ -960,7 +929,6 @@ rest.co.il###divLeftBanner
 rest.co.il##.ad_box_1
 rest.co.il##.ad_box_3
 rest.co.il##.left_box_1
-rotter.net###RoterHePromo
 rotter.net##[style="border: 0px solid red; width: 160px; table-layout: fixed;"]
 rotter.net##br + * > p
 rotter.net##td[style="border:0px solid red; width:160px; table-layout:fixed;"]
@@ -1022,6 +990,7 @@ takdin.co.il##.mainUpperBanner
 tapuz.co.il###AsyncMlinkBanner
 tapuz.co.il###BannerRightBotDiv
 tapuz.co.il###BannerRightDiv
+tapuz.co.il###divMaavBG
 tapuz.co.il###divMaavaron
 tapuz.co.il###divMaavaronBG
 tapuz.co.il###divTopBanner1
@@ -1051,12 +1020,11 @@ teamim.co.il###dnn_pageheaderpane
 themarker.com##.footer-ruler
 totalchat.co.il###PublichVoiceChat
 upf.co.il##.bgbanner
+walla.co.il##.ads-spaces-prime-cube-hp
 walla.co.il##.ads-spaces-shdera-hp
-walla.co.il##.slot-top-margin + .static-spaces-rectangle-buzzer.no-tablet.no-mobile
 walla.co.il##.taboola-widget
 walla.co.il##.top_banner_outer.relative
 walla.co.il##.walla-shops
-walla.co.il##div[class^="ads-spaces"]
 walla.co.il##div[id^="Fusion_holder"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
 wen.co.il##.wenBanner
