@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Xbeo3HZ/N3NINn+DlE6HPw
+! Checksum: 6FVR40wQEfuASvabBi0N7w
 ! Title: EasyList Hebrew
-! Last modified: 04 Oct 2016 20:22 UTC
+! Last modified: 08 Oct 2016 17:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -223,6 +223,8 @@
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|yit|yedioth|yedioth-magazine|ynet|calcalist|pplus|xnet|blazermagazine|frogi|winwin|kick|mynet|kikar|mame|telesport|ynetshops|ynettours|ynetart|ynetalbums|yschool|yedschool|shoppinglaisha|zikaronet|alljobs|bigdeal|pro|madlan|emap|e-vrit|maor|cloudboost|cloudflame)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+!
+*$websocket,~third-party,domain=www.ynet.co.il
 !
 /CdaMarketTextlinks_
 /CdaMarketingLink/*
