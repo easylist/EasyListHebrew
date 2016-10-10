@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rGNZUxIVYxM6KUQYxPREmQ
+! Checksum: vvjyAPjEo4JbN+XJHmWwAw
 ! Title: EasyList Hebrew
-! Last modified: 08 Oct 2016 17:33 UTC
+! Last modified: 10 Oct 2016 18:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -224,7 +224,7 @@
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !
-*$websocket,~third-party,domain=www.ynet.co.il
+||www.ynet.co.il^$websocket,~third-party,domain=www.ynet.co.il
 !
 /CdaMarketTextlinks_
 /CdaMarketingLink/*
@@ -245,12 +245,12 @@
 ! * mako * !
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|uploaditnow|zencdn|edgesuite|doubleclick|dmcdn|slideshare|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|outbrain|ytimg|amazonaws|cloudflare|gstatic|sniperm|dinovich|shortaudition|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|syteapi|sharethis|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|themarker|adnxs|dynamicyield|conduit|fourtips|makojs)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|icdn|auto|sport5|smartair|mysupermarket|blms|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|icdn|auto|sport5|smartair|mysupermarket|nirshamim|blms|linicom)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|mako\.tools|minidom\.org|jquerymin\.org|logidea\.info|zoomanalytics\.co|firstimpression\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=mako.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=mako.co.il
 !
-*$websocket,~third-party,domain=www.mako.co.il
 /^(?!(http|https|ftp|ws|wss|irc):)/$domain=www.mako.co.il
+||www.mako.co.il^$websocket,~third-party,domain=www.mako.co.il
 !
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
