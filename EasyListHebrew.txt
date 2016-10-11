@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vvjyAPjEo4JbN+XJHmWwAw
+! Checksum: CKzRvNQpULyRzvIac9uyTA
 ! Title: EasyList Hebrew
-! Last modified: 10 Oct 2016 18:29 UTC
+! Last modified: 11 Oct 2016 11:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -332,7 +332,6 @@
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
 ||daatariel.org.il/kipa/$popup,domain=kipa.co.il
 ||date.dacho.co.il^$domain=~date.dacho.co.il
-||ddlil.com/banners/
 ||gear.co.il/Content/MediaItems/Campaigns/
 ||goo.gl^$popup,domain=kikar.co.il
 ||googledrive.com^*/popup-with-timer-$script,domain=sidorim.me
@@ -614,7 +613,6 @@ calcalist.co.il,frogi.co.il,mynet.co.il,xnet.ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
 calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
 feeder.co.il,rest.co.il###banner
-fun-city.co.il,popcorate.co.il###videoImage1_login
 gamex.co.il,linicom.co.il##a[target="_blank"]
 getit.co.il,nana10.co.il,news1.co.il,tapuz.co.il###TopBanner
 globes.co.il,nrg.co.il##.sekindo
@@ -633,7 +631,6 @@ ilimudim.co.il,rest.co.il###ads\.strip\.1
 infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
 ladaat.info,tapuz.co.il###divTopBanner
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
-ori-diamonds.co.il,popcorate.co.il###hoverConnect
 sdarot.pm,sdarot.tv,sdarot.wf###extra
 sdarot.pm,sdarot.tv,sdarot.wf##.side
 sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://cellebrate.mobi/il/heb"]
@@ -948,7 +945,6 @@ onlife.co.il###top_article_ads_wrapper
 onlife.co.il###top_u_ads_wrapper
 onlife.co.il##.commercial
 onlife.co.il##.flying-banner-wrapper
-ori-diamonds.co.il##img[style="cursor: default; width: 100%;"]
 pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 psakdin.co.il###bnrTop
 rateonclick.com###connect
