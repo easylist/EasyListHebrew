@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QCe7x6iIln4nzdwqR5Bspw
+! Checksum: z9F0wRhQkKVwt+KkDNP2sw
 ! Title: EasyList Hebrew
-! Last modified: 13 Oct 2016 08:01 UTC
+! Last modified: 13 Oct 2016 08:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -860,13 +860,13 @@ mishlohim.co.il###TopMenu1_bannerDiv
 mishlohim.co.il##.Banners
 moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
-mouse.co.il###Hdiv[style^="position: fixed; width: auto; height: auto; background: rgb(255, 255, 255) none repeat scroll "]
 mouse.co.il###articleAdvert
 mouse.co.il###commercial_box
 mouse.co.il###div-gpt-ad2-top-banner728x90
 mouse.co.il###div-gpt-extra_670x189_madors
 mouse.co.il###floatingbannerdiv
 mouse.co.il##.ads
+mouse.co.il##.hp_banners.speiser
 mouse.co.il##.noprint + .inline-box-text_new.noprint
 mouse.co.il##div.inline-box-text
 mynet.co.il##div[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
