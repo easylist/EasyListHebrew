@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CKzRvNQpULyRzvIac9uyTA
+! Checksum: gfAEz/DaWboCoiFWx4QjIw
 ! Title: EasyList Hebrew
-! Last modified: 11 Oct 2016 11:27 UTC
+! Last modified: 13 Oct 2016 07:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -219,8 +219,8 @@
 ||xwne.wcdn.co.il^$domain=walla.co.il
 ! * ynet * !
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(fbcdn|cloudfront|facebook|akamaihd|ctedgecdn|2mdn|edgesuite|doubleclick|dmcdn|slideshare|advsnx|pagefair|msecnd|freegeoip|total-media)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|ytimg|amazonaws|cloudflare|gstatic|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|sharethis|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|scorecardresearch|serving-sys|bootstrapcdn|adnxs|pagefair|dynamicyield|exposebox|visualrevenue|connatix|sekindo|roojoom|babator|sphereup|chartbeat|pusher|relevanti|mimgoal|goodluckblockingthis|ukstatic|snapwidget|arcgis|ynetnews)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|yit|yedioth|yedioth-magazine|ynet|calcalist|pplus|xnet|blazermagazine|frogi|winwin|kick|mynet|kikar|mame|telesport|ynetshops|ynettours|ynetart|ynetalbums|yschool|yedschool|shoppinglaisha|zikaronet|alljobs|bigdeal|pro|madlan|emap|e-vrit|maor|cloudboost|cloudflame)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|facebook|twitter|instagram|youtube|jquery|googleapis|vicomi|twimg|cdninstagram|pinterest|pinimg|giphy|playbuzz|ytimg|amazonaws|cloudflare|gstatic|linkedin|opinionstage|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|sharethis|addthis|addthisedge|reddit|disqus|disquscdn|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|scorecardresearch|serving-sys|bootstrapcdn|adnxs|pagefair|dynamicyield|exposebox|visualrevenue|connatix|sekindo|roojoom|babator|sphereup|chartbeat|pusher|relevanti|mimgoal|goodluckblockingthis|ukstatic|snapwidget|arcgis|calcalist-cdnwiz|ynetnews)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|yit|yedioth|yedioth-magazine|ynet|calcalist|pplus|xnet|blazermagazine|frogi|rosh1|winwin|kick|mynet|kikar|mame|one|telesport|ynetshops|ynettours|ynetart|ynetalbums|yschool|yedschool|shoppinglaisha|zikaronet|alljobs|bigdeal|pro|madlan|emap|e-vrit|maor|cloudboost|cloudflame)\.co\.il\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !
