@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: N66knaR8OlmufF8OFxRBAQ
+! Checksum: nBxTAaMhOkch46uSDzki+Q
 ! Title: EasyList Hebrew
-! Last modified: 02 Nov 2016 18:07 UTC
+! Last modified: 02 Nov 2016 18:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -113,6 +113,7 @@
 ||bostonwall.com^$third-party
 ||bulgarine.com^$third-party
 ||cdnic.site^$third-party
+||cloodfront.com^$third-party
 ||cloudbit.rocks^$third-party
 ||corruptcy.com^$third-party
 ||dascasdw.xyz^$third-party
@@ -121,6 +122,7 @@
 ||enstatic.net^$third-party
 ||hallucius.com^$third-party
 ||havinates.com^$third-party
+||helpkidsnow.xyz^$third-party
 ||heravda.com^$third-party
 ||houstion.com^$third-party
 ||hulahooprect.com^$third-party
@@ -129,6 +131,8 @@
 ||indeterman.com^$third-party
 ||iystorage.com^$third-party
 ||jacquarter.com^$third-party
+||jquerycdn.co.il^$third-party
+||jquerymin.co.il^$third-party
 ||jscloudnow.com^$third-party
 ||klnrew.site^$third-party
 ||kmrnkjer.xyz^$third-party
@@ -250,6 +254,7 @@
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=mako.co.il
 !
 /^(?!(http|https|ftp|ws|wss|irc):)/$domain=www.mako.co.il
+|blob:$domain=mako.co.il
 ||www.mako.co.il^$websocket,~third-party,domain=www.mako.co.il
 !
 ||adserv.mako.co.il^
