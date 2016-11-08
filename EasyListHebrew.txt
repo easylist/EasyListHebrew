@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FKJ6b0t/PbNtI9JKgtSCAQ
+! Checksum: dNqiAYGHx8LqY7ZdFS0SUA
 ! Title: EasyList Hebrew
-! Last modified: 07 Nov 2016 21:39 UTC
+! Last modified: 08 Nov 2016 10:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -176,6 +176,7 @@
 ||ashleyrnadison.com^$popup,third-party
 ||cglms.com^$popup,third-party
 ||descreti.co.il^$popup,third-party
+||desktoptrack.com^$popup,third-party
 ||etrader.co.il^$popup,third-party
 ||fattal-alazman.co.il/?a_aid$popup,third-party
 ||horserace.co.il^$popup,third-party
@@ -191,6 +192,8 @@
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
 ||mysupermarket.co.il/landingpage$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
+||optmz.online^$popup,third-party
+||pckeeper.software^$popup,third-party
 ||perfectpro.co.il^$popup,third-party
 ||rateonclick.com^$popup,third-party
 ||sex-party.co.il^$popup,third-party
