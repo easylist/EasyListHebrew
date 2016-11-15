@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZD817PFX+TeSd3Qc4jAP9g
+! Checksum: qfdfX6LZXzoJXkSAYhShlw
 ! Title: EasyList Hebrew
-! Last modified: 15 Nov 2016 12:05 UTC
+! Last modified: 15 Nov 2016 12:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -170,7 +170,6 @@
 !
 ! *** Popup sites *** !
 !
-
 ||ajgffcat.com^$popup,third-party
 ||albar.co.il/ads$popup,third-party
 ||ashleymadison.com^$popup,third-party
