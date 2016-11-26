@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TqzxdLnI1uYtyeMTz+TTSw
+! Checksum: /2SVhfejmuON4xyGAck+jg
 ! Title: EasyList Hebrew
-! Last modified: 22 Nov 2016 16:01 UTC
+! Last modified: 26 Nov 2016 17:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -46,6 +46,7 @@
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||activated.digital^$popup,third-party
 ||activetrail.biz^$popup,third-party
+||adland.co.il^$popup,third-party
 ||adson.biz^$popup,third-party
 ||adventuredigital.co.il^$popup,third-party
 ||afaktrio.com^$popup,third-party
@@ -76,6 +77,7 @@
 ||mitbahon.co.il^$popup,third-party
 ||namesakeoscilloscopemarquis.com^$popup,third-party
 ||oceanmedia.co.il^$popup,third-party
+||offers-land.com^$popup,third-party
 ||online-offer.co.il^$popup,third-party
 ||osef.co.il^$popup,third-party
 ||padv.co.il^$popup,third-party
