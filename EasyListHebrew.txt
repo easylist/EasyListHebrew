@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GLeppYqSxv1qJVngHXxTIg
+! Checksum: 5a9hnKvKltWUA3Ky3cqEvg
 ! Title: EasyList Hebrew
-! Last modified: 27 Nov 2016 10:12 UTC
+! Last modified: 27 Nov 2016 10:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -226,8 +226,11 @@
 ||fus.walla.co.il/report/
 ||fus.walla.co.il/script.js?1$domain=tv-guide.walla.co.il
 ||fus.walla.co.il/vast/
+! * GeekTime! * !
+/www.geektime.co.il/wp-content/uploads/[0-9]{0,4}/[0-9A-Z]{3,999}/$image,~third-party
 ||geektime.co.il/wp-content/plugins/$image
 ||geektime.co.il/wp-includes/$image
+!
 ||i.walla.co.il/w9/swf/video_swf/userslider.swf
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||taboola.com^$third-party,domain=walla.co.il
