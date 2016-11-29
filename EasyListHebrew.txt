@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5a9hnKvKltWUA3Ky3cqEvg
+! Checksum: +5pJ6sMrB7P3DFbaBzZOxg
 ! Title: EasyList Hebrew
-! Last modified: 27 Nov 2016 10:26 UTC
+! Last modified: 29 Nov 2016 11:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -228,6 +228,7 @@
 ||fus.walla.co.il/vast/
 ! * GeekTime! * !
 /www.geektime.co.il/wp-content/uploads/[0-9]{0,4}/[0-9A-Z]{3,999}/$image,~third-party
+||geektime.co.il/$xmlhttprequest
 ||geektime.co.il/wp-content/plugins/$image
 ||geektime.co.il/wp-includes/$image
 !
@@ -483,6 +484,7 @@ zegvid.net##*
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
+@@||ads.cxadserving.com^$domain=geektime.co.il
 @@||ads.yad2.co.il/adPic.png$image
 @@||adworks.co.il^$~third-party
 @@||akamai.advsnx.net/CDN$domain=kikar.co.il
@@ -508,6 +510,9 @@ zegvid.net##*
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||forbes.co.il/download/banners/
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
+@@||geeklist.geektime.co.il/requests.php$xmlhttprequest,domain=geektime.co.il
+@@||geektime.co.il$generichide
+@@||geektime.co.il/wp-admin/admin-ajax.php$xmlhttprequest,domain=geektime.co.il
 @@||geektime.co.il/wp-includes/js/thickbox/loadingAnimation.gif
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
@@ -544,6 +549,7 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||reshet.tv/ads.html
+@@||s.integritystat.com^$domain=geektime.co.il
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
