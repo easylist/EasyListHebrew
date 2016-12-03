@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: crOLQcrowSAQl7wXXF5guA
+! Checksum: WhjQT3p+czrT9nwjQXJMdg
 ! Title: EasyList Hebrew
-! Last modified: 03 Dec 2016 18:08 UTC
+! Last modified: 03 Dec 2016 18:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -322,6 +322,8 @@
 ||my.yad2.co.il/Banner/
 ||yad2.co.il/js-new/blockPirsum.js
 ! * Bizportal * !
+||www.bizportal.co.il^$websocket,~third-party,domain=www.bizportal.co.il
+!
 ||banners*.bizportal.co.il^
 ||banners.bizportal.co.il^$popup
 ||bizportal.co.il/Scripts/maavaron.js?v=
