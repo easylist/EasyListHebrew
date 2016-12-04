@@ -332,7 +332,6 @@
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
 ! * Geektime * !
-/www\.geektime\.co\.il\/wp-content\/uploads\/[0-9]{0,4}/[0-9A-Z]{3,999}/$image,~third-party,domain=geektime.co.il
 ||geektime.co.il/wp-content/plugins/$image
 ||geektime.co.il/wp-includes/$image
 ||geektime.co.il^$xmlhttprequest
@@ -787,6 +786,7 @@ gear.co.il##.ad_C2
 gear.co.il##.tab-logos
 geektime.co.il##.banner
 geektime.co.il##.sponsors-list
+geektime.co.il##a[target="_blank"]>img[class]
 globes.co.il###abpp
 globes.co.il###bannerLeft
 globes.co.il##.G_BoxTH
