@@ -1,10 +1,10 @@
 @echo off
 cd %~p0
-python tools\addChecksum.py < EasyListHebrew.txt > IsraelList2.txt
-python tools\validateChecksum.py < IsraelList2.txt
+python tools\addChecksum.py < EasyListHebrew.txt > TempList.txt
+python tools\validateChecksum.py < TempList.txt
 IF ERRORLEVEL 1 GOTO errorHandling
-move /y IsraelList2.txt EasyListHebrew.txt
+move /y TempList.txt EasyListHebrew.txt
 exit
 :errorHandling
-echo Somthing went wrong
+echo Something Went Wrong!
 pause

@@ -30,13 +30,13 @@
 #                                                                           #
 #############################################################################
 
-import sys, re, codecs, hashlib, base64 ,time
+import sys, re, codecs, hashlib, base64 ,datetime
 
 checksumRegexp = re.compile(r'^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n', re.I | re.M)
 dateRegexp= re.compile(r'^\s*!\s*Last modified[\s\-:]+([\w\+\/=]+).*\n', re.I | re.M)
 
 def addChecksum(data):
-  data = re.sub(dateRegexp, '! Last modified: '+time.strftime('%d/%m/%y %H:%M\n'), data)
+  data = re.sub(dateRegexp, '! Last modified: %s'%datetime.datetime.utcnow().strftime('%d %b %Y %H:%M UTC\n'), data)
   checksum = calculateChecksum(data)
   data = re.sub(checksumRegexp, '', data)
   data = re.sub(r'(\r?\n)', r'\1! Checksum: %s\1' % checksum, data, 1)
@@ -59,10 +59,72 @@ def readStream(stream):
     return reader.read()
   except Exception, e:
     raise Exception('Failed reading data, most likely not encoded as UTF-8:\n%s' % e)
+  
+# Coded by EasyList Hebrew Team
+# Licence: https://easylist.to/pages/licence.html
+
+def sort_file(data):
+  lines = data.split('\n') +['\n']
+  res = ''
+  lst = []
+  for line in lines:
+    line = line.strip()
+    if line.startswith('!') or line == '':
+      if lst:
+        lst.sort()
+        res += ''.join(lst)
+        lst = []
+      res += line + '\n'
+    else:
+      isRegex = False
+      isHidingRule = False
+      if line:
+        if line.startswith('/') and len(line) > 1:
+          if line.endswith('/'):
+            isRegex = True
+          elif line.rfind('$') == (line.rfind('/$') + 1) and line.rfind('/') == line.rfind('/$') and len(line) > 2:
+            isRegex = True
+        if '##' in line or '#@#' in line:
+          if not isRegex :
+            isHidingRule = True
+            sep = line.index('#')
+            url = line[:sep], line[sep:]
+            spl = url[0].split(',')
+            if len(spl) > 1:
+              spl = sorted(spl)
+            domain = ','.join(spl)
+            line = domain + url[1]
+        if not isHidingRule :
+          cont = False
+          if '$domain=' in line or ',domain=' in line:
+            first = line.find('$')
+            last = line.rfind('$')
+            if isRegex :
+              if line.rfind('$domain=') == last or line.rfind(',domain=') > last:
+                cont = True
+            elif first == last != -1:
+              if '$domain=' in line:
+                cont = True
+              else:
+                if line.rfind(',domain=') > last:
+                  cont = True
+          if cont:
+            sep = line.rfind('$')
+            url = line[:sep], line[sep + 1:]
+            spl = url[1].split(',')
+            if len(spl) > 1:
+              spl = sorted(spl, key=lambda x: 'domain=' in x)
+            domain = sorted(spl[-1].split('=')[1].split('|'))
+            if len(spl) > 1:
+              line = url[0] + '$' + ','.join(spl[:-1]) +',domain='+ '|'.join(domain)
+            else:
+              line = url[0] + '$' + 'domain=' + '|'.join(domain)
+        lst.append(line + '\n')
+  return res.rstrip()
 
 if __name__ == '__main__':
   if sys.platform == "win32":
     import os, msvcrt
     msvcrt.setmode(sys.stdout.fileno(), os.O_BINARY)
-  data = addChecksum(readStream(sys.stdin))
+  data = addChecksum(sort_file(readStream(sys.stdin)))
   sys.stdout.write(data.encode('utf-8'))
