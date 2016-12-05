@@ -169,6 +169,7 @@
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
 ||zipodita.com^$third-party
+||cloudboost.co.il^$third-party
 !
 ! *** Popup sites *** !
 !
