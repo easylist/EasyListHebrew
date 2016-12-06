@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: t+Wkcolfw4FapNsH49fZiA
+! Checksum: GL1H3qHs+D9ueB3jkqkz2w
 ! Title: EasyList Hebrew
-! Last modified: 06 Dec 2016 21:25 UTC
+! Last modified: 06 Dec 2016 21:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -40,6 +40,7 @@
 ! *** Popup Adservers *** !
 !
 ||campaign.*.co.il^$popup,third-party
+||campaigns.*.co.il^$popup,third-party
 ||dcampaigns.*.co.il^$popup,third-party
 !
 ||213.8.137.51^$popup,third-party
@@ -54,6 +55,7 @@
 ||anetkin.co.il^$popup,third-party
 ||anetkin.org^$popup,third-party
 ||asakimerp.co.il^$popup,third-party
+||azadv.co.il^$popup,third-party
 ||best-offers.co.il^$popup,third-party
 ||blanco-adv.co.il^$popup,third-party
 ||bsdigital.co.il^$popup,third-party
