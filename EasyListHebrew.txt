@@ -331,10 +331,6 @@
 ||banners.bizportal.co.il^$popup
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
-! * Geektime * !
-||geektime.co.il/wp-content/plugins/$image
-||geektime.co.il/wp-includes/$image
-||geektime.co.il^$xmlhttprequest
 !
 ! * FXP * !
 ||fxp.co.il/skinfxp/*.php$script,image
