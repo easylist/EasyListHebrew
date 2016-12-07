@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BgImGT5HOH3SusPCQWAH/w
+! Checksum: r0In5FZzPIkhqOCjjQ4BTQ
 ! Title: EasyList Hebrew
-! Last modified: 06 Dec 2016 21:44 UTC
+! Last modified: 07 Dec 2016 11:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -796,7 +796,10 @@ gear.co.il##.tab-logos
 geektime.co.il##.banner
 geektime.co.il##.sponsors-list
 geektime.co.il##.sponsors-widget
+geektime.co.il##SCRIPT + A[href][target="_blank"]
 geektime.co.il##aside>section>div>a[target="_blank"]>img[class]
+geektime.co.il##section > SCRIPT + A[href][target="_blank"]
+geektime.co.il##section > div > SCRIPT + A[href][target="_blank"]
 geektime.co.il##section>a[target="_blank"]>img[class]
 globes.co.il###abpp
 globes.co.il###bannerLeft
