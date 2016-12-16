@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Q88CUAXFPXNoTgrujB61Pw
+! Checksum: Ln7WKf0O1QvyPpkmtHKFNw
 ! Title: EasyList Hebrew
-! Last modified: 11 Dec 2016 21:29 UTC
+! Last modified: 16 Dec 2016 13:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -181,6 +181,7 @@
 ||albar.co.il/ads$popup,third-party
 ||ashleymadison.com^$popup,third-party
 ||ashleyrnadison.com^$popup,third-party
+||biggiftclub.online^$popup,third-party
 ||bogdot.co.il^$popup,third-party
 ||cellebrate.mobi^$popup,third-party
 ||cglms.com^$popup,third-party
@@ -214,10 +215,14 @@
 ||setup-prize.top^$popup,third-party
 ||sex-party.co.il^$popup,third-party
 ||sirtonim.me^$popup,third-party
+||sportapp.co.il^$popup,third-party
 ||strauss-water-campaign.co.il^$popup,third-party
 ||streamin.to^$popup,third-party
+||tipo.mobi^$popup,third-party
 ||trendsonline.me/?id$popup,third-party
+||triviasms.com^$popup,third-party
 ||truegifstandmore.com^$popup,third-party
+||winitnow.mobi^$popup,third-party
 ||yazizim.com^$popup,third-party
 !
 !-----------------------Site specific ad blocking rules-----------------------!
