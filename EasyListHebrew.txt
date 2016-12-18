@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ln7WKf0O1QvyPpkmtHKFNw
+! Checksum: rmRRZCq5UU3npyH+CsTk1g
 ! Title: EasyList Hebrew
-! Last modified: 16 Dec 2016 13:54 UTC
+! Last modified: 18 Dec 2016 12:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -347,9 +347,11 @@
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
 ! * Geektime * !
-||geektime.co.il/wp-content/plugins/$image
-||geektime.co.il/wp-includes/$image
-||geektime.co.il^$xmlhttprequest
+/www\.geektime\.co\.il\/wp-content\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
+/www\.geektime\.co\.il\/wp-content\/plugins\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
+@@||ads.cxadserving.com^$domain=geektime.co.il
+@@||geektime.co.il$generichidegeektime.co.il
+@@||integritystat.com^$domain=geektime.co.il
 ! * FXP * !
 ||fxp.co.il/skinfxp/*.php$script,image
 ||images.fxp.co.il^$subdocument
