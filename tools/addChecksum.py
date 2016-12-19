@@ -64,12 +64,12 @@ def readStream(stream):
 # Licence: https://easylist.to/pages/licence.html
 
 def sort_file(data):
-  lines = data.split('\n') +['\n']
+  lines = data.split('\n') + ['\n']
   res = ''
   lst = []
   for line in lines:
     line = line.strip()
-    if line.startswith('!') or line == '':
+    if line.startswith('!') or line == '' or line.startswith('# ') or line == '#' or (line.startswith('[') and line.endswith(']')):
       if lst:
         lst.sort()
         res += ''.join(lst)
@@ -79,13 +79,13 @@ def sort_file(data):
       isRegex = False
       isHidingRule = False
       if line:
-        if line.startswith('/') and len(line) > 1:
+        if (line.startswith('/') and len(line) > 1) or (line.startswith('@@/') and len(line) > 3):
           if line.endswith('/'):
             isRegex = True
-          elif line.rfind('$') == (line.rfind('/$') + 1) and line.rfind('/') == line.rfind('/$') and len(line) > 2:
+          elif line.rfind('$') == (line.rfind('/$') + 1) and line.rfind('/') == line.rfind('/$') and line.rfind('/') > line.find('/'):
             isRegex = True
         if '##' in line or '#@#' in line:
-          if not isRegex :
+          if not isRegex:
             isHidingRule = True
             sep = line.index('#')
             url = line[:sep], line[sep:]
@@ -94,14 +94,15 @@ def sort_file(data):
               spl = sorted(spl)
             domain = ','.join(spl)
             line = domain + url[1]
-        if not isHidingRule :
+        if not isHidingRule:
           cont = False
           if '$domain=' in line or ',domain=' in line:
             first = line.find('$')
             last = line.rfind('$')
-            if isRegex :
-              if line.rfind('$domain=') == last or line.rfind(',domain=') > last:
-                cont = True
+            if isRegex:
+              if last == line.rfind('/') + 1:
+                if line.rfind('$domain=') == last or line.rfind(',domain=') > last:
+                  cont = True
             elif first == last != -1:
               if '$domain=' in line:
                 cont = True
