@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4nXoo+nZq8O3up0upvurPw
+! Checksum: H5dlUePMj68S4ntXQ26nkw
 ! Title: EasyList Hebrew
-! Last modified: 19 Dec 2016 13:20 UTC
+! Last modified: 20 Dec 2016 19:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -846,6 +846,7 @@ inn.co.il###divTopAd
 inn.co.il##.InfoIn
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
+israelhayom.co.il##.light-box-wrp
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelweather.co.il###weekFlashes
 isramedia.net###maska232
@@ -974,6 +975,7 @@ nrg.co.il###bottomBanners
 nrg.co.il###left_google_ban
 nrg.co.il###sekindo
 nrg.co.il##.bannerWrapper
+nrg.co.il##.featherlight
 nrg.co.il##.tallBanner
 nrg.co.il##iframe[style="height:250px;width:300px;"]
 omritv.co.il###popup
@@ -1023,6 +1025,7 @@ rest.co.il###divLeftBanner
 rest.co.il##.ad_box_1
 rest.co.il##.ad_box_3
 rest.co.il##.left_box_1
+rotter.net###RoterHePromo
 rotter.net###RoterHePromo
 rotter.net##[style="border: 0px solid red; width: 160px; table-layout: fixed;"]
 rotter.net##br + * > p
