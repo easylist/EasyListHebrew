@@ -351,6 +351,7 @@
 ! * Geektime * !
 /www\.geektime\.co\.il\/wp-content\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
 /www\.geektime\.co\.il\/wp-content\/plugins\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
+/www\.geektime\.co\.il\/wp-content\/uploads\/[0-9]{4,4}\/[0-9][0-9]\/\w{18,32}\./$image,~third-party
 ! * FXP * !
 ||fxp.co.il/skinfxp/*.php$script,image
 ||images.fxp.co.il^$subdocument
@@ -679,6 +680,7 @@ haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##div[class*="addBlocker"]
 haaretz.co.il,themarker.com##div[class*="banner"]
+haaretz.co.il,themarker.com##div[class*="Banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
