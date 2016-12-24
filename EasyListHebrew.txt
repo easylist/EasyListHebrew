@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RaeYv9L/t+yIUzZPyAx5ug
+! Checksum: 27UkivWZClzXPsXdAOM15g
 ! Title: EasyList Hebrew
-! Last modified: 21 Dec 2016 17:09 UTC
+! Last modified: 24 Dec 2016 18:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -62,7 +62,9 @@
 ||bsdygital.co.il^$popup,third-party
 ||cdn.mdigital.co.il^$third-party
 ||clickon.co.il^$popup,third-party
+||cooloffers.co.il^$popup,third-party
 ||expert-offers.com^$popup,third-party
+||feel.nu^$popup,third-party
 ||gim.co.il^$popup,third-party
 ||gin.co.il^$popup,third-party
 ||gitam.co.il^$popup,third-party
@@ -85,8 +87,10 @@
 ||padv.co.il^$popup,third-party
 ||pigment-adv.co.il^$popup,third-party
 ||pisrael.com^$popup,third-party
+||ravpage.co.il^$popup,third-party
 ||rpe.co.il^$popup,third-party
 ||sekindo.com^$popup,third-party
+||tld.walla.co.il^$popup,third-party
 ||treemedia.co.il^$popup,third-party
 ||trustmedia.co.il^$popup,third-party
 ||um-per.com^$popup,third-party
@@ -186,11 +190,14 @@
 ||bogdot.co.il^$popup,third-party
 ||cellebrate.mobi^$popup,third-party
 ||cglms.com^$popup,third-party
+||clmbtrk.com^$popup,third-party
 ||com-1notification.co^$popup,third-party
 ||descreti.co.il^$popup,third-party
 ||desktoptrack.com^$popup,third-party
 ||etrader.co.il^$popup,third-party
+||expresswin.top^$popup,third-party
 ||fattal-alazman.co.il/?a_aid$popup,third-party
+||giftandmore.club^$popup,third-party
 ||hekeroyot.com^$popup,third-party
 ||horserace.co.il^$popup,third-party
 ||hotdate.co.il^$popup,third-party
@@ -199,6 +206,7 @@
 ||ilikethis.info^$popup,third-party
 ||imarkets.co.il^$popup,third-party
 ||imitrk.com^$popup,third-party
+||isrotel.co.il/?iTrack=$popup,third-party
 ||lastpage.pw^$popup,third-party
 ||leshem.info^$popup,third-party
 ||makelove.co.il^$popup,third-party
@@ -351,7 +359,7 @@
 ! * Geektime * !
 /www\.geektime\.co\.il\/wp-content\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
 /www\.geektime\.co\.il\/wp-content\/plugins\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
-/www\.geektime\.co\.il\/wp-content\/uploads\/[0-9]{4,4}\/[0-9][0-9]\/\w{18,32}\./$image,~third-party
+/www\.geektime\.co\.il\/wp-content\/uploads\/[0-9]{4,4}\/[0-9][0-9]\/\w{18,32}\./$image,~third-party,domain=geektime.co.il
 ! * FXP * !
 ||fxp.co.il/skinfxp/*.php$script,image
 ||images.fxp.co.il^$subdocument
@@ -678,9 +686,9 @@ haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][targ
 haaretz.co.il,themarker.com##a[href*="://rmkz.themarker.com/"]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
+haaretz.co.il,themarker.com##div[class*="Banner"]
 haaretz.co.il,themarker.com##div[class*="addBlocker"]
 haaretz.co.il,themarker.com##div[class*="banner"]
-haaretz.co.il,themarker.com##div[class*="Banner"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
