@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mkwO7QZKic0tOF4rAEOYrA
+! Checksum: nK5WLJ6kTotCQDKc4Wz4eQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Dec 2016 18:48 UTC
+! Last modified: 26 Dec 2016 15:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -574,6 +574,7 @@ zegvid.net##*
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=haaretz.co.il|one.co.il|reshet.tv|themarker.com
 @@||pas-rahav.com/creativitys
 @@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
+@@||protv.today$generichide
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
