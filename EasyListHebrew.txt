@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nK5WLJ6kTotCQDKc4Wz4eQ
+! Checksum: VP8PTsQamhaxYnDh24roeg
 ! Title: EasyList Hebrew
-! Last modified: 26 Dec 2016 15:29 UTC
+! Last modified: 26 Dec 2016 16:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -504,6 +504,7 @@ zegvid.net##*
 @@||multidown.me^$generichide
 @@||pitaronfree.blogspot.co.il^$generichide
 @@||pitaronfree.blogspot.com^$generichide
+@@||protv.today^$generichide
 @@||sdarot.tech^$generichide
 @@||sidorim.me^$generichide
 @@||stanga.co^$generichide
@@ -515,11 +516,10 @@ zegvid.net##*
 @@||ads.cxadserving.com^$domain=geektime.co.il
 @@||ads.yad2.co.il/adPic.png$image
 @@||adworks.co.il^$~third-party
-@@||akamai.advsnx.net/CDN/$domain=kikar.co.il
+@@||akamai.advsnx.net/CDN/$domain=kikar.co.il|ynet.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
-@@||akamai.advsnx.net/CDN/sdk/$domain=ynet.co.il
 @@||akamai.advsnx.net/CDN/walla/
 @@||akamai.advsnx.net/CDN/ynet/
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il|ynet.co.il
@@ -559,6 +559,7 @@ zegvid.net##*
 @@||kikar.co.il/js/ads.js
 @@||lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
 @@||lb.advsnx.net/as$domain=mako.co.il
+@@||lb.advsnx.net/as/$xmlhttprequest,domain=ynet.co.il
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il|ynet.co.il
 @@||lips.co.il/ads/$image,~third-party
 @@||lips.co.il/banners/$image,~third-party
@@ -574,7 +575,6 @@ zegvid.net##*
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=haaretz.co.il|one.co.il|reshet.tv|themarker.com
 @@||pas-rahav.com/creativitys
 @@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
-@@||protv.today$generichide
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
