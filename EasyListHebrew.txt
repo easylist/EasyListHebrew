@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VP8PTsQamhaxYnDh24roeg
+! Checksum: 3PjeE/A/mJrxKNFOU8RQAQ
 ! Title: EasyList Hebrew
-! Last modified: 26 Dec 2016 16:10 UTC
+! Last modified: 27 Dec 2016 16:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -64,7 +64,6 @@
 ||clickon.co.il^$popup,third-party
 ||cooloffers.co.il^$popup,third-party
 ||expert-offers.com^$popup,third-party
-||feel.nu^$popup,third-party
 ||gim.co.il^$popup,third-party
 ||gin.co.il^$popup,third-party
 ||gitam.co.il^$popup,third-party
@@ -87,7 +86,6 @@
 ||padv.co.il^$popup,third-party
 ||pigment-adv.co.il^$popup,third-party
 ||pisrael.com^$popup,third-party
-||ravpage.co.il^$popup,third-party
 ||rpe.co.il^$popup,third-party
 ||sekindo.com^$popup,third-party
 ||tld.walla.co.il^$popup,third-party
@@ -271,7 +269,6 @@
 !
 /CdaMarketTextlinks_
 /CdaMarketingLink/*
-/ads.min.js$domain=ynet.co.il
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||article.yedioth.co.il/assets/Banners
 ||cloudfront.net^$domain=ynet.co.il
@@ -558,8 +555,7 @@ zegvid.net##*
 @@||isramedia.net/images/header/header-normal.jpg$image,~third-party
 @@||kikar.co.il/js/ads.js
 @@||lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
-@@||lb.advsnx.net/as$domain=mako.co.il
-@@||lb.advsnx.net/as/$xmlhttprequest,domain=ynet.co.il
+@@||lb.advsnx.net/as$domain=mako.co.il|ynet.co.il
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il|ynet.co.il
 @@||lips.co.il/ads/$image,~third-party
 @@||lips.co.il/banners/$image,~third-party
