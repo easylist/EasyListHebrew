@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FZJkY7lcnY2XGM5kNSAGnQ
+! Checksum: flL+9IcSC3AEDnst69aCxA
 ! Title: EasyList Hebrew
-! Last modified: 30 Dec 2016 11:49 UTC
+! Last modified: 28 Dec 2016 12:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -514,14 +514,13 @@ zegvid.net##*
 @@||ads.cxadserving.com^$domain=geektime.co.il
 @@||ads.yad2.co.il/adPic.png$image
 @@||adworks.co.il^$~third-party
-@@||akamai.advsnx.net/CDN/$domain=kikar.co.il|ynet.co.il
+@@||akamai.advsnx.net/CDN/$domain=kikar.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
 @@||akamai.advsnx.net/CDN/walla/
-@@||akamai.advsnx.net/CDN/ynet/
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il|ynet.co.il
-@@||akamai.advsnx.net^$domain=mako.co.il
+@@||akamai.advsnx.net^$domain=mako.co.il|ynet.co.il
 @@||amazonaws.com/static.madlan.co.il/
 @@||banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||bhol.co.il/Flash/vaad
