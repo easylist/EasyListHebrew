@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4LsPiA0mFchBWJyAuYLV9A
+! Checksum: jbcCHRgtbiHZDVTIdm85BA
 ! Title: EasyList Hebrew
-! Last modified: 30 Dec 2016 13:42 UTC
+! Last modified: 30 Dec 2016 13:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -244,7 +244,7 @@
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
 |blob:$domain=walla.co.il
-||walla.co.il^$websocket,~third-party,domain=domain
+||walla.co.il^$websocket,~third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
