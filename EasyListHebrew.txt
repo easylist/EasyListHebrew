@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jbcCHRgtbiHZDVTIdm85BA
+! Checksum: fTltzxm3KJ/tX1C9PVsWPQ
 ! Title: EasyList Hebrew
-! Last modified: 30 Dec 2016 13:46 UTC
+! Last modified: 31 Dec 2016 17:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -509,7 +509,7 @@ zegvid.net##*
 @@||sidorim.me^$generichide
 @@||stanga.co^$generichide
 @@||themarker.com^$generichide
-@@||weather2day.co.il$generichide
+@@||weather2day.co.il^$generichide
 !
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
@@ -1184,6 +1184,8 @@ yad2.co.il##td[width="200"][valign="top"][style="border-right: 0px solid #ffffff
 yad2.co.il##th[style="background: #505D6A; font-size: 13px; font-family: arial; text-align: left; color: white; font-weight: bold; padding: 0px; margin: 0px; padding-right: 0px; padding-left: 10px; height: 31px; border-bottom: 1px solid white;"][colspan="9"]
 yeshanews.com###sideban
 yesplanet.co.il###snatch
+ynet.co.il###ads\.top
+ynet.co.il###ads\.top\.2
 ynet.co.il##.art_tkb_talkback_advert
 ynet.co.il##[class*="PromoLightbox"]
 yummies.reshet.tv###yms-side-banner
