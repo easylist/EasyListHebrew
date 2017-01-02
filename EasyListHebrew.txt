@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: IIypquPX+1NYZXM8XqWosg
+! Checksum: T1t6Pz3Yh2m5JIVpK2CfZw
 ! Title: EasyList Hebrew
-! Last modified: 02 Jan 2017 11:42 UTC
+! Last modified: 02 Jan 2017 14:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -358,9 +358,9 @@
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
 ! * Geektime * !
-/www\.geektime\.co\.il\/wp-content\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
-/www\.geektime\.co\.il\/wp-content\/plugins\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
-/www\.geektime\.co\.il\/wp-content\/uploads\/[0-9]{4,4}\/[0-9][0-9]\/\w{18,32}\./$image,~third-party,domain=geektime.co.il
+!/www\.geektime\.co\.il\/wp-content\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
+!/www\.geektime\.co\.il\/wp-content\/plugins\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
+!/www\.geektime\.co\.il\/wp-content\/uploads\/[0-9]{4,4}\/[0-9][0-9]\/\w{18,32}\./$image,~third-party,domain=geektime.co.il
 ! * FXP * !
 ||fxp.co.il/skinfxp/*.php$script,image
 ||images.fxp.co.il^$subdocument
@@ -541,9 +541,9 @@ zegvid.net##*
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||forbes.co.il/download/banners/
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
-@@||geeklist.geektime.co.il/requests.php$xmlhttprequest,domain=geektime.co.il
-@@||geektime.co.il/wp-admin/admin-ajax.php$xmlhttprequest,domain=geektime.co.il
-@@||geektime.co.il/wp-includes/js/thickbox/loadingAnimation.gif
+!@@||geeklist.geektime.co.il/requests.php$xmlhttprequest,domain=geektime.co.il
+!@@||geektime.co.il/wp-admin/admin-ajax.php$xmlhttprequest,domain=geektime.co.il
+!@@||geektime.co.il/wp-includes/js/thickbox/loadingAnimation.gif
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
 @@||googlesyndication.com/pagead/osd.js$domain=haaretz.co.il|themarker.com
