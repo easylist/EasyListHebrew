@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: T1t6Pz3Yh2m5JIVpK2CfZw
+! Checksum: BkAACM9fhNwvTGb6L2ka1A
 ! Title: EasyList Hebrew
-! Last modified: 02 Jan 2017 14:02 UTC
+! Last modified: 03 Jan 2017 17:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -357,10 +357,6 @@
 ||banners.bizportal.co.il^$popup
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
-! * Geektime * !
-!/www\.geektime\.co\.il\/wp-content\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
-!/www\.geektime\.co\.il\/wp-content\/plugins\/.+\/.+\/.+/$xmlhttprequest,~third-party,domain=geektime.co.il
-!/www\.geektime\.co\.il\/wp-content\/uploads\/[0-9]{4,4}\/[0-9][0-9]\/\w{18,32}\./$image,~third-party,domain=geektime.co.il
 ! * FXP * !
 ||fxp.co.il/skinfxp/*.php$script,image
 ||images.fxp.co.il^$subdocument
@@ -496,7 +492,6 @@ zegvid.net##*
 @@||b-share.com^$generichide
 @@||bbroarmy.blogspot.co.il^$generichide
 @@||bbroarmy.blogspot.com^$generichide
-@@||geektime.co.il^$generichide
 @@||goalim.club^$generichide
 @@||haaretz.co.il^$generichide
 @@||isramedia.net^$generichide
@@ -515,7 +510,6 @@ zegvid.net##*
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adline.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
-@@||ads.cxadserving.com^$domain=geektime.co.il
 @@||ads.yad2.co.il/adPic.png$image
 @@||adworks.co.il^$~third-party
 @@||akamai.advsnx.net/CDN/$domain=kikar.co.il|ynet.co.il
@@ -541,9 +535,6 @@ zegvid.net##*
 @@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||forbes.co.il/download/banners/
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
-!@@||geeklist.geektime.co.il/requests.php$xmlhttprequest,domain=geektime.co.il
-!@@||geektime.co.il/wp-admin/admin-ajax.php$xmlhttprequest,domain=geektime.co.il
-!@@||geektime.co.il/wp-includes/js/thickbox/loadingAnimation.gif
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
 @@||googlesyndication.com/pagead/osd.js$domain=haaretz.co.il|themarker.com
@@ -580,7 +571,6 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||reshet.tv/ads.html
-@@||s.integritystat.com^$domain=geektime.co.il
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
@@ -817,17 +807,6 @@ gear.co.il##.ad_C2
 gear.co.il##.tab-logos
 geektime.co.il##.banner
 geektime.co.il##.sponsors-list
-geektime.co.il##.sponsors-widget
-geektime.co.il##SCRIPT + A[href][target="_blank"]
-geektime.co.il##a[target="_blank"] > div
-geektime.co.il##aside>section>div>a[target="_blank"]>img[class]
-geektime.co.il##div[class*="clearfix"] > a[target="_blank"] > img
-geektime.co.il##ins + a[target="_blank"] > img
-geektime.co.il##section > SCRIPT + A[href][target="_blank"]
-geektime.co.il##section > div > SCRIPT + A[href][target="_blank"]
-geektime.co.il##section >a[target="_blank"] > img
-geektime.co.il##section>a[target="_blank"]>img[class]
-geektime.co.il##span > a[target="_blank"] > img
 globes.co.il###abpp
 globes.co.il###bannerLeft
 globes.co.il##.G_BoxTH
