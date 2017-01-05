@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Wc9DJgDpA+nXCi2En1YNtw
+! Checksum: J2dcuIpUb1HEg+HYAo3L0Q
 ! Title: EasyList Hebrew
-! Last modified: 04 Jan 2017 21:29 UTC
+! Last modified: 05 Jan 2017 11:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -81,6 +81,7 @@
 ||namesakeoscilloscopemarquis.com^$popup,third-party
 ||oceanmedia.co.il^$popup,third-party
 ||offers-land.com^$popup,third-party
+||ok-server.co.il^$popup,third-party
 ||online-offer.co.il^$popup,third-party
 ||osef.co.il^$popup,third-party
 ||padv.co.il^$popup,third-party
