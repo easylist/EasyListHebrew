@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3B8gTEU2ek5h8DTe6VNPEQ
+! Checksum: FgBsq5AoEJjTHpXyST8KZQ
 ! Title: EasyList Hebrew
-! Last modified: 08 Jan 2017 21:20 UTC
+! Last modified: 08 Jan 2017 21:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -205,7 +205,7 @@
 ||ilikethis.info^$popup,third-party
 ||imarkets.co.il^$popup,third-party
 ||imitrk.com^$popup,third-party
-||isrotel.co.il/?iTrack=$popup,third-party
+||isrotel.co.il^*?iTrack=$popup,third-party
 ||lastpage.pw^$popup,third-party
 ||leshem.info^$popup,third-party
 ||lotocash.co.il^$popup,third-party
