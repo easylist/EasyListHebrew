@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FgBsq5AoEJjTHpXyST8KZQ
+! Checksum: Iu1wIBEtWgt2vEFeaPCt0Q
 ! Title: EasyList Hebrew
-! Last modified: 08 Jan 2017 21:26 UTC
+! Last modified: 09 Jan 2017 21:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -288,7 +288,7 @@
 ||trace.events^$third-party,domain=ynet.co.il
 ||ynetbanneradmin.yit.co.il/assets/$subdocument,domain=ynet.co.il
 ! * mako * !
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|icdn|auto|sport5|globes|smartair|mysupermarket|nirshamim|blms|linicom)\.co\.il|(govmap|ims)\.gov\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|icdn|auto|sport5|globes|forbes|smartair|mysupermarket|nirshamim|blms|linicom)\.co\.il|(govmap|ims)\.gov\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamaihd|ctedgecdn|2mdn|uploaditnow|zencdn|edgesuite|doubleclick|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwpltx|jwpcdn|embedly|streamable|iheart|imgur|ytimg|amazonaws|elasticbeanstalk|cloudflare|disqus|disquscdn|oneall|oneallcdn|vicomi|opinionstage|waze|sniperm|dinovich|shortaudition|syteapi|segmanta|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|h-cdn|scorecardresearch|shopstyle-cdn|serving-sys|bootstrapcdn|tiviclick|ruchlis|hotjar|flx1|mxpnl|adnxs|dynamicyield|sekindo|conduit|fourtips|makojs|themarker)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(promisejs|flowplayer|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|minidom|jquerymin)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=mako.co.il
