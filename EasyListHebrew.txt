@@ -266,7 +266,7 @@
 ! * ynet * !
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|yit|yedioth|yedioth-magazine|ynet|calcalist|pplus|xnet|blazermagazine|frogi|rosh1|winwin|kick|mynet|kikar|mame|one|telesport|ynetshops|ynettours|ynetart|ynetalbums|yschool|yedschool|shoppinglaisha|zikaronet|alljobs|bigdeal|pro|rol|infomed|madlan|emap|e-vrit|hasapakim|hamara|fxglive|smartair|hotelscombined|maor|psakdin|alpha|romshamaim)\.co\.il|(govmap|ims)\.gov\.il|hot\.net\.il|(hayadan|ruachtova)\.org\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamaihd|ctedgecdn|2mdn|edgesuite|doubleclick|advsnx|pagefair|liveadserver|msecnd|freegeoip|total-media)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwpltx|jwpcdn|embedly|streamable|iheart|imgur|ytimg|amazonaws|elasticbeanstalk|cloudflare|disqus|disquscdn|oneall|oneallcdn|vicomi|opinionstage|waze|segmanta|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|loggly|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|scorecardresearch|serving-sys|bootstrapcdn|h-cdn|adnxs|pagefair|dynamicyield|exposebox|visualrevenue|connatix|sekindo|roojoom|babator|sphereup|chartbeat|pusher|relevanti|mimgoal|goodluckblockingthis|ukstatic|corrigon|snapwidget|arcgis|birdsbase|calcalist-cdnwiz|ynet-cdnwiz|ynetnews)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|scribd|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwpltx|jwpcdn|embedly|streamable|iheart|imgur|ytimg|amazonaws|elasticbeanstalk|cloudflare|disqus|disquscdn|oneall|oneallcdn|vicomi|opinionstage|waze|segmanta|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|loggly|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|scorecardresearch|serving-sys|bootstrapcdn|h-cdn|adnxs|pagefair|dynamicyield|exposebox|visualrevenue|connatix|sekindo|roojoom|babator|sphereup|chartbeat|pusher|relevanti|mimgoal|ukstatic|corrigon|snapwidget|arcgis|birdsbase|calcalist-cdnwiz|ynet-cdnwiz|ynetnews)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(promisejs|flowplayer|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
@@ -514,13 +514,12 @@ zegvid.net##*
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.yad2.co.il/adPic.png$image
 @@||adworks.co.il^$~third-party
-@@||akamai.advsnx.net/CDN/$domain=kikar.co.il|ynet.co.il
+@@||akamai.advsnx.net/CDN/$domain=kikar.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
 @@||akamai.advsnx.net/CDN/walla/
-@@||akamai.advsnx.net/CDN/ynet/
-@@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il|ynet.co.il
+@@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il
 @@||akamai.advsnx.net^$domain=mako.co.il
 @@||amazonaws.com/static.madlan.co.il/
 @@||banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
@@ -553,8 +552,8 @@ zegvid.net##*
 @@||isramedia.net/images/header/header-normal.jpg$image,~third-party
 @@||kikar.co.il/js/ads.js
 @@||lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
-@@||lb.advsnx.net/as$domain=mako.co.il|ynet.co.il
-@@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il|ynet.co.il
+@@||lb.advsnx.net/as$domain=mako.co.il
+@@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il
 @@||lips.co.il/ads/$image,~third-party
 @@||lips.co.il/banners/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
