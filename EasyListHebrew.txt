@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: a+kbUfE1yrGEDSSw3XA8Sg
+! Checksum: u3QCk0PlxABQhrRv38ATvw
 ! Title: EasyList Hebrew
-! Last modified: 09 Jan 2017 21:27 UTC
+! Last modified: 15 Jan 2017 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -199,6 +199,7 @@
 ||fattal-alazman.co.il/?a_aid$popup,third-party
 ||giftandmore.club^$popup,third-party
 ||hekeroyot.com^$popup,third-party
+||hook2up6.top^$popup,third-party
 ||horserace.co.il^$popup,third-party
 ||hotdate.co.il^$popup,third-party
 ||iforex.co.il/landing_pages^$popup,third-party
@@ -595,7 +596,7 @@ zegvid.net##*
 @@||xn--8dbanaba6epyi.net/js/ads/popunder.js
 @@||y.net-games.co.il/adimages/
 @@||y.net-games.co.il/js/adblock_detector.js
-@@||ynet.co.il/dc/dcLoadAds$script,domain=ynet.co.il
+@@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
 @@||youtube.com/yva_video?adformat$domain=y.net-games.co.il
 @@||צפייהישירה.net/js/ads/popunder.js
 !
