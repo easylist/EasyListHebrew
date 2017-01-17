@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: l3OpvQ8naegdgIQFQEXYKg
+! Checksum: GvLJZK+cVqWw3ReEOGvnjA
 ! Title: EasyList Hebrew
-! Last modified: 17 Jan 2017 21:33 UTC
+! Last modified: 17 Jan 2017 21:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -367,6 +367,9 @@
 |http://$script,third-party,domain=serethd.net
 ! * TVIL.ME * !
 ||cloudfront.net^$script,domain=tvil.me
+! * Sdarot.TV * !
+||sdarot.*/banner
+||sdarot.*/daniel_dont_touch/flash-clipgrab-mahavar.gif
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -415,8 +418,6 @@
 ||rotter.net/edit/text/
 ||rotter.net/rotterP.html
 ||scity.co.il/scity_728_sdarot.swf
-||sdarot.*/banner
-||sdarot.pm/daniel_dont_touch/flash-clipgrab-mahavar.gif
 ||seret.co.il/images/banners/pagehasut/PageHasut
 ||seretil.me/cdn-cgi/*rocket.js
 ||seretil.me/cdn-cgi/nexp/dok9
@@ -692,13 +693,13 @@ ilimudim.co.il,rest.co.il###ads\.strip\.1
 infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
 ladaat.info,tapuz.co.il###divTopBanner
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
-sdarot.pm,sdarot.tv,sdarot.wf###extra
-sdarot.pm,sdarot.tv,sdarot.wf##.side
-sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://cellebrate.mobi/il/heb"]
-sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://www.savey.net"]
-sdarot.pm,sdarot.tv,sdarot.wf##div[style="overflow: hidden;"]
-sdarot.pm,sdarot.tv,sdarot.wf##div[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
-sdarot.pm,sdarot.tv,sdarot.wf##div[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf###extra
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##.side
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://cellebrate.mobi/il/heb"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://www.savey.net"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##div[style="overflow: hidden;"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##div[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##div[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 !
 ! *** Specific domain *** !
 !
