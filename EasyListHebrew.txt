@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GvLJZK+cVqWw3ReEOGvnjA
+! Checksum: yV1NO6EmI610dcNMEqJctg
 ! Title: EasyList Hebrew
-! Last modified: 17 Jan 2017 21:43 UTC
+! Last modified: 18 Jan 2017 17:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -272,6 +272,7 @@
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !
+|blob:$domain=pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 ||www.ynet.co.il^$websocket,~third-party,domain=www.ynet.co.il
 !
 /CdaMarketTextlinks_
@@ -312,6 +313,9 @@
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Calcalist * !
+|blob:$domain=calcalist.co.il
+||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
+!
 ||psakdin.co.il^$domain=calcalist.co.il
 ||s3.amazonaws.com^$script,domain=calcalist.co.il
 ! * Haaretz, TheMarker, Mouse.co.il * !
