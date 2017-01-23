@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: B4ZN5sm+GQ3EWxcdbPA4Bw
+! Checksum: /wIFbsc8fKZ54PCQvvVWQQ
 ! Title: EasyList Hebrew
-! Last modified: 23 Jan 2017 18:03 UTC
+! Last modified: 23 Jan 2017 22:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -504,6 +504,7 @@ zegvid.net##*
 @@||b-share.com^$generichide
 @@||bbroarmy.blogspot.co.il^$generichide
 @@||bbroarmy.blogspot.com^$generichide
+@@||bigbroil.com^$generichide
 @@||goalim.club^$generichide
 @@||haaretz.co.il^$generichide
 @@||isramedia.net^$generichide
@@ -741,6 +742,8 @@ bhol.co.il##.title14pxblue
 bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
 bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
 bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
+bigbroil.com##.adsbygoogle
+bigbroil.com##.desk_mode.adsgoogle
 bipbip.co.il###LeftBanner
 bipbip.co.il##.HotBannerDiv
 bipbip.co.il##.TopBannerDiv
