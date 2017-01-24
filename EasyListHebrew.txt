@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: o2rnfeIXSFCAPjKc4JATtg
+! Checksum: 2i/Vd69iGXOnGmUny8G07w
 ! Title: EasyList Hebrew
-! Last modified: 24 Jan 2017 11:27 UTC
+! Last modified: 24 Jan 2017 21:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -682,7 +682,9 @@ globes.co.il,nrg.co.il##.sekindo
 haaretz.co.il,themarker.com###top_banners
 haaretz.co.il,themarker.com##.js-dfp-ad
 haaretz.co.il,themarker.com##[data-back="promotional-content"]
+haaretz.co.il,themarker.com##[height="250"][width="970"]
 haaretz.co.il,themarker.com##[id*="div-gpt-ad"]
+haaretz.co.il,themarker.com##[width="300"][height="250"]
 haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##a[href*="://rmkz.themarker.com/"]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
@@ -690,6 +692,9 @@ haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?
 haaretz.co.il,themarker.com##div[class*="Banner"]
 haaretz.co.il,themarker.com##div[class*="addBlocker"]
 haaretz.co.il,themarker.com##div[class*="banner"]
+haaretz.co.il,themarker.com##div[id*='web.']
+haaretz.co.il,themarker.com##iframe[data-origin]
+haaretz.co.il,themarker.com##iframe[width="300"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
