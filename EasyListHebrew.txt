@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aFzisXpx//NAtT9XH4rJ0g
+! Checksum: /Nidug6x4XIpbWOTkUXX/A
 ! Title: EasyList Hebrew
-! Last modified: 25 Jan 2017 12:28 UTC
+! Last modified: 25 Jan 2017 13:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -309,6 +309,11 @@
 ! * Globes * !
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
+! * Geektime * !
+@@||cxadserving.com$domain=geektime.co.il
+@@||geektime.co.il$generichide
+@@||google.com/images/$domain=geektime.co.il
+@@||pr.integritystat.com$domain=geektime.co.il
 ! * Calcalist * !
 ||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
 !
@@ -824,8 +829,6 @@ gear.co.il##.ad_B4
 gear.co.il##.ad_C1
 gear.co.il##.ad_C2
 gear.co.il##.tab-logos
-geektime.co.il##.banner
-geektime.co.il##.sponsors-list
 globes.co.il###abpp
 globes.co.il###bannerLeft
 globes.co.il##.G_BoxTH
