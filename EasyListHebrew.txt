@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZOZKvun8iKlIJuDVr0IsNg
+! Checksum: ONWSnFjAyHACnijBmnHp5w
 ! Title: EasyList Hebrew
-! Last modified: 25 Jan 2017 17:28 UTC
+! Last modified: 25 Jan 2017 18:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -931,6 +931,8 @@ mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
+mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
+mako.co.il##div[class*="teaserSmall"]:nth-child(3)
 mapa.co.il###adSenseOnMap
 mapa.co.il###headerContenetBanner
 mapa.co.il##.bannerPlace
