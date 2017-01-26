@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vSnEHltWEvv3XafFliZ5VQ
+! Checksum: Rb13E2qrQP86bopbifj9pQ
 ! Title: EasyList Hebrew
-! Last modified: 26 Jan 2017 09:46 UTC
+! Last modified: 26 Jan 2017 22:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -297,8 +297,6 @@
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=mako.co.il
 !
 /^(?!(http|https|ftp|ws|wss|irc):)/$domain=www.mako.co.il
-@@||rcs.mako.co.il/js/ads.js
-||mako.co.il/makotv/loginSocialConfig.json
 ||www.mako.co.il^$websocket,~third-party,domain=www.mako.co.il
 !
 ||adserv.mako.co.il^
@@ -306,33 +304,34 @@
 ||api.conduit.com^$domain=mako.co.il
 ||apps.mako.co.il/minicampaigns/
 ||logger.logidea.info^$third-party,domain=mako.co.il
+||mako.co.il/makotv/loginSocialConfig.json
 ||mooma.mako.co.il/HeaderBanner.aspx
 ||sdc.mako.co.il^
 ! * Globes * !
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Geektime * !
-@@||cxadserving.com$domain=geektime.co.il
-@@||geektime.co.il$generichide
+@@||cxadserving.com^$domain=geektime.co.il
 @@||geektime.co.il/wp-content/embed-ad-content
+@@||geektime.co.il^$generichide
 @@||google.com/images/$domain=geektime.co.il
-@@||pr.integritystat.com$domain=geektime.co.il
-||geektime.co.il$popup,~third-party
+@@||pr.integritystat.com^$domain=geektime.co.il
+||geektime.co.il^$popup,~third-party,domain=www.geektime.co.il
 ! * Calcalist * !
 ||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
 !
 ||psakdin.co.il^$domain=calcalist.co.il
 ||s3.amazonaws.com^$script,domain=calcalist.co.il
 ! * Haaretz, TheMarker, Mouse.co.il * !
-/haaretz\.co\.il\/.{2,36}$/$image,subdocument
-/themarker\.com\/.{2,36}$/$image,subdocument
+/haaretz\.co\.il\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
+/themarker\.com\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il/st/media
 ||haaretz.co.il^*/AB/aby.gif
 ||haaretz.co.il^*/Banners/
 ||haaretz.co.il^*/Houdini/
-||rmkz.themarker.com$popup
+||rmkz.themarker.com^$popup,domain=haaretz.co.il|themarker.com
 ||themarker.com/dclk/
 ||themarker.com/st/media
 ||themarker.com/tm/js/resp/header_scripts/internal/util/z_adblockutil.js
@@ -591,6 +590,7 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
+@@||rcs.mako.co.il/js/ads.js$script
 @@||reshet.tv/ads.html
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
