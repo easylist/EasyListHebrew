@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +TOVi4TQyR0cZpa06h4A+A
+! Checksum: vSnEHltWEvv3XafFliZ5VQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Jan 2017 21:24 UTC
+! Last modified: 26 Jan 2017 09:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -314,9 +314,10 @@
 ! * Geektime * !
 @@||cxadserving.com$domain=geektime.co.il
 @@||geektime.co.il$generichide
+@@||geektime.co.il/wp-content/embed-ad-content
 @@||google.com/images/$domain=geektime.co.il
 @@||pr.integritystat.com$domain=geektime.co.il
-@@||securepubads.g.doubleclick.net/gampad/ads$domain=geektime.co.il
+||geektime.co.il$popup,~third-party
 ! * Calcalist * !
 ||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
 !
@@ -832,6 +833,23 @@ gear.co.il##.ad_B4
 gear.co.il##.ad_C1
 gear.co.il##.ad_C2
 gear.co.il##.tab-logos
+geektime.co.il##.sponsors-widget
+geektime.co.il##SCRIPT + A[href][target="_blank"]
+geektime.co.il##[class*="banner"]
+geektime.co.il##a[href^="/"]
+geektime.co.il##a[href^="/"] > img
+geektime.co.il##a[onmousedown*="embed-ad"] > img
+geektime.co.il##a[onmousedown*="paid.outbrain.com"] > img
+geektime.co.il##a[target="_blank"] > div
+geektime.co.il##aside>section>div>a[target="_blank"]>img[class]
+geektime.co.il##div[class*="clearfix"] > a[target="_blank"] > img
+geektime.co.il##div[id="main-content"] > section > section:nth-child(1)
+geektime.co.il##ins + a[target="_blank"] > img
+geektime.co.il##section > SCRIPT + A[href][target="_blank"]
+geektime.co.il##section > div > SCRIPT + A[href][target="_blank"]
+geektime.co.il##section >a[target="_blank"] > img
+geektime.co.il##section>a[target="_blank"]>img[class]
+geektime.co.il##span > a[target="_blank"] > img
 globes.co.il###abpp
 globes.co.il###bannerLeft
 globes.co.il##.G_BoxTH
