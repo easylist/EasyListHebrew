@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sCI7K6BPo+H1L3LR3YWj5g
+! Checksum: c6RAseyBcdObKD8ciZ+ZDw
 ! Title: EasyList Hebrew
-! Last modified: 29 Jan 2017 15:07 UTC
+! Last modified: 29 Jan 2017 17:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -311,12 +311,17 @@
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Geektime * !
+/geektime\.co\.il\/wp-content\/uploads\/[0-9]{4,4}\/[0-9]{2,2}\/(?![a-z])[a-zA-Z0-9\-]{15,20}[0-9]{3}x[0-9]{3,3}\./$image
+@@/securepubads\.g\.doubleclick\.net\/$/
+@@/tpc\.googlesyndication\.com\/simgad\/$/
 @@||cxadserving.com^$domain=geektime.co.il
+@@||geektime.co.il/geektime-2016-annual-report/$popup
 @@||geektime.co.il/wp-content/embed-ad-content
 @@||geektime.co.il^$generichide
 @@||google.com/images/$domain=geektime.co.il
 @@||pr.integritystat.com^$domain=geektime.co.il
 ||geektime.co.il^$popup,~third-party,domain=www.geektime.co.il
+
 ! * Calcalist * !
 |blob:$first-party,important,domain=www.calcalist.co.il
 ||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
