@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FO4wcIZQJ1Fqi8fX/6TAmw
+! Checksum: sCI7K6BPo+H1L3LR3YWj5g
 ! Title: EasyList Hebrew
-! Last modified: 26 Jan 2017 23:17 UTC
+! Last modified: 29 Jan 2017 15:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -318,7 +318,7 @@
 @@||pr.integritystat.com^$domain=geektime.co.il
 ||geektime.co.il^$popup,~third-party,domain=www.geektime.co.il
 ! * Calcalist * !
-|blob:$first-party,domain=www.calcalist.co.il
+|blob:$first-party,important,domain=www.calcalist.co.il
 ||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
 !
 ||psakdin.co.il^$domain=calcalist.co.il
@@ -364,13 +364,13 @@
 ||ban.d-group.co.il/banners/$third-party
 ||madas-ads.securest.org^$third-party
 ! * yad2 * !
-|blob:$domain=www.yad2.co.il
+|blob:$important,domain=www.yad2.co.il
 ||www.yad2.co.il^$websocket,~third-party,domain=www.yad2.co.il
 !
 ||my.yad2.co.il/Banner/
 ||yad2.co.il/js-new/blockPirsum.js
 ! * Bizportal * !
-|blob:$first-party,domain=www.bizportal.co.il
+|blob:$first-party,important,domain=www.bizportal.co.il
 ||www.bizportal.co.il^$websocket,~third-party,domain=www.bizportal.co.il
 !
 ||banners*.bizportal.co.il^
