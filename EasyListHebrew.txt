@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2ZJqMQehhy+AKSc0P2+ufw
+! Checksum: O8iPDnZ1ISeiTH28bCNXjQ
 ! Title: EasyList Hebrew
-! Last modified: 29 Jan 2017 19:22 UTC
+! Last modified: 29 Jan 2017 19:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -540,7 +540,7 @@ zegvid.net##*
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.yad2.co.il/adPic.png$image
 @@||adworks.co.il^$~third-party
-@@||akamai.advsnx.net/CDN/$domain=kikar.co.il
+@@||akamai.advsnx.net/CDN/$domain=hot.ynet.co.il|kikar.co.il|pplus.ynet.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
@@ -579,6 +579,7 @@ zegvid.net##*
 @@||kikar.co.il/js/ads.js
 @@||lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
 @@||lb.advsnx.net/as$domain=mako.co.il
+@@||lb.advsnx.net/as/$xmlhttprequest,domain=hot.ynet.co.il|pplus.ynet.co.il
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il
 @@||lips.co.il/ads/$image,~third-party
 @@||lips.co.il/banners/$image,~third-party
