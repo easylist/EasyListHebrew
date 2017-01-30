@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: euX8U0aImbOI8wskjfg+AQ
+! Checksum: 6FGkMxAlpQjFg25PK4UvMw
 ! Title: EasyList Hebrew
-! Last modified: 30 Jan 2017 17:02 UTC
+! Last modified: 30 Jan 2017 21:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -130,6 +130,7 @@
 ||depresis.com^$third-party
 ||dfskgmrepts.com^$third-party
 ||enstatic.net^$third-party
+||goodluckblockingthis.com^$third-party
 ||hallucius.com^$third-party
 ||havinates.com^$third-party
 ||helpkidsnow.xyz^$third-party
@@ -282,7 +283,6 @@
 ||dynamicyield.com^$script,domain=ynet.co.il
 ||go.ynet.co.il/short/Demos/*/Ads/
 ||go.ynet.co.il/short/content/2013/Career/SideJobs/
-||goodluckblockingthis.com^$domain=calcalist.co.il|ynet.co.il
 ||infomed.co.il/ynet/sidebox.aspx?
 ||psakdin.co.il/ExternalFrames/$domain=ynet.co.il
 ||s3.amazonaws.com^$script,domain=ynet.co.il
@@ -332,6 +332,7 @@
 ! * Haaretz, TheMarker, Mouse.co.il * !
 /haaretz\.co\.il\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
 /themarker\.com\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
+!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il/st/media
@@ -546,9 +547,8 @@ zegvid.net##*
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.yad2.co.il/adPic.png$image
 @@||adworks.co.il^$~third-party
-@@||akamai.advsnx.net/CDN/$domain=hot.ynet.co.il|kikar.co.il|pplus.ynet.co.il
+@@||akamai.advsnx.net/CDN/$domain=calcalist.co.il|hot.ynet.co.il|kikar.co.il|pplus.ynet.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
-@@||akamai.advsnx.net/CDN/calcalist/html5/
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
 @@||akamai.advsnx.net/CDN/walla/
