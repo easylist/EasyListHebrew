@@ -322,6 +322,10 @@
 @@||geektime.co.il^$generichide
 @@||google.com/images/$domain=geektime.co.il
 @@||pr.integritystat.com^$domain=geektime.co.il
+@@||securepubads.g.doubleclick.net^$subdocument,domain=geektime.co.il
+@@||googlesyndication.com/simgad/$subdocument,domain=geektime.co.il
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_108.js$domain=geektime.co.il
+
 ||geektime.co.il^$popup,~third-party,domain=www.geektime.co.il
 ! * Calcalist * !
 |blob:$first-party,important,domain=www.calcalist.co.il
@@ -848,22 +852,7 @@ gear.co.il##.ad_B4
 gear.co.il##.ad_C1
 gear.co.il##.ad_C2
 gear.co.il##.tab-logos
-geektime.co.il##SCRIPT + A[href][target="_blank"]
-geektime.co.il##[class*="banner"]
-geektime.co.il##a[href^="/"]
-geektime.co.il##a[href^="/"] > img
-geektime.co.il##a[onmousedown*="embed-ad"] > img
-geektime.co.il##a[onmousedown*="paid.outbrain.com"] > img
-geektime.co.il##a[target="_blank"] > div
-geektime.co.il##aside>section>div>a[target="_blank"]>img[class]
-geektime.co.il##div[class*="clearfix"] > a[target="_blank"] > img
-geektime.co.il##div[id="main-content"] > section > section:nth-child(1)
-geektime.co.il##ins + a[target="_blank"] > img
-geektime.co.il##section > SCRIPT + A[href][target="_blank"]
-geektime.co.il##section > div > SCRIPT + A[href][target="_blank"]
-geektime.co.il##section >a[target="_blank"] > img
-geektime.co.il##section>a[target="_blank"]>img[class]
-geektime.co.il##span > a[target="_blank"] > img
+geektime.co.il#@#.sponsors-widget
 globes.co.il###abpp
 globes.co.il###bannerLeft
 globes.co.il##.G_BoxTH
