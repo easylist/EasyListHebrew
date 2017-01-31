@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6FGkMxAlpQjFg25PK4UvMw
+! Checksum: 98WEluhtsG68uihCvobbHA
 ! Title: EasyList Hebrew
-! Last modified: 30 Jan 2017 21:32 UTC
+! Last modified: 31 Jan 2017 10:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -321,10 +321,10 @@
 @@||geektime.co.il/wp-content/embed-ad-content
 @@||geektime.co.il^$generichide
 @@||google.com/images/$domain=geektime.co.il
-@@||pr.integritystat.com^$domain=geektime.co.il
-@@||securepubads.g.doubleclick.net^$subdocument,domain=geektime.co.il
 @@||googlesyndication.com/simgad/$subdocument,domain=geektime.co.il
+@@||pr.integritystat.com^$domain=geektime.co.il
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_108.js$domain=geektime.co.il
+@@||securepubads.g.doubleclick.net^$subdocument,domain=geektime.co.il
 
 ||geektime.co.il^$popup,~third-party,domain=www.geektime.co.il
 ! * Calcalist * !
