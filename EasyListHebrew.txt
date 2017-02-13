@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VQvPe/M9hzNe1Iyg2jJACw
+! Checksum: q8HufweCW4nELW0DljHs/A
 ! Title: EasyList Hebrew
-! Last modified: 07 Feb 2017 19:59 UTC
+! Last modified: 13 Feb 2017 14:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -585,7 +585,7 @@ zegvid.net##*
 @@||haaretz.co.il/st/c/work/AB/aby.gif
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
-@@||info.a7.org/info/a7delivery_f.php?func=fLoadOne0$script,domain=inn.co.il
+@@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
 @@||isramedia.net/images/header/header-normal.jpg$image,~third-party
@@ -655,6 +655,8 @@ holmesplace.co.il#@#.image-advertisement
 homeless.co.il#@#.postad
 hwzone.co.il#@##adsense
 ice.co.il#@#.afs_ads
+inn.co.il#@##divTopAd
+inn.co.il#@#.adsbygoogle
 junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
 lavender.co.il#@##topAds
