@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +RgUy2TnTQZmBuLhaC67pg
+! Checksum: UO6hrS2yjYZV4KgdxYXoyw
 ! Title: EasyList Hebrew
-! Last modified: 13 Feb 2017 15:04 UTC
+! Last modified: 19 Feb 2017 10:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -311,23 +311,9 @@
 ||netdna-ssl.com^$third-party,domain=mako.co.il
 ||sdc.mako.co.il^
 ! * Globes * !
+/geektime\.co\.il\/.{1,15}$/$popup,~third-party,domain=www.geektime.co.il
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
-! * Geektime * !
-@@/securepubads\.g\.doubleclick\.net\/$/$domain=geektime.co.il
-@@/tpc\.googlesyndication\.com\/simgad\/$/$domain=geektime.co.il
-@@||cxadserving.com^$domain=geektime.co.il
-@@||geektime.co.il/geektime-2016-annual-report/$popup
-@@||geektime.co.il/wp-content/embed-ad-content
-@@||geektime.co.il^$generichide
-@@||google.com/images/$domain=geektime.co.il
-@@||googlesyndication.com/simgad/$subdocument,domain=geektime.co.il
-@@||pr.integritystat.com^$domain=geektime.co.il
-@@||securepubads.g.doubleclick.net/gampad/ads$script,domain=geektime.co.il
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_108.js$domain=geektime.co.il
-@@||securepubads.g.doubleclick.net^$subdocument,domain=geektime.co.il
-
-/geektime\.co\.il\/.{1,15}$/$popup,~third-party,domain=www.geektime.co.il
 ! * Calcalist * !
 |blob:$first-party,important,domain=www.calcalist.co.il
 ||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
@@ -859,7 +845,13 @@ gear.co.il##.ad_B4
 gear.co.il##.ad_C1
 gear.co.il##.ad_C2
 gear.co.il##.tab-logos
+geektime.co.il##[class*="banner"]
+geektime.co.il##a[href^="/"]
+geektime.co.il##a[href^="/"] > img
+geektime.co.il##a[onmousedown*="embed-ad"] > img
+geektime.co.il##a[onmousedown*="paid.outbrain.com"] > img
 geektime.co.il##body[leftmargin][topmargin][marginwidth][marginheight][style] > div[id="google_image_div"][style] > a[href^="http://googleads.g.doubleclick.net/pcs/click?xai="] > img[src^="https://tpc.googlesyndication.com/simgad/"][border][class="img_ad"]
+geektime.co.il##div[id="main-content"] > section > section:nth-child(1)
 globes.co.il###abpp
 globes.co.il###bannerLeft
 globes.co.il##.G_BoxTH
