@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Pv0aeVCv48SojvxyNq6HSg
+! Checksum: hPvqE6LxOpvmkBwKIAPUfA
 ! Title: EasyList Hebrew
-! Last modified: 19 Feb 2017 23:52 UTC
+! Last modified: 20 Feb 2017 22:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -311,7 +311,6 @@
 ||netdna-ssl.com^$third-party,domain=mako.co.il
 ||sdc.mako.co.il^
 ! * Globes * !
-/geektime\.co\.il\/.{1,15}$/$popup,~third-party,domain=www.geektime.co.il
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Calcalist * !
@@ -642,7 +641,6 @@ blms.co.il#@#.addtitle
 foodsdictionary.co.il#@#.AdSense
 foodsdictionary.co.il#@#.Adsense
 foodsdictionary.co.il#@#.adSense
-geektime.co.il#@#.sponsors-widget
 holmesplace.co.il#@#.image-advertisement
 homeless.co.il#@#.postad
 hwzone.co.il#@##adsense
@@ -848,13 +846,6 @@ gear.co.il##.ad_B4
 gear.co.il##.ad_C1
 gear.co.il##.ad_C2
 gear.co.il##.tab-logos
-geektime.co.il##[class*="banner"]
-geektime.co.il##a[href^="/"]
-geektime.co.il##a[href^="/"] > img
-geektime.co.il##a[onmousedown*="embed-ad"] > img
-geektime.co.il##a[onmousedown*="paid.outbrain.com"] > img
-geektime.co.il##body[leftmargin][topmargin][marginwidth][marginheight][style] > div[id="google_image_div"][style] > a[href^="http://googleads.g.doubleclick.net/pcs/click?xai="] > img[src^="https://tpc.googlesyndication.com/simgad/"][border][class="img_ad"]
-geektime.co.il##div[id="main-content"] > section > section:nth-child(1)
 globes.co.il###abpp
 globes.co.il###bannerLeft
 globes.co.il##.G_BoxTH
