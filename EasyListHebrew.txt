@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hPvqE6LxOpvmkBwKIAPUfA
+! Checksum: fk7a5PnZZAhuttl2/gKdtg
 ! Title: EasyList Hebrew
-! Last modified: 20 Feb 2017 22:55 UTC
+! Last modified: 21 Feb 2017 10:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -357,6 +357,7 @@
 ||a7.org/scripts/Maavaron.js
 ||dwnmedia.a7.org/inntv/media/
 ||info.a7.org^$domain=inn.co.il
+||inn.co.il$subdocument,third-party
 ||inn.co.il/info_en/
 ||inn.co.il/leads/content/upload/
 ||inn.co.il/leads/view/$popup
@@ -883,6 +884,7 @@ inn.co.il###divInfMiddle2
 inn.co.il###divMainLeftInfo
 inn.co.il###divTopAd
 inn.co.il##.InfoIn
+inn.co.il##a[href*="info.a7.org/info/delivery/ck.php"]
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.light-box-wrp
