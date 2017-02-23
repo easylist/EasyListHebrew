@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fIBlwRzIcZh/kyo4C4VHIw
+! Checksum: ECY1IWbtuws8RNHazecmPA
 ! Title: EasyList Hebrew
-! Last modified: 21 Feb 2017 10:15 UTC
+! Last modified: 23 Feb 2017 21:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -233,6 +233,7 @@
 ||strauss-water-campaign.co.il^$popup,third-party
 ||streamin.to^$popup,third-party
 ||tipo.mobi^$popup,third-party
+||tracknotify.com^$popup,third-party
 ||trendsonline.me/?id$popup,third-party
 ||triviasms.com^$popup,third-party
 ||truegifstandmore.com^$popup,third-party
@@ -357,10 +358,10 @@
 ||a7.org/scripts/Maavaron.js
 ||dwnmedia.a7.org/inntv/media/
 ||info.a7.org^$domain=inn.co.il
-||inn.co.il$subdocument,third-party
 ||inn.co.il/info_en/
 ||inn.co.il/leads/content/upload/
 ||inn.co.il/leads/view/$popup
+||inn.co.il^$subdocument,third-party
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
