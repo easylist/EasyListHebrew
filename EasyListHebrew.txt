@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rQNCFBdfxW7npMrt1BMfSw
+! Checksum: Cbu7gnDsQqN4PMs3ZyjbCQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Feb 2017 21:25 UTC
+! Last modified: 26 Feb 2017 14:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -538,6 +538,7 @@ zegvid.net##*
 @@||sdarot.tech^$generichide
 @@||sidorim.me^$generichide
 @@||stanga.co^$generichide
+@@||themarker.com/st/c/prod/tm/2017/donorsMap/
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
