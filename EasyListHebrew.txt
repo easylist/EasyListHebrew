@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: K78BzddiZ/c/qM33FpTqUA
+! Checksum: saq4bdg3tKEdfjNpFbmwKQ
 ! Title: EasyList Hebrew
-! Last modified: 01 Mar 2017 09:26 UTC
+! Last modified: 01 Mar 2017 09:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -233,6 +233,7 @@
 ||strauss-water-campaign.co.il^$popup,third-party
 ||streamin.to^$popup,third-party
 ||tipo.mobi^$popup,third-party
+||tracknotify.com^$popup,third-party
 ||trendsonline.me/?id$popup,third-party
 ||triviasms.com^$popup,third-party
 ||truegifstandmore.com^$popup,third-party
@@ -270,7 +271,7 @@
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|blogspot|icast|yit|yedioth|yedioth-magazine|ynet|calcalist|pplus|xnet|blazermagazine|frogi|rosh1|winwin|kick|mynet|kikar|mame|one|telesport|ynetshops|ynettours|ynetart|ynetalbums|yschool|yedschool|shoppinglaisha|zikaronet|alljobs|bigdeal|pro|rol|infomed|madlan|emap|e-vrit|hasapakim|hamara|fxglive|smartair|hotelscombined|maor|psakdin|alpha|romshamaim)\.co\.il|(govmap|ims)\.gov\.il|hot\.net\.il|(hayadan|ruachtova)\.org\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamaihd|ctedgecdn|2mdn|edgesuite|azureedge|doubleclick|advsnx|pagefair|liveadserver|msecnd|freegeoip|total-media)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|sndcdn|scribd|scribdassets|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwpltx|jwpcdn|embedly|streamable|iheart|imgur|snapwidget|ytimg|amazonaws|elasticbeanstalk|cloudflare|disqus|disquscdn|oneall|oneallcdn|sumome|kxcdn|gravatar|blogspot|wordpress|wp|googleusercontent|googlevideo|vicomi|opinionstage|waze|bynetcdn|segmanta|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|loggly|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|adnxs|pagefair|exposebox|visualrevenue|connatix|sekindo|roojoom|babator|sphereup|chartbeat|pusher|relevanti|mimgoal|ukstatic|jeeng|corrigon|arcgis|birdsbase|calcalist-cdnwiz|ynet-cdnwiz|ynetnews)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(promisejs|flowplayer|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(promisejs|flowplayer|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|ipify)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !
@@ -291,14 +292,14 @@
 ||trace.events^$third-party,domain=ynet.co.il
 ||ynetbanneradmin.yit.co.il/assets/$subdocument,domain=ynet.co.il
 ! * mako * !
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|blogspot|icast|icdn|auto|sport5|globes|forbes|smartair|mysupermarket|nirshamim|blms|linicom)\.co\.il|(govmap|ims)\.gov\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|blogspot|icast|icdn|auto|sport5|globes|forbes|t-5|easy|smartair|mysupermarket|nirshamim|blms|linicom)\.co\.il|(govmap|ims)\.gov\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamaihd|ctedgecdn|2mdn|uploaditnow|zencdn|edgesuite|doubleclick|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|sndcdn|scribd|scribdassets|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwpltx|jwpcdn|embedly|streamable|iheart|imgur|snapwidget|ytimg|amazonaws|elasticbeanstalk|cloudflare|disqus|disquscdn|oneall|oneallcdn|sumome|kxcdn|gravatar|blogspot|wordpress|wp|googleusercontent|googlevideo|vicomi|opinionstage|waze|bynetcdn|sniperm|dinovich|shortaudition|syteapi|shopstyle-cdn|segmanta|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|netdna-ssl|ruchlis|hotjar|flx1|mxpnl|adnxs|sekindo|conduit|fourtips|makojs|themarker)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(promisejs|flowplayer|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|minidom|jquerymin)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|vid\.me|mako\.tools|logidea\.info|zoomanalytics\.co|firstimpression\.io|activetrail\.biz))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=mako.co.il
-/^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=mako.co.il
+/^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=mako.co.il
 !
-/^(?!(http|https|ftp|ws|wss|irc):)/$domain=www.mako.co.il
+|blob:$domain=www.mako.co.il
 ||www.mako.co.il^$websocket,~third-party,domain=www.mako.co.il
 !
 ||adserv.mako.co.il^
@@ -357,10 +358,10 @@
 ||a7.org/scripts/Maavaron.js
 ||dwnmedia.a7.org/inntv/media/
 ||info.a7.org^$domain=inn.co.il
-||inn.co.il$subdocument,third-party
 ||inn.co.il/info_en/
 ||inn.co.il/leads/content/upload/
 ||inn.co.il/leads/view/$popup
+||inn.co.il^$subdocument,third-party
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
@@ -525,7 +526,6 @@ zegvid.net##*
 @@||bbroarmy.blogspot.co.il^$generichide
 @@||bbroarmy.blogspot.com^$generichide
 @@||bigbroil.com^$generichide
-@@||goalim.club^$generichide
 @@||haaretz.co.il^$generichide
 @@||isramedia.net^$generichide
 @@||kml.co.il^$generichide
@@ -534,9 +534,7 @@ zegvid.net##*
 @@||pitaronfree.blogspot.co.il^$generichide
 @@||pitaronfree.blogspot.com^$generichide
 @@||protv.today^$generichide
-@@||sdarot.tech^$generichide
 @@||sidorim.me^$generichide
-@@||stanga.co^$generichide
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
@@ -558,8 +556,7 @@ zegvid.net##*
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
-@@||blogblog.com^$image,domain=goalim.club
-@@||blogspot.com^$image,domain=goalim.club|protv.today|sdarot.tech
+@@||blogspot.com^$image,domain=protv.today
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||ch10.cloudvideoplatform.com/advert.jpg$domain=nana10.co.il
 @@||clalit.co.il/AdImages
@@ -594,7 +591,6 @@ zegvid.net##*
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il|sidorim.me
-@@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=goalim.club
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com|repo.thewiz.info
 @@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=haaretz.co.il|one.co.il|reshet.tv|themarker.com
