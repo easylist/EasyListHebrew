@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fIBlwRzIcZh/kyo4C4VHIw
+! Checksum: K78BzddiZ/c/qM33FpTqUA
 ! Title: EasyList Hebrew
-! Last modified: 21 Feb 2017 10:15 UTC
+! Last modified: 01 Mar 2017 09:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -384,10 +384,10 @@
 ||images.fxp.co.il^$subdocument
 ||widget.walla.co.il/wallaplayer$subdocument,third-party,domain=fxp.co.il
 ! * Rotter.net * !
-||booking.com/flexiproduct.html$subdocument,third-party,domain=rotter.name|rotter.net
+||rotter.name^$subdocument
 ||rotter.net/banners/
 ||rotter.net/edit/text/
-||rotter.net/rotterP.html
+||rotter.net^$subdocument
 ! * SeretHD * !
 |http://$script,third-party,domain=serethd.net
 ! * SERETIL.ME * !
@@ -851,6 +851,7 @@ gear.co.il##.tab-logos
 globes.co.il###abpp
 globes.co.il###bannerLeft
 globes.co.il##.G_BoxTH
+globes.co.il##a[href*="theadblockerproject.org"]
 globes.co.il##div[class^="popup1"]
 haaretz.co.il###ad-block-wrapper
 haipo.co.il##div[onclick*="countAdClick"]
@@ -887,10 +888,12 @@ inn.co.il###divMainLeftInfo
 inn.co.il###divTopAd
 inn.co.il##.InfoIn
 inn.co.il##a[href*="info.a7.org/info/delivery/ck.php"]
+inn.co.il##a[href*="theadblockerproject.org"]
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.light-box-wrp
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
+israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
 isramedia.net###maska232
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
@@ -1022,6 +1025,7 @@ nrg.co.il###sekindo
 nrg.co.il##.bannerWrapper
 nrg.co.il##.featherlight
 nrg.co.il##.tallBanner
+nrg.co.il##a[href*="theadblockerproject.org"]
 nrg.co.il##iframe[style="height:250px;width:300px;"]
 omritv.co.il###popup
 omritv.co.il##.post-content > div[style="width:300px; height:600px; margin:0 auto;"]
@@ -1071,9 +1075,11 @@ rest.co.il##.ad_box_1
 rest.co.il##.ad_box_3
 rest.co.il##.left_box_1
 rotter.name##.bookingaff
+rotter.name##a[href*="theadblockerproject.org"]
 rotter.net###RoterHePromo
 rotter.net##.bookingaff
 rotter.net##[style="border: 0px solid red; width: 160px; table-layout: fixed;"]
+rotter.net##a[href*="theadblockerproject.org"]
 rotter.net##br + * > p
 rotter.net##td[style="border:0px solid red; width:160px; table-layout:fixed;"]
 rotter.net##td[style="width:120px;border:0px solid red;"]
