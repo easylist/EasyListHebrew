@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: v6m0IfgkoPEsSB3NDiJnYQ
+! Checksum: JtEf98Ey87KLYBFzUpXe2A
 ! Title: EasyList Hebrew
-! Last modified: 01 Mar 2017 09:42 UTC
+! Last modified: 01 Mar 2017 13:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -273,7 +273,7 @@
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|sndcdn|scribd|scribdassets|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwpltx|jwpcdn|embedly|streamable|iheart|imgur|snapwidget|ytimg|amazonaws|elasticbeanstalk|cloudflare|disqus|disquscdn|oneall|oneallcdn|sumome|kxcdn|gravatar|blogspot|wordpress|wp|googleusercontent|googlevideo|vicomi|opinionstage|waze|bynetcdn|segmanta|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|loggly|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|adnxs|pagefair|exposebox|visualrevenue|connatix|sekindo|roojoom|babator|sphereup|chartbeat|pusher|relevanti|mimgoal|ukstatic|jeeng|corrigon|arcgis|birdsbase|calcalist-cdnwiz|ynet-cdnwiz|ynetnews)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(promisejs|flowplayer|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|ipify)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,object,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !
 ||www.ynet.co.il^$websocket,~third-party,domain=www.ynet.co.il
 !
@@ -616,6 +616,7 @@ zegvid.net##*
 @@||themarker.com/dclk/dfp/dfp_htz.js
 @@||themarker.com/dclk/dfp/dfp_init_base.js
 @@||themarker.com/dclk/dfp/test/show_all_ads.js
+@@||themarker.com/st/c/prod/tm/2017/donorsMap/
 @@||tornado-top.co.il/template/images/
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
 @@||tpc.googlesyndication.com/simgad/$xmlhttprequest,domain=haaretz.co.il|themarker.com
@@ -965,15 +966,6 @@ mishlohim.co.il###TopMenu1_bannerDiv
 mishlohim.co.il##.Banners
 moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
-mouse.co.il###articleAdvert
-mouse.co.il###commercial_box
-mouse.co.il###div-gpt-ad2-top-banner728x90
-mouse.co.il###div-gpt-extra_670x189_madors
-mouse.co.il###floatingbannerdiv
-mouse.co.il##.ads
-mouse.co.il##.hp_banners.speiser
-mouse.co.il##.noprint + .inline-box-text_new.noprint
-mouse.co.il##div.inline-box-text
 mynet.co.il##div[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
 nadlan.com##.middlebannerFlash
 nadlan.com##.wrapBoxSmall
