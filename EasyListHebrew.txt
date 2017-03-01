@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: saq4bdg3tKEdfjNpFbmwKQ
+! Checksum: v6m0IfgkoPEsSB3NDiJnYQ
 ! Title: EasyList Hebrew
-! Last modified: 01 Mar 2017 09:31 UTC
+! Last modified: 01 Mar 2017 09:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1077,6 +1077,7 @@ rotter.net##.bookingaff
 rotter.net##[style="border: 0px solid red; width: 160px; table-layout: fixed;"]
 rotter.net##a[href*="theadblockerproject.org"]
 rotter.net##br + * > p
+rotter.net##div[id*="Promo"]
 rotter.net##td[style="border:0px solid red; width:160px; table-layout:fixed;"]
 rotter.net##td[style="width:120px;border:0px solid red;"]
 s-maof.com###backgroundPopup
