@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ni01UcpGkas6Dx21P3ykkw
+! Checksum: j+94KkDWT/Ep0BQTV6u2yA
 ! Title: EasyList Hebrew
-! Last modified: 02 Mar 2017 01:24 UTC
+! Last modified: 02 Mar 2017 01:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1164,6 +1164,7 @@ themarker.com##.footer-ruler
 totalchat.co.il###PublichVoiceChat
 upf.co.il##.bgbanner
 walla.co.il##.ads-spaces-shdera-hp
+walla.co.il##.commercial-items.mixed-sequence.sequence
 walla.co.il##.slot-top-margin + .static-spaces-rectangle-buzzer.no-tablet.no-mobile
 walla.co.il##.taboola-widget
 walla.co.il##.top_banner_outer.relative
