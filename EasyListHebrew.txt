@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JtEf98Ey87KLYBFzUpXe2A
+! Checksum: Ni01UcpGkas6Dx21P3ykkw
 ! Title: EasyList Hebrew
-! Last modified: 01 Mar 2017 13:04 UTC
+! Last modified: 02 Mar 2017 01:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -195,11 +195,13 @@
 ||com-1notification.co^$popup,third-party
 ||descreti.co.il^$popup,third-party
 ||desktoptrack.com^$popup,third-party
+||easygirls.info^$popup,third-party
 ||etrader.co.il^$popup,third-party
 ||expresswin.top^$popup,third-party
 ||facebookdating.link^$popup,third-party
 ||fattal-alazman.co.il/?a_aid$popup,third-party
 ||giftandmore.club^$popup,third-party
+||hamashtap.co.il^$popup,third-party
 ||hekeroyot.com^$popup,third-party
 ||hook2up6.top^$popup,third-party
 ||horserace.co.il^$popup,third-party
@@ -216,6 +218,7 @@
 ||makelove.co.il^$popup,third-party
 ||medical-rights.co.il^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
+||mobilesecureid.com^$popup,third-party
 ||mysupermarket.co.il/landingpage$popup,third-party
 ||ohmydating.com^$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
