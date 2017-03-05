@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EOMVhe5t03NSfKSE0P4Skw
+! Checksum: WS+jtmlHs6ToKqJDfce/4g
 ! Title: EasyList Hebrew
-! Last modified: 05 Mar 2017 11:59 UTC
+! Last modified: 05 Mar 2017 12:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -165,6 +165,7 @@
 ||rkgnmwre.site^$third-party
 ||shakesider.com^$third-party
 ||sharedcdn.site^$third-party
+||sporty.gdn^$third-party
 ||sprawley.com^$third-party
 ||srvjar.com^$third-party
 ||storagecdncloud.co^$third-party
