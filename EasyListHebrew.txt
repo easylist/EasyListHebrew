@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hTfIwTXv8UkrorOh4aHRyg
+! Checksum: Aqh56vlFR+NhweN3zUMr0g
 ! Title: EasyList Hebrew
-! Last modified: 07 Mar 2017 12:25 UTC
+! Last modified: 07 Mar 2017 16:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -165,7 +165,7 @@
 ||rkgnmwre.site^$third-party
 ||shakesider.com^$third-party
 ||sharedcdn.site^$third-party
-||sporty.gdn$third-party
+||sporty.gdn^$third-party
 ||sprawley.com^$third-party
 ||srvjar.com^$third-party
 ||storagecdncloud.co^$third-party
@@ -329,11 +329,6 @@
 /haaretz\.co\.il\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
 /themarker\.com\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
 !
-! * Sport 5 * !
-@@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&iu=2&sz=1x1$domain=sport5.co.il
-|blob:$domain=sport5.co.il
-||sport5.co.il^$websocket,~third-party,domain=sport5.co.il
-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il/st/media
@@ -354,6 +349,9 @@
 ! * nana10 * !
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
+! * SPORT5 * !
+|blob:$domain=sport5.co.il
+||sport5.co.il^$websocket,~third-party,domain=sport5.co.il
 ! * Tapuz, Flix * !
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
 ||tapuz.co.il/Forums2008/DependencyHandler.axd/*/*/js$script
@@ -395,8 +393,6 @@
 ||images.fxp.co.il^$subdocument
 ||widget.walla.co.il/wallaplayer$subdocument,third-party,domain=fxp.co.il
 ! * Rotter.net * !
-@@||rotter.name/rotter_name_headlines.php$subdocument,domain=rotter.name|rotter.net
-@@||rotter.net/rotter_lastf_news.php$subdocument,domain=rotter.name|rotter.net
 ||rotter.name^$subdocument
 ||rotter.net/banners/
 ||rotter.net/edit/text/
@@ -613,8 +609,11 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||rcs.mako.co.il/js/ads.js$script
 @@||reshet.tv/ads.html
+@@||rotter.name/rotter_name_headlines.php$subdocument,domain=rotter.name|rotter.net
+@@||rotter.net/rotter_lastf_news.php$subdocument,domain=rotter.name|rotter.net
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
+@@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&iu=2&sz=1x1$domain=sport5.co.il
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
 @@||sexadir.co.il/ads/$image,~third-party
 @@||sexadir.co.il/banners/$image,~third-party
