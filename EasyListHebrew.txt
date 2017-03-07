@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3PR+TWKribzyIUjM0+ZRcA
+! Checksum: VrBaPuZcZcmmsiMczK8fDg
 ! Title: EasyList Hebrew
-! Last modified: 07 Mar 2017 18:51 UTC
+! Last modified: 07 Mar 2017 19:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -165,7 +165,7 @@
 ||rkgnmwre.site^$third-party
 ||shakesider.com^$third-party
 ||sharedcdn.site^$third-party
-||sporty.gdn$third-party
+||sporty.gdn^$third-party
 ||sprawley.com^$third-party
 ||srvjar.com^$third-party
 ||storagecdncloud.co^$third-party
@@ -235,7 +235,6 @@
 ||sex-party.co.il^$popup,third-party
 ||sirtonim.me^$popup,third-party
 ||sportapp.co.il^$popup,third-party
-||sporty.gdn^$popup,third-party
 ||strauss-water-campaign.co.il^$popup,third-party
 ||streamin.to^$popup,third-party
 ||tipo.mobi^$popup,third-party
@@ -256,7 +255,6 @@
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|atom-data\.io|sentry\.io|github\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
-|blob:$first-party,important,domain=walla.co.il
 ||walla.co.il^$websocket,~third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
 ||a.walla.co.il^
@@ -330,12 +328,6 @@
 /haaretz\.co\.il\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
 /themarker\.com\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
 !
-! * Sport 5 * !
-/^(?!(http|https|ftp|ws|wss|irc):)/$domain=sport5.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(twimg|twitter|facebook|google|google-analytics|googleapis|gstatic|scorecardresearch|peer5|jquery|youtube|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=sport5.co.il
-|blob:$domain=sport5.co.il
-||sport5.co.il^$websocket,~third-party,domain=sport5.co.il
-!
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il/st/media
@@ -356,6 +348,12 @@
 ! * nana10 * !
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
+! * SPORT5 * !
+|blob:$domain=sport5.co.il
+||sport5.co.il^$websocket,~third-party,domain=sport5.co.il
+!
+||sport5.co.il/banners2/
+||sporty.gdn^$popup,third-party,domain=sport5.co.il
 ! * Tapuz, Flix * !
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
 ||tapuz.co.il/Forums2008/DependencyHandler.axd/*/*/js$script
@@ -397,8 +395,6 @@
 ||images.fxp.co.il^$subdocument
 ||widget.walla.co.il/wallaplayer$subdocument,third-party,domain=fxp.co.il
 ! * Rotter.net * !
-@@||rotter.name/rotter_name_headlines.php$subdocument,domain=rotter.name|rotter.net
-@@||rotter.net/rotter_lastf_news.php$subdocument,domain=rotter.name|rotter.net
 ||rotter.name^$subdocument
 ||rotter.net/banners/
 ||rotter.net/edit/text/
@@ -459,7 +455,6 @@
 ||scity.co.il/scity_728_sdarot.swf
 ||seret.co.il/images/banners/pagehasut/PageHasut
 ||shoofoo.co.il/banners
-||sport5.co.il/banners2/
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
 ||takana.co.il^$image,third-party
 ||wcdn.co.il/banners/
@@ -615,6 +610,8 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||rcs.mako.co.il/js/ads.js$script
 @@||reshet.tv/ads.html
+@@||rotter.name/rotter_name_headlines.php$subdocument,domain=rotter.name|rotter.net
+@@||rotter.net/rotter_lastf_news.php$subdocument,domain=rotter.name|rotter.net
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
