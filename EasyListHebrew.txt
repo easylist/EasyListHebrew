@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wEl2sr4zFk1iQEa05yP6yw
+! Checksum: fXUkI40m3MIA12dmtrheqw
 ! Title: EasyList Hebrew
-! Last modified: 08 Mar 2017 20:23 UTC
+! Last modified: 08 Mar 2017 23:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -204,6 +204,7 @@
 ||fattal-alazman.co.il/?a_aid$popup,third-party
 ||giftandmore.club^$popup,third-party
 ||hamashtap.co.il^$popup,third-party
+||healthreports.co.il^$popup,third-party
 ||hekeroyot.com^$popup,third-party
 ||hook2up6.top^$popup,third-party
 ||horserace.co.il^$popup,third-party
