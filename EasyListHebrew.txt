@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: x5tUv0iIhHs/C7bkTHE6hw
+! Checksum: A8xXhYNMUhbIjnTPH/tW8g
 ! Title: EasyList Hebrew
-! Last modified: 08 Mar 2017 09:47 UTC
+! Last modified: 08 Mar 2017 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -349,6 +349,12 @@
 ||nana10.co.il/SiteServicePromotion/
 ! * SPORT5 * !
 /^(?!(http|https|ftp|ws|wss|irc):)/$domain=sport5.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|blogspot|icast|icdn|auto|sport5|globes|blms|linicom)\.co\.il|(govmap|ims)\.gov\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=spor5.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamaihd|ctedgecdn|2mdn|uploaditnow|zencdn|edgesuite|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=sport5.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(promisejs|flowplayer|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|minidom|jquerymin)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=sport5.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(twimg|twitter|facebook|google|googleapis|gstatic|scorecardresearch|imrworldwide|peer5|jquery|youtube|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|virtualspirits|en25|amazonaws)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=sport5.co.il
+/^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|logidea\.info|zoomanalytics\.co|firstimpression\.io|activetrail\.biz))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=sport5.co.il
+/^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=sport5.co.il
 |blob:$domain=sport5.co.il
 ||sport5.co.il^$websocket,~third-party,domain=sport5.co.il
 !
@@ -1120,6 +1126,7 @@ sport5.co.il##.iphone
 sport5.co.il##.post.post-alt
 sport5.co.il##.skin-header
 sport5.co.il##[id^="avid-"]
+sport5.co.il##a[href*="www.5555.co.il/?utm"]
 srugim.co.il###front_rcol_ad
 srugim.co.il###maavaron
 srugim.co.il##.margin_10
