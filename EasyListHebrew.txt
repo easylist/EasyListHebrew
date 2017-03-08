@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: A8xXhYNMUhbIjnTPH/tW8g
+! Checksum: N6JRmJ0LqujQu7Q+tZNhZw
 ! Title: EasyList Hebrew
-! Last modified: 08 Mar 2017 10:10 UTC
+! Last modified: 08 Mar 2017 11:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -585,6 +585,7 @@ zegvid.net##*
 @@||gplanet.co.il/js/adx.js
 @@||haaretz.co.il/dclk/dfp/test/show_all_ads.js
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
+@@||haaretz.co.il/htz/images/logos/htz-logo.v2.svg
 @@||haaretz.co.il/htz/js/resp/minified/header-scripts-int.js
 @@||haaretz.co.il/st/c/work/AB/aby.gif
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
