@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4pNMxyA2rpuSU6shCIyZUw
+! Checksum: 4+O1eh/QtTTiJkzZz+t6dg
 ! Title: EasyList Hebrew
-! Last modified: 09 Mar 2017 12:27 UTC
+! Last modified: 09 Mar 2017 12:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -358,7 +358,6 @@
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|logidea\.info|zoomanalytics\.co|firstimpression\.io|activetrail\.biz))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=sport5.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=sport5.co.il
 !
-|blob:$domain=sport5.co.il
 ||sport5.co.il^$websocket,~third-party,domain=sport5.co.il
 !
 ||sport5.co.il/banners2/
