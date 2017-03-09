@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fXUkI40m3MIA12dmtrheqw
+! Checksum: jDgIZPSQEgAgP1tUvl1JAQ
 ! Title: EasyList Hebrew
-! Last modified: 08 Mar 2017 23:43 UTC
+! Last modified: 09 Mar 2017 12:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -380,7 +380,6 @@
 ||inn.co.il/info_en/
 ||inn.co.il/leads/content/upload/
 ||inn.co.il/leads/view/$popup
-||inn.co.il^$subdocument,third-party
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
@@ -404,10 +403,10 @@
 ||images.fxp.co.il^$subdocument
 ||widget.walla.co.il/wallaplayer$subdocument,third-party,domain=fxp.co.il
 ! * Rotter.net * !
-||rotter.name^$subdocument
+||rotter.name/*.html*$subdocument
+||rotter.net/*.html*$subdocument
 ||rotter.net/banners/
 ||rotter.net/edit/text/
-||rotter.net^$subdocument
 ! * SeretHD * !
 |http://$script,third-party,domain=serethd.net
 ! * SERETIL.ME * !
@@ -1130,7 +1129,6 @@ sport5.co.il##.inner_adv
 sport5.co.il##.iphone
 sport5.co.il##.post.post-alt
 sport5.co.il##.skin-header
-sport5.co.il##[id^="avid-"]
 sport5.co.il##a[href*="www.5555.co.il/?utm"]
 srugim.co.il###front_rcol_ad
 srugim.co.il###maavaron
