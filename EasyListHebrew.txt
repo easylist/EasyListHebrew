@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jDgIZPSQEgAgP1tUvl1JAQ
+! Checksum: 4pNMxyA2rpuSU6shCIyZUw
 ! Title: EasyList Hebrew
-! Last modified: 09 Mar 2017 12:13 UTC
+! Last modified: 09 Mar 2017 12:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -350,7 +350,7 @@
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
 ! * SPORT5 * !
-/^(?!(http|https|ftp|ws|wss|irc):)/$domain=sport5.co.il
+/^(?!(http|https|ftp|ws|wss|irc|blob):)/$domain=sport5.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|blogspot|icast|icdn|auto|sport5|globes|linicom)\.co\.il|(govmap|ims)\.gov\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=sport5.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamaihd|ctedgecdn|2mdn|uploaditnow|zencdn|edgesuite|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=sport5.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(promisejs|flowplayer|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|minidom|jquerymin)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=sport5.co.il
