@@ -1,7 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1uO4uhEiCYjwCmTQnNQ/QQ
+! Checksum: vvRQY+ByncK86CwvbktlRQ
 ! Title: EasyList Hebrew
-! Last modified: 12 Mar 2017 18:42 UTC
+! Last modified: 12 Mar 2017 19:02 UTC
+! Title: EasyList Hebrew
+! Last modified: 12 Mar 2017 19:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -259,6 +261,9 @@
 ||walla.co.il^$important,websocket,first-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 ||walla.co.il^$websocket,~third-party,domain=animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
+||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=walla.co.il
+||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=walla.co.il
+!
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
@@ -307,8 +312,12 @@
 !
 |blob:$domain=www.mako.co.il
 |blob:$important,domain=www.mako.co.il
+!
 ||www.mako.co.il^$important,websocket,first-party,domain=www.mako.co.il
 ||www.mako.co.il^$websocket,~third-party,domain=www.mako.co.il
+!
+||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=mako.co.il
+||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=mako.co.il
 !
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
@@ -325,6 +334,9 @@
 ! * Calcalist * !
 ||www.calcalist.co.il^$important,websocket,first-party,domain=www.calcalist.co.il
 ||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
+!
+||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=calcalist.co.il
+||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=calcalist.co.il
 !
 ||psakdin.co.il^$domain=calcalist.co.il
 ||s3.amazonaws.com^$script,domain=calcalist.co.il
@@ -391,6 +403,9 @@
 |blob:$important,domain=www.yad2.co.il
 ||www.yad2.co.il^$important,websocket,first-party,domain=www.yad2.co.il
 ||www.yad2.co.il^$websocket,~third-party,domain=www.yad2.co.il
+!
+||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=yad2.co.il
+||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=yad2.co.il
 !
 ||my.yad2.co.il/Banner/
 ||yad2.co.il/js-new/blockPirsum.js
