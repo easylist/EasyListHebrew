@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hyrpkyn0y+MbR2nWgTTdVQ
+! Checksum: 1FhECiEymycwhRunsK1ZdQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Mar 2017 18:40 UTC
+! Last modified: 27 Mar 2017 19:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -263,6 +263,7 @@
 !
 ||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=walla.co.il
 ||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=walla.co.il
+||walla.co.il/dist/scripts/ads/global-targeting.js$script,redirect=silent-noeval.js,domain=walla.co.il
 !
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
