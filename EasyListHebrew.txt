@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4+tIJe8uAawhcxg88AzAFw
+! Checksum: Jb8XZ9W1HwXmuxBTtuBHJA
 ! Title: EasyList Hebrew
-! Last modified: 27 Mar 2017 20:18 UTC
+! Last modified: 29 Mar 2017 10:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1235,7 +1235,6 @@ yad2.co.il##.banner_strip
 yad2.co.il##.hotpic_ad_block.pie
 yad2.co.il##.plasma_banner.pie
 yad2.co.il##.search_banners
-yad2.co.il##.yad1_mergetitle
 yad2.co.il##[id$="bottom_banner"]
 yad2.co.il##div[style="   border-bottom: 1px #d4d4d4 solid; background-color: #fff;border-right: 1px #d4d4d4 solid;border-left: 1px #d4d4d4 solid;width: 179px;height:130px;margin: auto;"]
 yad2.co.il##div[style=" height: 90px; background-color: #DDDDDD; border-radius:6px; width:978px; padding-top:8px; padding-bottom:8px; margin-left: auto; margin-right: auto; margin-bottom: 8px; position: relative;"]
