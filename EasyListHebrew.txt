@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YfY/SRKtBLN9iMJ54i5HBg
+! Checksum: Oy/P1Y91RV5t/T0sP2SVpg
 ! Title: EasyList Hebrew
-! Last modified: 29 Mar 2017 16:26 UTC
+! Last modified: 29 Mar 2017 16:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -425,8 +425,8 @@
 ||images.fxp.co.il^$subdocument
 ||widget.walla.co.il/wallaplayer$subdocument,third-party,domain=fxp.co.il
 ! * Rotter.net * !
-||rotter.name/*.html*$subdocument
-||rotter.net/*.html*$subdocument
+||rotter.name/*.html$subdocument
+||rotter.net/*.html$subdocument
 ||rotter.net/banners/
 ||rotter.net/edit/text/
 ! * SeretHD * !
@@ -641,9 +641,6 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||rcs.mako.co.il/js/ads.js$script
 @@||reshet.tv/ads.html
-@@||rotter.name/nor/last-nonp.php$subdocument,domain=rotter.name|rotter.net
-@@||rotter.name/rotter_name_headlines.php$subdocument,domain=rotter.name|rotter.net
-@@||rotter.net/rotter_lastf_news.php$subdocument,domain=rotter.name|rotter.net
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=reshet.tv
