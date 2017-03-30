@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jM1VbUKaCVWnljLmJQwp2w
+! Checksum: 9uxYX4eFrgoP9SMvCLzENg
 ! Title: EasyList Hebrew
-! Last modified: 30 Mar 2017 16:56 UTC
+! Last modified: 30 Mar 2017 17:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -287,7 +287,11 @@
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|vid\.me|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !
+||www.ynet.co.il^$important,websocket,first-party,domain=www.ynet.co.il
 ||www.ynet.co.il^$websocket,~third-party,domain=www.ynet.co.il
+!
+||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=ynet.co.il
+||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=ynet.co.il
 !
 /CdaMarketTextlinks_
 /CdaMarketingLink/*
