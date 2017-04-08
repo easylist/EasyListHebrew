@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NYNT22o/ruzZoxuxk65WvQ
+! Checksum: DxHYm03eQmtZ8PfPVDKybg
 ! Title: EasyList Hebrew
-! Last modified: 08 Apr 2017 19:21 UTC
+! Last modified: 08 Apr 2017 19:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -151,6 +151,7 @@
 ||loopmaze.com^$third-party
 ||maskoter.com^$third-party
 ||mohengdu.com^$third-party
+||nepohita.com^$third-party
 ||newyorkwhil.com^$third-party
 ||njkiho.info^$third-party
 ||nothering.com^$third-party
@@ -179,6 +180,7 @@
 ||wodoka.com^$third-party
 ||yathmoth.com^$third-party
 ||ymakeseb.club^$third-party
+||zinovila.com^$third-party
 ||zipodita.com^$third-party
 !
 ! *** Popup sites *** !
