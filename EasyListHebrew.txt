@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DxHYm03eQmtZ8PfPVDKybg
+! Checksum: 6010wr6BXgBGEIrHMouZtQ
 ! Title: EasyList Hebrew
-! Last modified: 08 Apr 2017 19:24 UTC
+! Last modified: 08 Apr 2017 19:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -588,7 +588,7 @@ zegvid.net##*
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.yad2.co.il/adPic.png$image
 @@||adworks.co.il^$~third-party
-@@||akamai.advsnx.net/CDN/$domain=hot.ynet.co.il|kikar.co.il|pplus.ynet.co.il
+@@||akamai.advsnx.net/CDN/$domain=kikar.co.il
 @@||akamai.advsnx.net/CDN/arutz7$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
@@ -627,7 +627,6 @@ zegvid.net##*
 @@||kikar.co.il/js/ads.js
 @@||lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
 @@||lb.advsnx.net/as$domain=mako.co.il
-@@||lb.advsnx.net/as/$xmlhttprequest,domain=hot.ynet.co.il|pplus.ynet.co.il
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il
 @@||lips.co.il/ads/$image,~third-party
 @@||lips.co.il/banners/$image,~third-party
@@ -745,7 +744,7 @@ bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 bhol-forums.co.il,bhol.co.il,hydepark.co.il,pic.co.il###Plasma_1
 bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
 bizportal.co.il,ice.co.il##.kubia_banner
-calcalist.co.il,frogi.co.il,mynet.co.il,xnet.ynet.co.il###ads\.top
+calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
 calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
 feeder.co.il,rest.co.il###banner
@@ -1251,7 +1250,6 @@ yad2.co.il##td[width="200"][valign="top"][style="border-right: 0px solid #ffffff
 yad2.co.il##th[style="background: #505D6A; font-size: 13px; font-family: arial; text-align: left; color: white; font-weight: bold; padding: 0px; margin: 0px; padding-right: 0px; padding-left: 10px; height: 31px; border-bottom: 1px solid white;"][colspan="9"]
 yeshanews.com###sideban
 ynet.co.il###ads\.newspaper
-ynet.co.il###ads\.top
 ynet.co.il###ads\.top\.2
 ynet.co.il##.art_tkb_talkback_advert
 ynet.co.il##.pplus_hdr_ad
