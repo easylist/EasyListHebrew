@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aOvvYVjlmlCljlN1c7FV1g
+! Checksum: NYNT22o/ruzZoxuxk65WvQ
 ! Title: EasyList Hebrew
-! Last modified: 06 Apr 2017 16:28 UTC
+! Last modified: 08 Apr 2017 19:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1094,6 +1094,7 @@ pitro.net###p_lt_WebPartZone3_zoneTopBanner_PitronetBannerRotator_nolinkPanel
 psakdin.co.il###bnrTop
 rateonclick.com###connect
 rateonclick.com##a[href*="campaigns.layer.co.il/"]
+reshet.tv##.AsideBannerWrp
 rest.co.il###divLeftBanner
 rest.co.il##.ad_box_1
 rest.co.il##.ad_box_3
