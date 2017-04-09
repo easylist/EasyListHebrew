@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: atH5+IEBQbeFmjdadswtaQ
+! Checksum: 3CMy3Ap4pZEptjraUxh0Cg
 ! Title: EasyList Hebrew
-! Last modified: 09 Apr 2017 12:38 UTC
+! Last modified: 09 Apr 2017 14:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -409,11 +409,12 @@
 ||madas-ads.securest.org^$third-party
 ! * yad2 * !
 |blob:$important,domain=www.yad2.co.il
+||www.yad2.co.il^$important,websocket,first-party,domain=www.yad2.co.il
 ||www.yad2.co.il^$websocket,~third-party,domain=www.yad2.co.il
 !
 ||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=yad2.co.il
 ||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=yad2.co.il
-||yad2.co.il/js-new/showAds.js$script,redirect=silent-noeval.js,domain=yad2.co.il
+||yad2.co.il/js-new/showAds.js$script,redirect=noopjs,domain=yad2.co.il
 !
 ||my.yad2.co.il/Banner/
 ||yad2.co.il/js-new/blockPirsum.js
@@ -666,8 +667,6 @@ zegvid.net##*
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
 @@||tpc.googlesyndication.com/simgad/$xmlhttprequest,domain=haaretz.co.il|themarker.com
 @@||trc.taboola.com/globes-il/$script
-@@||www.yad2.co.il/sbbi/$websocket,first-party,domain=www.yad2.co.il
-@@||www.yad2.co.il/sbbi/$worker,first-party,domain=www.yad2.co.il
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||xn--8dbanaba6epyi.net/js/ads/popunder.js
 @@||y.net-games.co.il/adimages/
