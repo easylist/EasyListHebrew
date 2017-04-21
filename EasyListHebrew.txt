@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ll0O5IQ3/SMgTysu+GeYsw
+! Checksum: V3zS8gCGwfsHea16bw5oCw
 ! Title: EasyList Hebrew
-! Last modified: 21 Apr 2017 13:55 UTC
+! Last modified: 21 Apr 2017 13:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -437,9 +437,6 @@
 ||rotter.net/edit/text/
 ! * SeretHD * !
 |http://$script,third-party,domain=serethd.net
-! * SERETIL.ME * !
-||seretil.me/cdn-cgi/*rocket.js
-||seretil.me/cdn-cgi/nexp/dok9
 ! * TVIL.ME * !
 ||cloudfront.net^$script,domain=tvil.me
 ! * Sdarot.TV * !
