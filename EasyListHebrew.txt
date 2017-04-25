@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: V3zS8gCGwfsHea16bw5oCw
+! Checksum: tVSkFNhPBjeHbR+gNc1Vnw
 ! Title: EasyList Hebrew
-! Last modified: 21 Apr 2017 13:59 UTC
+! Last modified: 25 Apr 2017 16:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -313,7 +313,7 @@
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|blogspot|icast|icdn|auto|sport5|globes|forbes|t-5|easy|smartair|mysupermarket|styleriver|nirshamim|psakdin|blms|linicom)\.co\.il|(govmap|ims)\.gov\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamaihd|ctedgecdn|2mdn|edgesuite|uploaditnow|zencdn|llnwd|doubleclick|advsnx)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(flowplayer|promisejs|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|minidom|jquerymin)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=mako.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|sndcdn|scribd|scribdassets|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwplayer|jwpcdn|jwpltx|brightcove|embedly|streamable|iheart|imgur|snapwidget|ytimg|amazonaws|elasticbeanstalk|cloudflare|disqus|disquscdn|oneall|oneallcdn|sumome|kxcdn|kickstarter|gravatar|blogspot|wordpress|wp|videopress|googleusercontent|googlevideo|vicomi|opinionstage|waze|bynetcdn|sniperm|dinovich|shortaudition|syteapi|shopstyle-cdn|segmanta|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|netdna-ssl|aniview|ruchlis|hotjar|flx1|mxpnl|adnxs|sekindo|conduit|fourtips|makojs|themarker)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|sndcdn|scribd|scribdassets|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwplayer|jwpcdn|jwpltx|brightcove|embedly|streamable|iheart|imgur|snapwidget|ytimg|amazonaws|elasticbeanstalk|cooladata|cloudflare|disqus|disquscdn|oneall|oneallcdn|sumome|kxcdn|kickstarter|gravatar|blogspot|wordpress|wp|videopress|googleusercontent|googlevideo|vicomi|opinionstage|waze|bynetcdn|sniperm|dinovich|shortaudition|syteapi|shopstyle-cdn|segmanta|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|tiviclick|netdna-ssl|aniview|ruchlis|hotjar|flx1|mxpnl|adnxs|sekindo|conduit|fourtips|makojs|themarker)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|h-cdn\.co|vid\.me|mako\.tools|logidea\.info|zoomanalytics\.co|firstimpression\.io|activetrail\.biz))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=mako.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=mako.co.il
 !
