@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: c1784wu9APzF0NLc74uB+g
+! Checksum: BZGbMxyWRRAxd8XLYTuZhA
 ! Title: EasyList Hebrew
-! Last modified: 26 Apr 2017 12:43 UTC
+! Last modified: 26 Apr 2017 12:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -408,9 +408,11 @@
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
 ||madas-ads.securest.org^$third-party
 ! * yad2 * !
-|blob:$important,domain=www.yad2.co.il
-||www.yad2.co.il^$important,websocket,first-party,domain=www.yad2.co.il
-||www.yad2.co.il^$websocket,~third-party,domain=www.yad2.co.il
+|blob:$domain=my.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
+|blob:$important,domain=my.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
+!
+||yad2.co.il^$important,websocket,first-party,domain=my.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
+||yad2.co.il^$websocket,~third-party,domain=my.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
 !
 ||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=yad2.co.il
 ||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=yad2.co.il
