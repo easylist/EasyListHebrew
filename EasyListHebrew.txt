@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: q0fuPWMAz7fRpKv+qFQ2Ww
+! Checksum: IB7Zak8bj3eGqEE7hJj2LA
 ! Title: EasyList Hebrew
-! Last modified: 02 May 2017 21:18 UTC
+! Last modified: 02 May 2017 21:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -770,13 +770,13 @@ ilimudim.co.il,rest.co.il###ads\.strip\.1
 infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
 ladaat.info,tapuz.co.il###divTopBanner
 nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
-sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf###extra
-sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##.side
-sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://cellebrate.mobi/il/heb"]
-sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##a[href^="http://www.savey.net"]
-sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##div[style="overflow: hidden;"]
-sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##div[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
-sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf##div[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf,zira.online###extra
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf,zira.online##.side
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf,zira.online##a[href^="http://cellebrate.mobi/il/heb"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf,zira.online##a[href^="http://www.savey.net"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf,zira.online##div[style="overflow: hidden;"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf,zira.online##div[style="position: fixed; z-index: 999; top: 0px; left: 0px; display: block;"]
+sdarot.click,sdarot.pm,sdarot.tv,sdarot.wf,zira.online##div[style="position: relative; height: 0; right: 450px; top: 155px; z-index: 99;"]
 !
 ! *** Specific domain *** !
 !
