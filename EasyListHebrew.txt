@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3y9EF/R7pDyEHfeyol8vUg
+! Checksum: 50WaVTTuM2+pzwzdLOzlGQ
 ! Title: EasyList Hebrew
-! Last modified: 16 May 2017 19:33 UTC
+! Last modified: 16 May 2017 19:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -317,8 +317,8 @@
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|h-cdn\.co|vid\.me|mako\.tools|logidea\.info|zoomanalytics\.co|firstimpression\.io|activetrail\.biz))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=mako.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=mako.co.il
 !
-|blob:$domain=www.mako.co.il
-|blob:$important,domain=www.mako.co.il
+|blob:$~script,domain=www.mako.co.il
+|blob:$~script,important,domain=www.mako.co.il
 !
 ||www.mako.co.il^$important,websocket,first-party,domain=www.mako.co.il
 ||www.mako.co.il^$websocket,~third-party,domain=www.mako.co.il
