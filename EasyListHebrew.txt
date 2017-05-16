@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hjRnbjtkLwM1gzQnQ1+ncA
+! Checksum: 3y9EF/R7pDyEHfeyol8vUg
 ! Title: EasyList Hebrew
-! Last modified: 16 May 2017 19:27 UTC
+! Last modified: 16 May 2017 19:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -375,6 +375,9 @@
 ! * nana10 * !
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
+! * Reshet * !
+||reshet.tv^$important,websocket,first-party,domain=reshet.tv
+||reshet.tv^$websocket,~third-party,domain=reshet.tv
 ! * SPORT5 * !
 /^(?!(http|https|ftp|ws|wss|irc|blob):)/$domain=sport5.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|blogspot|icast|icdn|auto|sport5|globes|linicom)\.co\.il|(govmap|ims)\.gov\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=sport5.co.il
