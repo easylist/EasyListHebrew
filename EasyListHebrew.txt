@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ju6xtTdtA2oz/EQbN4xSGw
+! Checksum: hjRnbjtkLwM1gzQnQ1+ncA
 ! Title: EasyList Hebrew
-! Last modified: 16 May 2017 10:27 UTC
+! Last modified: 16 May 2017 19:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -337,9 +337,10 @@
 ||psakdin.co.il/ExternalFrames/$domain=mako.co.il
 ||sdc.mako.co.il^
 ! * Globes * !
+||www.globes.co.il^$important,websocket,first-party,domain=www.globes.co.il
+||www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
+!
 ||globes.co.il/globes/newsletters/minisites_2/banners/
-||globes.co.il^$important,websocket,first-party,domain=globes.co.il
-||globes.co.il^$websocket,~third-party,domain=globes.co.il
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Calcalist * !
 ||www.calcalist.co.il^$important,websocket,first-party,domain=www.calcalist.co.il
