@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /ns3pTxVcY5ypDpdY+ujdQ
+! Checksum: wl2Bk9KGvCXxAC5u/a6QzQ
 ! Title: EasyList Hebrew
-! Last modified: 01 Jun 2017 08:31 UTC
+! Last modified: 08 Jun 2017 17:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -301,7 +301,7 @@
 ||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=ynet.co.il
 ||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=ynet.co.il
 !
-BannerScripts.js$script,domain=mynetbatyam.co.il|mynethadera.co.il|mynetherzliya.co.il|mynethodhasharon.co.il|mynetholon.co.il|mynetjerusalem.co.il|mynetkfarsaba.co.il|mynetkibbutz.co.il|mynetnetanya.co.il|mynetpetahtikva.co.il|mynetraanana.co.il|mynetrehovot.co.il|mynetrishon.co.il|mynetroshhaayin.co.il
+/BannerScripts.js?$script,domain=mynetbatyam.co.il|mynethadera.co.il|mynetherzliya.co.il|mynethodhasharon.co.il|mynetholon.co.il|mynetjerusalem.co.il|mynetkfarsaba.co.il|mynetkibbutz.co.il|mynetnetanya.co.il|mynetpetahtikva.co.il|mynetraanana.co.il|mynetrehovot.co.il|mynetrishon.co.il|mynetroshhaayin.co.il
 !
 /CdaMarketTextlinks_
 /CdaMarketingLink/*
