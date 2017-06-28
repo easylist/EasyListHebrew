@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VMemghmr0KvhcXVgU7UChQ
+! Checksum: QCb+baQARprf0iTUce2VcQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Jun 2017 10:19 UTC
+! Last modified: 28 Jun 2017 16:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -741,7 +741,6 @@ tapuz.co.il#@#.afs_ads
 !
 !-------------------------Mobile element hiding rules-------------------------!
 !
-m.calcalist.co.il##.maavaron
 m.sport5.co.il##.ad
 !
 !------------------------------Mobile Whitelist-------------------------------!
