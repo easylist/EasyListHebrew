@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GOUoB+4+GSLhL5uatGOe2w
+! Checksum: va84LRQNyvv6GBwiDqwk8g
 ! Title: EasyList Hebrew
-! Last modified: 05 Jul 2017 16:00 UTC
+! Last modified: 05 Jul 2017 16:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -72,6 +72,7 @@
 ||great-offers.co.il^$popup,third-party
 ||greenlead.co.il^$popup,third-party
 ||ha-deal.co.il^$popup,third-party
+||landing-page.mobi^$popup,third-party
 ||layer.co.il^$popup,third-party
 ||like-it.co.il^$popup,third-party
 ||mashrokit.info^$popup,third-party
