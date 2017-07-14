@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bo5CQ1X0QK3duelz193zsw
+! Checksum: 1icvvNrOtmtfcICbAThNww
 ! Title: EasyList Hebrew
-! Last modified: 14 Jul 2017 11:28 UTC
+! Last modified: 14 Jul 2017 11:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -249,6 +249,7 @@
 ||strauss-water-campaign.co.il^$popup,third-party
 ||streamin.to^$popup,third-party
 ||tipo.mobi^$popup,third-party
+||trackappmedia.com^$popup,third-party
 ||tracknotify.com^$popup,third-party
 ||trendsonline.me/?id$popup,third-party
 ||triviasms.com^$popup,third-party
