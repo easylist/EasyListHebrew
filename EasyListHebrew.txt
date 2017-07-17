@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Hn0lCH2AsXGV0QPU+n+VpQ
+! Checksum: WjO3KIs84Qk/M8mJfWS24Q
 ! Title: EasyList Hebrew
-! Last modified: 17 Jul 2017 10:26 UTC
+! Last modified: 17 Jul 2017 10:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -779,6 +779,7 @@ gamex.co.il,linicom.co.il##a[target="_blank"]
 getit.co.il,nana10.co.il,news1.co.il,tapuz.co.il###TopBanner
 globes.co.il,nrg.co.il##.sekindo
 haaretz.co.il,themarker.com###top_banners
+haaretz.co.il,themarker.com##.footer-ruler
 haaretz.co.il,themarker.com##.js-dfp-ad
 haaretz.co.il,themarker.com##[data-back="promotional-content"]
 haaretz.co.il,themarker.com##[height="250"][width="970"]
