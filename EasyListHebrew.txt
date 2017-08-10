@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7Grc6Mopy3P7xfYgj4QM7w
+! Checksum: GVZaWFVyki96PJiwYYardw
 ! Title: EasyList Hebrew
-! Last modified: 07 Aug 2017 19:32 UTC
+! Last modified: 10 Aug 2017 11:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -613,6 +613,7 @@ zegvid.net##*
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
+@@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|themarker.com
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.yad2.co.il/adPic.png$image
@@ -645,6 +646,7 @@ zegvid.net##*
 @@||haaretz.co.il/dclk/dfp/test/banners/show_banners_ads.js
 @@||haaretz.co.il/dclk/dfp/test/show_all_ads.js
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
+@@||haaretz.co.il/htz/images/favicon-160x160.png
 @@||haaretz.co.il/htz/images/logos/htz-logo.v2.svg
 @@||haaretz.co.il/htz/js/resp/minified/header-scripts-int.js
 @@||haaretz.co.il/st/c/work/AB/aby.gif
