@@ -418,6 +418,8 @@
 ||sporty.gdn^$popup,third-party,domain=sport5.co.il
 ||sporty.gdn^$third-party,domain=sport5.co.il
 ! * Tapuz, Flix * !
+! eliminate flix pop-ups-clips in Tapuz forums!
+||player.flix.co.il^
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
 ||tapuz.co.il/Forums2008/DependencyHandler.axd/*/*/js$script
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
