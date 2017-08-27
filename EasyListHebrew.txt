@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dr7s5BEAQ5Bx5ep6itgTVA
+! Checksum: t6Ypu70Y4Qs3uaObPNvX3w
 ! Title: EasyList Hebrew
-! Last modified: 26 Aug 2017 21:16 UTC
+! Last modified: 27 Aug 2017 19:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -613,7 +613,6 @@ zegvid.net##*
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
-@@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|themarker.com
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.yad2.co.il/adPic.png$image
@@ -694,6 +693,7 @@ zegvid.net##*
 @@||taimeod.co.il^$document
 @@||themarker.com/Images/negative.png$image,domain=haaretz.co.il|themarker.com
 @@||themarker.com/Images/positive.png$image,domain=haaretz.co.il|themarker.com
+@@||themarker.com/dclk/dfp/dfp.min.js
 @@||themarker.com/dclk/dfp/dfp_htz.js
 @@||themarker.com/dclk/dfp/dfp_init_base.js
 @@||themarker.com/dclk/dfp/test/banners/show_banners_ads.js
