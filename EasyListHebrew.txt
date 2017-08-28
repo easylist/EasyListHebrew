@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8mqSt+tcSfEOZFgSfTt8hg
+! Checksum: y9wuW7mJeHGi3TSpjYd7sw
 ! Title: EasyList Hebrew
-! Last modified: 28 Aug 2017 19:26 UTC
+! Last modified: 28 Aug 2017 19:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -419,7 +419,6 @@
 ||sporty.gdn^$third-party,domain=sport5.co.il
 ! * Tapuz, Flix * !
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
-||tapuz.co.il/Forums2008/DependencyHandler.axd/*/*/js$script
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
 ||tapuz.co.il/Forums2008/googleInTreeFrame.html
 ||tapuz.co.il/Forums2008/outMaavaron.aspx
