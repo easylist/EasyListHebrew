@@ -419,6 +419,9 @@
 ||sporty.gdn^$third-party,domain=sport5.co.il
 ! * Tapuz, Flix * !
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
+! Deleted, needed for notifications counter and "Tguba mehira"
+! ||tapuz.co.il/Forums2008/DependencyHandler.axd/*/*/js$script
+!
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
 ||tapuz.co.il/Forums2008/googleInTreeFrame.html
 ||tapuz.co.il/Forums2008/outMaavaron.aspx
