@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zZuiCO6Eri4IfROgCrqEJw
+! Checksum: WpTF933lLRokfDGZFvTGdg
 ! Title: EasyList Hebrew
-! Last modified: 28 Aug 2017 19:31 UTC
+! Last modified: 31 Aug 2017 10:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -237,6 +237,7 @@
 ||onlineproxyfree.com^$popup,third-party
 ||optmz.online^$popup,third-party
 ||pckeeper.software^$popup,third-party
+||pcnotification.com^$popup,third-party
 ||perfectpro.co.il^$popup,third-party
 ||press2win.online^$popup,third-party
 ||rackcdn.com^$popup,third-party
