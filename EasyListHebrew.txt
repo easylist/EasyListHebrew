@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MOg3uJZYPpXcsbd0S/0r5g
+! Checksum: 833r3iiq4xzaKPq17liOuQ
 ! Title: EasyList Hebrew
-! Last modified: 09 Sep 2017 20:41 UTC
+! Last modified: 17 Sep 2017 15:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -243,6 +243,7 @@
 ||rackcdn.com^$popup,third-party
 ||rateonclick.com^$popup,third-party
 ||reimageplus.com^$popup,third-party
+||rmkz.themarker.com^$popup
 ||s-iwantyou.com^$popup,third-party
 ||setup-prize.top^$popup,third-party
 ||sex-party.co.il^$popup,third-party
@@ -376,9 +377,11 @@
 ||psakdin.co.il^$domain=calcalist.co.il
 ||s3.amazonaws.com^$script,domain=calcalist.co.il
 ! * Haaretz, TheMarker, Mouse.co.il * !
-/haaretz\.co\.il\/(?!.*\.(js)($|\?)).*/$script,domain=www.haaretz.co.il|www.themarker.com
-/haaretz\.co\.il\/.{2,36}$/$image,subdocument,domain=www.haaretz.co.il|www.themarker.com
-/themarker\.com\/.{2,36}$/$image,subdocument,domain=www.haaretz.co.il|www.themarker.com
+/haaretz\.co\.il\/(?!.*\.(js)($|\?)).*/$script,domain=haaretz.co.il|themarker.com
+/haaretz\.co\.il\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
+/mouse\.co.il\/.{2,36}$/$image,subdocument,domain=mouse.co.il
+/mouse\.co\.il\/(?!.*\.(js)($|\?)).*/$script,domain=mouse.co.il
+/themarker\.com\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com
 !
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
@@ -387,7 +390,6 @@
 ||haaretz.co.il^*/Banners/
 ||haaretz.co.il^*/Houdini/
 ||houdini.haaretz.co.il^
-||rmkz.themarker.com^$popup,domain=haaretz.co.il|themarker.com
 ||themarker.com/abc$script
 ||themarker.com/dclk/
 ||themarker.com/st/media
@@ -793,6 +795,7 @@ feeder.co.il,rest.co.il###banner
 gamex.co.il,linicom.co.il##a[target="_blank"]
 getit.co.il,nana10.co.il,news1.co.il,tapuz.co.il###TopBanner
 globes.co.il,nrg.co.il##.sekindo
+haaretz.co.il,mouse.co.il,themarker.com##a[href*="://rmkz.themarker.com/"]
 haaretz.co.il,themarker.com###paywall-promotion-banner
 haaretz.co.il,themarker.com###top_banners
 haaretz.co.il,themarker.com##.footer-ruler
@@ -804,7 +807,6 @@ haaretz.co.il,themarker.com##[height="250"][width="970"]
 haaretz.co.il,themarker.com##[id*="div-gpt-ad"]
 haaretz.co.il,themarker.com##[width="300"][height="250"]
 haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
-haaretz.co.il,themarker.com##a[href*="://rmkz.themarker.com/"]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##div[class*="Banner"]
