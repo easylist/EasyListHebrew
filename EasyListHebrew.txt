@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ClcBk4pMU2jkpDn+KoGu4g
+! Checksum: RC+0iaXMGbZgTJMZLo+JBQ
 ! Title: EasyList Hebrew
-! Last modified: 20 Sep 2017 12:28 UTC
+! Last modified: 20 Sep 2017 12:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -803,7 +803,6 @@ haaretz.co.il,themarker.com###paywall-promotion-banner
 haaretz.co.il,themarker.com###top_banners
 haaretz.co.il,themarker.com##.footer-ruler
 haaretz.co.il,themarker.com##.footer-ruler--containter
-haaretz.co.il,themarker.com##.js-dfp-ad
 haaretz.co.il,themarker.com##.js-modal
 haaretz.co.il,themarker.com##[data-back="promotional-content"]
 haaretz.co.il,themarker.com##[height="250"][width="970"]
@@ -973,7 +972,6 @@ inn.co.il###divBottomAd
 inn.co.il###divInfMiddle1
 inn.co.il###divInfMiddle2
 inn.co.il###divMainLeftInfo
-inn.co.il###divTopAd
 inn.co.il##.InfoIn
 inn.co.il##a[href*="info.a7.org/info/delivery/ck.php"]
 inn.co.il##a[href*="theadblockerproject.org"]
@@ -1191,7 +1189,6 @@ sport5.co.il###wrapper > div > div:nth-child(6)
 sport5.co.il##.article-holder > .alt
 sport5.co.il##.aside > .banner-container
 sport5.co.il##.banner-list
-sport5.co.il##.inner_adv
 sport5.co.il##.iphone
 sport5.co.il##.post.post-alt
 sport5.co.il##.skin-header
@@ -1249,7 +1246,6 @@ tapuz.co.il##[id^="netex_"]
 tatus.co.il##.rs
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
-themarker.com##.footer-ruler
 totalchat.co.il###PublichVoiceChat
 upf.co.il##.bgbanner
 walla.co.il##.ads-spaces-shdera-hp
