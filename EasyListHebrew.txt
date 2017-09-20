@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BbT3QGGS2BEjMn9DXOsWeA
+! Checksum: ClcBk4pMU2jkpDn+KoGu4g
 ! Title: EasyList Hebrew
-! Last modified: 20 Sep 2017 12:24 UTC
+! Last modified: 20 Sep 2017 12:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -301,7 +301,7 @@
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamai|akamaihd|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|bitsngo|doubleclick|windows|advsnx|pagefair|liveadserver|msecnd|freegeoip|total-media)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(flowplayer|promisejs|backbonejs|angularjs|dojotoolkit|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|ipify)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|sndcdn|scribd|scribdassets|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwplayer|jwpcdn|jwpltx|brightcove|embedly|streamable|iheart|ted|tedcdn|imgur|snapwidget|ytimg|amazonaws|elasticbeanstalk|cloudflare|disqus|disquscdn|oneall|oneallcdn|sumome|kxcdn|kickstarter|fontawesome|gravatar|blogspot|wordpress|wp|videopress|googleusercontent|googlevideo|bing|aspnetcdn|githubusercontent|knockoutjs|vicomi|cincopa|waze|bynetcdn|hunchbots|jeeng|segmanta|opinionstage|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|loggly|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|h-cdn|scorecardresearch|serving-sys|bootstrapcdn|adnxs|pagefair|exposebox|visualrevenue|connatix|exelator|sekindo|roojoom|babator|sphereup|chartbeat|talkahead|pusher|relevanti|mimgoal|ukstatic|corrigon|arcgis|cloudwm|birdsbase|calcalist-cdnwiz|ynet-cdnwiz|ynetnews)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
-/^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org|gov|mil|edu|int|ac\.uk)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|popkey\.co|powr\.io|github\.io|h-cdn\.co|vid\.me|minute\.ly|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
+/^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org|gov|mil|edu|int|ac\.uk)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|popkey\.co|powr\.io|github\.io|h-cdn\.co|vid\.me|minute\.ly|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me|snackly\.co))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !
 ||www.ynet.co.il^$important,websocket,first-party,domain=www.ynet.co.il
