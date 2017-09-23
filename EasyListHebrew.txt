@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9B9al6DvS+lqsQtL1PHp+Q
+! Checksum: K18m+lYx5JEVicb3sMty8A
 ! Title: EasyList Hebrew
-! Last modified: 23 Sep 2017 21:51 UTC
+! Last modified: 23 Sep 2017 21:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -654,11 +654,12 @@ zegvid.net##*
 @@||haaretz.co.il/htz/images/favicon-160x160.png
 @@||haaretz.co.il/htz/images/logos/htz-logo.v2.svg
 @@||haaretz.co.il/htz/js/resp/minified/header-scripts-int.js
+@@||haaretz.co.il/polopoly_fs/*/landscape$image,domain=haaretz.co.il|themarker.com
+@@||haaretz.co.il/polopoly_fs/*/size$image,domain=haaretz.co.il|themarker.com
+@@||haaretz.co.il/st/c/$image,domain=haaretz.co.il|themarker.com
 @@||haaretz.co.il/st/c/work/AB/aby.gif
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
-@@||images.haaretz.co.il/polopoly_fs/*/landscape_$image,domain=haaretz.co.il|themarker.com
-@@||images.haaretz.co.il/polopoly_fs/*/size_$image,domain=haaretz.co.il|themarker.com
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
