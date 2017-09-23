@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RC+0iaXMGbZgTJMZLo+JBQ
+! Checksum: 27W+xgfXUjEnuMQciRQ1+g
 ! Title: EasyList Hebrew
-! Last modified: 20 Sep 2017 12:32 UTC
+! Last modified: 23 Sep 2017 21:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -516,13 +516,11 @@
 ||leadim4u.com/accounts/default1/banners/
 ||local.co.il/banners/
 ||moreshet.co.il/banners/
-||nanafiles.co.il//Upload/92011/File/File_*swf
 ||news-israel.net/images/topAd
 ||onlife.co.il/dbcads/
 ||pitro.net/Banners/
 ||psakdin.co.il/Pictures/Banners/
 ||raddar.co.il/bannersa.php
-||scity.co.il/scity_728_sdarot.swf
 ||seret.co.il/images/banners/pagehasut/PageHasut
 ||shoofoo.co.il/banners
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
