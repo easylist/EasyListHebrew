@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 27W+xgfXUjEnuMQciRQ1+g
+! Checksum: 9B9al6DvS+lqsQtL1PHp+Q
 ! Title: EasyList Hebrew
-! Last modified: 23 Sep 2017 21:49 UTC
+! Last modified: 23 Sep 2017 21:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -897,6 +897,7 @@ ch10.co.il##.rt-banners
 chabad.info##.adpro
 d.co.il##.header_banner
 d.co.il##.premium-d-strip-banner-container
+debka.co.il##.ads_single_side
 dinovich.com###noLike
 dinovich.com##.overlay
 doctors.co.il###big_banner
