@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +cV8uXEVpWSwxAY7/sUQ5Q
+! Checksum: 7w1D6KBLtYyEkeug26/LQA
 ! Title: EasyList Hebrew
-! Last modified: 23 Sep 2017 22:27 UTC
+! Last modified: 23 Sep 2017 22:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -243,7 +243,6 @@
 ||rackcdn.com^$popup,third-party
 ||rateonclick.com^$popup,third-party
 ||reimageplus.com^$popup,third-party
-||rmkz.themarker.com^$popup
 ||s-iwantyou.com^$popup,third-party
 ||setup-prize.top^$popup,third-party
 ||sex-party.co.il^$popup,third-party
@@ -392,6 +391,7 @@
 ||haaretz.co.il^*/Banners/
 ||haaretz.co.il^*/Houdini/
 ||houdini.haaretz.co.il^
+||rmkz.themarker.com^$popup
 ||themarker.com/abc$script
 ||themarker.com/dclk/
 ||themarker.com/st/media
