@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: K18m+lYx5JEVicb3sMty8A
+! Checksum: +cV8uXEVpWSwxAY7/sUQ5Q
 ! Title: EasyList Hebrew
-! Last modified: 23 Sep 2017 21:55 UTC
+! Last modified: 23 Sep 2017 22:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -329,7 +329,7 @@
 ||trace.events^$third-party,domain=ynet.co.il
 ||ynetbanneradmin.yit.co.il/assets/$subdocument,domain=ynet.co.il
 ! * mako * !
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|blogspot|nagich|icast|icdn|auto|sport5|globes|forbes|maariv|t-5|easy|smartair|mysupermarket|styleriver|nirshamim|psakdin|blms|linicom)\.co\.il|(gov|idf|muni|ac|k12)\.il|kan\.org\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*((google|blogspot|nagich|icast|icdn|auto|sport5|globes|forbes|maariv|t-5|easy|gamein|smartair|mysupermarket|weshoes|styleriver|nirshamim|psakdin|blms|linicom)\.co\.il|(gov|idf|muni|ac|k12)\.il|kan\.org\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamai|akamaihd|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|uploaditnow|zencdn|llnwd|doubleclick|windows|advsnx|artipbox)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(flowplayer|promisejs|backbonejs|angularjs|dojotoolkit|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|minidom)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=mako.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|tumblr|soundcloud|sndcdn|scribd|scribdassets|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwplayer|jwpcdn|jwpltx|brightcove|embedly|streamable|iheart|ted|tedcdn|imgur|snapwidget|ytimg|amazonaws|elasticbeanstalk|cloudflare|disqus|disquscdn|oneall|oneallcdn|sumome|kxcdn|kickstarter|fontawesome|gravatar|blogspot|wordpress|wp|videopress|googleusercontent|googlevideo|bing|aspnetcdn|githubusercontent|knockoutjs|vicomi|cincopa|waze|bynetcdn|hunchbots|jeeng|sniperm|dinovich|shortaudition|syteapi|shopstyle-cdn|segmanta|opinionstage|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|h-cdn|scorecardresearch|serving-sys|cooladata|bootstrapcdn|tiviclick|netdna-ssl|aniview|ruchlis|hotjar|flx1|mxpnl|adnxs|moatads|exelator|adoric-ads|activetrail|sekindo|conduit|makojs|themarker)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=mako.co.il
