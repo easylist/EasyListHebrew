@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1g+tgq6gdjGyNTJTm/ulrw
+! Checksum: UVUEAbrg9zktIm1AnYKERw
 ! Title: EasyList Hebrew
-! Last modified: 28 Sep 2017 11:39 UTC
+! Last modified: 01 Oct 2017 17:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -617,9 +617,7 @@ zegvid.net##*
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
-@@/300x250/*$xmlhttprequest,domain=haaretz.co.il|themarker.com
 @@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|themarker.com
-@@_300x250.$xmlhttprequest,domain=haaretz.co.il|themarker.com
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.yad2.co.il/adPic.png$image
@@ -660,6 +658,7 @@ zegvid.net##*
 @@||haaretz.co.il/polopoly_fs/*/size$image,domain=haaretz.co.il|themarker.com
 @@||haaretz.co.il/st/c/$image,domain=haaretz.co.il|themarker.com
 @@||haaretz.co.il/st/c/work/AB/aby.gif
+@@||haaretz.co.il^$xmlhttprequest,domain=haaretz.co.il|themarker.com
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
@@ -711,6 +710,7 @@ zegvid.net##*
 @@||themarker.com/dclk/dfp/test/banners/show_banners_ads.js
 @@||themarker.com/dclk/dfp/test/show_all_ads.js
 @@||themarker.com/st/c/prod/tm/2017/donorsMap/
+@@||themarker.com^$xmlhttprequest,domain=haaretz.co.il|themarker.com
 @@||tornado-top.co.il/template/images/
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
 @@||tpc.googlesyndication.com/simgad/$xmlhttprequest,domain=haaretz.co.il|themarker.com
