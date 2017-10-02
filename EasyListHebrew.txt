@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gz6chnacjW+u4jXj3YW9Nw
+! Checksum: DPDERlwvF0AV6fpURgp86Q
 ! Title: EasyList Hebrew
-! Last modified: 01 Oct 2017 17:18 UTC
+! Last modified: 02 Oct 2017 16:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -381,8 +381,6 @@
 ! * Haaretz, TheMarker, Mouse.co.il * !
 /haaretz\.co\.il\/(?!.*\.(js)($|\?)).*/$script,domain=haaretz.co.il|themarker.com
 /haaretz\.co\.il\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\//$image,subdocument,domain=haaretz.co.il|themarker.com
-/mouse\.co.il\/.{2,36}$/$image,subdocument,domain=mouse.co.il
-/mouse\.co\.il\/(?!.*\.(js)($|\?)).*/$script,domain=mouse.co.il
 /themarker\.com\/.{2,36}$/$image,subdocument,domain=haaretz.co.il|themarker.com|~finance.themarker.com
 !
 ||amazonaws.com/campagin/pop/$domain=mouse.co.il
@@ -659,7 +657,7 @@ zegvid.net##*
 @@||haaretz.co.il/polopoly_fs/*/size$image,domain=haaretz.co.il|themarker.com
 @@||haaretz.co.il/st/c/$image,domain=haaretz.co.il|themarker.com
 @@||haaretz.co.il/st/c/work/AB/aby.gif
-@@||haaretz.co.il^$xmlhttprequest,domain=haaretz.co.il|themarker.com
+@@||haaretz.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
@@ -674,6 +672,7 @@ zegvid.net##*
 @@||lips.co.il/ads/$image,~third-party
 @@||lips.co.il/banners/$image,~third-party
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
+@@||mouse.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
@@ -711,7 +710,7 @@ zegvid.net##*
 @@||themarker.com/dclk/dfp/test/banners/show_banners_ads.js
 @@||themarker.com/dclk/dfp/test/show_all_ads.js
 @@||themarker.com/st/c/prod/tm/2017/donorsMap/
-@@||themarker.com^$xmlhttprequest,domain=haaretz.co.il|themarker.com
+@@||themarker.com^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||tornado-top.co.il/template/images/
 @@||totalmedia2.ynet.co.il^$script,domain=ynet.co.il
 @@||tpc.googlesyndication.com/simgad/$xmlhttprequest,domain=haaretz.co.il|themarker.com
