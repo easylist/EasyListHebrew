@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JoICl+HkI1U0CvH18W//qg
+! Checksum: cCNvDAegS1QVsOoHYyaEDQ
 ! Title: EasyList Hebrew
-! Last modified: 06 Oct 2017 09:40 UTC
+! Last modified: 08 Oct 2017 14:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -514,7 +514,6 @@
 ||kipasruga.com/banner/
 ||leadim4u.com/accounts/default1/banners/
 ||local.co.il/banners/
-||moreshet.co.il/banners/
 ||onlife.co.il/dbcads/
 ||pitro.net/Banners/
 ||psakdin.co.il/Pictures/Banners/
@@ -1056,7 +1055,6 @@ mapa.co.il##div[style^="text-align:center;width:385px;height:260px;*height:270px
 mapa.co.il##td[bgcolor="#e3e3e3"][height="110"]
 mazaltov.walla.co.il##.banner-tower
 mazaltov.walla.co.il##.master-popup-banner
-moreshet.co.il###superJamboBanner
 morfix.co.il##.adv_ph
 mynet.co.il##div[style="padding-top:10px;padding-bottom:10px;padding-right:10px"]
 nadlan.com##.middlebannerFlash
