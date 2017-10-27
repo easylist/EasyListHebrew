@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yfEyqED26JGcwjkjSG/u3w
+! Checksum: JVc1xcuHq/D/Yxte4B/9bA
 ! Title: EasyList Hebrew
-! Last modified: 27 Oct 2017 09:56 UTC
+! Last modified: 27 Oct 2017 10:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -619,7 +619,7 @@ zegvid.net##*
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
-@@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|themarker.com
+@@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.yad2.co.il/adPic.png$image
@@ -650,8 +650,6 @@ zegvid.net##*
 @@||globes.co.il/news/inc/banners/show_ads.js
 @@||googlesyndication.com/pagead/osd.js$domain=haaretz.co.il|themarker.com
 @@||gplanet.co.il/js/adx.js
-@@||haaretz.co.il/dclk/dfp/test/banners/show_banners_ads.js
-@@||haaretz.co.il/dclk/dfp/test/show_all_ads.js
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
 @@||haaretz.co.il/htz/images/favicon-160x160.png
 @@||haaretz.co.il/htz/images/logos/htz-logo.v2.svg
@@ -707,11 +705,6 @@ zegvid.net##*
 @@||taimeod.co.il^$document
 @@||themarker.com/Images/negative.png$image,domain=haaretz.co.il|themarker.com
 @@||themarker.com/Images/positive.png$image,domain=haaretz.co.il|themarker.com
-@@||themarker.com/dclk/dfp/dfp.min.js
-@@||themarker.com/dclk/dfp/dfp_htz.js
-@@||themarker.com/dclk/dfp/dfp_init_base.js
-@@||themarker.com/dclk/dfp/test/banners/show_banners_ads.js
-@@||themarker.com/dclk/dfp/test/show_all_ads.js
 @@||themarker.com/st/c/prod/tm/2017/donorsMap/
 @@||themarker.com^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||tornado-top.co.il/template/images/
