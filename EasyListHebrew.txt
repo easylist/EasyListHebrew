@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8bQOmpQv0ZjNnDmuZJoT8Q
+! Checksum: KMzi7iYCJnp91d4Q3/RLcQ
 ! Title: EasyList Hebrew
-! Last modified: 29 Oct 2017 14:38 UTC
+! Last modified: 31 Oct 2017 11:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -502,7 +502,6 @@
 ||date.dacho.co.il^$domain=~date.dacho.co.il
 ||gear.co.il/Content/MediaItems/Campaigns/
 ||goo.gl^$popup,domain=kikar.co.il
-||googledrive.com^*/popup-with-timer-$script,domain=sidorim.me
 ||googleusercontent.com^$domain=trusted-software.com
 ||haflla.com/download/banners/
 ||hometheater.co.il/opx/
@@ -601,8 +600,6 @@ zegvid.net##*
 !----------------------Whitelists to fix broken sites-------------------------!
 !
 @@||b-share.com^$generichide
-@@||bbroarmy.blogspot.co.il^$generichide
-@@||bbroarmy.blogspot.com^$generichide
 @@||bigbroil.com^$generichide
 @@||haaretz.co.il^$generichide
 @@||israelive.online^$generichide
@@ -612,8 +609,6 @@ zegvid.net##*
 @@||multidown.me^$generichide
 @@||pitaronfree.blogspot.co.il^$generichide
 @@||pitaronfree.blogspot.com^$generichide
-@@||protv.today^$generichide
-@@||sidorim.me^$generichide
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
@@ -634,7 +629,6 @@ zegvid.net##*
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
-@@||blogspot.com^$image,domain=protv.today
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||ch10.cloudvideoplatform.com/advert.jpg$image
 @@||ch10.cloudvideoplatform.com/advert.js?$script
@@ -676,7 +670,7 @@ zegvid.net##*
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il^$xmlhttprequest
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il|sidorim.me
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com|repo.thewiz.info
 @@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=haaretz.co.il|one.co.il|reshet.tv|themarker.com
@@ -1253,7 +1247,6 @@ walla.co.il##div[id^="Fusion_holder"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
 walla.co.il##iframe[src*="javascript:document.write('"]
 wen.co.il##.wenBanner
-windos.co###h62d
 winwin.co.il###TotalMediaVerticalBannersIframe
 winwin.co.il###tvBannerContWinWin
 winwin.co.il###tvBannerContWinWinDFP
