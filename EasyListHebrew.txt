@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KMzi7iYCJnp91d4Q3/RLcQ
+! Checksum: S8+WD4CZK3twNy/tFo8DGA
 ! Title: EasyList Hebrew
-! Last modified: 31 Oct 2017 11:47 UTC
+! Last modified: 31 Oct 2017 11:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -439,6 +439,12 @@
 ||inn.co.il/info_en/
 ||inn.co.il/leads/content/upload/
 ||inn.co.il/leads/view/$popup
+! * Kipa.co.il * !
+||daatariel.org.il/kipa/$popup,domain=kipa.co.il
+||kipa.co.il/banner/
+||kipa.co.il/minisites/go.asp$popup
+||kipasruga.com/banner/
+||landing.kipa.co.il/?id=$popup
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
@@ -498,7 +504,6 @@
 ||bladna.co.il/Public/flash/
 ||cdn.shorte.st/link-converter.min.js
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
-||daatariel.org.il/kipa/$popup,domain=kipa.co.il
 ||date.dacho.co.il^$domain=~date.dacho.co.il
 ||gear.co.il/Content/MediaItems/Campaigns/
 ||goo.gl^$popup,domain=kikar.co.il
@@ -510,9 +515,6 @@
 ||jobmaster.co.il/code/kot/$object
 ||jobmaster.co.il/images/banners/
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
-||kipa.co.il/banner/
-||kipa.co.il/minisites/go.asp$popup
-||kipasruga.com/banner/
 ||leadim4u.com/accounts/default1/banners/
 ||local.co.il/banners/
 ||onlife.co.il/dbcads/
@@ -985,14 +987,6 @@ kikar.co.il###exposeMask
 kikar.co.il###maavaron_overlay
 kikar.co.il##.logo
 kikar.co.il##[id^="takeover"]
-kipa.co.il###preItem
-kipa.co.il##.PirsumList
-kipa.co.il##.bannerJambo
-kipa.co.il##.pirsum110
-kipa.co.il##.textualy
-kipa.co.il##[id^="pir-"]
-kipa.co.il##a[href="http://www.babetov.co.il"]
-kipa.co.il##div[style=" float:right; width:300px; margin:-2px ; height:160px; padding:0px;"]
 ladaat.info###divBranzaRightBanner
 ladaat.info###divMainBanner
 ladaat.info###divMekomiRightBanner
