@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WJIOrvN/yB8t0DCm7HsqGw
+! Checksum: j4EGJO9FZZQkF6Jq//kipw
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2017 21:25 UTC
+! Last modified: 01 Nov 2017 21:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -610,6 +610,7 @@ zegvid.net##*
 @@||kml.co.il^$generichide
 @@||leava.co.il^$generichide
 @@||multidown.me^$generichide
+@@||olamha-media.com^$generichide
 @@||pitaronfree.blogspot.co.il^$generichide
 @@||pitaronfree.blogspot.com^$generichide
 @@||themarker.com^$generichide
