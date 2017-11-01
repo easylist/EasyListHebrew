@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: S8+WD4CZK3twNy/tFo8DGA
+! Checksum: WJIOrvN/yB8t0DCm7HsqGw
 ! Title: EasyList Hebrew
-! Last modified: 31 Oct 2017 11:55 UTC
+! Last modified: 01 Nov 2017 21:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -420,6 +420,7 @@
 !
 ||sport5.co.il^$websocket,~third-party,domain=sport5.co.il
 !
+||g-static.gdn^$third-party,domain=sport5.co.il
 ||sport5.co.il/banners2/
 ||sporty.gdn^$popup,third-party,domain=sport5.co.il
 ||sporty.gdn^$third-party,domain=sport5.co.il
@@ -672,7 +673,8 @@ zegvid.net##*
 @@||old-games.org^$document
 @@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il^$xmlhttprequest
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il|sport5.co.il
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com|repo.thewiz.info
 @@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=haaretz.co.il|one.co.il|reshet.tv|themarker.com
