@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oKpZ7hjLiawsE4VuYR7P0Q
+! Checksum: KVKz3Lp3m52vWoNTtQpRKA
 ! Title: EasyList Hebrew
-! Last modified: 06 Nov 2017 12:42 UTC
+! Last modified: 06 Nov 2017 12:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -880,6 +880,7 @@ calcalist.co.il##.advrst
 calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
+cars.sport5.co.il##.body-cat-magazine:nth-of-type(5)
 carsforum.co.il###bannerwrap
 carsforum.co.il##.box2
 carsforum.co.il##div[style="float:left;padding-left:3px;"]
