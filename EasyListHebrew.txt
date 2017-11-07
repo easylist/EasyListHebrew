@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KVKz3Lp3m52vWoNTtQpRKA
+! Checksum: RPp81ylnwd6w6y3Er670lA
 ! Title: EasyList Hebrew
-! Last modified: 06 Nov 2017 12:45 UTC
+! Last modified: 07 Nov 2017 17:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1173,6 +1173,7 @@ sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il###wrapper > div > div:nth-child(11) > span
 sport5.co.il###wrapper > div > div:nth-child(6)
 sport5.co.il##.article-holder > .alt
+sport5.co.il##.article-list-alt2.article-list-alt > .article-holder-homepage > .row:nth-of-type(6) > .alt
 sport5.co.il##.aside > .banner-container
 sport5.co.il##.banner-list
 sport5.co.il##.iphone
