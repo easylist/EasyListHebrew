@@ -448,6 +448,7 @@
 ||kipa.co.il/minisites/go.asp$popup
 ||kipasruga.com/banner/
 ||landing.kipa.co.il/?id=$popup
+||static10.kipa.co.il/userFiles/moodaot/
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
