@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: m0NbRzf1RZAm6vsEbyRpBQ
+! Checksum: GXqILg7tLIhpPe9S7ekj6Q
 ! Title: EasyList Hebrew
-! Last modified: 23 Nov 2017 21:25 UTC
+! Last modified: 23 Nov 2017 21:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -431,7 +431,6 @@
 ||tapuz.co.il/Forums2008/googleInTreeFrame.html
 ||tapuz.co.il/Forums2008/outMaavaron.aspx
 ||tapuz.co.il/communa/merlin_
-||tapuz.co.il/static/accessibility/accessibility.js
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
 ! * inn.co.il * !
