@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xj2PE4IEwx81+sjmAJk+yA
+! Checksum: j/C/pMqFozgzsJoogPjhWA
 ! Title: EasyList Hebrew
-! Last modified: 06 Dec 2017 09:50 UTC
+! Last modified: 06 Dec 2017 10:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -110,6 +110,7 @@
 ||akamhd.com^$third-party
 ||amazuk.com^$third-party
 ||apiscdn.com^$third-party
+||artipbox.net^$third-party
 ||asermtawlfs.xyz^$third-party
 ||bakkels.com^$third-party
 ||bargainpricedude.com^$third-party
@@ -364,6 +365,9 @@
 ||psakdin.co.il/ExternalFrames/$domain=mako.co.il
 ||sdc.mako.co.il^
 ! * Globes * !
+|http:$media,third-party,domain=globes.co.il
+|https:$media,third-party,domain=globes.co.il
+||globes.co.il/ga.asp,domain=globes.co.il
 ||www.globes.co.il^$important,websocket,first-party,domain=www.globes.co.il
 ||www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
 !
