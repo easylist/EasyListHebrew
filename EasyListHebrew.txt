@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Kb3jEToLo+JHYDICxtsZDA
+! Checksum: dUoqmrvOa+etqUZ5aAg7og
 ! Title: EasyList Hebrew
-! Last modified: 06 Dec 2017 10:14 UTC
+! Last modified: 06 Dec 2017 10:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -105,7 +105,20 @@
 ||jdate.co.il^$third-party
 ||shorter.co.il/js/fp.js.php
 !
+||07af698ea8a2a5a789b79c2d75ba83d3.com^$third-party
+||11a5ade414a6a4b9969685db9e96b193.com^$third-party
+||122949d67b35f6c3372bfa3b4a3b8a1e.com^$third-party
+||166460e61382a8ab15094a0fb111cc1b.com^$third-party
+||1f50dd61ec6bc6a1b98ae412ea4d812f.com^$third-party
+||21635bfdc5175ce523de634889b83c39.com^$third-party
+||22e83777b5823d5a95d63948737fb965.com^$third-party
+||29aac8974ae5d04e1df65c27f4405615.com^$third-party
+||48c5d27faef8b635e99e00ef9b5fd0cd.com^$third-party
 ||530d4fe852707f9c754106c40642dbba.com^$third-party
+||65c95461c6e393d6c0d692e3dfb1bcb0.com^$third-party
+||7795bfb724d4b16306823af218bc11fd.com^$third-party
+||D8737fad2b67f17837092e422ff435c7.com^$third-party
+||Ea737463bdf5d652a88657bc3846c56b.com^$third-party
 ||agecdn.me^$third-party
 ||akamhd.com^$third-party
 ||amazuk.com^$third-party
@@ -500,6 +513,9 @@
 |http://$script,third-party,domain=serethd.net
 ! * TVIL.ME * !
 ||cloudfront.net^$script,domain=tvil.me
+!
+! * Artimedia * |
+/[a-z0-9A-z]{32,32}\.com/$media,third-party
 !
 !--------------------------1st party blocking rules---------------------------!
 !
