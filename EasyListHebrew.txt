@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dUoqmrvOa+etqUZ5aAg7og
+! Checksum: zCvGEJ1a9ZX7fSdHs//dLA
 ! Title: EasyList Hebrew
-! Last modified: 06 Dec 2017 10:33 UTC
+! Last modified: 09 Dec 2017 22:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -55,6 +55,7 @@
 ||anetkin.biz^$popup,third-party
 ||anetkin.co.il^$popup,third-party
 ||anetkin.org^$popup,third-party
+||artipbox.net^$third-party
 ||asakimerp.co.il^$popup,third-party
 ||azadv.co.il^$popup,third-party
 ||best-offers.co.il^$popup,third-party
@@ -117,13 +118,13 @@
 ||530d4fe852707f9c754106c40642dbba.com^$third-party
 ||65c95461c6e393d6c0d692e3dfb1bcb0.com^$third-party
 ||7795bfb724d4b16306823af218bc11fd.com^$third-party
-||D8737fad2b67f17837092e422ff435c7.com^$third-party
-||Ea737463bdf5d652a88657bc3846c56b.com^$third-party
+||d8737fad2b67f17837092e422ff435c7.com^$third-party
+||ea737463bdf5d652a88657bc3846c56b.com^$third-party
+!
 ||agecdn.me^$third-party
 ||akamhd.com^$third-party
 ||amazuk.com^$third-party
 ||apiscdn.com^$third-party
-||artipbox.net^$third-party
 ||asermtawlfs.xyz^$third-party
 ||bakkels.com^$third-party
 ||bargainpricedude.com^$third-party
@@ -300,6 +301,7 @@
 !
 |http:$media,third-party,domain=walla.co.il
 |https:$media,third-party,domain=walla.co.il
+!
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
@@ -382,12 +384,13 @@
 ! * Globes * !
 |http:$media,third-party,domain=globes.co.il
 |https:$media,third-party,domain=globes.co.il
-||globes.co.il/ga.asp,domain=globes.co.il
+!
 ||www.globes.co.il^$important,websocket,first-party,domain=www.globes.co.il
 ||www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
 !
 *$webrtc,domain=globes.co.il
 !
+||globes.co.il/ga.asp$domain=globes.co.il
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Calcalist * !
@@ -459,6 +462,7 @@
 @@||a7.org/media$media,domain=inn.co.il
 |http:$media,third-party,domain=inn.co.il
 |https:$media,third-party,domain=inn.co.il
+!
 ||a7.org/scripts/Maavaron.js
 ||dwnmedia.a7.org/inntv/media/
 ||info.a7.org^$domain=inn.co.il
@@ -513,9 +517,8 @@
 |http://$script,third-party,domain=serethd.net
 ! * TVIL.ME * !
 ||cloudfront.net^$script,domain=tvil.me
-!
 ! * Artimedia * |
-/[a-z0-9A-z]{32,32}\.com/$media,third-party
+/[a-fA-F0-9]{32}\.com([\/\:]|$)/$media,third-party
 !
 !--------------------------1st party blocking rules---------------------------!
 !
