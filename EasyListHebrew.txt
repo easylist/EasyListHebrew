@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zCvGEJ1a9ZX7fSdHs//dLA
+! Checksum: QJlwBBwLkgiZSUQxDzxgpw
 ! Title: EasyList Hebrew
-! Last modified: 09 Dec 2017 22:25 UTC
+! Last modified: 09 Dec 2017 22:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -729,7 +729,6 @@ zegvid.net##*
 @@||seximo.co.il/content/images/ads/$image,~third-party
 @@||sfx-images.mozilla.org^$image
 @@||shukitv.ucoz.com/script/ads.js
-@@||subscenter.cinemast.com/static/js/ads_external.min.js
 @@||taimeod.co.il^$document
 @@||themarker.com/Images/negative.png$image,domain=haaretz.co.il|themarker.com
 @@||themarker.com/Images/positive.png$image,domain=haaretz.co.il|themarker.com
@@ -1227,9 +1226,6 @@ start.co.il##.banner_container
 start.co.il##section[zone="117"]
 start.co.il##section[zone="119"]
 stips.co.il##.adsenseAd
-subscenter.cinemast.com###advert
-subscenter.cinemast.com###bgLeft
-subscenter.cinemast.com##center
 tahazit.co.il###ad-preload
 tahazit.co.il###ad-preload-gray-bg
 takdin.co.il##.mainUpperBanner
