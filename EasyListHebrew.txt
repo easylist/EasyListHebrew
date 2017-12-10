@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Bk3NrQOFWzgsmj7hH5hXow
+! Checksum: DSxwKyQ2DL8q3E3jJJRnkQ
 ! Title: EasyList Hebrew
-! Last modified: 09 Dec 2017 22:37 UTC
+! Last modified: 10 Dec 2017 10:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -107,6 +107,7 @@
 ||shorter.co.il/js/fp.js.php
 !
 ||07af698ea8a2a5a789b79c2d75ba83d3.com^$third-party
+||102320fef81194c7b0c7c6bbe64d845d.com^$third-party
 ||11a5ade414a6a4b9969685db9e96b193.com^$third-party
 ||122949d67b35f6c3372bfa3b4a3b8a1e.com^$third-party
 ||166460e61382a8ab15094a0fb111cc1b.com^$third-party
@@ -459,7 +460,9 @@
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
 ! * inn.co.il * !
-@@||a7.org/media$media,domain=inn.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(flowplayer|a7.org|promisejs|backbonejs|angularjs|dojotoolkit|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|4chan)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,subdocument,domain=inn.co.il
+/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|ytimg|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwplayer|jwpcdn|jwpltx|brightcove|embedly|streamable|iheart|bandcamp|bcbits|ted|tedcdn|imgur|imgflip|snapwidget|amazonaws|elasticbeanstalk|cloudflare|bootstrapcdn|disqus|disquscdn|oneall|oneallcdn|sumome|kxcdn|kickstarter|fontawesome|365scores|imageshack|paypal|amazon|ebay|gravatar|blogspot|wordpress|wp|videopress|googleusercontent|googlevideo|bing|aspnetcdn|githubusercontent|knockoutjs|addtoany|addthisevent|vicomi|cincopa|waze|bynetcdn|hunchbots|jeeng|cloudinary|coralogix|sniperm|dinovich|devdino|fast-direct|shortaudition|syteapi|shopstyle-cdn|segmanta|opinionstage|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|h-cdn|scorecardresearch|serving-sys|bluekai|cooladata|tiviclick|netdna-ssl|aniview|ruchlis|hotjar|flx1|mxpnl|adnxs|moatads|exelator|adoric-ads|activetrail|sekindo|conduit|makojs|themarker|fortvision|perfectmarket)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=inn.co.il
+@@||a7.org/media/a7radio$media,domain=inn.co.il
 |http:$media,third-party,domain=inn.co.il
 |https:$media,third-party,domain=inn.co.il
 !
@@ -519,6 +522,8 @@
 ||cloudfront.net^$script,domain=tvil.me
 ! * Artimedia * |
 /[a-fA-F0-9]{32}\.com([\/\:]|$)/$media,third-party
+amsdk.js$script
+||advsnx.net^$popup,third-party
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -999,7 +1004,7 @@ inn.co.il###divInfMiddle1
 inn.co.il###divInfMiddle2
 inn.co.il###divMainLeftInfo
 inn.co.il##.InfoIn
-inn.co.il##a[href*="info.a7.org/info/delivery/ck.php"]
+inn.co.il##a[href*="a7.org/info/delivery/ck.php"]
 inn.co.il##a[href*="theadblockerproject.org"]
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
