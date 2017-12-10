@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DSxwKyQ2DL8q3E3jJJRnkQ
+! Checksum: b6JGFyjPhvIIMGF6HV4y4Q
 ! Title: EasyList Hebrew
-! Last modified: 10 Dec 2017 10:42 UTC
+! Last modified: 10 Dec 2017 15:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -300,9 +300,6 @@
 ||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=walla.co.il
 ||walla.co.il/dist/scripts/ads/global-targeting.js$script,redirect=noopjs,domain=walla.co.il
 !
-|http:$media,third-party,domain=walla.co.il
-|https:$media,third-party,domain=walla.co.il
-!
 ||a.walla.co.il^
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
@@ -383,9 +380,6 @@
 ||psakdin.co.il/ExternalFrames/$domain=mako.co.il
 ||sdc.mako.co.il^
 ! * Globes * !
-|http:$media,third-party,domain=globes.co.il
-|https:$media,third-party,domain=globes.co.il
-!
 ||www.globes.co.il^$important,websocket,first-party,domain=www.globes.co.il
 ||www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
 !
@@ -460,12 +454,6 @@
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
 ! * inn.co.il * !
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(flowplayer|a7.org|promisejs|backbonejs|angularjs|dojotoolkit|openstreetmap|wikimapia|wikimedia|wikipedia|w3|archive|postimage|imgsafe|4chan)\.org\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,subdocument,domain=inn.co.il
-/^(?![a-z]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|jquery|youtube|ytimg|facebook|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|image-maps|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|linkedin|jwplayer|jwpcdn|jwpltx|brightcove|embedly|streamable|iheart|bandcamp|bcbits|ted|tedcdn|imgur|imgflip|snapwidget|amazonaws|elasticbeanstalk|cloudflare|bootstrapcdn|disqus|disquscdn|oneall|oneallcdn|sumome|kxcdn|kickstarter|fontawesome|365scores|imageshack|paypal|amazon|ebay|gravatar|blogspot|wordpress|wp|videopress|googleusercontent|googlevideo|bing|aspnetcdn|githubusercontent|knockoutjs|addtoany|addthisevent|vicomi|cincopa|waze|bynetcdn|hunchbots|jeeng|cloudinary|coralogix|sniperm|dinovich|devdino|fast-direct|shortaudition|syteapi|shopstyle-cdn|segmanta|opinionstage|playbuzz|apester|qmerce|outbrain|taboola|taboolasyndication|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|dynamicyield|h-cdn|scorecardresearch|serving-sys|bluekai|cooladata|tiviclick|netdna-ssl|aniview|ruchlis|hotjar|flx1|mxpnl|adnxs|moatads|exelator|adoric-ads|activetrail|sekindo|conduit|makojs|themarker|fortvision|perfectmarket)\.com\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=inn.co.il
-@@||a7.org/media/a7radio$media,domain=inn.co.il
-|http:$media,third-party,domain=inn.co.il
-|https:$media,third-party,domain=inn.co.il
-!
 ||a7.org/scripts/Maavaron.js
 ||dwnmedia.a7.org/inntv/media/
 ||info.a7.org^$domain=inn.co.il
@@ -521,9 +509,7 @@
 ! * TVIL.ME * !
 ||cloudfront.net^$script,domain=tvil.me
 ! * Artimedia * |
-/[a-fA-F0-9]{32}\.com([\/\:]|$)/$media,third-party
-amsdk.js$script
-||advsnx.net^$popup,third-party
+/[a-fA-F0-9]{32}\.com([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
 !
 !--------------------------1st party blocking rules---------------------------!
 !
