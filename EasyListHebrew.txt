@@ -315,6 +315,8 @@
 ||x.walla.co.il^*.mp4|
 ||xwbe.wcdn.co.il^$image
 ||xwne.wcdn.co.il^$domain=walla.co.il
+||walla.co.il##img[src^="blob:"]
+
 ! * ynet * !
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*((gov|idf|muni|ac|k12)\.il|(google|blogspot|nagich|icast|rabbi|23tv|yit|yediot|yedioth|yedioth-magazine|ynet|calcalist|pplus|xnet|blazermagazine|frogi|rosh1|winwin|kick|mynet|kikar|mame|one|telesport|ynetshops|ynettours|ynetart|ynetalbums|yschool|yedschool|shoppinglaisha|dolcemaster|zikaronet|alljobs|bigdeal|pro|rol|infomed|madlan|emap|e-vrit|belkin-ad|hasapakim|hamara|fxglive|smartair|hotelscombined|maor|psakdin|alpha|romshamaim)\.co\.il|kan\.org\.il|hot\.net\.il|(hayadan|zavit|ruachtova)\.org\.il)\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^(?![a-z]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|dmcdn|slideshare|cloudfront|akamai|akamaihd|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|windows|hwcdn|bitsngo|doubleclick|advsnx|pagefair|liveadserver|msecnd|freegeoip|total-media)\.net\.?([\/\:]|$))^[a-z]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
@@ -465,6 +467,7 @@
 ||kipa.co.il/minisites/go.asp$popup
 ||kipasruga.com/banner/
 ||landing.kipa.co.il/?id=$popup
+||static10.kipa.co.il/userFiles/moodaot/
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
