@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JJeMwjFCEiJ44LzCvFq6Yw
+! Checksum: aknZcP5R67OT2RJCftYKZA
 ! Title: EasyList Hebrew
-! Last modified: 13 Dec 2017 16:46 UTC
+! Last modified: 13 Dec 2017 17:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -166,8 +166,8 @@
 ||klnrew.site^$third-party
 ||kmrnkjer.xyz^$third-party
 ||kozikar.com^$third-party
-||loopmaze.com^$third-party
 ||logidea.info^$third-party
+||loopmaze.com^$third-party
 ||maskoter.com^$third-party
 ||mohengdu.com^$third-party
 ||nepohita.com^$third-party
@@ -509,8 +509,8 @@
 ||cloudfront.net^$script,domain=tvil.me
 ! * Artimedia * |
 /[a-fA-F0-9]{32}\.com([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
-/amsdk.js$script,xmlhttprequest,domain=walla.co.il,calcalist.co.il,globes.co.il,inn.co.il,tapuz.co.il,10.tv
-||advsnx.net^$popup,third-party,domain=walla.co.il,calcalist.co.il,globes.co.il,inn.co.il,tapuz.co.il,10.tv
+/amsdk.js$script,xmlhttprequest,calcalist.co.il,globes.co.il,inn.co.il,tapuz.co.il,10.tv,domain=walla.co.il
+||advsnx.net^$popup,third-party,calcalist.co.il,globes.co.il,inn.co.il,tapuz.co.il,10.tv,domain=walla.co.il
 !
 !--------------------------1st party blocking rules---------------------------!
 !
