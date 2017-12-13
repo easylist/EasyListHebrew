@@ -167,6 +167,7 @@
 ||kmrnkjer.xyz^$third-party
 ||kozikar.com^$third-party
 ||loopmaze.com^$third-party
+||logidea.info^$third-party
 ||maskoter.com^$third-party
 ||mohengdu.com^$third-party
 ||nepohita.com^$third-party
@@ -308,8 +309,6 @@
 ||i.walla.co.il/w9/swf/video_swf/userslider.swf
 ||kxcdn.com^$third-party,domain=6days.walla.co.il|animals.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|sports.walla.co.il|tech.walla.co.il|travel.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|www.walla.co.il
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
-||logidea.info^$third-party,domain=walla.co.il
-||taboola.com^$third-party,domain=walla.co.il
 ||waab.walla.co.il^$object-subrequest
 ||wrtm.walla.co.il^
 ||x.walla.co.il^$image,domain=mail.walla.co.il
@@ -510,6 +509,8 @@
 ||cloudfront.net^$script,domain=tvil.me
 ! * Artimedia * |
 /[a-fA-F0-9]{32}\.com([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
+/amsdk.js$script,xmlhttprequest,domain=walla.co.il,calcalist.co.il,globes.co.il,inn.co.il,tapuz.co.il,10.tv
+||advsnx.net^$popup,third-party,domain=walla.co.il,calcalist.co.il,globes.co.il,inn.co.il,tapuz.co.il,10.tv
 !
 !--------------------------1st party blocking rules---------------------------!
 !
