@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lr4SMhwUK3DlXf71rAcFoA
+! Checksum: Y9RtKKkqs536EnCskmEeww
 ! Title: EasyList Hebrew
-! Last modified: 13 Dec 2017 17:59 UTC
+! Last modified: 13 Dec 2017 18:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -247,6 +247,7 @@
 ||lastpage.pw^$popup,third-party
 ||leshem.info^$popup,third-party
 ||lotocash.co.il^$popup,third-party
+||makealine.club^$popup,third-party
 ||makelove.co.il^$popup,third-party
 ||medical-rights.co.il^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
