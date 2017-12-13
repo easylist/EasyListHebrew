@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aknZcP5R67OT2RJCftYKZA
+! Checksum: lr4SMhwUK3DlXf71rAcFoA
 ! Title: EasyList Hebrew
-! Last modified: 13 Dec 2017 17:58 UTC
+! Last modified: 13 Dec 2017 17:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -509,8 +509,8 @@
 ||cloudfront.net^$script,domain=tvil.me
 ! * Artimedia * |
 /[a-fA-F0-9]{32}\.com([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
-/amsdk.js$script,xmlhttprequest,calcalist.co.il,globes.co.il,inn.co.il,tapuz.co.il,10.tv,domain=walla.co.il
-||advsnx.net^$popup,third-party,calcalist.co.il,globes.co.il,inn.co.il,tapuz.co.il,10.tv,domain=walla.co.il
+/amsdk.js$script,xmlhttprequest,domain=10.tv|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
+||advsnx.net^$popup,third-party,domain=10.tv|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
 !
 !--------------------------1st party blocking rules---------------------------!
 !
