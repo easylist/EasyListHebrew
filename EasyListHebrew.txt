@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Y9RtKKkqs536EnCskmEeww
+! Checksum: Y6l63u8fWTUxJmZLIvAu6A
 ! Title: EasyList Hebrew
-! Last modified: 13 Dec 2017 18:25 UTC
+! Last modified: 14 Dec 2017 21:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -166,7 +166,6 @@
 ||klnrew.site^$third-party
 ||kmrnkjer.xyz^$third-party
 ||kozikar.com^$third-party
-||logidea.info^$third-party
 ||loopmaze.com^$third-party
 ||maskoter.com^$third-party
 ||mohengdu.com^$third-party
@@ -310,6 +309,7 @@
 ||i.walla.co.il/w9/swf/video_swf/userslider.swf
 ||kxcdn.com^$third-party,domain=6days.walla.co.il|animals.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|sports.walla.co.il|tech.walla.co.il|travel.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|www.walla.co.il
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
+||logidea.info^$third-party,domain=walla.co.il
 ||waab.walla.co.il^$object-subrequest
 ||wrtm.walla.co.il^
 ||x.walla.co.il^$image,domain=mail.walla.co.il
@@ -385,7 +385,7 @@
 !
 *$webrtc,domain=globes.co.il
 !
-||globes.co.il/ga.asp$domain=globes.co.il
+||globes.co.il/ga.asp$~third-party
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Calcalist * !
@@ -509,7 +509,7 @@
 ! * TVIL.ME * !
 ||cloudfront.net^$script,domain=tvil.me
 ! * Artimedia * |
-/[a-fA-F0-9]{32}\.com([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
+/(\/|\.)[a-fA-F0-9]{32}\.com\.?([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
 /amsdk.js$script,xmlhttprequest,domain=10.tv|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
 ||advsnx.net^$popup,third-party,domain=10.tv|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
 !
