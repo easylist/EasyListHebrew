@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Y6l63u8fWTUxJmZLIvAu6A
+! Checksum: S5+9AfS/XfhDCdfH+COveA
 ! Title: EasyList Hebrew
-! Last modified: 14 Dec 2017 21:44 UTC
+! Last modified: 16 Dec 2017 17:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -755,7 +755,6 @@ holmesplace.co.il#@#.image-advertisement
 homeless.co.il#@#.postad
 hwzone.co.il#@##adsense
 ice.co.il#@#.afs_ads
-inn.co.il#@##divTopAd
 inn.co.il#@#.adsbygoogle
 junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
