@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: S5+9AfS/XfhDCdfH+COveA
+! Checksum: e3G0eulhs4P+t7jlQjTZWw
 ! Title: EasyList Hebrew
-! Last modified: 16 Dec 2017 17:00 UTC
+! Last modified: 19 Dec 2017 08:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -776,6 +776,7 @@ tapuz.co.il#@#.afs_ads
 ||live.sekindo.com/uploads/users/*/ads/
 ||m.sport5.co.il/Images/DreamTeam320X40.png
 ||mob-server.com^$script,domain=m.nrg.co.il
+||resources.fortvision.com/staticfiles
 ||sport5.co.il/cm8ads/
 ||static.fortvision.com/staticfiles/fb-web/
 !
@@ -991,6 +992,7 @@ inn.co.il###divB800
 inn.co.il###divBottomAd
 inn.co.il###divInfMiddle1
 inn.co.il###divInfMiddle2
+inn.co.il###divMaavaron
 inn.co.il###divMainLeftInfo
 inn.co.il##.InfoIn
 inn.co.il##a[href*="a7.org/info/delivery/ck.php"]
