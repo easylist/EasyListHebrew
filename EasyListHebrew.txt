@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FABUTU5Y1UvgVG9Pvj+KAw
+! Checksum: G0HBBUX6COOkXTvrXVmB4Q
 ! Title: EasyList Hebrew
-! Last modified: 19 Dec 2017 19:31 UTC
+! Last modified: 19 Dec 2017 19:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -509,12 +509,11 @@
 ||cloudfront.net^$script,domain=tvil.me
 ! * Artimedia * |
 /(\/|\.)[a-fA-F0-9]{32}\.com\.?([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
-/amsdk.js$script,xmlhttprequest,domain=10.tv|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
-||advsnx.net^$popup,third-party,domain=10.tv|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
+/amsdk.js$script,xmlhttprequest,domain=0404.co.il|10.tv|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
+||advsnx.net^$popup,third-party,domain=0404.co.il|10.tv|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
 !
 !--------------------------1st party blocking rules---------------------------!
 !
-||0404.co.il/public/assets/images/*banner
 ||212.129.12.90/zivlin/*.swf
 ||2eat.co.il/banner/
 ||ads.one.co.il^
@@ -842,6 +841,7 @@ nana10.co.il,nrg.co.il,wallashops.co.il###topBanner
 !
 ! *** Specific domain *** !
 !
+0404.co.il##.sidebannerads
 10tv.nana10.co.il##.ArticleInlineObject[style="width:300px;border:0;padding:0;"]
 10tv.nana10.co.il##[style="top:800px; right:0px; width:320px; height:320px;"] > .tmplInner.size300x300
 10tv.nana10.co.il##[style="top:800px; right:800px; width:320px; height:320px;"] > .tmplInner.size300x300
