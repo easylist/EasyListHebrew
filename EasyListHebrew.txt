@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jHShI53X0HbANsa2bJQdlg
+! Checksum: MLEs/13IgWwCgJynKrCA0A
 ! Title: EasyList Hebrew
-! Last modified: 31 Dec 2017 17:55 UTC
+! Last modified: 02 Jan 2018 13:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -26,7 +26,7 @@
 ||clickon.co.il^$third-party
 ||erate.co.il^$third-party
 ||gitam.1host.co.il^$third-party
-||jwtdigital-media.co.il^$third-party,~font
+||jwtdigital-media.co.il^$~font,third-party
 ||media.adextent.com^$third-party
 ||media.foxweb.co.il^$third-party
 ||mimgoal.com^$third-party
@@ -648,13 +648,13 @@ zegvid.net##*
 @@||adnxs.com^$object-subrequest,domain=mako.co.il|reshet.tv
 @@||ads.yad2.co.il/adPic.png$image
 @@||akamai.advsnx.net/CDN/$domain=10.tv|c10-live.cloudvideoplatform.com|c10-vod.cloudvideoplatform.com|kikar.co.il|nana10.co.il
-@@||akamai.advsnx.net/CDN/arutz7$script
+@@||akamai.advsnx.net/CDN/arutz7/$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
 @@||akamai.advsnx.net/CDN/walla/
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il
 @@||akamai.advsnx.net^$domain=mako.co.il
-@@||baligam.go2cloud.org$popup,domain=getitall.co.il
+@@||baligam.go2cloud.org^$popup,domain=getitall.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||bhol.co.il/Flash/vaad
 @@||bhol.co.il/imagebank/400x250
