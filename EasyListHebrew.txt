@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5sI2VEFBBLa2ky1aUMolgQ
+! Checksum: Vnehf104w76qo4Qfn1pmEQ
 ! Title: EasyList Hebrew
-! Last modified: 02 Jan 2018 13:54 UTC
+! Last modified: 03 Jan 2018 12:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -301,8 +301,6 @@
 ||walla.co.il/dist/scripts/ads/global-targeting.js$script,redirect=noopjs,domain=walla.co.il
 !
 ||a.walla.co.il^
-||artipbox.net^$third-party,domain=walla.co.il
-||azureedge.net^$third-party,domain=walla.co.il
 ||fus.walla.co.il/js/purcf/walla.friends.rashi.main$script
 ||fus.walla.co.il/report/
 ||fus.walla.co.il/script.js?1$domain=tv-guide.walla.co.il
@@ -518,6 +516,8 @@
 /(\/|\.)[a-fA-F0-9]{32}\.com\.?([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
 /amsdk.js$script,xmlhttprequest,domain=0404.co.il|10.tv|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
 ||advsnx.net^$popup,third-party,domain=0404.co.il|10.tv|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
+||artipbox.net^$third-party,domain=0404.co.il|10.tv|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
+||azureedge.net^$third-party,domain=0404.co.il|10.tv|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -1002,6 +1002,7 @@ inn.co.il###divMainLeftInfo
 inn.co.il##.InfoIn
 inn.co.il##a[href*="a7.org/info/delivery/ck.php"]
 inn.co.il##a[href*="theadblockerproject.org"]
+inn.co.il##img[width="300"][height="600"]
 israelhayom.co.il###mini-panel-top_banner
 israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.light-box-wrp
