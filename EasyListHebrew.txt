@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bQ8zpJlEZCmcuyLvdRoAhw
+! Checksum: gwz2Tgmyu/HvD27eKnkpKQ
 ! Title: EasyList Hebrew
-! Last modified: 04 Jan 2018 21:36 UTC
+! Last modified: 04 Jan 2018 21:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1266,6 +1266,7 @@ tapuz.co.il##[id^="netex_"]
 tatus.co.il##.rs
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
+tgspot.co.il##.td-adspot-title-320
 totalchat.co.il###PublichVoiceChat
 upf.co.il##.bgbanner
 walla.co.il##.ads-spaces-shdera-hp
