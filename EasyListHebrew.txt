@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0+0t5ynJvL6FsMvoEY9esA
+! Checksum: ER2L8IWMv+gv65XTIL83uw
 ! Title: EasyList Hebrew
-! Last modified: 05 Jan 2018 10:55 UTC
+! Last modified: 06 Jan 2018 21:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -448,6 +448,9 @@
 ||sport5.co.il/banners2/
 ||sporty.gdn^$popup,third-party,domain=sport5.co.il
 ||sporty.gdn^$third-party,domain=sport5.co.il
+! * ONE * !
+||ads.one.co.il^
+||xads.zedo.com/ads2/c?*.one.co.il/$important,first-party,redirect=noopjs
 ! * Tapuz, Flix * !
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
@@ -523,7 +526,6 @@
 !
 ||212.129.12.90/zivlin/*.swf
 ||2eat.co.il/banner/
-||ads.one.co.il^
 ||auto.co.il/Banner
 ||auto.co.il/Base/UserControls/Banner/IframeBanner.aspx?
 ||banners.news1.co.il^
