@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zoSlJr2DLPIKl12qjry+ig
+! Checksum: hvFylq26tQAlE3FYBB8+Rg
 ! Title: EasyList Hebrew
-! Last modified: 29 Jan 2018 17:32 UTC
+! Last modified: 29 Jan 2018 17:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -521,8 +521,8 @@
 ||cloudfront.net^$script,domain=tvil.me
 ! * Artimedia * |
 /(\/|\.)[a-fA-F0-9]{32}\.com\.?([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
-/amsdk.js$script,xmlhttprequest,domain=0404.co.il|10.tv|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
-||advsnx.net^$popup,third-party,domain=0404.co.il|10.tv|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|tapuz.co.il|walla.co.il
+/amsdk.js$script,xmlhttprequest,domain=0404.co.il|10.tv|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|mako.co.il|tapuz.co.il|walla.co.il
+||advsnx.net^$popup,third-party,domain=0404.co.il|10.tv|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|mako.co.il|tapuz.co.il|walla.co.il
 !
 !--------------------------1st party blocking rules---------------------------!
 !
@@ -657,9 +657,11 @@ zegvid.net##*
 @@||akamai.advsnx.net/CDN/arutz7/$script
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
+@@||akamai.advsnx.net/CDN/sdk/*-min.js?$script,domain=mako.co.il
+@@||akamai.advsnx.net/CDN/sdk/system-scripts/sys-moat.js$script,domain=mako.co.il
 @@||akamai.advsnx.net/CDN/walla/
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il
-@@||akamai.advsnx.net^$domain=mako.co.il
+@@||akamai.advsnx.net^$xmlhttprequest,domain=mako.co.il
 @@||baligam.go2cloud.org^$popup,domain=getitall.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||bhol.co.il/Flash/vaad
@@ -1070,6 +1072,7 @@ mako.co.il###neoTopStrip
 mako.co.il##.bannerClose
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
+mako.co.il##[href^="https://adclick.g.doubleclick.net/"]
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
 mako.co.il##div[class*="teaserSmall"]:nth-child(3)
 mako.co.il##iframe[src*="javascript:document.write('"]
