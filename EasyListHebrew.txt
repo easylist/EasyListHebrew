@@ -217,7 +217,6 @@
 ||com-cloud.co^$popup,third-party
 ||com-contact.co^$popup,third-party
 ||daily-prizes.men^$popup,third-party
-||descreti.co.il^$popup,third-party
 ||desktoptrack.com^$popup,third-party
 ||dingdong.co.il^$popup,third-party
 ||easygirls.info^$popup,third-party
