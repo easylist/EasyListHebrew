@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xze5U2byv1v5doo4tya2DA
+! Checksum: zmM+AQ7J3XretxQW/Wi8iQ
 ! Title: EasyList Hebrew
-! Last modified: 26 Feb 2018 20:47 UTC
+! Last modified: 28 Feb 2018 20:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -216,6 +216,7 @@
 ||com-1notification.co^$popup,third-party
 ||com-cloud.co^$popup,third-party
 ||com-contact.co^$popup,third-party
+||com-item.today^$popup,third-party
 ||daily-prizes.men^$popup,third-party
 ||desktoptrack.com^$popup,third-party
 ||dingdong.co.il^$popup,third-party
@@ -225,12 +226,14 @@
 ||facebookdating.link^$popup,third-party
 ||fattal-alazman.co.il/?a_aid$popup,third-party
 ||findsexguide.com^$popup,third-party
+||forexglobal.top^$popup,third-party
 ||giftandmore.club^$popup,third-party
 ||gilorly.leadpages.co^$popup,third-party
 ||hamashtap.co.il^$popup,third-party
 ||healthreports.co.il^$popup,third-party
 ||hekeroyot.com^$popup,third-party
 ||hook2up6.top^$popup,third-party
+||hookup-clubs.com^$popup,third-party
 ||horserace.co.il^$popup,third-party
 ||hotdate.co.il^$popup,third-party
 ||iforex.co.il/landing_pages^$popup,third-party
@@ -258,6 +261,7 @@
 ||pcnotification.com^$popup,third-party
 ||perfectpro.co.il^$popup,third-party
 ||press2win.online^$popup,third-party
+||quick-date.xyz^$popup,third-party
 ||rackcdn.com^$popup,third-party
 ||rateonclick.com^$popup,third-party
 ||reimageplus.com^$popup,third-party
