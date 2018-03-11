@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JipOLeNC1wzPDXtZamYAiw
+! Checksum: ZC1lia5Nm1/+yIqaX0qLXA
 ! Title: EasyList Hebrew
-! Last modified: 09 Mar 2018 15:39 UTC
+! Last modified: 11 Mar 2018 09:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -298,6 +298,8 @@
 ||walla.co.il^$websocket,~third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
 $webrtc,domain=walla.co.il
+!
+@@||walla.co.il^$generichide
 !
 .php?dst=$popup,third-party,domain=walla.co.il
 .php?url=$popup,third-party,domain=walla.co.il
