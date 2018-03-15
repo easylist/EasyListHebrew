@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bYwRNDcgdfi0SFUOSp5o4A
+! Checksum: JyVEsMofRPNyHcN9D2ciNQ
 ! Title: EasyList Hebrew
-! Last modified: 15 Mar 2018 21:43 UTC
+! Last modified: 15 Mar 2018 21:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -226,6 +226,7 @@
 ||facebookdating.link^$popup,third-party
 ||fattal-alazman.co.il/?a_aid$popup,third-party
 ||findsexguide.com^$popup,third-party
+||flirthere1.com^$popup,third-party
 ||forexglobal.top^$popup,third-party
 ||giftandmore.club^$popup,third-party
 ||gilorly.leadpages.co^$popup,third-party
