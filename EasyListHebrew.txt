@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: w3eY0wtEg/3W8luXghnyeg
+! Checksum: R6RmJWddHONCzfLtHjpzjQ
 ! Title: EasyList Hebrew
-! Last modified: 19 Mar 2018 16:43 UTC
+! Last modified: 19 Mar 2018 16:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -991,6 +991,7 @@ globes.co.il##.sekindo
 globes.co.il##a[href*="theadblockerproject.org"]
 globes.co.il##div[class^="popup1"]
 haaretz.co.il###ad-block-wrapper
+haaretz.co.il##.js-subscription-popups.modal-wrapper--dark.modal-wrapper--fixed.modal-wrapper
 haipo.co.il##div[onclick*="countAdClick"]
 hashekel.co.il###block-13
 hashekel.co.il###block-14
