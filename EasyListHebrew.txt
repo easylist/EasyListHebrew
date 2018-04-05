@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4ftXsTB7i4vaWJYAnEkPlg
+! Checksum: kfX++IPGhAQSJ+DakfnWTA
 ! Title: EasyList Hebrew
-! Last modified: 04 Apr 2018 16:49 UTC
+! Last modified: 05 Apr 2018 09:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -14,6 +14,9 @@
 ! or via email: easylisthebrew@gmail.com
 !
 ! Based on Fanboy's IsraelList
+!
+!---------------------Integration list with uBlock Origin---------------------!
+!#include EasyListHebrew-uBO.txt
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
@@ -295,22 +298,12 @@
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org|gov|mil|edu|int|ac\.uk)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|popkey\.co|tenor\.co|powr\.io|omny\.fm|last\.fm|github\.io|h-cdn\.co|twitch\.tv|vid\.me|minute\.ly|logidea\.info|zoomanalytics\.co|firstimpression\.io|atom-data\.io|sentry\.io|outbid\.io))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
-||walla.co.il^$important,websocket,first-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 ||walla.co.il^$websocket,~third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
 *$webrtc,domain=walla.co.il
 !
 .php?dst=$popup,third-party,domain=walla.co.il
 .php?url=$popup,third-party,domain=walla.co.il
-!
-||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=walla.co.il
-||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=walla.co.il
-||walla.co.il/dist/scripts/ads/global-targeting.js$script,redirect=noopjs,domain=walla.co.il
-!
-walla.co.il##script:inject(abort-current-inline-script.js, atob, TextDecoder)
-walla.co.il##script:inject(abort-current-inline-script.js, btoa, upManager)
-walla.co.il##script:inject(abort-on-property-read.js, isMobileasokita)
-walla.co.il##script:inject(nowebrtc.js)
 !
 ||a.walla.co.il^
 ||artipbox.net^$third-party,domain=walla.co.il
@@ -340,13 +333,9 @@ walla.co.il##script:inject(nowebrtc.js)
 /^(?![a-z]+\:\/+([^\/\:]+\.(il|com|net|org|gov|mil|edu|int|ac\.uk)|[\.0-9]+|([^\/\:\.]+\.)*(spot\.im|spots\.im|vine\.co|periscope\.tv|popkey\.co|tenor\.co|powr\.io|omny\.fm|last\.fm|github\.io|h-cdn\.co|twitch\.tv|vid\.me|minute\.ly|logidea\.info|zoomanalytics\.co|firstimpression\.io|bluesli\.de|trace\.events|atom-data\.io|ipinfo\.io|mobium-demo\.me|snackly\.co))\.?([\/\:]|$))^[^\/\:\.]+\:\/+[^\/\:\.]/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !
-||www.ynet.co.il^$important,websocket,first-party,domain=www.ynet.co.il
 ||www.ynet.co.il^$websocket,~third-party,domain=www.ynet.co.il
 !
 *$webrtc,domain=ynet.co.il
-!
-||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=ynet.co.il
-||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=ynet.co.il
 !
 /BannerScripts.js?$script,domain=mynetbatyam.co.il|mynethadera.co.il|mynetherzliya.co.il|mynethodhasharon.co.il|mynetholon.co.il|mynetjerusalem.co.il|mynetkfarsaba.co.il|mynetkibbutz.co.il|mynetnetanya.co.il|mynetpetahtikva.co.il|mynetraanana.co.il|mynetrehovot.co.il|mynetrishon.co.il|mynetroshhaayin.co.il
 !
@@ -373,15 +362,10 @@ walla.co.il##script:inject(nowebrtc.js)
 /^[a-z]+\:\/+[\.0-9]+([\/\:]|$)/$image,media,script,stylesheet,subdocument,third-party,domain=mako.co.il
 !
 |blob:$~script,domain=www.mako.co.il
-|blob:$~script,important,domain=www.mako.co.il
 !
-||www.mako.co.il^$important,websocket,first-party,domain=www.mako.co.il
 ||www.mako.co.il^$websocket,~third-party,domain=www.mako.co.il
 !
 *$webrtc,domain=mako.co.il
-!
-||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=mako.co.il
-||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=mako.co.il
 !
 ||activetrail.com^$third-party,domain=mako.co.il
 ||adoric-ads.com^$third-party,domain=mako.co.il
@@ -399,7 +383,6 @@ walla.co.il##script:inject(nowebrtc.js)
 ||rcs.mako.co.il/js/player/*/Artimedia/ArtimediaAdManager.js
 ||sdc.mako.co.il^
 ! * Globes * !
-||www.globes.co.il^$important,websocket,first-party,domain=www.globes.co.il
 ||www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
 !
 *$webrtc,domain=globes.co.il
@@ -408,13 +391,9 @@ walla.co.il##script:inject(nowebrtc.js)
 ||globes.co.il/globes/newsletters/minisites_2/banners/
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Calcalist * !
-||www.calcalist.co.il^$important,websocket,first-party,domain=www.calcalist.co.il
 ||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
 !
 *$webrtc,domain=calcalist.co.il
-!
-||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=calcalist.co.il
-||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=calcalist.co.il
 !
 ||psakdin.co.il^$domain=calcalist.co.il
 ||s3.amazonaws.com^$script,domain=calcalist.co.il
@@ -440,7 +419,6 @@ walla.co.il##script:inject(nowebrtc.js)
 ||common.nana10.co.il/JScript/GeneralModules/Banner/
 ||nana10.co.il/SiteServicePromotion/
 ! * Reshet * !
-||reshet.tv^$important,websocket,first-party,domain=reshet.tv
 ||reshet.tv^$websocket,~third-party,domain=reshet.tv
 !
 *$webrtc,domain=reshet.tv
@@ -461,7 +439,6 @@ walla.co.il##script:inject(nowebrtc.js)
 ||sporty.gdn^$third-party,domain=sport5.co.il
 ! * ONE * !
 ||ads.one.co.il^
-||xads.zedo.com/ads2/c?*.one.co.il/$important,first-party,redirect=noopjs
 ! * Tapuz, Flix * !
 ||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
 ||tapuz.co.il/Forums2008/JS/replaceLinks.js
@@ -471,7 +448,6 @@ walla.co.il##script:inject(nowebrtc.js)
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
 ! * inn.co.il * !
-||inn.co.il^$important,websocket,first-party,domain=inn.co.il
 ||inn.co.il^$websocket,~third-party,domain=inn.co.il
 !
 ||a7.org/CDN/sdk
@@ -495,7 +471,6 @@ walla.co.il##script:inject(nowebrtc.js)
 ||kipasruga.com/banner/
 ||landing.kipa.co.il/?id=$popup
 ! * 20il.co.il * !
-||20il.co.il^$important,websocket,first-party,domain=20il.co.il
 ||20il.co.il^$websocket,~third-party,domain=20il.co.il
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
@@ -503,16 +478,10 @@ walla.co.il##script:inject(nowebrtc.js)
 ||madas-ads.securest.org^$third-party
 ! * yad2 * !
 |blob:$domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
-|blob:$important,domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
 !
-||yad2.co.il^$important,websocket,first-party,domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
 ||yad2.co.il^$websocket,~third-party,domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
 !
 *$webrtc,domain=yad2.co.il
-!
-||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2-transparent.png,domain=yad2.co.il
-||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=yad2.co.il
-||yad2.co.il/js-new/showAds.js$script,redirect=noopjs,domain=yad2.co.il
 !
 ||my.yad2.co.il/Banner/
 ||my.yad2.co.il/dfpV3/script/DesktopMediaManager.js
