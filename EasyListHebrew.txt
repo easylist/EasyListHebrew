@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qnDTsPKiNtyWgxl9oUcI1g
+! Checksum: 4PrXXjWd8q5ZDspfhDzGtg
 ! Title: EasyList Hebrew
-! Last modified: 14 Apr 2018 21:26 UTC
+! Last modified: 14 Apr 2018 21:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -382,6 +382,7 @@
 ||rcs.mako.co.il/js/bannend.js
 ||rcs.mako.co.il/js/player/*/Artimedia/ArtimediaAdManager.js
 ||sdc.mako.co.il^
+||shironet.mako.co.il/jsp/images/main_strip_ad_box_718.gif
 ! * Globes * !
 ||www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
 !
