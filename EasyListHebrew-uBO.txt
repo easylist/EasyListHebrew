@@ -72,4 +72,7 @@ inn.co.il##script:inject(abort-on-property-read.js, TextDecoder)
 ||yad2.co.il/js-new/showAds.js$script,redirect=noopjs,domain=yad2.co.il
 !
 yad2.co.il##script:inject(abort-on-property-write.js, upManager)
+! * Haaretz, TheMarker, Mouse.co.il * !
+haaretz.co.il##script:inject(set-constant.js, showAds, true)
+themarker.com##script:inject(set-constant.js, showAds, true)
 !
