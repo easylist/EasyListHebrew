@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yJoT5b0bWE9PUb30zrdIZw
+! Checksum: YWl3rLR1NKBbB+CgPEOJGg
 ! Title: EasyList Hebrew
-! Last modified: 17 May 2018 21:24 UTC
+! Last modified: 17 May 2018 21:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -231,6 +231,7 @@
 ||findsexguide.com^$popup,third-party
 ||flirthere1.com^$popup,third-party
 ||forexglobal.top^$popup,third-party
+||freehookup.link^$popup,third-party
 ||giftandmore.club^$popup,third-party
 ||gilorly.leadpages.co^$popup,third-party
 ||hamashtap.co.il^$popup,third-party
@@ -254,6 +255,7 @@
 ||makealine.club^$popup,third-party
 ||makelove.co.il^$popup,third-party
 ||medical-rights.co.il^$popup,third-party
+||mibilezone.com^$popup,third-party
 ||mizrahi-tefahot.co.il/minisites/giyus$popup,third-party
 ||mobilesecureid.com^$popup,third-party
 ||mymobilenotification.com^$popup,third-party
