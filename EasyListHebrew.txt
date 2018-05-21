@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qk8KqS4qMc4na63vN+Iklw
+! Checksum: nr9X4qzOdR023qNSgr0U4A
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2018 10:32 UTC
+! Last modified: 21 May 2018 10:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -475,7 +475,7 @@
 &utm_content=popup&$popup,third-party,domain=inn.co.il
 &utm_medium=banner&$popup,third-party,domain=inn.co.il
 /landpage.*?utm_$popup,third-party,domain=inn.co.il
-/leads.*$popup,third-party,domain=inn.co.il
+/leads.$popup,third-party,domain=inn.co.il
 /leads/*$popup,third-party,domain=inn.co.il
 ! * Kipa.co.il * !
 ||daatariel.org.il/kipa/$popup,domain=kipa.co.il
