@@ -61,6 +61,7 @@ reshet.tv##script:inject(abort-on-property-write.js, upManager)
 ||inn.co.il^$important,websocket,first-party,domain=inn.co.il
 !
 inn.co.il##script:inject(abort-on-property-read.js, TextDecoder)
+inn.co.il##script:inject(abort-on-property-read.js, window.btoa)
 inn.co.il##script:inject(abort-on-property-write.js, upManager)
 ! * 20il.co.il * !
 ||20il.co.il^$important,websocket,first-party,domain=20il.co.il
