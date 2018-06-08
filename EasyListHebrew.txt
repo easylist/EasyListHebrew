@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2AErttsbgyo+1eBzwObLhw
+! Checksum: utdLOrB7K4AV5T+AGWKOBg
 ! Title: EasyList Hebrew
-! Last modified: 08 Jun 2018 10:56 UTC
+! Last modified: 08 Jun 2018 10:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -264,6 +264,7 @@
 ||mysupermarket.co.il/landingpage$popup,third-party
 ||ohmydating.com^$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
+||only2date.com^$popup,third-party
 ||optmz.online^$popup,third-party
 ||pckeeper.software^$popup,third-party
 ||pcnotification.com^$popup,third-party
