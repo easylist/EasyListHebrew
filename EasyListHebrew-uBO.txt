@@ -54,6 +54,7 @@ calcalist.co.il##script:inject(abort-on-property-write.js, upManager)
 ! * Reshet * !
 ||reshet.tv^$important,websocket,first-party,domain=reshet.tv
 !
+reshet.tv##script:inject(abort-on-property-read.js, window.btoa)
 reshet.tv##script:inject(abort-on-property-write.js, upManager)
 ! * ONE * !
 ||xads.zedo.com/ads2/c?*.one.co.il/$important,first-party,redirect=noopjs
