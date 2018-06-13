@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ez0Oxz/xeruwZp6MuTkttA
+! Checksum: 5VCWnokIZpmOawJohSeLhA
 ! Title: EasyList Hebrew
-! Last modified: 13 Jun 2018 16:08 UTC
+! Last modified: 13 Jun 2018 16:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -277,6 +277,7 @@
 ||s-iwantyou.com^$popup,third-party
 ||setup-prize.top^$popup,third-party
 ||sex-party.co.il^$popup,third-party
+||sexdating123.com^$popup,third-party
 ||sirtonim.me^$popup,third-party
 ||social-hookup.com^$popup,third-party
 ||sportapp.co.il^$popup,third-party
