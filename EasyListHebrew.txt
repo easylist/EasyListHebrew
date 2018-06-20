@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NKmvDfjbLkLxK/KKue1GGQ
+! Checksum: SELVAlPzPlA1EYIU+l/G2w
 ! Title: EasyList Hebrew
-! Last modified: 20 Jun 2018 16:52 UTC
+! Last modified: 20 Jun 2018 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1144,6 +1144,7 @@ nana10.co.il##[id^="CM8ShowAd"]
 nana10.co.il##div[style=";margin:20px 10px 0px 10px;width:298px;height:298px;"]
 nana10.co.il##div[style="top:1600px; right:800px; width:320px; height:320px;"]
 nana10.co.il##div[style="top:320px; left:640px; width:160px; height:640px;"]
+nba.sport5.co.il,vod.sport5.co.il,www.sport5.co.il###wrapper > div > div:nth-child(6)
 netex.co.il##.b728x90.bottomBanner
 netex.co.il##.banner.b160x600
 netex.co.il##.banner.b180x150
@@ -1234,7 +1235,6 @@ sport5.co.il###externalbanner-Homepage1
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
 sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
 sport5.co.il###wrapper > div > div:nth-child(11) > span
-sport5.co.il###wrapper > div > div:nth-child(6)
 sport5.co.il##.article-holder > .alt
 sport5.co.il##.article-list-alt2.article-list-alt > .article-holder-homepage > .row:nth-of-type(6) > .alt
 sport5.co.il##.aside > .banner-container
