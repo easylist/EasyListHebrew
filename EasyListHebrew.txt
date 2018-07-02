@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GUP/jSfcuI2dNTWhbm6i4A
+! Checksum: TGru0AaiWn1dV3+NSzggUQ
 ! Title: EasyList Hebrew
-! Last modified: 02 Jul 2018 13:10 UTC
+! Last modified: 02 Jul 2018 13:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -223,6 +223,7 @@
 ||com-item.today^$popup,third-party
 ||daily-prizes.men^$popup,third-party
 ||datetonight.xyz^$popup,third-party
+||datingfantasies11.com^$popup,third-party
 ||desktoptrack.com^$popup,third-party
 ||dingdong.co.il^$popup,third-party
 ||easygirls.info^$popup,third-party
