@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: L6cyQm36UAx34VzPNFA/fQ
+! Checksum: 4mPA+wX7Z9BWui5bBt2wDA
 ! Title: EasyList Hebrew
-! Last modified: 02 Jul 2018 09:08 UTC
+! Last modified: 02 Jul 2018 13:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -465,7 +465,6 @@
 ||tapuz.co.il/vilonBanner/
 ||tapuz.co.il^*CloseBanner.gif
 ! * inn.co.il * !
-@@||inn.co.il$generichide
 ||inn.co.il^$websocket,~third-party,domain=inn.co.il
 !
 ||a7.org/*.html$subdocument,domain=inn.co.il
@@ -650,6 +649,7 @@ zegvid.net##*
 @@||b-share.com^$generichide
 @@||bigbroil.com^$generichide
 @@||haaretz.co.il^$generichide
+@@||inn.co.il^$generichide
 @@||israelive.online^$generichide
 @@||isramedia.net^$generichide
 @@||kml.co.il^$generichide
