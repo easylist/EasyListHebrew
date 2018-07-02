@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TGru0AaiWn1dV3+NSzggUQ
+! Checksum: tQEJ/oesraGbvMuY5lJ8HQ
 ! Title: EasyList Hebrew
-! Last modified: 02 Jul 2018 13:15 UTC
+! Last modified: 02 Jul 2018 13:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -679,6 +679,7 @@ zegvid.net##*
 @@||akamai.advsnx.net/CDN/walla/
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il
 @@||akamai.advsnx.net^$xmlhttprequest,domain=mako.co.il
+@@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=deltatre.net
 @@||baligam.go2cloud.org^$popup,domain=getitall.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||bhol.co.il/Flash/vaad
