@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qyb2NoykP5sWhqE0dzeEdA
+! Checksum: eliItPBiDLgbrkqnkfH5Xw
 ! Title: EasyList Hebrew
-! Last modified: 06 Jul 2018 10:41 UTC
+! Last modified: 06 Jul 2018 10:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -294,6 +294,7 @@
 ||truegifstandmore.com^$popup,third-party
 ||viediil.com^$popup,third-party
 ||winitnow.mobi^$popup,third-party
+||winnerspinz.com^$popup,third-party
 ||yazizim.com^$popup,third-party
 !
 !-----------------------Site specific ad blocking rules-----------------------!
