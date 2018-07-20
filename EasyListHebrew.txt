@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: eliItPBiDLgbrkqnkfH5Xw
+! Checksum: hiyjidKVOAGl9h5TqIotGg
 ! Title: EasyList Hebrew
-! Last modified: 06 Jul 2018 10:44 UTC
+! Last modified: 20 Jul 2018 10:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -652,7 +652,6 @@ zegvid.net##*
 @@||bigbroil.com^$generichide
 @@||haaretz.co.il^$generichide
 @@||inn.co.il^$generichide
-@@||israelive.online^$generichide
 @@||isramedia.net^$generichide
 @@||kml.co.il^$generichide
 @@||leava.co.il^$generichide
@@ -1053,7 +1052,6 @@ israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.light-box-wrp
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelhayom.co.il##a[href*="theadblockerproject.org"]
-israelive.online###fsp_light
 israelweather.co.il###weekFlashes
 isramedia.net###maska232
 isramedia.net##.adsbygoogle
