@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: IMApOg4Tq7co652QMFE70Q
+! Checksum: nxDNb7xbmkfNT+9qmilQPg
 ! Title: EasyList Hebrew
-! Last modified: 28 Aug 2018 17:07 UTC
+! Last modified: 29 Aug 2018 09:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -698,7 +698,7 @@ zegvid.net##*
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
 @@||googlesyndication.com/pagead/osd.js$domain=haaretz.co.il|themarker.com
-@@||googletagservices.com/tag/js/gpt.js$domain=www.nifgashim.net
+@@||googletagservices.com/tag/js/gpt.js$domain=nifgashim.net
 @@||gplanet.co.il/js/adx.js
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
 @@||haaretz.co.il/htz/images/favicon-160x160.png
@@ -744,7 +744,7 @@ zegvid.net##*
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=nifgashim.net|reshet.tv
-@@||securepubads.g.doubleclick.net/gpt/$script,domain=www.nifgashim.net
+@@||securepubads.g.doubleclick.net/gpt/$script,domain=nifgashim.net
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
 @@||sexadir.co.il/ads/$image,~third-party
 @@||sexadir.co.il/banners/$image,~third-party
