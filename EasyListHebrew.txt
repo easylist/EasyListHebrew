@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CfkmVloPHiFDQxybTEZcyA
+! Checksum: sPPCMW8xCiQXSSLCy5pk6g
 ! Title: EasyList Hebrew
-! Last modified: 09 Oct 2018 15:33 UTC
+! Last modified: 09 Oct 2018 15:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -804,6 +804,7 @@ sexadir.co.il#@#.ad_title
 sexadir.co.il#@#.advertise_box
 tapuz.co.il#@#.afs_ads
 themarker.com#@#div[class*="Banner"]
+winwin.co.il#@#.adText
 !
 !---------------------------------Mobile Ads----------------------------------!
 !
