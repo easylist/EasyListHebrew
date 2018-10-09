@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HzbOjhPB9nvShyQR1ZQ8rQ
+! Checksum: wpPbUepY/VEu8BOFHbcBbQ
 ! Title: EasyList Hebrew
-! Last modified: 09 Oct 2018 15:38 UTC
+! Last modified: 09 Oct 2018 15:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -263,6 +263,7 @@
 ||mibilezone.com^$popup,third-party
 ||mobilesecureid.com^$popup,third-party
 ||mymobilenotification.com^$popup,third-party
+||mystreamadpush.link^$popup,third-party
 ||ohmydating.com^$popup,third-party
 ||onlineproxyfree.com^$popup,third-party
 ||only2date.com^$popup,third-party
@@ -534,7 +535,6 @@
 ! * SeretHD * !
 |http://$script,third-party,domain=serethd.net
 ! * TVIL.ME * !
-&refer=*msembed.net$popup,third-party,domain=tvil.me|tvil.pw
 ||cloudfront.net^$script,domain=tvil.me|tvil.pw
 ! * Artimedia * |
 /(\/|\.)[a-fA-F0-9]{32}\.com\.?([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
