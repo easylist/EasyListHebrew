@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wpPbUepY/VEu8BOFHbcBbQ
+! Checksum: 5hTGS2kRzBhITX7cYpB10g
 ! Title: EasyList Hebrew
-! Last modified: 09 Oct 2018 15:45 UTC
+! Last modified: 09 Oct 2018 15:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -206,6 +206,7 @@
 ! *** Popup sites *** !
 !
 ||1kdailyprofit.co^$popup,third-party
+||3dfuckdoll.com^$popup,third-party
 ||adsturn.com^$popup,third-party
 ||ajgffcat.com^$popup,third-party
 ||ashleymadison.com^$popup,third-party
@@ -271,6 +272,7 @@
 ||pckeeper.software^$popup,third-party
 ||pcnotification.com^$popup,third-party
 ||perfectpro.co.il^$popup,third-party
+||premium-offers.space^$popup,third-party
 ||press2win.online^$popup,third-party
 ||quick-date.xyz^$popup,third-party
 ||rackcdn.com^$popup,third-party
