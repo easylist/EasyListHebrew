@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: M5TRevp1bXQXX4kM8Kjd7w
+! Checksum: 1xGCl1hIOSAlujq3zNA2xQ
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2018 18:41 UTC
+! Last modified: 01 Nov 2018 18:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1174,6 +1174,7 @@ news1.co.il###UcInsideRight_1_1_tblWidth
 news1.co.il##table[bgcolor="#eeeeee"][height="150"]
 news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
+nir-oz.blogspot.co.il,nir-oz.blogspot.com###g207
 one.co.il###Adv2
 one.co.il###WinnnerRacer
 one.co.il###adBomba
