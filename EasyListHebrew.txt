@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1xGCl1hIOSAlujq3zNA2xQ
+! Checksum: 5vYFyC0sX6HUEQay3wOBbw
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2018 18:45 UTC
+! Last modified: 05 Nov 2018 18:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -663,6 +663,8 @@ zegvid.net##*
 @@||leava.co.il^$generichide
 @@||multidown.me^$generichide
 @@||nifgashim.net^$generichide
+@@||nir-oz.blogspot.co.il^$generichide
+@@||nir-oz.blogspot.com^$generichide
 @@||pitaronfree.blogspot.co.il^$generichide
 @@||pitaronfree.blogspot.com^$generichide
 @@||themarker.com^$generichide
@@ -753,6 +755,7 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||rcs.mako.co.il/js/ads.js$script,xmlhttprequest
 @@||reshet.tv/ads.html
+@@||resources.blogblog.com^$image,domain=nir-oz.blogspot.co.il|nir-oz.blogspot.com
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=nifgashim.net|reshet.tv
