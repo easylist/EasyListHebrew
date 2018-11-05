@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5vYFyC0sX6HUEQay3wOBbw
+! Checksum: pXUL33xZyBeLRkHE3dv+ag
 ! Title: EasyList Hebrew
-! Last modified: 05 Nov 2018 18:38 UTC
+! Last modified: 05 Nov 2018 18:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -211,6 +211,7 @@
 ||ajgffcat.com^$popup,third-party
 ||ashleymadison.com^$popup,third-party
 ||ashleyrnadison.com^$popup,third-party
+||bestdateshere22.com^$popup,third-party
 ||big-shot.co.il^$popup,third-party
 ||biggiftclub.online^$popup,third-party
 ||bogdot.co.il^$popup,third-party
