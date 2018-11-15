@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /iq6S42yhz6eyPnp10ZdSw
+! Checksum: UuRGAHTfWNxauKiJQrtJvg
 ! Title: EasyList Hebrew
-! Last modified: 15 Nov 2018 18:21 UTC
+! Last modified: 15 Nov 2018 18:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -262,6 +262,7 @@
 ||makealine.club^$popup,third-party
 ||makelove.co.il^$popup,third-party
 ||medical-rights.co.il^$popup,third-party
+||meet-nowhere12.com^$popup,third-party
 ||mibilezone.com^$popup,third-party
 ||mobilesecureid.com^$popup,third-party
 ||mymobilenotification.com^$popup,third-party
