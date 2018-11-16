@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NdTY4xyJJZ0Z+TH0WOJZMQ
+! Checksum: 5dDCyxJ/78amL+3ue83TGA
 ! Title: EasyList Hebrew
-! Last modified: 16 Nov 2018 12:24 UTC
+! Last modified: 16 Nov 2018 12:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -541,6 +541,8 @@
 ! * SeretHD * !
 |http://$script,third-party,domain=serethd.net
 ! * TVIL.ME * !
+?ref=*&aff_id=$popup,third-party,domain=tvil.me|tvil.pw
+?utm_source=*&utm_campaign=$popup,third-party,domain=tvil.me|tvil.pw
 ||cloudfront.net^$script,domain=tvil.me|tvil.pw
 ! * Artimedia * |
 /(\/|\.)[a-fA-F0-9]{32}\.com\.?([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
