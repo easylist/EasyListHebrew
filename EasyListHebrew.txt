@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5dDCyxJ/78amL+3ue83TGA
+! Checksum: VtVBG+he2b7rCEb+n8LdtQ
 ! Title: EasyList Hebrew
-! Last modified: 16 Nov 2018 12:29 UTC
+! Last modified: 19 Nov 2018 16:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1337,6 +1337,7 @@ walla.co.il##.tld-side-recommendation.editor-selections.three-section-articles.s
 walla.co.il##.top_banner_outer.relative
 walla.co.il##.vertical-232.tld.type-2.vertical-editable.common-hp-articles.sequence
 walla.co.il##.walla-shops
+walla.co.il##a[href][onmousedown][target="_blank"] img[src^="blob"]
 walla.co.il##div[class^="ads-spaces"]
 walla.co.il##div[id^="Fusion_holder"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
