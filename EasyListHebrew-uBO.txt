@@ -78,4 +78,7 @@ yad2.co.il##+js(abort-on-property-write.js, upManager)
 ! * Haaretz, TheMarker, Mouse.co.il * !
 haaretz.co.il##+js(set-constant.js, showAds, true)
 themarker.com##+js(set-constant.js, showAds, true)
+! Koozi
+koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
+koozi.info##.tien-ads-video:style(background: none!important;)
 !
