@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SKYq86Dk+XeA4CI451yiXQ
+! Checksum: f1nqMdvsFAXnsQKBr/qvtg
 ! Title: EasyList Hebrew
-! Last modified: 23 Dec 2018 20:52 UTC
+! Last modified: 23 Dec 2018 20:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -490,7 +490,6 @@
 ||inn.co.il/info_en/
 ||inn.co.il/leads/content/upload/
 ||inn.co.il/leads/view/$popup
-||inn.co.il^$subdocument,~third-party
 ||leads.tips^$popup,third-party,domain=inn.co.il
 !
 &type=pop|$popup,third-party,domain=inn.co.il
