@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: C0MRD3U5q6UyA/rBDBcVgA
+! Checksum: 2rjUSwOuepCgfH5V2O3m9Q
 ! Title: EasyList Hebrew
-! Last modified: 01 Jan 2019 17:22 UTC
+! Last modified: 01 Jan 2019 17:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1015,6 +1015,7 @@ frogi.co.il##.adtextbox
 frogi.co.il##.article_item_adbox
 frogi.co.il##.leftadblock
 frogi.co.il##.topbanner
+fun.walla.co.il##.game-item > .pre-game
 fxp.co.il###adfxp
 fxp.co.il##[style^="opacity:"]
 fxp.co.il##iframe[src^="//images.fxp.co.il/ads"]
