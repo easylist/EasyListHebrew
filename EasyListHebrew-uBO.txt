@@ -25,6 +25,7 @@ walla.co.il##+js(abort-on-property-read.js, TextDecoder)
 walla.co.il##+js(abort-on-property-read.js, isMobileasokita)
 walla.co.il##+js(abort-on-property-write.js, upManager)
 walla.co.il##+js(nowebrtc.js)
+walla.co.il##+js(setTimeout-defuser.js, (), 1500)
 ! * ynet * !
 ||www.ynet.co.il^$important,websocket,first-party,domain=www.ynet.co.il
 !
