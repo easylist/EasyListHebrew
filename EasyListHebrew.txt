@@ -774,6 +774,7 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||rcs.mako.co.il/js/ads.js$script,xmlhttprequest
 @@||reshet.tv/ads.html
+@@||mako.co.il/js/dfp/dfp.js$script,domain=mako.co.il
 @@||resources.blogblog.com^$image,domain=nir-oz.blogspot.co.il|nir-oz.blogspot.com
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
@@ -1152,6 +1153,7 @@ mako.co.il##[href^="https://adclick.g.doubleclick.net/"]
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
 mako.co.il##div[id^="top-strip"]
 mako.co.il##div[id^="top-strip-v_"]
+mako.co.il##.mako_main_portlet_container > a[target="_blank"] > img
 mako.co.il##iframe[src*="javascript:document.write('"]
 makorrishon.co.il###bLColumnText.small
 makorrishon.co.il###bRColumnText.small
