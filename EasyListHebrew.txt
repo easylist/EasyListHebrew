@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rd4i4t8pMG1kERxbNB//nQ
+! Checksum: O2482ReGRCdo2VNr/Z7/XA
 ! Title: EasyList Hebrew
-! Last modified: 24 Feb 2019 17:45 UTC
+! Last modified: 24 Feb 2019 17:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -919,6 +919,7 @@ nana10.co.il,wallashops.co.il###topBanner
 10tv.nana10.co.il##.ArticleInlineObject[style="width:300px;border:0;padding:0;"]
 10tv.nana10.co.il##[style="top:800px; right:0px; width:320px; height:320px;"] > .tmplInner.size300x300
 10tv.nana10.co.il##[style="top:800px; right:800px; width:320px; height:320px;"] > .tmplInner.size300x300
+20il.co.il##.close-ad
 2all.co.il##.DivFlowBannerRight
 aiwa.co.il##.bigbnr
 api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
