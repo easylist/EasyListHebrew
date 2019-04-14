@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cwbX755cenWjuAmRtF8y2g
+! Checksum: /TsJ5XcBHCBYfA8AYO0rDA
 ! Title: EasyList Hebrew
-! Last modified: 14 Apr 2019 16:31 UTC
+! Last modified: 14 Apr 2019 16:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -701,9 +701,11 @@ zegvid.net##*
 @@||adtest.advsnx.net^*?$xmlhttprequest,domain=playern.sport5.co.il
 @@||akamai.advsnx.net/CDN/$domain=13news.co.il|c10-live.cloudvideoplatform.com|c10-vod.cloudvideoplatform.com|kikar.co.il|nana.co.il|nana10.co.il
 @@||akamai.advsnx.net/CDN/arutz7/$script
+@@||akamai.advsnx.net/CDN/israelhayom/html5/amsdk.js$script,domain=israelhayom-cdnwiz.com|israelhayom.co.il
 @@||akamai.advsnx.net/CDN/mako/mako.swf
 @@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
 @@||akamai.advsnx.net/CDN/sdk/*-min.js?$script,domain=mako.co.il
+@@||akamai.advsnx.net/CDN/sdk/plugins/*/plugin.js$script,domain=israelhayom-cdnwiz.com|israelhayom.co.il
 @@||akamai.advsnx.net/CDN/sdk/plugins/kaltura/plugin.js$script,domain=israelhayom-cdnwiz.com|israelhayom.co.il
 @@||akamai.advsnx.net/CDN/sdk/system-scripts/sys-moat.js$script,domain=mako.co.il
 @@||akamai.advsnx.net/CDN/walla/
