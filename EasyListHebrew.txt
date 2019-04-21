@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hLtBiPt7kF1Aj/PEzWWR6Q
+! Checksum: q29lk4xo715eD9DB9Mlu/w
 ! Title: EasyList Hebrew
-! Last modified: 21 Apr 2019 11:56 UTC
+! Last modified: 21 Apr 2019 11:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -456,8 +456,8 @@
 !
 *$webrtc,domain=13tv.co.il
 !
-/dfp.$~third-party,domain=13tv.co.il
-/dfp/*$~third-party,domain=13tv.co.il
+/dfp.$~third-party,domain=13news.co.il|13tv.co.il
+/dfp/*$~third-party,domain=13news.co.il|13tv.co.il
 ||viewbix.com^$third-party,domain=13tv.co.il
 ! * SPORT5 * !
 /^(?!(http|https|ftp|ws|wss|irc|blob):)/$domain=sport5.co.il
