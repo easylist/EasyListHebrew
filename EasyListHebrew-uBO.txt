@@ -57,6 +57,7 @@ calcalist.co.il##+js(abort-on-property-write.js, upManager)
 ! * Reshet * !
 ||13tv.co.il^$important,websocket,first-party,domain=13tv.co.il
 !
+13news.co.il,13tv.co.il##+js(cookie-remover.js, /r13_maavron/)
 13tv.co.il##+js(abort-on-property-read.js, TextDecoder)
 13tv.co.il##+js(abort-on-property-write.js, upManager)
 ! * ONE * !
