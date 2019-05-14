@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FQbb58j4us0IAgjbmgLE1g
+! Checksum: gPnxGu+cRrCJ88ihLtwosQ
 ! Title: EasyList Hebrew
-! Last modified: 14 May 2019 17:39 UTC
+! Last modified: 14 May 2019 17:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -248,6 +248,7 @@
 ||hekeroyot.com^$popup,third-party
 ||hook2up6.top^$popup,third-party
 ||hookup-clubs.com^$popup,third-party
+||hookupsonline.com^$popup,third-party
 ||horserace.co.il^$popup,third-party
 ||hotdate.co.il^$popup,third-party
 ||iforex.co.il/landing_pages^$popup,third-party
