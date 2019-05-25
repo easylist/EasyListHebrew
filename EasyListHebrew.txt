@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DXOvEFLKQhIe5q2HZhqBww
+! Checksum: bUlrThb8niABXxIAUl6W1Q
 ! Title: EasyList Hebrew
-! Last modified: 23 May 2019 19:06 UTC
+! Last modified: 25 May 2019 20:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -670,6 +670,7 @@ zegvid.net##*
 !
 !----------------------Whitelists to fix broken sites-------------------------!
 !
+@@||13news.co.il^$generichide
 @@||13tv.co.il^$generichide
 @@||b-share.com^$generichide
 @@||bigbroil.com^$generichide
