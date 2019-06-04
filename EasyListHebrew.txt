@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CdqO6aIlXQ9LHZ3a3MGHyw
+! Checksum: kdkRpTZTQY8nvtaGfMPvMw
 ! Title: EasyList Hebrew
-! Last modified: 26 May 2019 20:22 UTC
+! Last modified: 04 Jun 2019 09:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -768,8 +768,6 @@ zegvid.net##*
 @@||lb.advsnx.net/as$domain=mako.co.il
 @@||lb.advsnx.net/as/Service.svc/$xmlhttprequest,domain=13news.co.il|nana.co.il|nana10.co.il
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il
-@@||lips.co.il/ads/$image,~third-party
-@@||lips.co.il/banners/$image,~third-party
 @@||mako.co.il/js/dfp/dfp.js$script,domain=mako.co.il
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
 @@||mouse.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
@@ -795,12 +793,6 @@ zegvid.net##*
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/gpt/$script,domain=nifgashim.net
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
-@@||sexadir.co.il/ads/$image,~third-party
-@@||sexadir.co.il/banners/$image,~third-party
-@@||sexadir.co.il/images/ad_title_bg.png$~third-party
-@@||seximo.co.il/ads/$image,~third-party
-@@||seximo.co.il/banners/160$~third-party
-@@||seximo.co.il/content/images/ads/$image,~third-party
 @@||sfx-images.mozilla.org^$image
 @@||shukitv.ucoz.com/script/ads.js
 @@||sport5.co.il^*/dfp.$script,~third-party
@@ -825,7 +817,6 @@ zegvid.net##*
 20il.co.il#@#div[id^="div-gpt-ad"]
 ad.co.il#@#.ad-link
 adi.gov.il#@#.small-ad
-banana.co.il#@#.txtAds
 bipbip.co.il#@##printads
 bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
@@ -845,9 +836,6 @@ kikar.co.il#@#.adunit
 lavender.co.il#@##topAds
 one.co.il#@#a[href^="http://xads.zedo.com/"]
 pitria.com#@#.header-ad
-sexadir.co.il#@#.ad_disclaimer
-sexadir.co.il#@#.ad_title
-sexadir.co.il#@#.advertise_box
 tapuz.co.il#@#.afs_ads
 themarker.com#@#div[class*="Banner"]
 winwin.co.il#@#.adText
