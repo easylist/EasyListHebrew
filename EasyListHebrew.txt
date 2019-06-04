@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5OLBTo2kUq1W1BRRU/ILOQ
+! Checksum: sHE5dSDbjQ7EYXhbwxjVnw
 ! Title: EasyList Hebrew
-! Last modified: 04 Jun 2019 09:10 UTC
+! Last modified: 04 Jun 2019 09:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -700,7 +700,6 @@ zegvid.net##*
 @@||a7.org/scripts/Forecast.js$script,domain=inn.co.il
 @@||a7.org/scripts/jquery/$script,domain=inn.co.il
 @@||a7.org/scripts/mosaic_$script,domain=inn.co.il
-@@||admedia.co.il^$~third-party
 @@||adnxs.com^$object-subrequest,domain=13tv.co.il|mako.co.il
 @@||ads.yad2.co.il/adPic.png$image
 @@||adtest.advsnx.net^*?$xmlhttprequest,domain=playern.sport5.co.il
