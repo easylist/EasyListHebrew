@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lbJqZoptMHRlMBNcxt+Yig
+! Checksum: eQW/YqYs3WW2xr0Soyn81A
 ! Title: EasyList Hebrew
-! Last modified: 13 Jun 2019 11:33 UTC
+! Last modified: 27 Jun 2019 16:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -55,6 +55,7 @@
 ||adson.biz^$popup,third-party
 ||adventuredigital.co.il^$popup,third-party
 ||afaktrio.com^$popup,third-party
+||amazing-offers.co.il^$popup,third-party
 ||anetkin.biz^$popup,third-party
 ||anetkin.co.il^$popup,third-party
 ||anetkin.org^$popup,third-party
