@@ -34,6 +34,9 @@ walla.co.il##+js(setTimeout-defuser.js, (), 1500)
 ||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=ynet.co.il
 !
 ynet.co.il##+js(abort-on-property-write.js, upManager)
+!
+ynet.co.il##.MultiArticleTaboola.layoutItem
+ynet.co.il##.Taboola.layoutItem
 ! * mako * !
 |blob:$~script,important,domain=www.mako.co.il
 !
