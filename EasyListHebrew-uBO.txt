@@ -57,12 +57,13 @@ globes.co.il##+js(abort-on-property-write.js, upManager)
 ||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=calcalist.co.il
 !
 calcalist.co.il##+js(abort-on-property-write.js, upManager)
-! * Reshet * !
+! * Reshet 13 * !
+||13news.co.il^$important,websocket,first-party,domain=13news.co.il
 ||13tv.co.il^$important,websocket,first-party,domain=13tv.co.il
 !
+13news.co.il,13tv.co.il##+js(abort-on-property-read.js, TextDecoder)
+13news.co.il,13tv.co.il##+js(abort-on-property-write.js, upManager)
 13news.co.il,13tv.co.il##+js(cookie-remover.js, /r13_maavron/)
-13tv.co.il##+js(abort-on-property-read.js, TextDecoder)
-13tv.co.il##+js(abort-on-property-write.js, upManager)
 ! * ONE * !
 ||xads.zedo.com/ads2/c?*.one.co.il/$important,first-party,redirect=noopjs
 ! * inn.co.il * !
