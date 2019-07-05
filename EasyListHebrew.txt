@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fIXr2w10H/GdxzcGx7uUXA
+! Checksum: /71qrk+Kf6cUI3mZOCxyxw
 ! Title: EasyList Hebrew
-! Last modified: 05 Jul 2019 11:17 UTC
+! Last modified: 05 Jul 2019 11:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1391,6 +1391,7 @@ winwin.co.il##.SponsoredAds
 winwin.co.il##.innerLeftAdPanel
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
+xnet.ynet.co.il###ads\.300x250\.1
 xnet.ynet.co.il###ads\.blog\.250x250
 xnet.ynet.co.il###ads\.top\.1
 xnet.ynet.co.il##.ContentLink.banner.High
