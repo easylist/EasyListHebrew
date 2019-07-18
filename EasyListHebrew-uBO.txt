@@ -94,6 +94,8 @@ haaretz.co.il##span:has([href*="promo"]):xpath(..)
 ||jdn.co.il/wp-content/uploads/2019/*/*.mp4$media,redirect=noopmp4-1s
 ! * ch10.co.il * !
 ||ch10.co.il/wp-content/uploads/2019/*/*.mp4$media,redirect=noopmp4-1s
+! * bhol.co.il * !
+bhol.co.il##body:style(overflow: auto !important;)
 ! * Koozi * !
 koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
 koozi.info##.tien-ads-video:style(background: none!important;)
