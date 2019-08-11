@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3S8dgt2NKL+6MFOIAD4fxA
+! Checksum: dysW8/KI1tt19BEhLYklEw
 ! Title: EasyList Hebrew
-! Last modified: 11 Aug 2019 20:09 UTC
+! Last modified: 11 Aug 2019 20:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -868,6 +868,7 @@ m.sport5.co.il##.ad
 !
 !------------------------------Mobile Whitelist-------------------------------!
 !
+@@||ampproject.org/amp4ads-$script,domain=themarker.com
 @@||yad2.co.il/assets/mobile/ui/adpage/$image,~third-party
 !
 !----------------------------Element hiding rules-----------------------------!
