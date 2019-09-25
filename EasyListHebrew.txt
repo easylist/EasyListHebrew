@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hNlnJf/d90jBBj/BUjLL/w
+! Checksum: fDgvTJQ0j4BC/8rThjjpCQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Sep 2019 14:32 UTC
+! Last modified: 25 Sep 2019 14:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -684,6 +684,7 @@ zegvid.net##*
 @@||leava.co.il^$generichide
 @@||madridista.co.il^$generichide
 @@||moviesfame.live^$generichide
+@@||newtechtips.xyz^$generichide
 @@||nifgashim.net^$generichide
 @@||nir-oz.blogspot.co.il^$generichide
 @@||nir-oz.blogspot.com^$generichide
