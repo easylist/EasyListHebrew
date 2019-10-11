@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: n/HxIZZokoQciHBQVONKhg
+! Checksum: ozn7fwCu7yFGKBy/axKIUQ
 ! Title: EasyList Hebrew
-! Last modified: 10 Oct 2019 14:42 UTC
+! Last modified: 11 Oct 2019 10:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -630,7 +630,6 @@ kelocote.prpl.co.il##*
 kurtgeigers.co##*
 lauyn.info##*
 lead.foxweb.co.il##*
-leyada.net#@#.banner-300
 lools.info##*
 lp.infopage.co.il##*
 lp.playsmart.co.il##*
@@ -845,6 +844,7 @@ ice.co.il#@#.afs_ads
 junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
 lavender.co.il#@##topAds
+leyada.net#@#.banner-300
 one.co.il#@#a[href^="http://xads.zedo.com/"]
 pitria.com#@#.header-ad
 tapuz.co.il#@#.afs_ads
