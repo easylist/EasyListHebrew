@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qGUlzZUPDVuWGo52A6C2Eg
+! Checksum: eePPMQVaCwc/+6UCrxXzxA
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2019 11:22 UTC
+! Last modified: 01 Nov 2019 11:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -928,6 +928,7 @@ ladaat.info,tapuz.co.il###divTopBanner
 nana10.co.il,wallashops.co.il###topBanner
 !
 ! *** Specific domain *** !
+!
 0404.co.il##.sidebannerads
 10tv.nana10.co.il##.ArticleInlineObject[style="width:300px;border:0;padding:0;"]
 10tv.nana10.co.il##[style="top:800px; right:0px; width:320px; height:320px;"] > .tmplInner.size300x300
@@ -1259,6 +1260,7 @@ onlife.co.il###top_article_ads_wrapper
 onlife.co.il###top_u_ads_wrapper
 onlife.co.il##.commercial
 onlife.co.il##.flying-banner-wrapper
+pricelist.yad2.co.il,pro.yad2.co.il###top_banners
 psakdin.co.il###bnrTop
 rateonclick.com###connect
 rateonclick.com##a[href*="campaigns.layer.co.il/"]
