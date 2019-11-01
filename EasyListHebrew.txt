@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NSQZI0iBAAhF4Gl3DRh8sw
+! Checksum: Yw0n3d7CAEYNJokdjKEZHg
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2019 11:29 UTC
+! Last modified: 01 Nov 2019 11:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1189,6 +1189,11 @@ mapa.co.il##.cls_banner_468X60
 mapa.co.il##div[style^="text-align:center;width:374px;height:260px;*height:270px;_height:270px;*display:inline-block;background-color:#e3e3e3;padding-top:10px;"]
 mapa.co.il##div[style^="text-align:center;width:385px;height:260px;*height:270px;_height:270px;*display:inline-block;background-color:#e3e3e3;padding-top:10px;"]
 mapa.co.il##td[bgcolor="#e3e3e3"][height="110"]
+mavir.co.il##.adv160_600
+mavir.co.il##.adv300_250
+mavir.co.il##.adv300_600
+mavir.co.il##.pirsumba
+mavir.co.il##.pirsumbaTop
 mazaltov.walla.co.il##.banner-tower
 mazaltov.walla.co.il##.master-popup-banner
 morfix.co.il##.adv_ph
