@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fXnEf64x6FH6jGdCU8hNfA
+! Checksum: lEbqWtEUnVNMO/D2MqWixA
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2019 11:34 UTC
+! Last modified: 01 Nov 2019 11:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1292,6 +1292,7 @@ s-maof.com###backgroundPopup
 s-maof.com###popupContact
 s-maof.com##div[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##div[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
+safa-ivrit.org##.inrpggoogle
 saloona.co.il###footer_banner
 saloona.co.il###popular_top
 saloona.co.il##.popup_order_close
