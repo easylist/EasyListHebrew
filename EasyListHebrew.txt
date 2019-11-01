@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Xys0Q4LK9X72QzPo0uTZwg
+! Checksum: qGUlzZUPDVuWGo52A6C2Eg
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2019 11:20 UTC
+! Last modified: 01 Nov 2019 11:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -928,7 +928,6 @@ ladaat.info,tapuz.co.il###divTopBanner
 nana10.co.il,wallashops.co.il###topBanner
 !
 ! *** Specific domain *** !
-!
 0404.co.il##.sidebannerads
 10tv.nana10.co.il##.ArticleInlineObject[style="width:300px;border:0;padding:0;"]
 10tv.nana10.co.il##[style="top:800px; right:0px; width:320px; height:320px;"] > .tmplInner.size300x300
@@ -1224,7 +1223,10 @@ netex.co.il##.banner.b180x150
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
 newmail.walla.co.il##.walTopBannerInside
+news1.co.il###PlazmaDiv
 news1.co.il###UcInsideRight_1_1_tblWidth
+news1.co.il###divBanner
+news1.co.il###divBannerRight
 news1.co.il##table[bgcolor="#eeeeee"][height="150"]
 news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
