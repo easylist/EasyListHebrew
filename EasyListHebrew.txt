@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Z9jUSBREh5Ue5m0q926EDQ
+! Checksum: l6examJaHyH/RZoqzr+39g
 ! Title: EasyList Hebrew
-! Last modified: 17 Nov 2019 17:19 UTC
+! Last modified: 17 Nov 2019 17:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -345,7 +345,6 @@
 ||kxcdn.com^$third-party,domain=6days.walla.co.il|animals.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|sports.walla.co.il|tech.walla.co.il|travel.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|www.walla.co.il
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||logidea.info^$third-party,domain=walla.co.il
-||waab.walla.co.il^$object-subrequest
 ||walla.yad2.co.il/*banner$subdocument,domain=walla.co.il
 ||wrtm.walla.co.il^
 ||x.walla.co.il^$image,domain=mail.walla.co.il
@@ -709,7 +708,6 @@ zegvid.net##*
 @@||a7.org/scripts/Forecast.js$script,domain=inn.co.il
 @@||a7.org/scripts/jquery/$script,domain=inn.co.il
 @@||a7.org/scripts/mosaic_$script,domain=inn.co.il
-@@||adnxs.com^$object-subrequest,domain=13tv.co.il|mako.co.il
 @@||ads.yad2.co.il/adPic.png$image
 @@||adtest.advsnx.net^*?$xmlhttprequest,domain=playern.sport5.co.il
 @@||akamai.advsnx.net/CDN/$domain=13news.co.il|c10-live.cloudvideoplatform.com|c10-vod.cloudvideoplatform.com|kikar.co.il|nana.co.il|nana10.co.il
@@ -732,7 +730,6 @@ zegvid.net##*
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
-@@||bs.serving-sys.com/crossdomain.xml$object-subrequest
 @@||c10-live.cloudvideoplatform.com^*/advert.jpg$image
 @@||c10-vod.cloudvideoplatform.com^*/advert.jpg$image
 @@||cdnwiz.com/ads.js$xmlhttprequest
@@ -740,7 +737,6 @@ zegvid.net##*
 @@||ch10.cloudvideoplatform.com/advert.js?$script
 @@||clalit.co.il/AdImages
 @@||doubleclick.net/gampad/ads$domain=y.net-games.co.il
-@@||ds.serving-sys.com/BurstingRes/$object-subrequest,domain=one.co.il
 @@||errors.snackly.co/_.gif|$xmlhttprequest,domain=ynet.co.il
 @@||forbes.co.il/download/banners/
 @@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
@@ -780,7 +776,6 @@ zegvid.net##*
 @@||mouse.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||old-games.org^$document
-@@||one.co.il/ads/*.mp4$object-subrequest
 @@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il|sport5.co.il
