@@ -99,6 +99,8 @@ haaretz.co.il##span:has([href*="promo"]):xpath(..)
 bhol.co.il##body:style(overflow: auto !important;)
 ! * Jmusic.me * !
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=nooptext,domain=jmusic.me
+!
+jmusic.me##+js(aopr, mdp_deblocker)
 ! * Koozi * !
 koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
 koozi.info##.tien-ads-video:style(background: none!important;)
