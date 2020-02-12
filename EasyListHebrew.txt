@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PF/61geN/A4CKiazI8RvLQ
+! Checksum: YnJwiSgQxS0zmFGhew+PwQ
 ! Title: EasyList Hebrew
-! Last modified: 12 Feb 2020 21:53 UTC
+! Last modified: 12 Feb 2020 21:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -819,7 +819,6 @@ blms.co.il#@#.addtitle
 foodsdictionary.co.il#@#.AdSense
 foodsdictionary.co.il#@#.Adsense
 foodsdictionary.co.il#@#.adSense
-haaretz.co.il#@#.adBanner
 haaretz.co.il,themarker.com#@#.adBanner
 haaretz.co.il,themarker.com#@#.js-dfp-ad
 haaretz.co.il,themarker.com#@#[data-back="promotional-content"]
