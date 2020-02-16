@@ -88,6 +88,7 @@ haaretz.co.il##+js(addEventListener-defuser.js, scroll)
 haaretz.co.il##+js(aeld, , clientHeight)
 haaretz.co.il##+js(set-constant.js, showAds, true)
 themarker.com##+js(set-constant.js, showAds, true)
+themarker.com##+js(aeld, , clientHeight)
 !
 haaretz.co.il##html:style(height: auto !important; overflow: auto !important)
 haaretz.co.il##span:has([href*="promo"]):xpath(..)
