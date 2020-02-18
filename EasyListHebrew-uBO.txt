@@ -85,10 +85,8 @@ inn.co.il##+js(abort-on-property-write.js, upManager)
 yad2.co.il##+js(abort-on-property-write.js, upManager)
 ! * Haaretz, TheMarker, Mouse.co.il * !
 haaretz.co.il##+js(addEventListener-defuser.js, scroll)
-haaretz.co.il##+js(aeld, , clientHeight)
-haaretz.co.il##+js(set-constant.js, showAds, true)
-themarker.com##+js(aeld, , clientHeight)
-themarker.com##+js(set-constant.js, showAds, true)
+haaretz.co.il,themarker.com##+js(aeld, , clientHeight)
+haaretz.co.il,themarker.com##+js(set-constant.js, showAds, true)
 !
 haaretz.co.il##html:style(height: auto !important; overflow: auto !important)
 haaretz.co.il##span:has([href*="promo"]):xpath(..)
