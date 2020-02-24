@@ -101,8 +101,6 @@ bhol.co.il##body:style(overflow: auto !important;)
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=nooptext,domain=jmusic.me
 !
 jmusic.me##+js(aopr, mdp_deblocker)
-! * Sdarot.TV * !
-sdarot.*,zira.*##+js(json-prune, Ad)
 ! * Koozi * !
 koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
 koozi.info##.tien-ads-video:style(background: none!important;)
