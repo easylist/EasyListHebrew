@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FyFHnNrKrP4xczG8nMJeDg
+! Checksum: 0oiyArTN7XzyFzVde59LmQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Feb 2020 21:11 UTC
+! Last modified: 25 Feb 2020 21:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -696,6 +696,7 @@ zegvid.net##*
 @@/advert.$image,domain=13news.co.il|13tv.co.il
 @@/advertisement.$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
+@@?pageurl=$xmlhttprequest,third-party,domain=sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.world|zira.ninja|zira.online
 @@||13tv.co.il/ads.html
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||a7.org/Combine.js$script,domain=inn.co.il
