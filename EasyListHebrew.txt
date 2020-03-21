@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mPNV5iscNpSDue52+RRZPw
+! Checksum: Wo9KQPE5O7Yc5KiTofUBKA
 ! Title: EasyList Hebrew
-! Last modified: 21 Mar 2020 20:51 UTC
+! Last modified: 21 Mar 2020 20:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1111,6 +1111,7 @@ israelhayom.co.il##.light-box-wrp
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
+isramedia.net###advert-notice
 isramedia.net###maska232
 isramedia.net##.adsbygoogle
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
