@@ -17,7 +17,7 @@
 ||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=walla.co.il
 ||walla.co.il/dist/scripts/ads/global-targeting.js$script,redirect=noopjs,domain=walla.co.il
 !
-6days.walla.co.il,animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##+js(aopr, window.btoa)
+6days.walla.co.il,animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##+js(aopr, btoa)
 walla.co.il##+js(acis, atob, TextDecoder)
 walla.co.il##+js(acis, btoa, upManager)
 walla.co.il##+js(acis, decodeURIComponent, encodeURIComponent)
