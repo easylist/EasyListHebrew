@@ -64,6 +64,7 @@ calcalist.co.il##+js(aopw, upManager)
 13news.co.il,13tv.co.il##+js(aopr, TextDecoder)
 13news.co.il,13tv.co.il##+js(aopw, upManager)
 13news.co.il,13tv.co.il##+js(cookie-remover, /r13_maavron/)
+13news.co.il,13tv.co.il##+js(nostif, offsetHeight)
 ! * ONE * !
 ||xads.zedo.com/ads2/c?*.one.co.il/$important,1p,redirect=noopjs
 ! * inn.co.il * !
