@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YqoU5aeU2xe1CcjnQ/6azQ
+! Checksum: v0u76l5/axvclywa39Q21w
 ! Title: EasyList Hebrew
-! Last modified: 07 Apr 2020 18:55 UTC
+! Last modified: 07 Apr 2020 19:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -897,7 +897,6 @@ calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
 calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
 feeder.co.il,rest.co.il###banner
-gamex.co.il,linicom.co.il##a[target="_blank"]
 getit.co.il,news1.co.il,tapuz.co.il###TopBanner
 haaretz.co.il,mouse.co.il,themarker.com##a[href*="://rmkz.themarker.com/"]
 haaretz.co.il,themarker.com###paywall-promotion-banner
@@ -1030,7 +1029,6 @@ fxp.co.il##[style^="opacity:"]
 fxp.co.il##iframe[src^="//images.fxp.co.il/ads"]
 gadgety.co.il##.desktop-ad-720-90
 gadgety.co.il##.vertical-ad
-gamex.co.il###skyscraper
 gear.co.il###peelback
 gear.co.il##.ad_A1
 gear.co.il##.ad_B1
@@ -1140,6 +1138,7 @@ ladaat.info###divMivzakimAd
 ladaat.info###divRightButtonsAds
 ladaat.info###divRightVideoAd
 lib.cet.ac.il##td[background^="/images/commercials"]
+linicom.co.il##a[target="_blank"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
 link4u.co.il##.banner_main
