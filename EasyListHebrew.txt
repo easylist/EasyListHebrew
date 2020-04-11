@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZaZ/jL7k5Pn2tQwi5cnx6Q
+! Checksum: XC5SNF0imDiNkquKiYLJng
 ! Title: EasyList Hebrew
-! Last modified: 11 Apr 2020 21:24 UTC
+! Last modified: 11 Apr 2020 21:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -406,7 +406,6 @@
 ||localhost^$domain=mako.co.il|n12.co.il
 ||logger.logidea.info^$third-party,domain=mako.co.il
 ||mako.co.il/makotv/loginSocialConfig.json
-||mooma.mako.co.il/HeaderBanner.aspx
 ||netdna-ssl.com^$third-party,domain=mako.co.il
 ||psakdin.co.il/ExternalFrames/$domain=mako.co.il
 ||rcs.mako.co.il/js/player/*/Artimedia/ArtimediaAdManager.js
