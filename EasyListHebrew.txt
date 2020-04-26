@@ -703,6 +703,7 @@ zegvid.net##*
 @@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@?pageurl=$xmlhttprequest,third-party,domain=sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world|zira.ninja|zira.online
 @@||13tv.co.il/ads.html
+@@||13tv.qamesh.com/Images/advert.png
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/cab/*.min.js$script,domain=inn.co.il
