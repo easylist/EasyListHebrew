@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Jcgt0wEIkBk7lvcbwVNv3g
+! Checksum: b1TE0Y7MhOe1leYnDtqafQ
 ! Title: EasyList Hebrew
-! Last modified: 05 May 2020 15:54 UTC
+! Last modified: 05 May 2020 15:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -281,7 +281,6 @@
 ||premium-offers.space^$popup,third-party
 ||press2win.online^$popup,third-party
 ||quick-date.xyz^$popup,third-party
-||rackcdn.com^$popup,third-party
 ||rateonclick.com^$popup,third-party
 ||reimageplus.com^$popup,third-party
 ||s-iwantyou.com^$popup,third-party
