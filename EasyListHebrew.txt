@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PmVzInJ6TbN27gS1bZsU/g
+! Checksum: /IxGYPGl87CvWUt766mBtQ
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2020 15:24 UTC
+! Last modified: 21 May 2020 15:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -339,7 +339,6 @@
 ||fus.walla.co.il/report/
 ||fus.walla.co.il/script.js?1$domain=tv-guide.walla.co.il
 ||fus.walla.co.il/vast/
-||i.walla.co.il/w9/swf/video_swf/userslider.swf
 ||jor-el.net^
 ||jor-el.net^$popup
 ||kxcdn.com^$third-party,domain=6days.walla.co.il|animals.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|sports.walla.co.il|tech.walla.co.il|travel.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|www.walla.co.il
@@ -714,8 +713,6 @@ zegvid.net##*
 @@||akamai.advsnx.net/CDN/$domain=kikar.co.il
 @@||akamai.advsnx.net/CDN/arutz7/$script
 @@||akamai.advsnx.net/CDN/israelhayom/html5/amsdk.js$script,domain=israelhayom-cdnwiz.com|israelhayom.co.il
-@@||akamai.advsnx.net/CDN/mako/mako.swf
-@@||akamai.advsnx.net/CDN/one/jw6/plugin.swf
 @@||akamai.advsnx.net/CDN/reshet/html5/amsdk.js$script,domain=13news.co.il|13tv.co.il
 @@||akamai.advsnx.net/CDN/sdk/*-min.js?$script,domain=mako.co.il
 @@||akamai.advsnx.net/CDN/sdk/plugins/*/plugin.js$script,domain=israelhayom-cdnwiz.com|israelhayom.co.il
