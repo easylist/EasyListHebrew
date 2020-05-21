@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qPG4caJwj2aCzQGHM3XRKg
+! Checksum: Ev5B7FH20GHE79+fCnT6mQ
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2020 14:55 UTC
+! Last modified: 21 May 2020 14:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -699,7 +699,7 @@ zegvid.net##*
 @@/advert.$image,domain=13news.co.il|13tv.co.il
 @@/advertisement.$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
-@@?pageurl=$xmlhttprequest,third-party,domain=sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world|zira.ninja|zira.online
+@@?pageurl=$xmlhttprequest,third-party,domain=sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
 @@||13tv.co.il/ads.html
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||a7.org/Combine.js$script,domain=inn.co.il
@@ -759,7 +759,7 @@ zegvid.net##*
 @@||i.total-media.net/yc/dc.$script,domain=winwin.co.il
 @@||iconfinder.com/data/$image,domain=nir-oz.blogspot.co.il|nir-oz.blogspot.com
 @@||imaot.co.il/Recipe/$xmlhttprequest
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world|zira.ninja|zira.online
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
@@ -802,7 +802,6 @@ zegvid.net##*
 @@||sport5.co.il^*/dfp/$script,~third-party
 @@||sratim2.co^*/js/ads-$script,~third-party
 @@||static.sdarot.*^*/plugins/*/videojs.ads.$script,stylesheet,~third-party
-@@||static.zira.*^*/plugins/*/videojs.ads.$script,stylesheet,~third-party
 @@||taimeod.co.il^$document
 @@||themarker.com/Images/negative.png$image,domain=haaretz.co.il|themarker.com
 @@||themarker.com/Images/positive.png$image,domain=haaretz.co.il|themarker.com
