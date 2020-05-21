@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Y681aPnp9vw7hDK9O+aAXA
+! Checksum: Eyqxk4e+xJh0WiCuz0LUSA
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2020 15:02 UTC
+! Last modified: 21 May 2020 15:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -930,7 +930,6 @@ ladaat.info,tapuz.co.il###divTopBanner
 !
 0404.co.il##.sidebannerads
 20il.co.il##.close-ad
-2all.co.il##.DivFlowBannerRight
 aiwa.co.il##.bigbnr
 api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
