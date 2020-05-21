@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ev5B7FH20GHE79+fCnT6mQ
+! Checksum: 0yKpWuXDZEjkVFJM+1bZxw
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2020 14:57 UTC
+! Last modified: 21 May 2020 14:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -936,7 +936,6 @@ api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
 ashdodnet.com##div[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##div[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
-askpeople.co.il##.pblock[style="margin-top: 1em; padding: 8px 6px 16px 6px;"]
 auto.co.il###PlazmaOnOff
 auto.co.il###ctl00_MainContent_ctl10_bannerContainer1
 auto.co.il###ctl00_MainContent_divBannerHasut
