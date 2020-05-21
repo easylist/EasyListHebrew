@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dcc9aJeeoFNdhuuvSZDDnw
+! Checksum: PmVzInJ6TbN27gS1bZsU/g
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2020 15:20 UTC
+! Last modified: 21 May 2020 15:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -735,10 +735,8 @@ zegvid.net##*
 @@||bitsngo.net/widget-scripts/zoomd.widget.logger.$script
 @@||cdnwiz.com/ads.js$xmlhttprequest
 @@||clalit.co.il/AdImages
-@@||doubleclick.net/gampad/ads$domain=y.net-games.co.il
 @@||errors.snackly.co/_.gif|$xmlhttprequest,domain=ynet.co.il
 @@||forbes.co.il/download/banners/
-@@||g.doubleclick.net/pagead/ads?ad_type=video_text_image_flash$domain=y.net-games.co.il
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
 @@||googlesyndication.com/pagead/osd.js$domain=haaretz.co.il|themarker.com
@@ -774,13 +772,11 @@ zegvid.net##*
 @@||mako.co.il/js/dfp/dfp.js$script,domain=mako.co.il
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
 @@||mouse.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
-@@||net-games.co.il/flvPlayer/dist/flowplayer-$script
 @@||old-games.org^$document
 @@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il|sport5.co.il
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com
-@@||pagead2.googlesyndication.com^$domain=y.net-games.co.il
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=13news.co.il|13tv.co.il|haaretz.co.il|one.co.il|themarker.com
 @@||pas-rahav.com/creativitys
 @@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
@@ -813,11 +809,8 @@ zegvid.net##*
 @@||translate.google.*/gen204?$image,domain=maccabi4u.co.il
 @@||trc.taboola.com/globes-il/$script
 @@||xads.zedo.com^$popup,domain=one.co.il
-@@||y.net-games.co.il/adimages/
-@@||y.net-games.co.il/js/adblock_detector.js
 @@||yad2.co.il/ads.js$script
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
-@@||youtube.com/yva_video?adformat$domain=y.net-games.co.il
 !
 !------------Whitelists element hiding rules to fix broken sites--------------!
 !
