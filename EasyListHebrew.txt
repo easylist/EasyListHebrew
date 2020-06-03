@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gSY8uTqis9WWSAoLvYw0ug
+! Checksum: UkMKMC8rzhnKGfTP28v2CQ
 ! Title: EasyList Hebrew
-! Last modified: 03 Jun 2020 14:22 UTC
+! Last modified: 03 Jun 2020 14:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -234,6 +234,7 @@
 ||easygirls.info^$popup,third-party
 ||eb.anastasiadate.com^$popup,third-party
 ||etrader.co.il^$popup,third-party
+||ew-casual-dating.com^$popup,third-party
 ||expresswin.top^$popup,third-party
 ||facebookdating.link^$popup,third-party
 ||find-best-datings.com^$popup,third-party
