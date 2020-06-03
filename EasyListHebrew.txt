@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UkMKMC8rzhnKGfTP28v2CQ
+! Checksum: I1XaUxdDzFKWbE+yKAUiUQ
 ! Title: EasyList Hebrew
-! Last modified: 03 Jun 2020 14:27 UTC
+! Last modified: 03 Jun 2020 15:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -263,6 +263,7 @@
 ||iphone7pluswin.com^$popup,third-party
 ||lastpage.pw^$popup,third-party
 ||leshem.info^$popup,third-party
+||losittooday.info^$popup,third-party
 ||lotocash.co.il^$popup,third-party
 ||makealine.club^$popup,third-party
 ||makelove.co.il^$popup,third-party
@@ -629,6 +630,7 @@ kurtgeigers.co##*
 lauyn.info##*
 lead.foxweb.co.il##*
 lools.info##*
+losittooday.info##*
 lp.infopage.co.il##*
 lp.playsmart.co.il##*
 lyfun.net##*
@@ -666,6 +668,7 @@ zegvid.net##*
 ||cooldays.net/app/vod-blocker$script
 ||hasdarot.com^
 ||lauyn.info^
+||losittooday.info^
 ||mporli.info^
 ||sdarotil.top^
 ||seret.live^
