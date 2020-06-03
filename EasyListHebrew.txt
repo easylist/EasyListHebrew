@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xQLbZMLDnekolvx8BS9IBA
+! Checksum: xonnVUxpIAgD4Adb1QjQlQ
 ! Title: EasyList Hebrew
-! Last modified: 03 Jun 2020 13:57 UTC
+! Last modified: 03 Jun 2020 14:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -692,14 +692,13 @@ zegvid.net##*
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
-@@/adUnits.js$~third-party,domain=13news.co.il|13tv.co.il
 @@/ads.js?$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/ads.min.js?$script,~third-party,domain=13news.co.il|13tv.co.il
+@@/adunits.$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/advert.$image,domain=13news.co.il|13tv.co.il
 @@/advertisement.$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@?pageurl=$xmlhttprequest,third-party,domain=sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
-@@||13tv.co.il/ads.html
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il
 @@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/cab/*.min.js$script,domain=inn.co.il
