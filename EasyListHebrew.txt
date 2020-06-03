@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xonnVUxpIAgD4Adb1QjQlQ
+! Checksum: KAYsA9BmTJ3q+ZANKB2wHg
 ! Title: EasyList Hebrew
-! Last modified: 03 Jun 2020 14:00 UTC
+! Last modified: 03 Jun 2020 14:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1197,7 +1197,6 @@ nadlan.com##.wrapBoxSmall
 nadlan.com##.wrapshedbox
 nadlan.com##table[width="192"][bgcolor="#dcdcdc"]
 nadlan.com##table[width="980"][bgcolor="#dcdcdc"]
-nba.sport5.co.il,vod.sport5.co.il,www.sport5.co.il###wrapper > div > div:nth-child(6)
 netex.co.il##.b728x90.bottomBanner
 netex.co.il##.banner.b160x600
 netex.co.il##.banner.b180x150
