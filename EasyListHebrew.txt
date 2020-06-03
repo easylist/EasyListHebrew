@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /IxGYPGl87CvWUt766mBtQ
+! Checksum: hSLsyc/8HxFY7WaT84icBA
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2020 15:26 UTC
+! Last modified: 03 Jun 2020 13:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -759,6 +759,7 @@ zegvid.net##*
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
 @@||israelsport.co.il/digiweb/userfiles/images/Ads/Getty$image
+@@||isramedia.net/ads.js$script,~third-party
 @@||isramedia.net/images/header/$image,~third-party
 @@||jdn.co.il/wp-content/plugins/jdn_ads/js/info.css$stylesheet
 @@||jdn.co.il/wp-content/plugins/jdn_ads/js/info.js$script
@@ -1102,8 +1103,6 @@ israelhayom.co.il##.light-box-wrp
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
-isramedia.net###advert-notice
-isramedia.net###maska232
 isramedia.net##.adsbygoogle
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
 jobmaster.co.il###bannerDiv
