@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: I1XaUxdDzFKWbE+yKAUiUQ
+! Checksum: 431uVMftB/2ufTDzCnoYsQ
 ! Title: EasyList Hebrew
-! Last modified: 03 Jun 2020 15:06 UTC
+! Last modified: 09 Jun 2020 10:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -709,6 +709,7 @@ zegvid.net##*
 @@||a7.org/scripts/Forecast.js$script,domain=inn.co.il
 @@||a7.org/scripts/jquery/$script,domain=inn.co.il
 @@||a7.org/scripts/mosaic_$script,domain=inn.co.il
+@@||admedia.com/images/cross_channel_arrows.png$image,domain=isramedia.net
 @@||ads.yad2.co.il/adPic.png$image
 @@||adservice.google.co.il/adsid/integrator.js?$script,domain=13news.co.il|13tv.co.il
 @@||adservice.google.com/adsid/integrator.js?$script,domain=13news.co.il|13tv.co.il
@@ -776,7 +777,7 @@ zegvid.net##*
 @@||old-games.org^$document
 @@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mako.co.il|sport5.co.il
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=isramedia.net|mako.co.il|sport5.co.il
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=13news.co.il|13tv.co.il|haaretz.co.il|one.co.il|themarker.com
 @@||pas-rahav.com/creativitys
@@ -1107,7 +1108,6 @@ israelhayom.co.il##.light-box-wrp
 israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
-isramedia.net##.adsbygoogle
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
 jobmaster.co.il###bannerDiv
 jobmaster.co.il###leftBanner
