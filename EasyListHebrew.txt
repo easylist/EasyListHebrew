@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 431uVMftB/2ufTDzCnoYsQ
+! Checksum: bIIneVFW7dz+OEKOmGig1A
 ! Title: EasyList Hebrew
-! Last modified: 09 Jun 2020 10:37 UTC
+! Last modified: 09 Jun 2020 10:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -799,7 +799,7 @@ zegvid.net##*
 @@||sport5.co.il^*/dfp.$script,~third-party
 @@||sport5.co.il^*/dfp/$script,~third-party
 @@||sratim2.co^*/js/ads-$script,~third-party
-@@||static.sdarot.*^*/plugins/*/videojs.ads.$script,stylesheet,~third-party
+@@||static.sdarot.*^*/plugins/*/videojs.ads.$script,stylesheet,~third-party,domain=sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
 @@||taimeod.co.il^$document
 @@||themarker.com/Images/negative.png$image,domain=haaretz.co.il|themarker.com
 @@||themarker.com/Images/positive.png$image,domain=haaretz.co.il|themarker.com
