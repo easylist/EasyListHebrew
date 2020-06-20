@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cRIdw0PjcG+zTDdHgNAreg
+! Checksum: EJIWqziTSQeYRwPQz9Fpsg
 ! Title: EasyList Hebrew
-! Last modified: 20 Jun 2020 21:07 UTC
+! Last modified: 20 Jun 2020 21:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -518,6 +518,7 @@
 ||kipa.co.il/userFiles/moodaot$domain=kipa.co.il
 ||kipasruga.com/banner/
 ||landing.kipa.co.il/?id=$popup
+||the.sweets-jar.com/?id=$popup,domain=kipa.co.il
 ! * 20il.co.il * !
 ||20il.co.il^$websocket,~third-party,domain=20il.co.il
 ! * zap group * !
