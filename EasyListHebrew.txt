@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EJIWqziTSQeYRwPQz9Fpsg
+! Checksum: rAVFCXyQRHHU3t7k66EYxQ
 ! Title: EasyList Hebrew
-! Last modified: 20 Jun 2020 21:09 UTC
+! Last modified: 20 Jun 2020 21:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -243,6 +243,7 @@
 ||forexglobal.top^$popup,third-party
 ||freehookup.link^$popup,third-party
 ||freehookupspace.com^$popup,third-party
+||fringantlarn8.live^$popup,third-party
 ||giftandmore.club^$popup,third-party
 ||gilorly.leadpages.co^$popup,third-party
 ||hadartal.com/slim/*?ref=$popup,third-party
@@ -617,6 +618,7 @@ dealsclubspecial.pw##*
 dubim.net##*
 faceu.us##*
 freeoffers.co.il##*
+fringantlarn8.live##*
 gbuzz.net##*
 gefun.net##*
 gubuzz.com##*
@@ -667,6 +669,7 @@ zegvid.com##*
 zegvid.net##*
 ||alipim.net^
 ||cooldays.net/app/vod-blocker$script
+||fringantlarn8.live^
 ||hasdarot.com^
 ||lauyn.info^
 ||losittooday.info^
