@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LFr64P72K50NPQsquLj2KA
+! Checksum: 71Wbo5APJBKpAHprq+1jUA
 ! Title: EasyList Hebrew
-! Last modified: 29 Jul 2020 12:58 UTC
+! Last modified: 29 Jul 2020 13:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -932,6 +932,9 @@ infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
 ladaat.info,tapuz.co.il###divTopBanner
 !
 ! *** Specific domain *** !
+!
+animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://unionhorizon.walla.co.il"]
+animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://www.democratv.org"]
 !
 0404.co.il##.sidebannerads
 20il.co.il##.close-ad
