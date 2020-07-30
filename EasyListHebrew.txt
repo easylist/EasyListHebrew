@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8/7TY1oIdkq1G3HjU3MC2Q
+! Checksum: Ip5cE50YbkBG31DVdO0+TA
 ! Title: EasyList Hebrew
-! Last modified: 30 Jul 2020 15:22 UTC
+! Last modified: 30 Jul 2020 16:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -241,6 +241,7 @@
 ||fcukgirls.net^$popup,third-party
 ||find-best-datings.com^$popup,third-party
 ||findsexguide.com^$popup,third-party
+||findyourlovemate.com^$popup,third-party
 ||flirthere1.com^$popup,third-party
 ||forexglobal.top^$popup,third-party
 ||freehookup.link^$popup,third-party
@@ -293,6 +294,7 @@
 ||sex-party.co.il^$popup,third-party
 ||sexdating123.com^$popup,third-party
 ||sirtonim.me^$popup,third-party
+||slutsroom.com^$popup,third-party
 ||social-hookup.com^$popup,third-party
 ||sportapp.co.il^$popup,third-party
 ||strauss-water-campaign.co.il^$popup,third-party
