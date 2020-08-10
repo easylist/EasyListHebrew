@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Q/eEsqPIkZ4VvRrXDe95Sg
+! Checksum: jPXCmgtAiPmHaJT2pWqsAw
 ! Title: EasyList Hebrew
-! Last modified: 10 Aug 2020 08:21 UTC
+! Last modified: 10 Aug 2020 08:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -348,6 +348,7 @@
 ||fus.walla.co.il/vast/
 ||jor-el.net^
 ||jor-el.net^$popup
+||kvdhzjfrudaxrleb.walla.co.il/load.js|$script
 ||kxcdn.com^$third-party,domain=6days.walla.co.il|animals.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|sports.walla.co.il|tech.walla.co.il|travel.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|www.walla.co.il
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||logidea.info^$third-party,domain=walla.co.il
