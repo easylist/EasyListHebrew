@@ -38,6 +38,7 @@ walla.co.il##+js(nostif, (), 1500)
 ||pagead2.googlesyndication.com/pagead/js$script,important,redirect=noopjs,domain=ynet.co.il
 !
 ynet.co.il##+js(aopw, upManager)
+ynet.co.il##+js(nostif, offsetHeight)
 !
 ynet.co.il##.MultiArticleTaboola.layoutItem
 ynet.co.il##.Taboola.layoutItem
