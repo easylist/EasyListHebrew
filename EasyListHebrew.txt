@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5aNO4O6c5RuOBxCXa2K+AA
+! Checksum: 7ZjrSAUlzEl9kw5m9pXAUw
 ! Title: EasyList Hebrew
-! Last modified: 05 Sep 2020 20:05 UTC
+! Last modified: 07 Sep 2020 13:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -865,6 +865,7 @@ one.co.il#@#a[href^="http://xads.zedo.com/"]
 pitria.com#@#.header-ad
 tapuz.co.il#@#.afs_ads
 winwin.co.il#@#.adText
+ynet.co.il#@#.adclass
 !
 !---------------------------------Mobile Ads----------------------------------!
 !
