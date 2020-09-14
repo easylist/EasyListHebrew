@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xNvrPCcAfwc30j8cmtouyw
+! Checksum: iONAyjO228PJy6/uRelRGQ
 ! Title: EasyList Hebrew
-! Last modified: 14 Sep 2020 15:14 UTC
+! Last modified: 14 Sep 2020 15:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -829,8 +829,7 @@ zegvid.net##*
 @@||weather2day.co.il/ads.js?$script,~third-party
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ads.js$script
-@@||ynet.co.il/Common/Api/Scripts/video/videojs.ads.$stylesheet,~third-party
-@@||ynet.co.il/Common/Api/Scripts/video/videojs.ads.min.js$script,~third-party
+@@||ynet.co.il/Common/Api/Scripts/video/videojs.ads.$script,stylesheet,~third-party
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
 !
 !------------Whitelists element hiding rules to fix broken sites--------------!
