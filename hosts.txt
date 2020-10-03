@@ -217,7 +217,6 @@
 0.0.0.0 hookupsonline.com
 0.0.0.0 horserace.co.il
 0.0.0.0 hotdate.co.il
-0.0.0.0 iforex.co.il/landing_pages
 0.0.0.0 ihct.mx
 0.0.0.0 ilikethis.info
 0.0.0.0 imarkets.co.il
@@ -273,13 +272,17 @@
 0.0.0.0 a.walla.co.il
 0.0.0.0 exposeboxwallashops.blob.core.windows.net
 0.0.0.0 jor-el.net
+0.0.0.0 jor-el.net
 0.0.0.0 wrtm.walla.co.il
 0.0.0.0 totalmedia2.ynet.co.il
 0.0.0.0 adserv.mako.co.il
 0.0.0.0 sdc.mako.co.il
 0.0.0.0 houdini.haaretz.co.il
+0.0.0.0 rmkz.themarker.com
 0.0.0.0 ads.one.co.il
 0.0.0.0 madas-ads.securest.org
+0.0.0.0 banners.bizportal.co.il
+0.0.0.0 banners.news1.co.il
 0.0.0.0 banners.news1.co.il
 0.0.0.0 alipim.net
 0.0.0.0 fringantlarn8.live
