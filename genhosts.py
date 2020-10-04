@@ -14,6 +14,6 @@ for line in lines:
 			for filter in endswith_filters:
 				if line.endswith(filter):
 					domain = line.replace(filter, '').replace('||', '')
-					if not('*' in domain):
+					if '*' not in domain:
 						print("0.0.0.0 " + domain)
 
