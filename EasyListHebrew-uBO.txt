@@ -92,7 +92,7 @@ inn.co.il##+js(aopw, upManager)
 !
 yad2.co.il##+js(aopw, upManager)
 ! * Haaretz, TheMarker, Mouse.co.il * !
-haaretz.co.il,themarker.com##+js(aeld, , clientHeight)
+haaretz.co.il,themarker.com##+js(aeld, , hblocked)
 haaretz.co.il,themarker.com##+js(set, showAds, true)
 !
 haaretz.co.il##html:style(height: auto !important; overflow: auto !important)
