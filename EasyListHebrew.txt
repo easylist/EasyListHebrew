@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3qb4F/maOnPrZY5DhClYKg
+! Checksum: qWUqBtt8SlSGxfrq3PCUMg
 ! Title: EasyList Hebrew
-! Last modified: 13 Oct 2020 15:16 UTC
+! Last modified: 17 Oct 2020 20:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -631,6 +631,7 @@ gubuzz.com##*
 hagdolim.info###video-blocker
 hasdarot.com##*
 hasdarot.net##*
+hasdarot.xyz##*
 iastrology.net##*
 ilbuzz.net##*
 israfun.net##*
@@ -679,6 +680,7 @@ zegvid.net##*
 ||fringantlarn8.live^
 ||hasdarot.com^
 ||hasdarot.net^
+||hasdarot.xyz^
 ||lauyn.info^
 ||losittooday.info^
 ||mporli.info^

@@ -288,6 +288,7 @@
 0.0.0.0 fringantlarn8.live
 0.0.0.0 hasdarot.com
 0.0.0.0 hasdarot.net
+0.0.0.0 hasdarot.xyz
 0.0.0.0 lauyn.info
 0.0.0.0 losittooday.info
 0.0.0.0 mporli.info
