@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +ti2zRqMMTY1zFV+Xfvd6Q
+! Checksum: DIQN6n1M1zhldpJ0+H2klA
 ! Title: EasyList Hebrew
-! Last modified: 20 Nov 2020 12:12 UTC
+! Last modified: 20 Nov 2020 12:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -228,6 +228,7 @@
 ||com-item.today^$popup,third-party
 ||daily-prizes.men^$popup,third-party
 ||date-il.com^$popup,third-party
+||datesspace.net^$popup,third-party
 ||dateszone.net^$popup,third-party
 ||datetonight.xyz^$popup,third-party
 ||datingfantasies11.com^$popup,third-party
