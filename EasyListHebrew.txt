@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: X1jTId+7cfIV9behuh35rQ
+! Checksum: U5pAgBx9tTTwC9nhyxavXQ
 ! Title: EasyList Hebrew
-! Last modified: 01 Dec 2020 21:25 UTC
+! Last modified: 01 Dec 2020 21:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -317,6 +317,7 @@
 ||winnerspinz.com^$popup,third-party
 ||yazizim.com^$popup,third-party
 ||your-sexy-match.com^$popup,third-party
+||zbeng.co.il/landing$popup,third-party
 !
 !-----------------------Site specific ad blocking rules-----------------------!
 !
