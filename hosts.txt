@@ -255,6 +255,8 @@
 0.0.0.0 sex-party.co.il
 0.0.0.0 sexdating123.com
 0.0.0.0 sirtonim.me
+0.0.0.0 slutshouse.com
+0.0.0.0 slutspro.com
 0.0.0.0 slutsroom.com
 0.0.0.0 social-hookup.com
 0.0.0.0 sportapp.co.il
