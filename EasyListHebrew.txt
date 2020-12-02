@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: O+hiI2KMbkBam9zMgUCVRA
+! Checksum: KZpqKUnbguEvbX82w06VSQ
 ! Title: EasyList Hebrew
-! Last modified: 02 Dec 2020 16:19 UTC
+! Last modified: 02 Dec 2020 16:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1004,7 +1004,6 @@ calcalist.co.il###carouselAdLi
 calcalist.co.il###old_Arts_Ad
 calcalist.co.il###relevanti_area
 calcalist.co.il##.SetArtWidth[style="margin-top:7px;"] > table[width="478"][height="174"]
-calcalist.co.il##.advrst
 calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
@@ -1024,7 +1023,6 @@ d.co.il##.premium-d-strip-banner-container
 davar1.co.il###div-gpt-davar_ip
 davar1.co.il##.google-ad-unit-wrap-header
 davar1.co.il##.google-ad-unit-wrap-more-in-hp
-debka.co.il##.ads_single_side
 dinovich.com###noLike
 dinovich.com##.overlay
 doctors.co.il###big_banner
