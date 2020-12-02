@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RBF+BN7fKgXEi7inqv07Rg
+! Checksum: fofXOGKzH4VoTGWIYEYHhQ
 ! Title: EasyList Hebrew
-! Last modified: 02 Dec 2020 16:12 UTC
+! Last modified: 02 Dec 2020 16:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -439,11 +439,10 @@
 !
 ||psakdin.co.il/ExternalFrames/$domain=calcalist.co.il
 ||s3.amazonaws.com^$script,domain=calcalist.co.il
-! * Haaretz, TheMarker, Mouse.co.il * !
+! * Haaretz, TheMarker * !
 /haaretz\.co\.il\/(?!.*\.(js)($|\?)).*/$script,domain=haaretz.co.il|themarker.com
 /haaretz\.co\.il\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\//$image,subdocument,domain=haaretz.co.il|themarker.com
 !
-||amazonaws.com/campagin/pop/$domain=mouse.co.il
 ||haaretz.co.il/htz/images/bg/Ad_bg.gif
 ||haaretz.co.il/st/media
 ||haaretz.co.il^*/AB/aby.gif
