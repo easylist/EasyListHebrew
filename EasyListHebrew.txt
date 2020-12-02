@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mm4tveGuwN2FmYnEFWYjHA
+! Checksum: aUnn4alfz3f9ezYc6eD1uw
 ! Title: EasyList Hebrew
-! Last modified: 02 Dec 2020 15:30 UTC
+! Last modified: 02 Dec 2020 16:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1147,7 +1147,6 @@ jobmaster.co.il##.pres[width="143"]
 jobmaster.co.il##table[width="100%"][style="border-top:1px solid #EEEEEE;"]
 junkyard.co.il##.plasma_banner
 junkyard.co.il##div[id^="banner"]
-kafe.co.il###adv
 kikar.co.il###exposeMask
 kikar.co.il###maavaron_overlay
 kikar.co.il##.logo
