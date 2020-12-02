@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aUnn4alfz3f9ezYc6eD1uw
+! Checksum: RBF+BN7fKgXEi7inqv07Rg
 ! Title: EasyList Hebrew
-! Last modified: 02 Dec 2020 16:09 UTC
+! Last modified: 02 Dec 2020 16:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -491,14 +491,6 @@
 ||sporty.gdn^$third-party,domain=sport5.co.il
 ! * ONE * !
 ||ads.one.co.il^
-! * Tapuz, Flix * !
-||biz.tapuz.co.il/iframes/ForumMessageBanner.aspx
-||tapuz.co.il/Forums2008/JS/replaceLinks.js
-||tapuz.co.il/Forums2008/googleInTreeFrame.html
-||tapuz.co.il/Forums2008/outMaavaron.aspx
-||tapuz.co.il/communa/merlin_
-||tapuz.co.il/vilonBanner/
-||tapuz.co.il^*CloseBanner.gif
 ! * inn.co.il * !
 ||inn.co.il^$websocket,~third-party,domain=inn.co.il
 !
@@ -925,7 +917,7 @@ calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
 calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
 feeder.co.il,rest.co.il###banner
-getit.co.il,news1.co.il,tapuz.co.il###TopBanner
+getit.co.il,news1.co.il###TopBanner
 haaretz.co.il,mouse.co.il,themarker.com##a[href*="://rmkz.themarker.com/"]
 haaretz.co.il,themarker.com###paywall-promotion-banner
 haaretz.co.il,themarker.com###top_banners
@@ -947,7 +939,6 @@ haaretz.co.il,themarker.com##iframe[width="300"]
 hwzone.co.il,shoofoo.co.il##[class^="banner"]
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
-ladaat.info,tapuz.co.il###divTopBanner
 !
 ! *** Specific domain *** !
 !
@@ -1163,6 +1154,7 @@ ladaat.info###divMekomiRightBanner
 ladaat.info###divMivzakimAd
 ladaat.info###divRightButtonsAds
 ladaat.info###divRightVideoAd
+ladaat.info###divTopBanner
 lib.cet.ac.il##td[background^="/images/commercials"]
 linicom.co.il##a[target="_blank"]
 link4u.co.il###link_banner
@@ -1358,34 +1350,6 @@ stips.co.il##.adsenseAd
 tahazit.co.il###ad-preload
 tahazit.co.il###ad-preload-gray-bg
 takdin.co.il##.mainUpperBanner
-tapuz.co.il###AsyncMlinkBanner
-tapuz.co.il###BannerRightBotDiv
-tapuz.co.il###BannerRightDiv
-tapuz.co.il###divMaavBG
-tapuz.co.il###divMaavaron
-tapuz.co.il###divMaavaronBG
-tapuz.co.il###divTopBanner1
-tapuz.co.il###divTopBanner2
-tapuz.co.il###divTopBanner3
-tapuz.co.il###frm_1
-tapuz.co.il###ftrBnrDiv
-tapuz.co.il###googleSide
-tapuz.co.il###googleTop
-tapuz.co.il###monsterMain
-tapuz.co.il###popDiv
-tapuz.co.il###smbMainPromotedMessage
-tapuz.co.il##.Partners_Ctrl
-tapuz.co.il##.advContainer
-tapuz.co.il##.areaBanner
-tapuz.co.il##.areaLeftBnr
-tapuz.co.il##.areaSideBanner
-tapuz.co.il##.forumContentFooterBox
-tapuz.co.il##.partnersBox
-tapuz.co.il##.right.subsidiary
-tapuz.co.il##.rightBar1
-tapuz.co.il##.rightSideBanner
-tapuz.co.il##.smallAdd
-tapuz.co.il##[id^="netex_"]
 tatus.co.il##.rs
 teamim.co.il###dnn_BottomPane
 teamim.co.il###dnn_pageheaderpane
