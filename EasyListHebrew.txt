@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WT0PEuKmzArjBqJ1FnDDXg
+! Checksum: Pkwc02fKp8MHssGHsIRSqQ
 ! Title: EasyList Hebrew
-! Last modified: 02 Dec 2020 16:28 UTC
+! Last modified: 02 Dec 2020 16:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -558,8 +558,6 @@
 ||rover.ebay.com/rover/*&campid=$popup,third-party,domain=isramedia.net
 ! * SeretHD * !
 !/^https?:\/+(?!(\/*([a-zA-Z0-9\-]+\.)*(google|gstatic|googleapis|jquery|youtube|dailymotion|vimeo|facebook|twitter|cloudflare|bootstrapcdn|unpkg|fontawesome|google-analytics|googletagmanager|googletagservices)\.com\.?(\/|:|$)))([a-zA-Z0-9\-]+\.)*[a-zA-Z0-9\-]{4,63}\.com\.?(\/|:|$)/$script,third-party,domain=serethd.net
-! * TVil * !
-!/^https?:\/+(?!(\/*([a-zA-Z0-9\-]+\.)*(google|gstatic|googleapis|jquery|youtube|dailymotion|vimeo|facebook|twitter|cloudflare|bootstrapcdn|unpkg|fontawesome|google-analytics|googletagmanager|googletagservices)\.com\.?(\/|:|$)))([a-zA-Z0-9\-]+\.)*[a-zA-Z0-9\-]{4,63}\.com\.?(\/|:|$)/$script,third-party,domain=keif.li|tvil.li|tvil.live|tvil.me|tvil.nl|tvil.pw
 ! * Artimedia * !
 /(\/|\.)[a-fA-F0-9]{32}\.com\.?([\/\:]|$)/$media,script,subdocument,xmlhttprequest,third-party
 /amsdk.js$script,xmlhttprequest,domain=0404.co.il|13news.co.il|13tv.co.il|20il.co.il|calcalist.co.il|globes.co.il|inn.co.il|mako.co.il|tapuz.co.il|walla.co.il
