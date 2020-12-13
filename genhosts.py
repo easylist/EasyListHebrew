@@ -2,7 +2,7 @@
 # Generates a hosts file from easylist
 from sys import argv
 
-endswith_filters = ['^$third-party', '^$popup,third-party', '^$popup', '^$document', '^$all', '^']
+endswith_filters = ['^$third-party', '^$popup,third-party', '^$popup', '^$document', '^$doc', '^$all', '^']
 lines = open(argv[1], 'r').read().splitlines()
 
 print("# This lists only contains domains which are used for ads, tracking or popups. it does not block in-HTML elements.")
