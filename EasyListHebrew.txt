@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oC6fcC7MgX7xpaScEju0ug
+! Checksum: Wmyghurg2UAcUqXO/ewOpQ
 ! Title: EasyList Hebrew
-! Last modified: 10 Jan 2021 09:23 UTC
+! Last modified: 10 Jan 2021 17:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -38,7 +38,7 @@
 ||talkahead.com^$third-party
 ||trustmedia.co.il^$third-party
 ||webid.co.il/b144/$third-party
-||wee.co.il^$third-party, domain=~askoli.co.il
+||wee.co.il^$third-party,domain=~askoli.co.il
 ||wesell.co.il^$third-party
 ||ws.walla.co.il^$third-party
 !
