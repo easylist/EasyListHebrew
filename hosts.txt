@@ -14,7 +14,6 @@
 0.0.0.0 next-net.co.il
 0.0.0.0 talkahead.com
 0.0.0.0 trustmedia.co.il
-0.0.0.0 wee.co.il
 0.0.0.0 wesell.co.il
 0.0.0.0 ws.walla.co.il
 0.0.0.0 213.8.137.51
