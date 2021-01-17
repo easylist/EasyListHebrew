@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JNp40tvPVJD0Qt8/Yd1BbA
+! Checksum: bB1OkwUA9tZ5trDXEFIR+A
 ! Title: EasyList Hebrew
-! Last modified: 17 Jan 2021 21:12 UTC
+! Last modified: 17 Jan 2021 21:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -743,6 +743,7 @@ zegvid.net##*
 @@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
+@@||bitsngo.net/widget-scripts/zoomd.widget.logger.$script
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
 @@||cdnwiz.com/ads.js$xmlhttprequest
 @@||clalit.co.il/AdImages
