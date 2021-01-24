@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +Q86w4Ho4MqYvivz+t4Uow
+! Checksum: X2ytkOARRHgeMb+RM+srMg
 ! Title: EasyList Hebrew
-! Last modified: 24 Jan 2021 23:05 UTC
+! Last modified: 24 Jan 2021 23:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1209,6 +1209,7 @@ mapa.co.il##div[style^="text-align:center;width:374px;height:260px;*height:270px
 mapa.co.il##div[style^="text-align:center;width:385px;height:260px;*height:270px;_height:270px;*display:inline-block;background-color:#e3e3e3;padding-top:10px;"]
 mapa.co.il##td[bgcolor="#e3e3e3"][height="110"]
 masa.co.il##.google-ad-links-wrapper
+masa.co.il##.top-firsomet
 mavir.co.il##.adv160_600
 mavir.co.il##.adv300_250
 mavir.co.il##.adv300_600
