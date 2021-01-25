@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 15tHRP1Q4xj6hENIK4fA1g
+! Checksum: vDvOKMqwJutCqY/Flc5SZQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Jan 2021 23:27 UTC
+! Last modified: 25 Jan 2021 23:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -769,7 +769,6 @@ zegvid.net##*
 @@||hamal.co.il/public/assets/ads/$stylesheet,~third-party
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
-@@||iconfinder.com/data/$image,domain=nir-oz.blogspot.co.il|nir-oz.blogspot.com
 @@||imaot.co.il/Recipe/$xmlhttprequest
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world|ynet.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
@@ -802,7 +801,6 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||qamesh.com/Images/advert.png
 @@||rcs.mako.co.il/js/ads.js$script,xmlhttprequest
-@@||resources.blogblog.com^$image,domain=nir-oz.blogspot.co.il|nir-oz.blogspot.com
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
@@ -1230,7 +1228,6 @@ news1.co.il###divBannerRight
 news1.co.il##table[bgcolor="#eeeeee"][height="150"]
 news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
-nir-oz.blogspot.co.il,nir-oz.blogspot.com###g207
 one.co.il###Adv2
 one.co.il###WinnnerRacer
 one.co.il###adBomba
