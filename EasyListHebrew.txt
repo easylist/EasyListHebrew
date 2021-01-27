@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Cub3CFINPue9n4yqI/luaA
+! Checksum: c6RhxtPaNmdX+tNIL2y7mA
 ! Title: EasyList Hebrew
-! Last modified: 27 Jan 2021 16:28 UTC
+! Last modified: 27 Jan 2021 23:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -566,8 +566,6 @@
 !--------------------------1st party blocking rules---------------------------!
 !
 ||2eat.co.il/banner/
-||auto.co.il/Banner
-||auto.co.il/Base/UserControls/Banner/IframeBanner.aspx?
 ||banners.news1.co.il^
 ||banners.news1.co.il^$popup
 ||beaverscripts.com/openwindow.js
@@ -946,14 +944,6 @@ api.vicomi.com##.vc-comment-inner.shadow.recommend_comment.recommend_comment_ad
 ashdodnet.com##.Banner
 ashdodnet.com##div[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##div[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
-auto.co.il###PlazmaOnOff
-auto.co.il###ctl00_MainContent_ctl10_bannerContainer1
-auto.co.il###ctl00_MainContent_divBannerHasut
-auto.co.il###top-banners-container
-auto.co.il##.banner2
-auto.co.il##.content.awLng[style="text-align: center;"]
-auto.co.il##.tower-banner
-auto.co.il##div[style="width:300px;height:250px;margin-left:auto;margin-right:auto;"]
 baba-mail.co.il###banner_google
 baba-mail.co.il##.ad-970-250
 baba-mail.co.il##.banner300x250
