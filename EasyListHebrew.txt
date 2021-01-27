@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: c6RhxtPaNmdX+tNIL2y7mA
+! Checksum: lfqYW17wfs/8ZmOsmch0sA
 ! Title: EasyList Hebrew
-! Last modified: 27 Jan 2021 23:23 UTC
+! Last modified: 27 Jan 2021 23:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -573,7 +573,6 @@
 ||bladna.co.il/Public/flash/
 ||cdn.shorte.st/link-converter.min.js
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
-||gear.co.il/Content/MediaItems/Campaigns/
 ||goo.gl^$popup,domain=kikar.co.il
 ||googleusercontent.com^$domain=trusted-software.com
 ||haflla.com/download/banners/
@@ -1025,15 +1024,6 @@ fxp.co.il##[style^="opacity:"]
 fxp.co.il##iframe[src^="//images.fxp.co.il/ads"]
 gadgety.co.il##.desktop-ad-720-90
 gadgety.co.il##.vertical-ad
-gear.co.il###peelback
-gear.co.il##.ad_A1
-gear.co.il##.ad_B1
-gear.co.il##.ad_B2
-gear.co.il##.ad_B3
-gear.co.il##.ad_B4
-gear.co.il##.ad_C1
-gear.co.il##.ad_C2
-gear.co.il##.tab-logos
 globes.co.il###abpp
 globes.co.il###bannerLeft
 globes.co.il###jumbo_container.nocontent.topBanner
