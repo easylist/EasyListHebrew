@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Pe3oa4ameIW6NqMeOlRZkQ
+! Checksum: NC0QGJ4pttco7ghxPJBjlg
 ! Title: EasyList Hebrew
-! Last modified: 28 Jan 2021 23:37 UTC
+! Last modified: 28 Jan 2021 23:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -589,7 +589,6 @@
 ||player.vimeo.com/video/383596619|$subdocument,domain=ch10.co.il
 ||psakdin.co.il/Pictures/Banners/
 ||raddar.co.il/bannersa.php
-||seret.co.il/images/banners/pagehasut/PageHasut
 ||shoofoo.co.il/banners
 ||static.vgames.co.il/cdn/css/global.bg_comm.css?v=
 ||takana.co.il^$image,third-party
@@ -1261,12 +1260,8 @@ saloona.co.il###popular_top
 saloona.co.il##.popup_order_close
 saloona.co.il##.popup_order_overlay
 saloona.co.il##.text_links
-seret.co.il###divMaavaronBanner
 seret.co.il###topbannercontainer
-seret.co.il##.RightColWhiteBox312x262
-seret.co.il##.cbthfds
 seret.co.il##div[style="width:100%;text-align:center;"]
-seret.co.il##span[style="line-height:192px;height:192px;clear:both;display:block;"]
 sheva7.co.il##.desktop-display > .maavaron
 shironet.mako.co.il###playerAdArea
 shmua.com##.adsbygoogle
