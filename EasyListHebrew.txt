@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: r5w2R5FgTlcrJQhCBeKipw
+! Checksum: 51PcvLS84CEOyWmv2MeDPw
 ! Title: EasyList Hebrew
-! Last modified: 01 Feb 2021 18:49 UTC
+! Last modified: 01 Feb 2021 18:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -933,6 +933,7 @@ infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
 !
 ! *** Specific domain *** !
 !
+animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://dtv.walla.co.il"]
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://unionhorizon.walla.co.il"]
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://www.democratv.org"]
 !
