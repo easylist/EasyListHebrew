@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZjWCwfg97gTc9wE6I6qg0Q
+! Checksum: lWZJlqFy5ld00SyXiQ+wIA
 ! Title: EasyList Hebrew
-! Last modified: 02 Feb 2021 21:09 UTC
+! Last modified: 02 Feb 2021 21:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -550,8 +550,6 @@
 ||images.fxp.co.il^$subdocument
 ||widget.walla.co.il/wallaplayer$subdocument,third-party,domain=fxp.co.il
 ! * Rotter.net * !
-||rotter.name/*.html$subdocument,domain=rotter.name|rotter.net
-||rotter.net/*.html$subdocument,domain=rotter.name|rotter.net
 ||rotter.net/banners/
 ||rotter.net/edit/text/
 ! * IsraMedia * !
@@ -1244,8 +1242,6 @@ rotter.net##.bookingaff
 rotter.net##.forum-side-responsive1
 rotter.net##[style="border: 0px solid red; width: 160px; table-layout: fixed;"]
 rotter.net##a[href*="theadblockerproject.org"]
-rotter.net##br + * > p
-rotter.net##div[id*="Promo"]
 rotter.net##td[style="border:0px solid red; width:160px; table-layout:fixed;"]
 rotter.net##td[style="width:120px;border:0px solid red;"]
 s-maof.com###backgroundPopup
