@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: w+v6vWzpxYzg9Ff/XF/X8Q
+! Checksum: wga3e0G4nWcUfFBF8oylgA
 ! Title: EasyList Hebrew
-! Last modified: 08 Feb 2021 23:16 UTC
+! Last modified: 13 Feb 2021 22:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -574,7 +574,6 @@
 ||goo.gl^$popup,domain=kikar.co.il
 ||googleusercontent.com^$domain=trusted-software.com
 ||haflla.com/download/banners/
-||hwzone.co.il/jobs/
 ||jobmaster.co.il/code/kot/$object
 ||jobmaster.co.il/images/banners/
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
@@ -924,7 +923,6 @@ haaretz.co.il,themarker.com##div[class*="Banner"]
 haaretz.co.il,themarker.com##div[class*="banner"]
 haaretz.co.il,themarker.com##iframe[data-origin]
 haaretz.co.il,themarker.com##iframe[width="300"]
-hwzone.co.il,shoofoo.co.il##[class^="banner"]
 ilimudim.co.il,rest.co.il###ads\.strip\.1
 infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
 !
@@ -1047,9 +1045,6 @@ homeprices.yad2.co.il,pricelist.yad2.co.il,pro.yad2.co.il###top_banners
 hon.co.il###black-studio-tinymce-43
 hon.co.il##.header_banner
 hon.co.il##a img[width="300"][height="250"]
-hwzone.co.il###cubicbigarticlesbannertable
-hwzone.co.il##.box2.alljobBox
-hwzone.co.il##.wideBanner
 ice.co.il##.top_pirsomet
 ilimudim.co.il##.mp-hd-banner
 infomed.co.il###mada_adback
@@ -1257,6 +1252,7 @@ seret.co.il##div[style="width:100%;text-align:center;"]
 sheva7.co.il##.desktop-display > .maavaron
 shironet.mako.co.il###playerAdArea
 shmua.com##.adsbygoogle
+shoofoo.co.il##[class^="banner"]
 solitaire.co.il##.viv
 sponser.co.il###BannerHeader
 sponser.co.il###InnerPagePirsumBox
