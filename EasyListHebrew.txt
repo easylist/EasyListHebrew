@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ayt4jkmm8I+ncLuZbKMhbw
+! Checksum: 7TawPYLGf7sLW779WkRf2Q
 ! Title: EasyList Hebrew
-! Last modified: 15 Feb 2021 23:41 UTC
+! Last modified: 15 Feb 2021 23:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -890,10 +890,6 @@ m.sport5.co.il##.ad
 a.co.il,baba-mail.co.il,globes.co.il,onlife.co.il##.banner
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
-atmag.co.il,timeout.co.il##.btmspcl_wrap.up
-atmag.co.il,timeout.co.il##.to_ad
-atmag.co.il,timeout.co.il##.to_ad_2a7_wrap.clearfix
-atmag.co.il,timeout.co.il##.toadv2_comp1
 bhol-forums.co.il,bhol.co.il###Plasma_1
 bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 bhol-forums.co.il,bhol.co.il###sdera.width100pc
