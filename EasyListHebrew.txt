@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wga3e0G4nWcUfFBF8oylgA
+! Checksum: C7EDhX9gNByCGQ3Rzv2WGg
 ! Title: EasyList Hebrew
-! Last modified: 13 Feb 2021 22:52 UTC
+! Last modified: 15 Feb 2021 23:38 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -568,6 +568,7 @@
 ||banners.news1.co.il^$popup
 ||beaverscripts.com/openwindow.js
 ||beok.co.il/banners/
+||bhol.co.il/rich_banners/
 ||bladna.co.il/Public/flash/
 ||cdn.shorte.st/link-converter.min.js
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
