@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RbuV40gDPTG8pIyt78iZMw
+! Checksum: gsC8zkqUCLjuOWBcL2y94g
 ! Title: EasyList Hebrew
-! Last modified: 21 Feb 2021 22:36 UTC
+! Last modified: 21 Feb 2021 22:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -895,7 +895,7 @@ bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 bhol-forums.co.il,bhol.co.il###sdera.width100pc
 bhol-forums.co.il,bhol.co.il###top_banner_ph
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
-bizportal.co.il,bursagraph.co.il,saloona.co.il###top_banner
+bizportal.co.il,bursagraph.co.il###top_banner
 bizportal.co.il,ice.co.il##.kubia_banner
 calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
@@ -1238,11 +1238,6 @@ s-maof.com###popupContact
 s-maof.com##div[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##div[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 safa-ivrit.org##.inrpggoogle
-saloona.co.il###footer_banner
-saloona.co.il###popular_top
-saloona.co.il##.popup_order_close
-saloona.co.il##.popup_order_overlay
-saloona.co.il##.text_links
 seret.co.il###topbannercontainer
 seret.co.il##div[style="width:100%;text-align:center;"]
 sheva7.co.il##.desktop-display > .maavaron
