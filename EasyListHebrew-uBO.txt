@@ -108,7 +108,7 @@ fxp.co.il##.OUTBRAIN
 ! * Rotter.net * !
 rotter.net###taboola-forum_atf
 ! * Kipa.co.il * !
-||moodaot.kipa.co.il/userFiles/*/vid.mp4$media,redirect=noopmp4-1s
+||moodaot.kipa.co.il^*/vid.mp4$media,redirect=noopmp4-1s
 ! * JDN * !
 ||jdn.co.il/wp-content/uploads/2019/*/*.mp4$media,redirect=noopmp4-1s
 ! * ch10.co.il * !
