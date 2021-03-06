@@ -289,6 +289,7 @@
 0.0.0.0 banners.news1.co.il
 0.0.0.0 alipim.net
 0.0.0.0 fringantlarn8.live
+0.0.0.0 hasdarot.club
 0.0.0.0 hasdarot.co
 0.0.0.0 hasdarot.com
 0.0.0.0 hasdarot.net
