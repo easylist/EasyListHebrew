@@ -7,4 +7,4 @@ if [ $? == 0 ] ; then
 else
   echo 'something went wrong'
 fi
-python2 genhosts.py EasyListHebrew.txt > hosts.txt
+python2 genhosts.py EasyListHebrew.txt
