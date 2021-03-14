@@ -105,6 +105,8 @@ haaretz.co.il,themarker.com##+js(set, showAds, true)
 !
 haaretz.co.il##html:style(height: auto !important; overflow: auto !important)
 haaretz.co.il##span:has([href*="promo"]):xpath(..)
+! * Morfix * !
+morfix.co.il##+js(acis, document.createElement, admiral)
 ! * FXP * !
 fxp.co.il##.OUTBRAIN
 ! * Rotter.net * !
