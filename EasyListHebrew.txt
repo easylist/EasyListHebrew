@@ -1099,6 +1099,7 @@ kikar.co.il###exposeMask
 kikar.co.il###maavaron_overlay
 kikar.co.il##.logo
 kikar.co.il##[id^="takeover"]
+kikar.co.il##.sponsoredbackground
 kipa.co.il##.Ozen300
 kipa.co.il##.mood.hidden-sm.hidden-md.hidden-xs
 kipa.co.il##.mood1240-100
