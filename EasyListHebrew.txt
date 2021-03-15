@@ -891,6 +891,7 @@ m.sport5.co.il##.ad
 a.co.il,baba-mail.co.il,globes.co.il##.banner
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
+bhol.co.il###dolphinContainer
 bhol-forums.co.il,bhol.co.il###Plasma_1
 bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 bhol-forums.co.il,bhol.co.il###sdera.width100pc
