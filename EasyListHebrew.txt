@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kH0hYaDl4v27iy+aYouJ9g
+! Checksum: YHc7FcnavIO2I5ttbgjQdg
 ! Title: EasyList Hebrew
-! Last modified: 17 Mar 2021 21:37 UTC
+! Last modified: 17 Mar 2021 21:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -936,6 +936,7 @@ aiwa.co.il##.bigbnr
 ashdodnet.com##.Banner
 ashdodnet.com##div[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##div[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
+auto.co.il##.WidgetHidden.article-aside
 baba-mail.co.il###banner_google
 baba-mail.co.il##.ad-970-250
 baba-mail.co.il##.banner300x250
