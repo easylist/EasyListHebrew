@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YHc7FcnavIO2I5ttbgjQdg
+! Checksum: x5qE6c3V462hLtbOkjrYXA
 ! Title: EasyList Hebrew
-! Last modified: 17 Mar 2021 21:39 UTC
+! Last modified: 17 Mar 2021 21:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1079,14 +1079,10 @@ inn.co.il##iframe[width="300"][height="250"]
 inn.co.il##iframe[width="300"][height="600"]
 inn.co.il##img[width="300"][height="250"]
 inn.co.il##img[width="300"][height="600"]
-israelhayom.co.il###mini-panel-top_banner
-israelhayom.co.il##.cm8_plasma_wrapper
 israelhayom.co.il##.ih-marketing-info-container
 israelhayom.co.il##.ih-marketing-item-container
-israelhayom.co.il##.light-box-wrp
 israelhayom.co.il##.pane-ih-marketing-bxslider
 israelhayom.co.il##.pane-ih-marketing-nice-to-know
-israelhayom.co.il##.panel-pane.pane-panels-mini.pane-banners-art-op-bottom
 israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
