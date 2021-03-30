@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sB7ykscfTaB9oCmqpGr7kQ
+! Checksum: MandRKwMwt/mKXDIRgnvBA
 ! Title: EasyList Hebrew
-! Last modified: 30 Mar 2021 21:19 UTC
+! Last modified: 30 Mar 2021 21:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -411,11 +411,11 @@
 ||adoric-ads.com^$third-party,domain=mako.co.il
 ||adserv.mako.co.il^
 ||analytics.edgesuite.net^$third-party,domain=mako.co.il
-||api.conduit.com^$domain=mako.co.il
+||api.conduit.com^$domain=mako.co.il|n12.co.il|tvbee.co.il
 ||apps.mako.co.il/minicampaigns/
 ||doubleclick.net^$popup,third-party,domain=mako.co.il
 ||img.mako.co.il/2018/*/*/970x90A.jpg|$image
-||localhost^$domain=mako.co.il|n12.co.il
+||localhost^$domain=mako.co.il|n12.co.il|tvbee.co.il
 ||logger.logidea.info^$third-party,domain=mako.co.il
 ||mako.co.il/makotv/loginSocialConfig.json
 ||netdna-ssl.com^$third-party,domain=mako.co.il
@@ -423,7 +423,7 @@
 ||rcs.mako.co.il/js/player/*/Artimedia/ArtimediaAdManager.js
 ||sdc.mako.co.il^
 ||shironet.mako.co.il/jsp/images/main_strip_ad_box_718.gif
-||valuad.cloud^$third-party,domain=mako.co.il|n12.co.il
+||valuad.cloud^$third-party,domain=mako.co.il|n12.co.il|tvbee.co.il
 ! * Globes * !
 ||www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
 !
@@ -792,7 +792,7 @@ zegvid.net##*
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||qamesh.com/Images/advert.png
 @@||rcs.mako.co.il/js/ads.js$script,xmlhttprequest
-@@||rcs.mako.co.il/js/prebid-$xmlhttprequest,domain=mako.co.il|n12.co.il
+@@||rcs.mako.co.il/js/prebid-$xmlhttprequest,domain=mako.co.il|n12.co.il|tvbee.co.il
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
