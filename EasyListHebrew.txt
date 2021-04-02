@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Oti+c5HNAzpj1tDEKD4T0w
+! Checksum: 77Ps2LrY+CRPCWqENG0TNg
 ! Title: EasyList Hebrew
-! Last modified: 02 Apr 2021 12:41 UTC
+! Last modified: 02 Apr 2021 12:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1144,14 +1144,6 @@ makorrishon.co.il###bLColumnText.small
 makorrishon.co.il###bRColumnText.small
 makorrishon.co.il##.spacer.leftBox:nth-of-type(2)
 makorrishon.co.il##.tallBanner.spacer
-mapa.co.il###adSenseOnMap
-mapa.co.il###headerContenetBanner
-mapa.co.il##.bannerPlace
-mapa.co.il##.cls_bannerRight_sideCubeInner
-mapa.co.il##.cls_banner_468X60
-mapa.co.il##div[style^="text-align:center;width:374px;height:260px;*height:270px;_height:270px;*display:inline-block;background-color:#e3e3e3;padding-top:10px;"]
-mapa.co.il##div[style^="text-align:center;width:385px;height:260px;*height:270px;_height:270px;*display:inline-block;background-color:#e3e3e3;padding-top:10px;"]
-mapa.co.il##td[bgcolor="#e3e3e3"][height="110"]
 masa.co.il##.google-ad-links-wrapper
 masa.co.il##.top-firsomet
 mavir.co.il##.adv160_600
