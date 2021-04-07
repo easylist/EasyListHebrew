@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 77Ps2LrY+CRPCWqENG0TNg
+! Checksum: Afk0hZy0v5otFFYlRuSAsQ
 ! Title: EasyList Hebrew
-! Last modified: 02 Apr 2021 12:44 UTC
+! Last modified: 07 Apr 2021 18:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -707,7 +707,7 @@ zegvid.net##*
 @@/advertisement.$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@?pageurl=$xmlhttprequest,third-party,domain=sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
-@@||2mdn.net/instream/video/client.js$domain=mako.co.il
+@@||2mdn.net/instream/video/client.js$domain=mako.co.il|ynet.co.il
 @@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/cab/*.min.js$script,domain=inn.co.il
 @@||a7.org/scripts/Forecast.js$script,domain=inn.co.il
@@ -715,8 +715,8 @@ zegvid.net##*
 @@||a7.org/scripts/mosaic_$script,domain=inn.co.il
 @@||admedia.com/images/cross_channel_arrows.png$image,domain=isramedia.net
 @@||ads.yad2.co.il/adPic.png$image
-@@||adservice.google.co.il/adsid/integrator.js?$script,domain=13news.co.il|13tv.co.il
-@@||adservice.google.com/adsid/integrator.js?$script,domain=13news.co.il|13tv.co.il
+@@||adservice.google.co.il/adsid/integrator.js?$script,domain=13news.co.il|13tv.co.il|ynet.co.il
+@@||adservice.google.com/adsid/integrator.js?$script,domain=13news.co.il|13tv.co.il|ynet.co.il
 @@||adtest.advsnx.net^*?$xmlhttprequest,domain=playern.sport5.co.il
 @@||akamai.advsnx.net/CDN/$domain=kikar.co.il
 @@||akamai.advsnx.net/CDN/arutz7/$script
