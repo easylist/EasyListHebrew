@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Afk0hZy0v5otFFYlRuSAsQ
+! Checksum: ypugnI7kwIRe9pjUpZngbQ
 ! Title: EasyList Hebrew
-! Last modified: 07 Apr 2021 18:20 UTC
+! Last modified: 08 Apr 2021 20:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -738,6 +738,7 @@ zegvid.net##*
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
 @@||bitsngo.net/widget-scripts/zoomd.widget.logger.$script
+@@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
 @@||cdnwiz.com/ads.js$xmlhttprequest
 @@||clalit.co.il/AdImages
@@ -780,6 +781,7 @@ zegvid.net##*
 @@||mouse.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||old-games.org^$document
 @@||one.co.il^$xmlhttprequest
+@@||pagead2.googlesyndication.com/omsdk/$script,domain=ynet.co.il
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=isramedia.net|mako.co.il|sport5.co.il
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com
