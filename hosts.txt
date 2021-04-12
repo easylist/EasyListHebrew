@@ -131,6 +131,7 @@
 0.0.0.0 hasdarot.com
 0.0.0.0 hasdarot.net
 0.0.0.0 hasdarot.pro
+0.0.0.0 hasdarot.space
 0.0.0.0 hasdarot.tv
 0.0.0.0 hasdarot.xyz
 0.0.0.0 havinates.com
