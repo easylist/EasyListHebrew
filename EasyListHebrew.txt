@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: U28t7YLd/9PjfdjnXVFhjw
+! Checksum: vbltBYkPGIjoNf6XgDXXAA
 ! Title: EasyList Hebrew
-! Last modified: 20 Apr 2021 16:47 UTC
+! Last modified: 20 Apr 2021 16:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1035,7 +1035,6 @@ hon.co.il##.header_banner
 hon.co.il##a img[width="300"][height="250"]
 ice.co.il##.top_pirsomet
 ilimudim.co.il###ads\.strip\.1
-ilimudim.co.il##.mp-hd-banner
 infomed.co.il###mada_adback
 infomed.co.il###mada_adlayer
 infomed.co.il###overlayBanner
