@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2vQqKQzou8Q719Ces+1uYg
+! Checksum: U28t7YLd/9PjfdjnXVFhjw
 ! Title: EasyList Hebrew
-! Last modified: 20 Apr 2021 16:43 UTC
+! Last modified: 20 Apr 2021 16:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -900,7 +900,6 @@ bizportal.co.il,ice.co.il##.kubia_banner
 calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
 calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
-feeder.co.il,rest.co.il###banner
 getit.co.il,news1.co.il###TopBanner
 haaretz.co.il,mouse.co.il,themarker.com##a[href*="://rmkz.themarker.com/"]
 haaretz.co.il,themarker.com###paywall-promotion-banner
@@ -920,8 +919,7 @@ haaretz.co.il,themarker.com##div[class*="Banner"]
 haaretz.co.il,themarker.com##div[class*="banner"]
 haaretz.co.il,themarker.com##iframe[data-origin]
 haaretz.co.il,themarker.com##iframe[width="300"]
-ilimudim.co.il,rest.co.il###ads\.strip\.1
-infomed.co.il,mako.co.il,pcmagazine.co.il,rest.co.il##.ad
+infomed.co.il,mako.co.il,pcmagazine.co.il##.ad
 !
 ! *** Specific domain *** !
 !
@@ -1002,6 +1000,7 @@ doctors.co.il##[id^="ads."]
 doctors.co.il##div[id^="dgBan"]
 dossinet.me###bg_banner_header_top
 fbssl.walla.co.il##.container_footer
+feeder.co.il###banner
 foodsdictionary.co.il###bottom-banner-container
 foodsdictionary.co.il###main-header-ad
 frogi.co.il##.adbox
@@ -1035,6 +1034,7 @@ hon.co.il###black-studio-tinymce-43
 hon.co.il##.header_banner
 hon.co.il##a img[width="300"][height="250"]
 ice.co.il##.top_pirsomet
+ilimudim.co.il###ads\.strip\.1
 ilimudim.co.il##.mp-hd-banner
 infomed.co.il###mada_adback
 infomed.co.il###mada_adlayer
@@ -1192,10 +1192,6 @@ pitria.com##.adcontainer
 psakdin.co.il###bnrTop
 rateonclick.com###connect
 rateonclick.com##a[href*="campaigns.layer.co.il/"]
-rest.co.il###divLeftBanner
-rest.co.il##.ad_box_1
-rest.co.il##.ad_box_3
-rest.co.il##.left_box_1
 rlive.co.il##.adv-placeholder
 rotter.name##.bookingaff
 rotter.name##a[href*="theadblockerproject.org"]
