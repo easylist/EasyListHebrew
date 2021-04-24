@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6lWfnprCV8Ul32QtU3m1uA
+! Checksum: Ji6fRqnJYbpnhIbTd+xFRg
 ! Title: EasyList Hebrew
-! Last modified: 24 Apr 2021 22:20 UTC
+! Last modified: 24 Apr 2021 22:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -998,7 +998,6 @@ doctors.co.il##[id^="ads."]
 doctors.co.il##div[id^="dgBan"]
 dossinet.me###bg_banner_header_top
 fbssl.walla.co.il##.container_footer
-feeder.co.il###banner
 foodsdictionary.co.il###bottom-banner-container
 foodsdictionary.co.il###main-header-ad
 frogi.co.il##.adbox
