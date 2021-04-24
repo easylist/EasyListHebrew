@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: i0pUIQ/dAkN/Ee4tnCihaw
+! Checksum: q0VNpHwEEpyR7e3PLr4uYA
 ! Title: EasyList Hebrew
-! Last modified: 24 Apr 2021 22:29 UTC
+! Last modified: 24 Apr 2021 22:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -544,8 +544,6 @@
 ||bizportal.co.il/Scripts/maavaron.js?v=
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
 ! * FXP * !
-||fxp.co.il/skinfxp/*.php$script,image
-||images.fxp.co.il^$subdocument
 ||widget.walla.co.il/wallaplayer$subdocument,third-party,domain=fxp.co.il
 ! * Rotter.net * !
 ||rotter.net/banners/
@@ -1003,8 +1001,6 @@ frogi.co.il##.leftadblock
 frogi.co.il##.topbanner
 fun.walla.co.il##.game-item > .pre-game
 fxp.co.il###adfxp
-fxp.co.il##[style^="opacity:"]
-fxp.co.il##iframe[src^="//images.fxp.co.il/ads"]
 gadgety.co.il##.desktop-ad-720-90
 gadgety.co.il##.vertical-ad
 globes.co.il###jumbo_container.nocontent.topBanner
