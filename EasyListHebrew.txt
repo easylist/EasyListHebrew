@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: q0VNpHwEEpyR7e3PLr4uYA
+! Checksum: KJ9IWM+gKrFUgy1PEenDsw
 ! Title: EasyList Hebrew
-! Last modified: 24 Apr 2021 22:31 UTC
+! Last modified: 25 Apr 2021 22:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -35,6 +35,7 @@
 ||mimgoal.com^$third-party
 ||mitbahon.co.il^$third-party
 ||next-net.co.il^$third-party
+||sekindo.com^$third-party
 ||talkahead.com^$third-party
 ||trustmedia.co.il^$third-party
 ||webid.co.il/b144/$third-party
