@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +JEioZ0ADPHytKYiTHJ+hw
+! Checksum: Xi/xZWsXChQh/RN2Ap14yw
 ! Title: EasyList Hebrew
-! Last modified: 26 Apr 2021 22:47 UTC
+! Last modified: 26 Apr 2021 22:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -926,6 +926,7 @@ animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://www.democratv.org"]
 !
 0404.co.il##.sidebannerads
+2net.co.il##.TopBanner
 aiwa.co.il##.bigbnr
 ashdodnet.com##.Banner
 ashdodnet.com##div[style="height: 78px; overflow: hidden; width: 510px;"]
