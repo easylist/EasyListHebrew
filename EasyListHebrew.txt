@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rqSlLtm5pitVded5ObPDUg
+! Checksum: wNEsUf38aJ5uW6jjzjgT5Q
 ! Title: EasyList Hebrew
-! Last modified: 28 Apr 2021 13:41 UTC
+! Last modified: 28 Apr 2021 15:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1069,6 +1069,7 @@ junkyard.co.il##.plasma_banner
 junkyard.co.il##div[id^="banner"]
 kikar.co.il###exposeMask
 kikar.co.il###maavaron_overlay
+kikar.co.il##.cnoHcopedbackground
 kikar.co.il##.logo
 kikar.co.il##.sponsoredbackground
 kikar.co.il##[id^="takeover"]
