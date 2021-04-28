@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: boTcKOo9U8Y7TsJvyHjWog
+! Checksum: Og/1gitMnv58e7J0bQQckg
 ! Title: EasyList Hebrew
-! Last modified: 28 Apr 2021 13:33 UTC
+! Last modified: 28 Apr 2021 13:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -991,9 +991,6 @@ ch10.co.il###stSegmentFrame
 ch10.co.il##.contento_Container
 ch10.co.il##.rt-banners
 chabad.info##.adpro
-doctors.co.il###big_banner
-doctors.co.il##[id^="ads."]
-doctors.co.il##div[id^="dgBan"]
 foodsdictionary.co.il###bottom-banner-container
 foodsdictionary.co.il###main-header-ad
 forum.lametayel.co.il##.textlinks_wide.textlinks
