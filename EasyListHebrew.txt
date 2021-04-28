@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Og/1gitMnv58e7J0bQQckg
+! Checksum: rqSlLtm5pitVded5ObPDUg
 ! Title: EasyList Hebrew
-! Last modified: 28 Apr 2021 13:37 UTC
+! Last modified: 28 Apr 2021 13:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -563,7 +563,6 @@
 ||banners.news1.co.il^
 ||banners.news1.co.il^$popup
 ||beaverscripts.com/openwindow.js
-||beok.co.il/banners/
 ||bhol.co.il/rich_banners/
 ||bladna.co.il/Public/flash/
 ||cdn.shorte.st/link-converter.min.js
@@ -935,8 +934,6 @@ auto.co.il##.WidgetHidden.article-aside
 baba-mail.co.il###banner_google
 baba-mail.co.il##.ad-970-250
 baba-mail.co.il##.banner300x250
-beok.co.il##.BannerMid
-beok.co.il##.TopBanners
 bhol.co.il###AdvertisementSystemTakeOver
 bhol.co.il###divBanner_BigPlazma
 bhol.co.il###divBanner_RegularPlazma
