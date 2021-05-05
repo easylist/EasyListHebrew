@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wNEsUf38aJ5uW6jjzjgT5Q
+! Checksum: 779Y+pNw+2ATl4iTpyq4Yg
 ! Title: EasyList Hebrew
-! Last modified: 28 Apr 2021 15:06 UTC
+! Last modified: 05 May 2021 14:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -916,7 +916,7 @@ haaretz.co.il,themarker.com##div[class*="Banner"]
 haaretz.co.il,themarker.com##div[class*="banner"]
 haaretz.co.il,themarker.com##iframe[data-origin]
 haaretz.co.il,themarker.com##iframe[width="300"]
-infomed.co.il,mako.co.il,pcmagazine.co.il##.ad
+mako.co.il,pcmagazine.co.il##.ad
 !
 ! *** Specific domain *** !
 !
@@ -1020,13 +1020,6 @@ hon.co.il###black-studio-tinymce-43
 hon.co.il##.header_banner
 hon.co.il##a img[width="300"][height="250"]
 ilimudim.co.il###ads\.strip\.1
-infomed.co.il###mada_adback
-infomed.co.il###mada_adlayer
-infomed.co.il###overlayBanner
-infomed.co.il##.google_adDiv
-infomed.co.il##.squere_ad
-infomed.co.il##ol[anc="adclass"]
-infomed.co.il##ol[style$="inline-block; width: 338px; height: 304px; left: 25%; bottom: 0px;"]
 inn.co.il###LeftInfo
 inn.co.il###divB212Out
 inn.co.il###divB800
