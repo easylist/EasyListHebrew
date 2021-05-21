@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 46TPfr3uIYOqdT3ZwG7a2Q
+! Checksum: GFmcwVAwBb6dtKBtRyT6jw
 ! Title: EasyList Hebrew
-! Last modified: 09 May 2021 19:56 UTC
+! Last modified: 21 May 2021 11:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -994,10 +994,6 @@ foodsdictionary.co.il###bottom-banner-container
 foodsdictionary.co.il###main-header-ad
 forum.lametayel.co.il##.textlinks_wide.textlinks
 frogi.co.il##.adbox
-frogi.co.il##.adtextbox
-frogi.co.il##.article_item_adbox
-frogi.co.il##.leftadblock
-frogi.co.il##.topbanner
 fun.walla.co.il##.game-item > .pre-game
 fxp.co.il###adfxp
 gadgety.co.il##.desktop-ad-720-90
