@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GFmcwVAwBb6dtKBtRyT6jw
+! Checksum: /Ts2sf2tr2tM4oJ/TGlbuA
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2021 11:22 UTC
+! Last modified: 21 May 2021 11:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -569,7 +569,6 @@
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
 ||goo.gl^$popup,domain=kikar.co.il
 ||googleusercontent.com^$domain=trusted-software.com
-||haflla.com/download/banners/
 ||jobmaster.co.il/code/kot/$object
 ||jobmaster.co.il/images/banners/
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
