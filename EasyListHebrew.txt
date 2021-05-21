@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /ycWE5hXKH8myqTtbM7Atg
+! Checksum: qEdMvWggx/j9df11brbrQg
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2021 11:40 UTC
+! Last modified: 21 May 2021 11:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -569,8 +569,6 @@
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
 ||goo.gl^$popup,domain=kikar.co.il
 ||googleusercontent.com^$domain=trusted-software.com
-||jobmaster.co.il/code/kot/$object
-||jobmaster.co.il/images/banners/
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
 ||leadim4u.com/accounts/default1/banners/
 ||negishim.com/accessibility/
@@ -1050,8 +1048,6 @@ isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4p
 jobmaster.co.il###bannerDiv
 jobmaster.co.il###leftBanner
 jobmaster.co.il###rightBanner
-jobmaster.co.il##.pres[width="143"]
-jobmaster.co.il##table[width="100%"][style="border-top:1px solid #EEEEEE;"]
 junkyard.co.il##.plasma_banner
 junkyard.co.il##div[id^="banner"]
 kikar.co.il###exposeMask
