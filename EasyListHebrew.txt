@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WBCE8/VkUFVx7dgsgNLCJg
+! Checksum: MK4sXZG4Ul+eteIUJcWU/A
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2021 11:29 UTC
+! Last modified: 21 May 2021 11:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1123,9 +1123,7 @@ mavir.co.il##.pirsumba
 mavir.co.il##.pirsumbaTop
 mazaltov.walla.co.il##.banner-tower
 mazaltov.walla.co.il##.master-popup-banner
-netex.co.il##.b728x90.bottomBanner
 netex.co.il##.banner.b160x600
-netex.co.il##.banner.b180x150
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
 newmail.walla.co.il##.walTopBannerInside
