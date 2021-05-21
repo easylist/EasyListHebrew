@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: V2FQcb+ESTmoP3snAfefpw
+! Checksum: /ycWE5hXKH8myqTtbM7Atg
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2021 11:36 UTC
+! Last modified: 21 May 2021 11:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1133,28 +1133,7 @@ news1.co.il###divBannerRight
 news1.co.il##table[bgcolor="#eeeeee"][height="150"]
 news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
-one.co.il###Adv2
-one.co.il###WinnnerRacer
-one.co.il###adBomba
-one.co.il###adWallaDeals
-one.co.il###divAdChance
-one.co.il###divEventCounter
-one.co.il###divFarzda
-one.co.il###divYnetNews
-one.co.il###tblAdBlock
-one.co.il##.TopArticleImage + #TopArticleImagesNavigation > .TopArticleImage[href^="/Article/"][style^="background: rgb(182, 181, 181)"]
-one.co.il##.adBg
-one.co.il##.adBg1
-one.co.il##.divZedoAd
-one.co.il##.f12[bgcolor="#ffffff"] > div[style="width:450px;border:solid 1px #d2d2d2;padding:5px 0;margin-bottom:20px;"]
 one.co.il##a[class*="one-article-strip"]
-one.co.il##div[style="height:43px;padding-bottom:18px"]
-one.co.il##div[style="text-align:right;border:solid 1px #d5d5d5;"]
-one.co.il##div[style="width: 636px; height: 32px; margin: 5px 0px 5px -340px;"]
-one.co.il##div[style="width:100%;height:25px;text-align:left;direction:rtl;"]
-one.co.il##div[style="width:100%;text-align:center;background:#ebebeb;padding:10px auto 10px auto;"]
-one.co.il##div[style="width:300px;height:250px;padding:10px 12px 10px 12px;text-align:center;background:#ebebeb;"]
-one.co.il##div[style="width:775px;text-align:center;background:#ebebeb;padding:10px auto 10px auto;margin:0;clear:both;"]
 pitria.com##.adcontainer
 psakdin.co.il###bnrTop
 rateonclick.com###connect
