@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qEdMvWggx/j9df11brbrQg
+! Checksum: iyeZjjZcCxozO4Y6lLrepA
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2021 11:44 UTC
+! Last modified: 21 May 2021 11:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1018,12 +1018,17 @@ inn.co.il###divB800
 inn.co.il###divBottomAd
 inn.co.il###divInfMiddle1
 inn.co.il###divInfMiddle2
+inn.co.il###divInfT1_1
+inn.co.il###divInfT1_2
 inn.co.il###divMaavaron
 inn.co.il###divMainLeftInfo
 inn.co.il###divMainRightInfo
+inn.co.il###divTopAd
 inn.co.il##.InfoIn
 inn.co.il##.LeftNewsInfo
+inn.co.il##.div300
 inn.co.il##.h600.LeftInfo
+inn.co.il##.in168
 inn.co.il##[href^="https://www.inn.co.il/info/"]
 inn.co.il##a + iframe[href*="a7.org/"]
 inn.co.il##a[href*="theadblockerproject.org"]
