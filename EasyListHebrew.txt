@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MK4sXZG4Ul+eteIUJcWU/A
+! Checksum: V2FQcb+ESTmoP3snAfefpw
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2021 11:31 UTC
+! Last modified: 21 May 2021 11:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -980,7 +980,6 @@ calcalist.co.il##.SetArtWidth[style="margin-top:7px;"] > table[width="478"][heig
 calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
-cars.sport5.co.il##.body-cat-magazine:nth-of-type(5)
 cellebrate.mobi###flow
 ch10.co.il###arti-banner-popup
 ch10.co.il###stSegmentFrame
@@ -1187,21 +1186,10 @@ sponser.co.il###InnerPagePirsumBox
 sponser.co.il###PubBoxArticles
 sponser.co.il##div[style="display: inline;float: right;height:10px;width: 100%;margin-bottom:10px; border-bottom: 1px solid #D05A00;"]
 sport1.maariv.co.il##.header-div-banner
-sport5.co.il###ZA_CAMP_SLIDE_DIV_1
-sport5.co.il###carouselShare
-sport5.co.il###carouserShareVerticle
-sport5.co.il###externalbanner-Homepage1
-sport5.co.il###ucHeader_rptLinks_lnkAnchor_3
-sport5.co.il###ucHeader_rptLinks_lnkAnchor_4
-sport5.co.il###wrapper > div > div:nth-child(11) > span
-sport5.co.il##.article-holder > .alt
 sport5.co.il##.article-list-alt2.article-list-alt > .article-holder-homepage > .row:nth-of-type(6) > .alt
-sport5.co.il##.aside > .banner-container
 sport5.co.il##.banner-list
-sport5.co.il##.iphone
 sport5.co.il##.post.post-alt
 sport5.co.il##.skin-header
-sport5.co.il##a[href*="www.5555.co.il/?utm"]
 sports.walla.co.il##.type-2.common-hp-articles.sequence
 srugim.co.il##.srugim_top_slider
 starmed.co.il##.banner_forums_160x600_right
