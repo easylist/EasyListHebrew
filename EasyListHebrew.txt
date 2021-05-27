@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Qmhoff89MNMGIM59T6Mzzw
+! Checksum: RUbcj417jFW1XwH6lhQFwQ
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2021 11:59 UTC
+! Last modified: 27 May 2021 21:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -540,9 +540,6 @@
 ! * Bizportal * !
 ||www.bizportal.co.il^$websocket,~third-party,domain=www.bizportal.co.il
 !
-||banners*.bizportal.co.il^
-||banners.bizportal.co.il^$popup
-||bizportal.co.il/Scripts/maavaron.js?v=
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
 ! * FXP * !
 ||widget.walla.co.il/wallaplayer$subdocument,third-party,domain=fxp.co.il
@@ -893,7 +890,6 @@ bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 bhol-forums.co.il,bhol.co.il###sdera.width100pc
 bhol-forums.co.il,bhol.co.il###top_banner_ph
 bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
-bizportal.co.il,bursagraph.co.il###top_banner
 calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
 calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
@@ -952,23 +948,8 @@ bigbroil.com##.desk_mode.adsgoogle
 bipbip.co.il###LeftBanner
 bipbip.co.il##.HotBannerDiv
 bipbip.co.il##.TopBannerDiv
-bizportal.co.il###additional_article_adv
-bizportal.co.il###additional_article_adv_NEW
-bizportal.co.il###adv_tower
-bizportal.co.il###articleBannerMadadimLeft
-bizportal.co.il###hpBannerMadadimLeft
-bizportal.co.il###shdira
-bizportal.co.il###shdira_homepage
-bizportal.co.il###tapet_flash_top
-bizportal.co.il###tapet_superpremium_container
 bizportal.co.il##.adv-article-left-kubia
-bizportal.co.il##.adv-article-right-kubia
-bizportal.co.il##.adv_breatdcrumbs
-bizportal.co.il##.baner1
-bizportal.co.il##.baner2
-bizportal.co.il##.hp_baner_kub
-bizportal.co.il##.kubia_banner
-bizportal.co.il##.single_section_world_short
+bursagraph.co.il###top_banner
 calcalist.co.il###ArticleBanner
 calcalist.co.il###ads\.premium
 calcalist.co.il###carouselAdLi
