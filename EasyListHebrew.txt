@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RUbcj417jFW1XwH6lhQFwQ
+! Checksum: /7p2H/3DZ2QNGVJhHOW8Zg
 ! Title: EasyList Hebrew
-! Last modified: 27 May 2021 21:36 UTC
+! Last modified: 31 May 2021 23:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -732,6 +732,7 @@ zegvid.net##*
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
+@@||cdn.permutive.com/$script,domain=one.co.il
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
 @@||cdnwiz.com/ads.js$xmlhttprequest
 @@||clalit.co.il/AdImages
@@ -739,6 +740,8 @@ zegvid.net##*
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
 @@||googlesyndication.com/pagead/osd.js$domain=haaretz.co.il|themarker.com
+@@||googletagmanager.com/gtag/js$script,domain=one.co.il
+@@||googletagmanager.com/gtm.js$script,domain=one.co.il
 @@||googletagservices.com/tag/js/gpt.js$domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||gplanet.co.il/js/adx.js
 @@||haaretz.co.il/htz/css/teasers.css?$stylesheet
@@ -755,7 +758,7 @@ zegvid.net##*
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world|ynet.co.il
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|one.co.il|sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world|ynet.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
@@ -799,6 +802,7 @@ zegvid.net##*
 @@||sport5.co.il^*/dfp.$script,~third-party
 @@||sport5.co.il^*/dfp/$script,~third-party
 @@||static.sdarot.*^*/plugins/*/videojs.ads.$script,stylesheet,~third-party,domain=sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
+@@||static.site24x7rum.com/beacon/site24x7rum-min.js$script,domain=one.co.il
 @@||taimeod.co.il^$document
 @@||themarker.com/Images/negative.png$image,domain=haaretz.co.il|themarker.com
 @@||themarker.com/Images/positive.png$image,domain=haaretz.co.il|themarker.com
