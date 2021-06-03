@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /7p2H/3DZ2QNGVJhHOW8Zg
+! Checksum: 9/hwX7H7EPjHfwKFlPUoPQ
 ! Title: EasyList Hebrew
-! Last modified: 31 May 2021 23:35 UTC
+! Last modified: 03 Jun 2021 18:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1065,13 +1065,21 @@ link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
 link4u.co.il##.banner_main
 maariv.co.il##.HorizontalCategoryArticleAndBannerFloor
+maariv.co.il##.OUTBRAIN
 maariv.co.il##.TwoBannersFloor
+maariv.co.il##.article-5-outbrain-script
 maariv.co.il##.article-bottom-banner
 maariv.co.il##.article-box-banner-wrap
+maariv.co.il##.article-details-banner
+maariv.co.il##.article-left-side-banner
+maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.article-top-banner
+maariv.co.il##.banner
+maariv.co.il##.banner-left-home
 maariv.co.il##.box-banner-wrap
 maariv.co.il##.horizontal-banner-wrap
 maariv.co.il##.news-feed-banner
+maariv.co.il##.right-side-outbrain
 maariv.co.il##.xl-banner-wrap
 madas.co.il###CloseshellAds
 mail.walla.co.il###ad1
