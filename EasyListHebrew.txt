@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZiA+ilh1cbUH6bBRLUsCEQ
+! Checksum: bkwMYbH6waqufz+CE6ZuXg
 ! Title: EasyList Hebrew
-! Last modified: 05 Jun 2021 21:49 UTC
+! Last modified: 05 Jun 2021 21:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -897,7 +897,6 @@ bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
 calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
-getit.co.il,news1.co.il###TopBanner
 haaretz.co.il,mouse.co.il,themarker.com##a[href*="://rmkz.themarker.com/"]
 haaretz.co.il,themarker.com###paywall-promotion-banner
 haaretz.co.il,themarker.com###top_banners
@@ -1117,6 +1116,7 @@ newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
 newmail.walla.co.il##.walTopBannerInside
 news1.co.il###PlazmaDiv
+news1.co.il###TopBanner
 news1.co.il###UcInsideRight_1_1_tblWidth
 news1.co.il###divBanner
 news1.co.il###divBannerRight
