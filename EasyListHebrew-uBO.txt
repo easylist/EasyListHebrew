@@ -54,6 +54,8 @@ ynet.co.il##+js(nostif, offsetHeight)
 !
 ynet.co.il##.MultiArticleTaboola.layoutItem
 ynet.co.il##.Taboola.layoutItem
+ynet.co.il##.layoutContainer:nth-child(5):style(min-height:561px !important)
+ynet.co.il##.multi-images-gallery-homepage:style(top:280px !important)
 ! * mako * !
 |blob:$~script,important,domain=www.mako.co.il
 !
