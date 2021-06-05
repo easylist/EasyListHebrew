@@ -111,6 +111,11 @@ haaretz.co.il,themarker.com##+js(set, showAds, true)
 !
 haaretz.co.il##html:style(height: auto !important; overflow: auto !important)
 haaretz.co.il##span:has([href*="promo"]):xpath(..)
+! * Maariv * !
+maariv.co.il##.OUTBRAIN
+maariv.co.il##.article-5-outbrain-script
+maariv.co.il##.article-left-side-outbrain
+maariv.co.il##.right-side-outbrain
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
 ! * FXP * !
