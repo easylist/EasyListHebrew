@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bkwMYbH6waqufz+CE6ZuXg
+! Checksum: 2ZsXRwngS1XS+1qxAcI6Gg
 ! Title: EasyList Hebrew
-! Last modified: 05 Jun 2021 21:55 UTC
+! Last modified: 05 Jun 2021 21:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -952,7 +952,6 @@ bipbip.co.il###LeftBanner
 bipbip.co.il##.HotBannerDiv
 bipbip.co.il##.TopBannerDiv
 bizportal.co.il##.adv-article-left-kubia
-bursagraph.co.il###top_banner
 calcalist.co.il###ArticleBanner
 calcalist.co.il###ads\.premium
 calcalist.co.il###carouselAdLi
