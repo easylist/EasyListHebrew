@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iMWH+ULgLbPCyw7IZNJTmw
+! Checksum: /N63jOkS02RbH9YqYcBLhw
 ! Title: EasyList Hebrew
-! Last modified: 23 Jun 2021 15:45 UTC
+! Last modified: 23 Jun 2021 15:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -698,7 +698,7 @@ zegvid.net##*
 @@/advert.$image,domain=13news.co.il|13tv.co.il
 @@/advertisement.$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
-@@?pageurl=$xmlhttprequest,third-party,domain=sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
+@@?pageurl=$xmlhttprequest,third-party,domain=sdarot.buzz|sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
 @@||2mdn.net/instream/video/client.js$domain=mako.co.il|ynet.co.il
 @@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/cab/*.min.js$script,domain=inn.co.il
@@ -756,7 +756,7 @@ zegvid.net##*
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|one.co.il|sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world|ynet.co.il
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|one.co.il|sdarot.buzz|sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world|ynet.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
@@ -799,7 +799,7 @@ zegvid.net##*
 @@||shukitv.ucoz.com/script/ads.js
 @@||sport5.co.il^*/dfp.$script,~third-party
 @@||sport5.co.il^*/dfp/$script,~third-party
-@@||static.sdarot.*^*/plugins/*/videojs.ads.$script,stylesheet,~third-party,domain=sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
+@@||static.sdarot.*^*/plugins/*/videojs.ads.$script,stylesheet,~third-party,domain=sdarot.buzz|sdarot.casa|sdarot.dev|sdarot.life|sdarot.pm|sdarot.pro|sdarot.rocks|sdarot.services|sdarot.space|sdarot.today|sdarot.tv|sdarot.video|sdarot.website|sdarot.work|sdarot.world
 @@||static.site24x7rum.com/beacon/site24x7rum-min.js$script,domain=one.co.il
 @@||taimeod.co.il^$document
 @@||themarker.com/Images/negative.png$image,domain=haaretz.co.il|themarker.com
