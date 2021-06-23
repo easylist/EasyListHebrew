@@ -114,6 +114,7 @@ haaretz.co.il##span:has([href*="promo"]):xpath(..)
 ! * Maariv * !
 maariv.co.il##.OUTBRAIN
 maariv.co.il##.article-5-outbrain-script
+maariv.co.il##.article-9-outbrain-script
 maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.right-side-outbrain
 ! * Morfix * !
