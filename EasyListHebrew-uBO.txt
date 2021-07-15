@@ -126,8 +126,7 @@ rotter.net###taboola-forum_atf
 ! * JDN * !
 ||jdn.co.il/wp-content/uploads/2019/*/*.mp4$media,redirect=noopmp4-1s
 ! * ch10.co.il * !
-||ch10.co.il/121.mp4$media,redirect=noopmp4-1s
-||ch10.co.il/wp-content/uploads/2019/*/*.mp4$media,redirect=noopmp4-1s
+||ch10.co.il/wp-content/uploads/2021/*/*.mp4$media,redirect=noopmp4-1s
 ! * bhol.co.il * !
 bhol.co.il##body:style(overflow: auto !important;)
 ! * Jmusic.me * !
