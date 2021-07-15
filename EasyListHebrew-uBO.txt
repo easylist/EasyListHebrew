@@ -124,7 +124,8 @@ rotter.net###taboola-forum_atf
 ! * Kipa.co.il * !
 ||moodaot.kipa.co.il^*/*.mp4$media,redirect=noopmp4-1s
 ! * JDN * !
-||jdn.co.il/wp-content/uploads/2019/*/*.mp4$media,redirect=noopmp4-1s
+||jdn.co.il/wp-content/banners/bankleumi/$media,redirect=noopmp4-1s
+||jdn.co.il/wp-content/uploads/video/yugort.mp4$media,redirect=noopmp4-1s
 ! * ch10.co.il * !
 ||ch10.co.il/wp-content/uploads/2021/*/*.mp4$media,redirect=noopmp4-1s
 ! * bhol.co.il * !
