@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CXtva1YEoU7R7fzwL9X20A
+! Checksum: 7/gVCbwsVdZ62HNaaXUDBw
 ! Title: EasyList Hebrew
-! Last modified: 14 Jul 2021 17:45 UTC
+! Last modified: 15 Jul 2021 22:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1045,6 +1045,7 @@ kikar.co.il##[id^="takeover"]
 kipa.co.il##.Ozen300
 kipa.co.il##.mood.hidden-sm.hidden-md.hidden-xs
 kipa.co.il##.mood1240-100
+kipa.co.il##.sargelWarp
 kipa.co.il##[href^="https://moodaot.kipa.co.il/gomodaa.php"]
 kipa.co.il##div.textim > div > .mood > .moodiframe.oneMood
 kipa.co.il##div.textim > div > .mood > .moodiframe.oneMood > div
