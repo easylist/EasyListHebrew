@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: IfgW7fLL3yk/eC5aIsZtrQ
+! Checksum: XqbGZEc2PJ0c70kLNg90aw
 ! Title: EasyList Hebrew
-! Last modified: 01 Aug 2021 16:00 UTC
+! Last modified: 02 Aug 2021 20:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -604,6 +604,7 @@ hagdolim.info###video-blocker
 hasdarot.club##*
 hasdarot.co##*
 hasdarot.com##*
+hasdarot.life##*
 hasdarot.live##*
 hasdarot.net##*
 hasdarot.pro##*
@@ -659,6 +660,7 @@ zegvid.net##*
 ||hasdarot.club^
 ||hasdarot.co^
 ||hasdarot.com^
+||hasdarot.life^
 ||hasdarot.live^
 ||hasdarot.net^
 ||hasdarot.pro^
