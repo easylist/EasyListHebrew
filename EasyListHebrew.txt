@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XqbGZEc2PJ0c70kLNg90aw
+! Checksum: nFEeglKK+p0r9k3AmJPIYg
 ! Title: EasyList Hebrew
-! Last modified: 02 Aug 2021 20:44 UTC
+! Last modified: 01 Feb 2022 17:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -795,6 +795,7 @@ zegvid.net##*
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/gpt/$script,domain=13news.co.il|13tv.co.il|nifgashim.net
+@@||securepubads.g.doubleclick.net/tag/js/$script,domain=13tv.co.il
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
 @@||sfx-images.mozilla.org^$image
 @@||sheee.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
