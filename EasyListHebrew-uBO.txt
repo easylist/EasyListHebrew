@@ -84,6 +84,7 @@ calcalist.co.il##+js(aopw, upManager)
 13news.co.il,13tv.co.il##+js(nostif, offsetHeight)
 !
 13news.co.il,13tv.co.il##.show.youMightAlsoLike
+13news.co.il,13tv.co.il##.taboola-wrapper
 ! * ONE * !
 ||xads.zedo.com/ads2/c?*.one.co.il/$script,important,redirect=noopjs,1p
 ! * inn.co.il * !
@@ -91,8 +92,9 @@ calcalist.co.il##+js(aopw, upManager)
 !
 inn.co.il##+js(aopr, TextDecoder)
 inn.co.il##+js(aopw, upManager)
-! * 20il.co.il * !
-||20il.co.il^$important,websocket,1p,domain=20il.co.il
+!
+inn.co.il##.article-taboola
+inn.co.il##.taboola
 ! * yad2 * !
 |blob:$important,domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
 !
@@ -115,6 +117,8 @@ maariv.co.il##.article-5-outbrain-script
 maariv.co.il##.article-9-outbrain-script
 maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.right-side-outbrain
+! * Gadgety * !
+gadgety.co.il###taboola-left-rail-thumbnails
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
 ! * FXP * !

@@ -125,11 +125,13 @@
 0.0.0.0 ha-deal.co.il
 0.0.0.0 hallucius.com
 0.0.0.0 hamashtap.co.il
+0.0.0.0 hasdarot.cc
 0.0.0.0 hasdarot.club
 0.0.0.0 hasdarot.co
 0.0.0.0 hasdarot.com
 0.0.0.0 hasdarot.life
 0.0.0.0 hasdarot.live
+0.0.0.0 hasdarot.me
 0.0.0.0 hasdarot.net
 0.0.0.0 hasdarot.pro
 0.0.0.0 hasdarot.space
