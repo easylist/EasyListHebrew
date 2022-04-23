@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 generalFinder.py general.txt
+python3 ./tools/generalFinder.py general.txt
