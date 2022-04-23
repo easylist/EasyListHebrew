@@ -31,10 +31,10 @@ for lst in one:
 #print all keys with the same vlas
 sor=sorted([x for x in dic_res.values() if len(x.domain)>1],key=lambda x:x.typ + x.filter)
 for val in sor:
-    print val
+    print(val)
     
-print '\nfilters to delete:'
+print('\nfilters to delete:')
 filters=[(x.typ,x.filter) for x in sor]
 for o in one:   
     if (o[1],o[2]) in filters:
-        print ''.join(o)
+        print(''.join(o))
