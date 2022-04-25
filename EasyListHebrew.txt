@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /x9TqP7mkmv6dE12IzRYHA
+! Checksum: KFZUSHgkbe9/OQJKgdTnYg
 ! Title: EasyList Hebrew
-! Last modified: 23 Apr 2022 20:03 UTC
+! Last modified: 24 Apr 2022 14:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1002,14 +1002,17 @@ homeprices.yad2.co.il,pricelist.yad2.co.il,pro.yad2.co.il###top_banners
 hon.co.il###black-studio-tinymce-43
 hon.co.il##.header_banner
 hon.co.il##a img[width="300"][height="250"]
+hwzone.co.il##.clearfix.tipi-flex-right.block-da-header.block-da.block-da-1
 hwzone.co.il##.div-hwad-970x250
 ilimudim.co.il###ads\.strip\.1
+inn.co.il###banner-sticky
 inn.co.il##.banner-top
 inn.co.il##[id^="banner_"]
 israelhayom.co.il##.ih-marketing-info-container
 israelhayom.co.il##.ih-marketing-item-container
 israelhayom.co.il##.pane-ih-marketing-bxslider
 israelhayom.co.il##.pane-ih-marketing-nice-to-know
+israelhayom.co.il##.single-post-inner-aside__col.col
 israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
@@ -1024,6 +1027,7 @@ kikar.co.il##.cnoHcopedbackground
 kikar.co.il##.logo
 kikar.co.il##.sponsoredbackground
 kikar.co.il##[id^="takeover"]
+kipa.co.il###innerMoodaa2
 kipa.co.il##.Ozen300
 kipa.co.il##.mood.hidden-sm.hidden-md.hidden-xs
 kipa.co.il##.mood1240-100
@@ -1111,6 +1115,7 @@ rateonclick.com###connect
 rateonclick.com##a[href*="campaigns.layer.co.il/"]
 rlive.co.il##.adv-placeholder
 rlive.co.il##.is-only-desktop.ad-container
+rlive.co.il##.station-middle-ad
 rotter.name##.bookingaff
 rotter.name##a[href*="theadblockerproject.org"]
 rotter.net###RoterHePromo
@@ -1171,6 +1176,7 @@ walla.co.il##.tld-side-recommendation.editor-selections.three-section-articles.s
 walla.co.il##.top_banner_outer.relative
 walla.co.il##.vertical-232.tld.type-2.vertical-editable.common-hp-articles.sequence
 walla.co.il##.walla-shops
+walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1u5pva.slot
 walla.co.il##.with-margin-bottom.only-desktop.wide.css-1mblpkl.css-11sz7.slot
 walla.co.il##[alt="adImg"]
 walla.co.il##[data-adid]
@@ -1198,6 +1204,13 @@ xnet.ynet.co.il##.ContentLink.banner.Low
 xnet.ynet.co.il##.ad.hdn
 yad2.co.il###desktop-top-banners
 yad2.co.il###martef
+yad2.co.il##.dfp
+yad2.co.il##.dfp-desktop-tv-wrapper
+yad2.co.il##.dfp_v2
+yad2.co.il##.inactive.top_boxes_row
+yad2.co.il##.magazine-frame
+yad2.co.il##.magazine_per_category
+yad2.co.il##.sticky_magazine
 yeshanews.com###sideban
 ynet.co.il###ads\.newspaper
 ynet.co.il###ads\.top\.2
