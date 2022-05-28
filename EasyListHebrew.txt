@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KFZUSHgkbe9/OQJKgdTnYg
+! Checksum: NbgY7TEr5PZ+cxqkMeC1OA
 ! Title: EasyList Hebrew
-! Last modified: 24 Apr 2022 14:14 UTC
+! Last modified: 28 May 2022 21:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -610,6 +610,7 @@ hasdarot.net##*
 hasdarot.pro##*
 hasdarot.space##*
 hasdarot.tv##*
+hasdarot.vip##*
 hasdarot.xyz##*
 iastrology.net##*
 ilbuzz.net##*
@@ -668,6 +669,7 @@ zegvid.net##*
 ||hasdarot.pro^
 ||hasdarot.space^
 ||hasdarot.tv^
+||hasdarot.vip^
 ||hasdarot.xyz^
 ||lauyn.info^
 ||losittooday.info^
@@ -696,6 +698,7 @@ zegvid.net##*
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
+@@/^https?:\/+adservice\.google\.(com?\.)?[a-zA-Z0-9]{2,22}\.?\/adsid\/integrator.js\?/$script,domain=13news.co.il|13tv.co.il|ynet.co.il
 @@/ads.js?$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/ads.min.js?$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/adunits.$script,~third-party,domain=13news.co.il|13tv.co.il
@@ -819,6 +822,7 @@ zegvid.net##*
 @@||trc.taboola.com/globes-il/$script
 @@||walla.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
 @@||weather2day.co.il/ads.js?$script,~third-party
+@@||www3.doubleclick.net^$xmlhttprequest,domain=13news.co.il|13tv.co.il
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ads.js$script
 @@||ynet.co.il/Common/Api/Scripts/video/videojs.ads.$script,stylesheet,~third-party
@@ -833,9 +837,6 @@ bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
 bizportal.co.il#@#.afs_ads
 blms.co.il#@#.addtitle
-foodsdictionary.co.il#@#.AdSense
-foodsdictionary.co.il#@#.Adsense
-foodsdictionary.co.il#@#.adSense
 haaretz.co.il,themarker.com#@#.adBanner
 haaretz.co.il,themarker.com#@#.footer-ruler
 haaretz.co.il,themarker.com#@#.js-dfp-ad
@@ -966,6 +967,7 @@ calcalist.co.il##.banner.new.layoutItem
 calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
+calendar.2net.co.il##.first.advertizement
 cellebrate.mobi###flow
 ch10.co.il###arti-banner-popup
 ch10.co.il###stSegmentFrame
@@ -973,8 +975,6 @@ ch10.co.il##.contento_Container
 ch10.co.il##.rt-banners
 chabad.info##.adpro
 chodal24.com##a[target="_blank"][href*="/urvd/4-"]
-foodsdictionary.co.il###bottom-banner-container
-foodsdictionary.co.il###main-header-ad
 forum.lametayel.co.il##.textlinks_wide.textlinks
 frogi.co.il##.adbox
 fun.walla.co.il##.game-item > .pre-game
@@ -1002,8 +1002,11 @@ homeprices.yad2.co.il,pricelist.yad2.co.il,pro.yad2.co.il###top_banners
 hon.co.il###black-studio-tinymce-43
 hon.co.il##.header_banner
 hon.co.il##a img[width="300"][height="250"]
+hwzone.co.il##.clearfix.block-da-post_before_content.block-da.block-da-1 > .div-hwad-300x250
+hwzone.co.il##.clearfix.da-style-2.block-da-post_middle_content.block-da.block-da-1
 hwzone.co.il##.clearfix.tipi-flex-right.block-da-header.block-da.block-da-1
 hwzone.co.il##.div-hwad-970x250
+hwzone.co.il##[id^="div-hwad-300x"]
 ilimudim.co.il###ads\.strip\.1
 inn.co.il###banner-sticky
 inn.co.il##.banner-top
@@ -1015,6 +1018,7 @@ israelhayom.co.il##.pane-ih-marketing-nice-to-know
 israelhayom.co.il##.single-post-inner-aside__col.col
 israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
+isramedia.net##.adsbygoogle
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
 jobmaster.co.il###bannerDiv
 jobmaster.co.il###leftBanner
@@ -1095,6 +1099,8 @@ mavir.co.il##.pirsumba
 mavir.co.il##.pirsumbaTop
 mazaltov.walla.co.il##.banner-tower
 mazaltov.walla.co.il##.master-popup-banner
+morfix.co.il##.TopLeftRadvertisement_translation
+morfix.co.il##.top_line_ad_translation
 netex.co.il##.banner.b160x600
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
@@ -1194,6 +1200,7 @@ walla.co.il##iframe[src*="javascript:document.write('"]
 walla.co.il##video[poster^="data:image/gif;base64,"]
 wallashops.co.il###topBanner
 wen.co.il##.wenBanner
+wisebuy.co.il##.mid1Banner
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.300x250\.1
@@ -1206,6 +1213,7 @@ yad2.co.il###desktop-top-banners
 yad2.co.il###martef
 yad2.co.il##.dfp
 yad2.co.il##.dfp-desktop-tv-wrapper
+yad2.co.il##.dfp-slot-container
 yad2.co.il##.dfp_v2
 yad2.co.il##.inactive.top_boxes_row
 yad2.co.il##.magazine-frame

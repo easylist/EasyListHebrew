@@ -119,6 +119,10 @@ maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.right-side-outbrain
 ! * Gadgety * !
 gadgety.co.il###taboola-left-rail-thumbnails
+gadgety.co.il##.OUTBRAIN
+! * FoodsDictionary * !
+@@||foodsdictionary.co.il/static/$xhr,1p
+@@||foodsdictionary.co.il^$ghide
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
 ! * FXP * !
