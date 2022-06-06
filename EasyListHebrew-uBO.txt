@@ -125,6 +125,7 @@ gadgety.co.il##.OUTBRAIN
 ! * FoodsDictionary * !
 @@||foodsdictionary.co.il/static/$xhr,1p
 @@||foodsdictionary.co.il^$ghide
+foodsdictionary.co.il##.ad-slot.gpt-ad-container
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
 ! * FXP * !
