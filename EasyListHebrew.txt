@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sM6s58kOfIf0OZPD6ooI7g
+! Checksum: WFWJtIXdW/g4jACePm/E2g
 ! Title: EasyList Hebrew
-! Last modified: 30 Aug 2022 15:58 UTC
+! Last modified: 19 Sep 2022 21:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -936,6 +936,7 @@ ashdodnet.com##.Banner
 ashdodnet.com##div[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##div[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
 auto.co.il##.WidgetHidden.article-aside
+auto.co.il##.WidgetHidden_false.article-aside
 baba-mail.co.il##.ad-970-250
 bhol.co.il###AdvertisementSystemTakeOver
 bhol.co.il###divBanner_BigPlazma
@@ -1035,6 +1036,7 @@ kikar.co.il##.logo
 kikar.co.il##.sponsoredbackground
 kikar.co.il##[id^="takeover"]
 kipa.co.il###innerMoodaa2
+kipa.co.il###mekodam
 kipa.co.il##.Ozen300
 kipa.co.il##.mood.hidden-sm.hidden-md.hidden-xs
 kipa.co.il##.mood1240-100
@@ -1104,6 +1106,8 @@ mavir.co.il##.pirsumbaTop
 mazaltov.walla.co.il##.banner-tower
 mazaltov.walla.co.il##.master-popup-banner
 morfix.co.il##.TopLeftRadvertisement_translation
+morfix.co.il##.result_adv
+morfix.co.il##.top_line_ad
 morfix.co.il##.top_line_ad_translation
 netex.co.il##.banner.b160x600
 newmail.walla.co.il###toolbarLink
@@ -1176,6 +1180,7 @@ walla.co.il###adPlayerSecondary
 walla.co.il###videoOverlay
 walla.co.il##.ads-spaces-shdera-hp
 walla.co.il##.commercial-items.mixed-sequence.sequence
+walla.co.il##.css-k0dd80
 walla.co.il##.homepage-desktop-top-ad
 walla.co.il##.more-in-walla-aside.side-article.fc
 walla.co.il##.no-mobile.shdera > ul
@@ -1203,8 +1208,10 @@ walla.co.il##iframe[id*="AMAdIframe"]
 walla.co.il##iframe[src*="javascript:document.write('"]
 walla.co.il##video[poster^="data:image/gif;base64,"]
 wallashops.co.il###topBanner
+weather2day.co.il###W2D_728x90_1.show-on-desktop
 wen.co.il##.wenBanner
 wisebuy.co.il##.mid1Banner
+www.lametayel.co.il##.w-full.bg-grey-100.header-banner-wrapper
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.300x250\.1

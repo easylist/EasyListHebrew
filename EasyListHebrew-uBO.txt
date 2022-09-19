@@ -97,6 +97,7 @@ calcalist.co.il##+js(aopw, upManager)
 !
 13news.co.il,13tv.co.il##.show.youMightAlsoLike
 13news.co.il,13tv.co.il##.taboola-wrapper
+13news.co.il,13tv.co.il##[class^="TimeLinestyles__StyledAdWrap"]
 ! * ONE * !
 ||xads.zedo.com/ads2/c?*.one.co.il/$script,important,redirect=noopjs,1p
 ! * inn.co.il * !
@@ -146,6 +147,9 @@ rotter.net###taboola-forum_atf
 rotter.net###notes > .ads
 rotter.net###wrapper > .ads
 !#endif
+! * IsraMedia * !
+isramedia.net##.OUTBRAIN
+isramedia.net###wrapper > literal > div
 ! * Kipa.co.il * !
 ||moodaot.kipa.co.il^*/*.mp4$media,redirect=noopmp4-1s
 ! * JDN * !
