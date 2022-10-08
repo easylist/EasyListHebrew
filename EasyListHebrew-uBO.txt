@@ -130,6 +130,8 @@ maariv.co.il##.article-5-outbrain-script
 maariv.co.il##.article-9-outbrain-script
 maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.right-side-outbrain
+!
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=maariv.co.il
 ! * Gadgety * !
 gadgety.co.il###taboola-left-rail-thumbnails
 gadgety.co.il##.OUTBRAIN
@@ -137,6 +139,8 @@ gadgety.co.il##.OUTBRAIN
 @@||foodsdictionary.co.il/static/$xhr,1p
 @@||foodsdictionary.co.il^$ghide
 foodsdictionary.co.il##.ad-slot.gpt-ad-container
+foodsdictionary.co.il###towerBanner.left-banner
+foodsdictionary.co.il###towerBanner.right-banner
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
 ! * FXP * !
@@ -147,6 +151,7 @@ rotter.net###taboola-forum_atf
 rotter.net###notes > .ads
 rotter.net###wrapper > .ads
 !#endif
+rotter.net##table:nth-of-type(3) > tbody > tr:nth-of-type(14) > td
 ! * IsraMedia * !
 isramedia.net##.OUTBRAIN
 isramedia.net###wrapper > literal > div
