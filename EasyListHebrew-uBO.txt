@@ -118,6 +118,8 @@ inn.co.il##.taboola
 ||yad2.co.il/js-new/showAds.js$script,redirect=noopjs,domain=yad2.co.il
 !
 yad2.co.il##+js(aopw, upManager)
+!
+yad2.co.il##.iosLoad.mobile_strip_top
 ! * Haaretz, TheMarker * !
 haaretz.co.il,themarker.com##+js(aeld, , hblocked)
 haaretz.co.il,themarker.com##+js(set, showAds, true)
@@ -141,6 +143,7 @@ gadgety.co.il##.OUTBRAIN
 foodsdictionary.co.il##.ad-slot.gpt-ad-container
 foodsdictionary.co.il###towerBanner.left-banner
 foodsdictionary.co.il###towerBanner.right-banner
+foodsdictionary.co.il###bottom-ad-stick-container
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
 ! * FXP * !
