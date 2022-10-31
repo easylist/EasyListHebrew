@@ -137,6 +137,14 @@ maariv.co.il##.right-side-outbrain
 ! * Gadgety * !
 gadgety.co.il###taboola-left-rail-thumbnails
 gadgety.co.il##.OUTBRAIN
+!#if env_mobile
+gadgety.co.il##.site-ads
+gadgety.co.il##.mobile-sticky-ad
+!#endif
+! * TGspot * !
+!#if env_mobile
+tgspot.co.il##.sticky-ads
+!#endif
 ! * FoodsDictionary * !
 @@||foodsdictionary.co.il/static/$xhr,1p
 @@||foodsdictionary.co.il^$ghide
@@ -153,6 +161,7 @@ rotter.net###taboola-forum_atf
 !#if env_mobile
 rotter.net###notes > .ads
 rotter.net###wrapper > .ads
+rotter.net###taboola-below-article-thumbnails
 !#endif
 rotter.net##table:nth-of-type(3) > tbody > tr:nth-of-type(14) > td
 ! * IsraMedia * !
