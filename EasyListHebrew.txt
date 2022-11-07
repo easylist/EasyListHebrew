@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vy7x0XXGVxCb4GZJgFhWvA
+! Checksum: FAIOA37TB9T3bGK7U8UZwQ
 ! Title: EasyList Hebrew
-! Last modified: 31 Oct 2022 20:58 UTC
+! Last modified: 07 Nov 2022 16:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -856,6 +856,7 @@ junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
 lavender.co.il#@##topAds
 leyada.net#@#.banner-300
+now14.co.il#@##taboola-below-article-thumbnails
 one.co.il#@#a[href^="http://xads.zedo.com/"]
 pitria.com#@#.header-ad
 tapuz.co.il#@#.afs_ads
@@ -1121,6 +1122,7 @@ news1.co.il###divBannerRight
 news1.co.il##table[bgcolor="#eeeeee"][height="150"]
 news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
+now14.co.il##.trc_related_container.tbl-feed-card
 one.co.il##a[class*="one-article-strip"]
 pitria.com##.adcontainer
 psakdin.co.il###bnrTop
