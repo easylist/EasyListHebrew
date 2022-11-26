@@ -118,8 +118,6 @@ inn.co.il##.taboola
 ||yad2.co.il/js-new/showAds.js$script,redirect=noopjs,domain=yad2.co.il
 !
 yad2.co.il##+js(aopw, upManager)
-!
-yad2.co.il##.iosLoad.mobile_strip_top
 ! * Haaretz, TheMarker * !
 haaretz.co.il,themarker.com##+js(aeld, , hblocked)
 haaretz.co.il,themarker.com##+js(set, showAds, true)

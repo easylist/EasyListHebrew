@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FAIOA37TB9T3bGK7U8UZwQ
+! Checksum: QjK7300Bk+f7pp3y1iZNtw
 ! Title: EasyList Hebrew
-! Last modified: 07 Nov 2022 16:32 UTC
+! Last modified: 26 Nov 2022 23:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -877,8 +877,12 @@ ynet.co.il#@#.adclass
 !
 !-------------------------Mobile element hiding rules-------------------------!
 !
+m.isramedia.net##.ad-label
+m.isramedia.net##.g-ad-label
 m.sport5.co.il##.ad
 mobile.srugim.co.il##[class^="Banner_Wrap"]
+rlive.co.il##.adv.anchor
+yad2.co.il##.iosLoad.mobile_strip_top
 !
 !------------------------------Mobile Whitelist-------------------------------!
 !
