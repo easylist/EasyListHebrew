@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QjK7300Bk+f7pp3y1iZNtw
+! Checksum: GYV5J9PgoiN2M2NPpYIqMg
 ! Title: EasyList Hebrew
-! Last modified: 26 Nov 2022 23:44 UTC
+! Last modified: 15 Jan 2023 01:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -513,6 +513,7 @@
 /landpage.*?utm_$popup,third-party,domain=inn.co.il
 /leads.$popup,third-party,domain=inn.co.il
 /leads/*$popup,third-party,domain=inn.co.il
+?ref=$popup,third-party,domain=inn.co.il
 ! * Kipa.co.il * !
 ||daatariel.org.il/kipa/$popup,domain=kipa.co.il
 ||kipa.co.il/banner/
@@ -879,10 +880,12 @@ ynet.co.il#@#.adclass
 !
 m.isramedia.net##.ad-label
 m.isramedia.net##.g-ad-label
+m.maariv.co.il###a_sticky_test
 m.sport5.co.il##.ad
 mobile.srugim.co.il##[class^="Banner_Wrap"]
 rlive.co.il##.adv.anchor
 yad2.co.il##.iosLoad.mobile_strip_top
+yad2.co.il##.iosLoad.mobile_top_dfp_placeholder_bill
 !
 !------------------------------Mobile Whitelist-------------------------------!
 !
@@ -1166,6 +1169,7 @@ sport5.co.il##.article-list-alt2.article-list-alt > .article-holder-homepage > .
 sport5.co.il##.banner-list
 sport5.co.il##.post.post-alt
 sport5.co.il##.skin-header
+sport5.co.il##[src^="https://meitavads-"]
 sports.walla.co.il##.type-2.common-hp-articles.sequence
 sratim.tv,sratim.video##.advertisment-wrapper
 srugim.co.il##.gapunit
@@ -1198,6 +1202,7 @@ walla.co.il##.top_banner_outer.relative
 walla.co.il##.vertical-232.tld.type-2.vertical-editable.common-hp-articles.sequence
 walla.co.il##.walla-shops
 walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1u5pva.slot
+walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1y3v8ha.slot
 walla.co.il##.with-margin-bottom.only-desktop.wide.css-1mblpkl.css-11sz7.slot
 walla.co.il##[alt="adImg"]
 walla.co.il##[data-adid]
