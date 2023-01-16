@@ -103,7 +103,7 @@ calcalist.co.il##+js(aopw, upManager)
 ! * inn.co.il * !
 ||inn.co.il^$important,websocket,1p,domain=inn.co.il
 !
-inn.co.il##+js(aopr, TextDecoder)
+!inn.co.il##+js(aopr, TextDecoder)
 inn.co.il##+js(aopw, upManager)
 !
 inn.co.il##.article-taboola
