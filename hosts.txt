@@ -275,9 +275,11 @@
 0.0.0.0 um-per.com
 0.0.0.0 umamdmo.com
 0.0.0.0 unbouncepages.com
+0.0.0.0 upapi.net
 0.0.0.0 urodakt.com
 0.0.0.0 uvinory.com
 0.0.0.0 uzotli.com
+0.0.0.0 valuad.cloud
 0.0.0.0 viediil.com
 0.0.0.0 webeatyouradblocker.com
 0.0.0.0 webteam.co.il
