@@ -106,6 +106,7 @@ calcalist.co.il##+js(aopw, upManager)
 !inn.co.il##+js(aopr, TextDecoder)
 inn.co.il##+js(aopw, upManager)
 inn.co.il##+js(nostif, popup)
+inn.co.il##+js(nowoif)
 !
 inn.co.il##.article-taboola
 inn.co.il##.taboola
