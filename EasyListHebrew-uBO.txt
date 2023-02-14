@@ -154,6 +154,7 @@ foodsdictionary.co.il###towerBanner.right-banner
 foodsdictionary.co.il###bottom-ad-stick-container
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
+morfix.co.il##^script:has-text(admiral)
 ! * FXP * !
 fxp.co.il##.OUTBRAIN
 ! * Rotter.net * !
