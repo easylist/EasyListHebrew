@@ -54,6 +54,7 @@ ynet.co.il##+js(nostif, offsetHeight)
 !
 ynet.co.il##.MultiArticleTaboola.layoutItem
 ynet.co.il##.Taboola.layoutItem
+ynet.co.il##.StripMarketingComponenta1280
 !#if env_mobile
 @@||yitlivevid.mmdlive.lldns.net/yitlivevid/*.m3u8$media,domain=ynet.co.il
 !#endif
