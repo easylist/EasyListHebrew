@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PPN1kjenQMMg+3P3ER4ALw
+! Checksum: 7NOdIsszxlJvHn+SSdJ4rg
 ! Title: EasyList Hebrew
-! Last modified: 18 Mar 2023 22:44 UTC
+! Last modified: 18 Mar 2023 23:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -692,6 +692,7 @@ zegvid.net##*
 @@||b-share.com^$generichide
 @@||bigbroil.com^$generichide
 @@||haaretz.co.il^$generichide
+@@||hwzone.co.il^$generichide
 @@||inn.co.il^$generichide
 @@||isramedia.net^$generichide
 @@||kml.co.il^$generichide
