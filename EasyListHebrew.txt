@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7NOdIsszxlJvHn+SSdJ4rg
+! Checksum: pgt1Lr8t/I63NBSwZkDalQ
 ! Title: EasyList Hebrew
-! Last modified: 18 Mar 2023 23:44 UTC
+! Last modified: 27 Mar 2023 12:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -773,7 +773,7 @@ zegvid.net##*
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|calcalist.co.il|mako.co.il|n12.co.il|one.co.il|sdarot.buzz|sdarot.tw|tvbee.co.il|ynet.co.il
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|calcalist.co.il|maariv.co.il|mako.co.il|n12.co.il|one.co.il|sdarot.buzz|sdarot.tw|tvbee.co.il|ynet.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
@@ -939,6 +939,26 @@ haaretz.co.il,themarker.com##iframe[data-origin]
 haaretz.co.il,themarker.com##iframe[width="300"]
 mako.co.il,pcmagazine.co.il##.ad
 !
+! *** Outbrain / Taboola *** !
+!
+13news.co.il,13tv.co.il##.show.youMightAlsoLike
+13news.co.il,13tv.co.il##.taboola-wrapper
+fxp.co.il##.OUTBRAIN
+gadgety.co.il###taboola-left-rail-thumbnails
+gadgety.co.il##.OUTBRAIN
+inn.co.il##.article-taboola
+inn.co.il##.taboola
+isramedia.net##.OUTBRAIN
+maariv.co.il##.OUTBRAIN
+maariv.co.il##.article-5-outbrain-script
+maariv.co.il##.article-9-outbrain-script
+maariv.co.il##.article-left-side-outbrain
+maariv.co.il##.right-side-outbrain
+rotter.net###taboola-forum_atf
+walla.co.il##.ob-taste-left
+ynet.co.il##.MultiArticleTaboola.layoutItem
+ynet.co.il##.Taboola.layoutItem
+!
 ! *** Specific domain *** !
 !
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://dtv.walla.co.il"]
@@ -1001,8 +1021,10 @@ fxp.co.il###adfxp
 gadgety.co.il##.desktop-ad-720-90
 gadgety.co.il##.gadgety-ad-wrapper
 gadgety.co.il##.vertical-ad
+globes.co.il###Globes_Displays
 globes.co.il###jumbo_container.nocontent.topBanner
 globes.co.il##.Banner_in_Content
+globes.co.il##.kidum
 globes.co.il##a[href*="theadblockerproject.org"]
 haaretz.co.il###__next > div[id] + div[class*=" "] > div[class*=" "]:nth-of-type(2)
 haaretz.co.il###ad-block-wrapper
@@ -1033,6 +1055,7 @@ inn.co.il##.banner-top
 inn.co.il##[id^="banner_"]
 israelhayom.co.il##.ih-marketing-info-container
 israelhayom.co.il##.ih-marketing-item-container
+israelhayom.co.il##.marketing-article
 israelhayom.co.il##.pane-ih-marketing-bxslider
 israelhayom.co.il##.pane-ih-marketing-nice-to-know
 israelhayom.co.il##.single-post-inner-aside__col.col
@@ -1127,6 +1150,8 @@ morfix.co.il##.TopLeftRadvertisement_translation
 morfix.co.il##.result_adv
 morfix.co.il##.top_line_ad
 morfix.co.il##.top_line_ad_translation
+n12.co.il##.with-bg.sponsor
+n12.co.il##[src^="https://www.duns100.co.il/frame/hp3?"]
 netex.co.il##.banner.b160x600
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
@@ -1205,6 +1230,7 @@ walla.co.il##.homepage-desktop-top-ad
 walla.co.il##.more-in-walla-aside.side-article.fc
 walla.co.il##.no-mobile.shdera > ul
 walla.co.il##.no-title.shatapim.sequence
+walla.co.il##.only-desktop.tld-event
 walla.co.il##.positioned
 walla.co.il##.slot-top-margin + .static-spaces-rectangle-buzzer.no-tablet.no-mobile
 walla.co.il##.tld-side-recommendation.editor-selections.three-section-articles.sequence
@@ -1228,6 +1254,7 @@ walla.co.il##div[style="width:468px;margin:0 auto;"]
 walla.co.il##iframe[id*="AMAdIframe"]
 walla.co.il##iframe[src*="javascript:document.write('"]
 walla.co.il##li.ad
+walla.co.il##li.marketing
 walla.co.il##video[poster^="data:image/gif;base64,"]
 wallashops.co.il###topBanner
 weather2day.co.il###W2D_728x90_1.show-on-desktop
@@ -1257,6 +1284,7 @@ ynet.co.il###ads\.newspaper
 ynet.co.il###ads\.top\.2
 ynet.co.il##.ArticleBannerComponenta
 ynet.co.il##.CAATVcompAdvertiseTv
+ynet.co.il##.StripMarketingComponenta1280
 ynet.co.il##.art_tkb_talkback_advert
 ynet.co.il##.banner.layoutItem
 ynet.co.il##.extended-banner.layoutItem
