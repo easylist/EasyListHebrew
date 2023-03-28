@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: pgt1Lr8t/I63NBSwZkDalQ
+! Checksum: gCnDJpUiTqTwC/wL7h2DQg
 ! Title: EasyList Hebrew
-! Last modified: 27 Mar 2023 12:42 UTC
+! Last modified: 28 Mar 2023 20:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -13,10 +13,9 @@
 ! in the forum: https://github.com/easylist/EasyListHebrew/issues
 ! or via email: easylisthebrew@gmail.com
 !
-! Based on Fanboy's IsraelList
-!
-!---------------------Integration list with uBlock Origin---------------------!
-!#include EasyListHebrew-uBO.txt
+! EasyList Hebrew works best on uBlock Origin.
+! ---==    https://ublockorigin.com/    ==---
+! Available for Chrome, Firefox, Edge, and Opera.
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
@@ -1190,6 +1189,7 @@ s-maof.com##div[style="position: absolute; right: 40px; top: 200px; z-index: 0; 
 safa-ivrit.org##.inrpggoogle
 seret.co.il###topbannercontainer
 seret.co.il##div[style="width:100%;text-align:center;"]
+sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1y3v8ha.slot
 sheva7.co.il##.desktop-display > .maavaron
 shironet.mako.co.il###playerAdArea
 shmua.com##.adsbygoogle
@@ -1204,6 +1204,8 @@ sport5.co.il##.article-list-alt2.article-list-alt > .article-holder-homepage > .
 sport5.co.il##.banner-list
 sport5.co.il##.post.post-alt
 sport5.co.il##.skin-header
+sport5.co.il##[href="http://www.mako.co.il"]
+sport5.co.il##[href^="https://www.mako.co.il/"][href$="&utm_source=sport5&utm_medium=RSS"]
 sport5.co.il##[src^="https://meitavads-"]
 sports.walla.co.il##.type-2.common-hp-articles.sequence
 sratim.tv,sratim.video##.advertisment-wrapper
@@ -1222,11 +1224,15 @@ upf.co.il##.bgbanner
 uzit.co.il###firstGoogleAd
 walla.co.il###adPlayer
 walla.co.il###adPlayerSecondary
+walla.co.il###careerSection
+walla.co.il###tldSection
 walla.co.il###videoOverlay
+walla.co.il###we\ show
 walla.co.il##.ads-spaces-shdera-hp
 walla.co.il##.commercial-items.mixed-sequence.sequence
 walla.co.il##.css-k0dd80
 walla.co.il##.homepage-desktop-top-ad
+walla.co.il##.marketing.desktop-regular
 walla.co.il##.more-in-walla-aside.side-article.fc
 walla.co.il##.no-mobile.shdera > ul
 walla.co.il##.no-title.shatapim.sequence
@@ -1237,9 +1243,6 @@ walla.co.il##.tld-side-recommendation.editor-selections.three-section-articles.s
 walla.co.il##.top_banner_outer.relative
 walla.co.il##.vertical-232.tld.type-2.vertical-editable.common-hp-articles.sequence
 walla.co.il##.walla-shops
-walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1u5pva.slot
-walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1y3v8ha.slot
-walla.co.il##.with-margin-bottom.only-desktop.wide.css-1mblpkl.css-11sz7.slot
 walla.co.il##[alt="adImg"]
 walla.co.il##[data-adid]
 walla.co.il##[data-advertiser-id]
@@ -1298,3 +1301,8 @@ zap.co.il##.BannerBoxNew
 zap.co.il##.Martef
 zap.co.il##.leftSideBanner
 !
+!---------------------Integration list with uBlock Origin---------------------!
+!
+!#include EasyListHebrew-uBO.txt
+!
+!-----------------------------------------------------------------------------!
