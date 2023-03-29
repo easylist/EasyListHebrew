@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gCnDJpUiTqTwC/wL7h2DQg
+! Checksum: LekfKAtptMY4x1ifJPpMfw
 ! Title: EasyList Hebrew
-! Last modified: 28 Mar 2023 20:44 UTC
+! Last modified: 29 Mar 2023 19:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -361,6 +361,7 @@
 ||kxcdn.com^$third-party,domain=6days.walla.co.il|animals.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|sports.walla.co.il|tech.walla.co.il|travel.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|www.walla.co.il
 ||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||logidea.info^$third-party,domain=walla.co.il
+||mishpati.co.il/-partners/walla-form$subdocument
 ||walla.yad2.co.il/*banner$subdocument,domain=walla.co.il
 ||wrtm.walla.co.il^
 ||x.walla.co.il^$image,domain=mail.walla.co.il
@@ -965,6 +966,7 @@ animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://www.democratv.org"]
 !
 0404.co.il##.sidebannerads
+13news.co.il,13tv.co.il##.XShlG.Matrix1x4styles__Container-sc-zeanww-0
 aiwa.co.il##.bigbnr
 ashdodnet.com##.Banner
 ashdodnet.com##div[style="height: 78px; overflow: hidden; width: 510px;"]
@@ -1150,7 +1152,9 @@ morfix.co.il##.result_adv
 morfix.co.il##.top_line_ad
 morfix.co.il##.top_line_ad_translation
 n12.co.il##.with-bg.sponsor
+n12.co.il##[href^="/news-law_guide/"]
 n12.co.il##[src^="https://www.duns100.co.il/frame/hp3?"]
+n12.co.il##section.onecolumn.colx1.ordering:nth-of-type(9)
 netex.co.il##.banner.b160x600
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
@@ -1225,6 +1229,8 @@ uzit.co.il###firstGoogleAd
 walla.co.il###adPlayer
 walla.co.il###adPlayerSecondary
 walla.co.il###careerSection
+walla.co.il###closure2014Section
+walla.co.il###lawSection
 walla.co.il###tldSection
 walla.co.il###videoOverlay
 walla.co.il###we\ show
