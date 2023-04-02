@@ -173,3 +173,4 @@ sdarot.*##[href*="channel22.co.il"]
 koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
 koozi.info##.tien-ads-video:style(background: none!important;)
 !
+!-----------------------------------------------------------------------------!
