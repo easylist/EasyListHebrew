@@ -121,10 +121,6 @@ haaretz.co.il,themarker.com##+js(set, showAds, true)
 !
 haaretz.co.il##html:style(height: auto !important; overflow: auto !important)
 haaretz.co.il##span:has([href*="promo"]):xpath(..)
-www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
-www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
-www.haaretz.co.il,www.themarker.com##[href^="https://supermarker.themarker.com/"]
-www.haaretz.co.il,www.themarker.com##[href*="PromotedContent"]
 ! * Gadgety * !
 !#if env_mobile
 gadgety.co.il##.site-ads

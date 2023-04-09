@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dKnQ8UVudyLtBK+sjBvh9A
+! Checksum: /MMf55eUgvteH/uvKxd0rg
 ! Title: EasyList Hebrew
-! Last modified: 08 Apr 2023 21:32 UTC
+! Last modified: 09 Apr 2023 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -768,11 +768,12 @@ zegvid.net##*
 @@||haaretz.co.il/st/c/work/AB/aby.gif
 @@||haaretz.co.il/st/inter/Global/dailyedition/today/$image,domain=haaretz.co.il|themarker.com
 @@||haaretz.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
+@@||hamal.co.il/advertising/ads/gtm.js|$script,~third-party
 @@||hamal.co.il/public/assets/ads/$stylesheet,~third-party
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|calcalist.co.il|maariv.co.il|mako.co.il|n12.co.il|one.co.il|sdarot.buzz|sdarot.tw|tvbee.co.il|ynet.co.il
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|calcalist.co.il|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|one.co.il|sdarot.buzz|sdarot.tw|tvbee.co.il|ynet.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
@@ -932,6 +933,10 @@ haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##iframe[data-origin]
 mako.co.il,pcmagazine.co.il##.ad
+www.haaretz.co.il,www.themarker.com##[href*="PromotedContent"]
+www.haaretz.co.il,www.themarker.com##[href^="https://supermarker.themarker.com/"]
+www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
+www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
 !
 ! *** Outbrain / Taboola *** !
 !
@@ -948,6 +953,7 @@ maariv.co.il##.article-5-outbrain-script
 maariv.co.il##.article-9-outbrain-script
 maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.right-side-outbrain
+now14.co.il##.trc_related_container.tbl-feed-card
 onlife.co.il###cj_taboola_widget-2
 onlife.co.il##.cj_taboola
 rotter.net###taboola-forum_atf
@@ -1058,6 +1064,7 @@ israelhayom.co.il##.marketing-article
 israelhayom.co.il##.pane-ih-marketing-bxslider
 israelhayom.co.il##.pane-ih-marketing-nice-to-know
 israelhayom.co.il##.single-post-inner-aside__col.col
+israelhayom.co.il##.top-adunit-section
 israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
 isramedia.net##.adsbygoogle
@@ -1128,6 +1135,9 @@ mako.co.il##.mako_main_portlet_container > a[target="_blank"] > img
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
 mako.co.il##[href^="https://adclick.g.doubleclick.net/"]
+mako.co.il##[src^="https://img.mako.co.il/2023/"][src$="/rosh.gif"]
+mako.co.il##div.mako_main_portlet_container:nth-of-type(37)
+mako.co.il##div.mako_main_portlet_container:nth-of-type(39)
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
 mako.co.il##div[id^="top-strip"]
 mako.co.il##iframe[src*="javascript:document.write('"]
@@ -1165,7 +1175,6 @@ news1.co.il###divBannerRight
 news1.co.il##table[bgcolor="#eeeeee"][height="150"]
 news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
-now14.co.il##.trc_related_container.tbl-feed-card
 one.co.il##a[class*="one-article-strip"]
 onlife.co.il##.bottom-50.cj_above_team_banner_desktop
 onlife.co.il##.cj_new_widget_banners_left_long
@@ -1274,6 +1283,9 @@ weather2day.co.il###W2D_728x90_1.show-on-desktop
 wen.co.il##.wenBanner
 wisebuy.co.il##.mid1Banner
 www.lametayel.co.il##.w-full.bg-grey-100.header-banner-wrapper
+www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
+www.mako.co.il##[href^="https://abbvie.mako.co.il/"]
+www.mako.co.il##[href^="https://www.holidayfinder.co.il/"]
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.300x250\.1
