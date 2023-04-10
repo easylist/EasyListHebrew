@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /MMf55eUgvteH/uvKxd0rg
+! Checksum: fywqbWSK3+WHiIub4sE8mQ
 ! Title: EasyList Hebrew
-! Last modified: 09 Apr 2023 16:30 UTC
+! Last modified: 10 Apr 2023 23:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1061,6 +1061,7 @@ israelhayom.co.il##.ih-marketing-info-container
 israelhayom.co.il##.ih-marketing-item-container
 israelhayom.co.il##.link-list-item-commercial
 israelhayom.co.il##.marketing-article
+israelhayom.co.il##.marketing_section
 israelhayom.co.il##.pane-ih-marketing-bxslider
 israelhayom.co.il##.pane-ih-marketing-nice-to-know
 israelhayom.co.il##.single-post-inner-aside__col.col
@@ -1216,7 +1217,6 @@ sponser.co.il##div[style="display: inline;float: right;height:10px;width: 100%;m
 sport1.maariv.co.il##.header-div-banner
 sport5.co.il##.article-list-alt2.article-list-alt > .article-holder-homepage > .row:nth-of-type(6) > .alt
 sport5.co.il##.banner-list
-sport5.co.il##.col-xs-12.col-lg-12.col-md-12.col-sm-12 > .row > .post > .text-holder.col-sm-9.col-md-8
 sport5.co.il##.makoitemLeft
 sport5.co.il##.post.post-alt
 sport5.co.il##.skin-header
@@ -1284,8 +1284,8 @@ wen.co.il##.wenBanner
 wisebuy.co.il##.mid1Banner
 www.lametayel.co.il##.w-full.bg-grey-100.header-banner-wrapper
 www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
-www.mako.co.il##[href^="https://abbvie.mako.co.il/"]
-www.mako.co.il##[href^="https://www.holidayfinder.co.il/"]
+www.mako.co.il##[href^="https://abbvie.mako.co.il/?Partner=mw&sCh="]
+www.mako.co.il##[href^="https://www.holidayfinder.co.il/"][href*="?utm_source=mako&utm_medium=affiliate&utm_campaign=component"]
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.300x250\.1
