@@ -157,6 +157,8 @@ isramedia.net###wrapper > literal > div
 ||ch10.co.il/wp-content/uploads/2021/*/*.mp4$media,redirect=noopmp4-1s
 ! * bhol.co.il * !
 bhol.co.il##body:style(overflow: auto !important;)
+! * kikar.co.il * !
+www.kikar.co.il##div[aria-label*="המחלקה המסחרית"]:nth-ancestor(5)
 ! * Jmusic.me * !
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=nooptext,domain=jmusic.me
 !
