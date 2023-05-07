@@ -141,7 +141,7 @@ foodsdictionary.co.il###bottom-ad-stick-container
 morfix.co.il##+js(acis, document.createElement, admiral)
 morfix.co.il##^script:has-text(admiral)
 ! * Rotter.net * !
-||walla.co.il/rotteriframe$subdocument
+||walla.co.il/rotteriframe|$subdocument
 !#if env_mobile
 rotter.net###notes > .ads
 rotter.net###wrapper > .ads
