@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: U/ZgPY5I/cb3M8T//VAjXw
+! Checksum: iORBUx9dgTR8Incv+mEI/g
 ! Title: EasyList Hebrew
-! Last modified: 15 May 2023 19:11 UTC
+! Last modified: 21 May 2023 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -872,6 +872,9 @@ ynet.co.il#@#.adclass
 !
 !-------------------------Mobile element hiding rules-------------------------!
 !
+camoni.co.il###closeMobileBanner
+camoni.co.il##.banner_300_90.clear.bannerWrapMobile
+camoni.co.il##.clear.bannerWrapMobileBottom
 m.isramedia.net##.ad-label
 m.isramedia.net##.g-ad-label
 m.maariv.co.il###a_sticky_test
@@ -962,6 +965,10 @@ ashdodnet.com##div[style="height: 78px; overflow: hidden; width: 510px;"]
 ashdodnet.com##div[style="height: 78px; padding-right: 10px; margin-bottom: 20px;"]
 auto.co.il##.WidgetHidden.article-aside
 auto.co.il##.WidgetHidden_false.article-aside
+baba-mail.co.il###lg-atf-300-250
+baba-mail.co.il###lg-bottom-300-250
+baba-mail.co.il##.ad-300-250.ad
+baba-mail.co.il##.ad-700-156.ad
 baba-mail.co.il##.ad-970-250
 bhol.co.il###AdvertisementSystemTakeOver
 bhol.co.il###divBanner_BigPlazma
@@ -997,6 +1004,10 @@ calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
 calendar.2net.co.il##.first.advertizement
+camoni.co.il###top-banner
+camoni.co.il##.article-content-banner.box-bg-light
+camoni.co.il##.banner_728_90.clear.bannerWrap
+camoni.co.il##.middle-banner
 cellebrate.mobi###flow
 ch10.co.il###arti-banner-popup
 ch10.co.il###stSegmentFrame
@@ -1125,8 +1136,6 @@ mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
 mako.co.il##[href^="https://adclick.g.doubleclick.net/"]
 mako.co.il##[src="https://img.mako.co.il/2023/03/12/rosh.gif"]
-mako.co.il##div.mako_main_portlet_container:nth-of-type(37)
-mako.co.il##div.mako_main_portlet_container:nth-of-type(39)
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
 mako.co.il##div[id^="top-strip"]
 mako.co.il##iframe[src*="javascript:document.write('"]
@@ -1235,6 +1244,7 @@ walla.co.il###lawSection
 walla.co.il###tldSection
 walla.co.il###videoOverlay
 walla.co.il###we\ show
+walla.co.il###zoomSection
 walla.co.il##.ads-spaces-shdera-hp
 walla.co.il##.commercial-items.mixed-sequence.sequence
 walla.co.il##.css-k0dd80
@@ -1273,6 +1283,7 @@ wisebuy.co.il##.mid1Banner
 www.lametayel.co.il##.w-full.bg-grey-100.header-banner-wrapper
 www.mako.co.il##[href^="https://abbvie.mako.co.il/?Partner=mw&sCh="]
 www.mako.co.il##[href^="https://www.holidayfinder.co.il/"][href*="?utm_source=mako&utm_medium=affiliate&utm_campaign=component"]
+www.mako.co.il##div.mako_main_portlet_container:nth-of-type(36)
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.300x250\.1
