@@ -71,6 +71,8 @@ mako.co.il##+js(aopw, upManager)
 !#if env_mobile
 www.mako.co.il##+js(aopw, upManager)
 !#endif
+!
+n12.co.il##[box-title="חוק ומשפט"]
 ! * Globes * !
 ||www.globes.co.il^$important,websocket,1p,domain=www.globes.co.il
 !

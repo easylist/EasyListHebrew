@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yX+lKwWaRNzC24BKo2BrXA
+! Checksum: sTidFXzSKqUav1SBsX6Glg
 ! Title: EasyList Hebrew
-! Last modified: 07 Jun 2023 15:08 UTC
+! Last modified: 13 Jun 2023 14:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -949,6 +949,7 @@ onlife.co.il###cj_taboola_widget-2
 onlife.co.il##.cj_taboola
 rotter.net###taboola-forum_atf
 walla.co.il##.ob-taste-left
+ynet.co.il###taboola-video-reel-mid-article
 ynet.co.il##.MultiArticleTaboola.layoutItem
 ynet.co.il##.Taboola.layoutItem
 !
@@ -1159,9 +1160,9 @@ morfix.co.il##.result_adv
 morfix.co.il##.top_line_ad
 morfix.co.il##.top_line_ad_translation
 n12.co.il##.with-bg.sponsor
+n12.co.il##[href="https://www.mako.co.il/news-law_guide"]
 n12.co.il##[href^="/news-law_guide/"]
 n12.co.il##[src^="https://www.duns100.co.il/frame/hp3?"]
-n12.co.il##section.onecolumn.colx1.ordering:nth-of-type(9)
 netex.co.il##.banner.b160x600
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
@@ -1221,6 +1222,7 @@ sport5.co.il##.skin-header
 sport5.co.il##[href="http://www.mako.co.il"]
 sport5.co.il##[href="https://www.mako.co.il"]
 sport5.co.il##[href^="https://www.mako.co.il/"][href$="&utm_source=sport5&utm_medium=RSS"]
+sport5.co.il##[onclick*="hpClickEvent('mako');"]
 sport5.co.il##[src^="https://meitavads-"]
 sports.walla.co.il##.type-2.common-hp-articles.sequence
 sratim.tv,sratim.video##.advertisment-wrapper
