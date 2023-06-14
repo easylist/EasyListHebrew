@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sTidFXzSKqUav1SBsX6Glg
+! Checksum: jHZiui5sJZzOUcRBou1JAQ
 ! Title: EasyList Hebrew
-! Last modified: 13 Jun 2023 14:00 UTC
+! Last modified: 14 Jun 2023 05:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -625,6 +625,7 @@ mklrty.info##*
 movitop.info##*
 mporli.info##*
 myvod.me##*
+pinukim.net##*
 sdarotil.top##*
 seret.live##*
 shaardollar.co.il##*
