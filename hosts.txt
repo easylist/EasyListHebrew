@@ -223,6 +223,7 @@
 0.0.0.0 pcnotification.com
 0.0.0.0 perfectpro.co.il
 0.0.0.0 pigment-adv.co.il
+0.0.0.0 pinukim.net
 0.0.0.0 pisrael.com
 0.0.0.0 portavivo.com
 0.0.0.0 premium-offers.space
