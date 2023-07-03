@@ -117,6 +117,8 @@ inn.co.il##+js(nowoif)
 ||yad2.co.il/js-new/showAds.js$script,redirect=noopjs,domain=yad2.co.il
 !
 yad2.co.il##+js(aopw, upManager)
+!
+||perfdrive.com^$badfilter
 ! * Haaretz, TheMarker * !
 haaretz.co.il,themarker.com##+js(aeld, , hblocked)
 haaretz.co.il,themarker.com##+js(set, showAds, true)
