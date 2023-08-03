@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hsDkJCyfvotuOLdMv/QE3w
+! Checksum: mk+xqUPDh0YlwGgcoYpiIw
 ! Title: EasyList Hebrew
-! Last modified: 18 Jul 2023 23:38 UTC
+! Last modified: 03 Aug 2023 23:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -878,11 +878,14 @@ ynet.co.il#@#.adclass
 camoni.co.il###closeMobileBanner
 camoni.co.il##.bannerWrapMobile
 camoni.co.il##.bannerWrapMobileBottom
+hashulchan.co.il##.banner-placeholder-hashulchan
 m.isramedia.net##.ad-label
 m.isramedia.net##.g-ad-label
 m.maariv.co.il###a_sticky_test
 m.sport5.co.il##.ad
 mobile.srugim.co.il##[class^="Banner_Wrap"]
+radio-head.co.il##.ad-100-300
+radio-head.co.il##.ad-300-600
 rlive.co.il##.adv.anchor
 yad2.co.il##.iosLoad.mobile_strip_top
 yad2.co.il##.iosLoad.mobile_top_dfp_placeholder_bill
@@ -904,6 +907,7 @@ yad2.co.il##.iosLoad.mobile_top_dfp_placeholder_bill
 a.co.il,forum.lametayel.co.il,maariv.co.il##.banner
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
+baba-mail.co.il,mako.co.il,pcmagazine.co.il,podcasts.center##.ad
 bhol-forums.co.il,bhol.co.il###Plasma_1
 bhol-forums.co.il,bhol.co.il###divBanner_Plazma
 bhol-forums.co.il,bhol.co.il###sdera.width100pc
@@ -925,7 +929,6 @@ haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][targ
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##iframe[data-origin]
-mako.co.il,pcmagazine.co.il,podcasts.center##.ad
 www.haaretz.co.il,www.themarker.com##[href*="PromotedContent"]
 www.haaretz.co.il,www.themarker.com##[href^="https://supermarker.themarker.com/"]
 www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
@@ -975,6 +978,7 @@ baba-mail.co.il###lg-bottom-300-250
 baba-mail.co.il##.ad-300-250
 baba-mail.co.il##.ad-700-156
 baba-mail.co.il##.ad-970-250
+baba-mail.co.il##.dynAds
 bhol.co.il###AdvertisementSystemTakeOver
 bhol.co.il###divBanner_BigPlazma
 bhol.co.il###divBanner_RegularPlazma
@@ -1036,6 +1040,7 @@ globes.co.il##a[href*="theadblockerproject.org"]
 haaretz.co.il###__next > div[id] + div[class*=" "] > div[class*=" "]:nth-of-type(2)
 haaretz.co.il###ad-block-wrapper
 haipo.co.il##div[onclick*="countAdClick"]
+hashulchan.co.il##.show.sticky_footer-container
 hidabroot.org##.panel-row-upper
 hidabroot.org##.remove-ad
 homeless.co.il###board_middle_advert
@@ -1158,6 +1163,7 @@ mavir.co.il##.pirsumba
 mavir.co.il##.pirsumbaTop
 mazaltov.walla.co.il##.banner-tower
 mazaltov.walla.co.il##.master-popup-banner
+metukimil.co.il##.mai-aec-header-after.mai-aec
 morfix.co.il##.TopLeftRadvertisement_translation
 morfix.co.il##.result_adv
 morfix.co.il##.top_line_ad
