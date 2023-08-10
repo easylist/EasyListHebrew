@@ -137,10 +137,13 @@ tgspot.co.il##.sticky-ads
 ! * FoodsDictionary * !
 @@||foodsdictionary.co.il/static/$xhr,1p
 @@||foodsdictionary.co.il^$ghide
-foodsdictionary.co.il##.ad-slot.gpt-ad-container
+foodsdictionary.co.il##.gpt-ad-container
 foodsdictionary.co.il###towerBanner.left-banner
 foodsdictionary.co.il###towerBanner.right-banner
 foodsdictionary.co.il###bottom-ad-stick-container
+!#if env_mobile
+foodsdictionary.co.il###bottom-ad-stick
+!#endif
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
 morfix.co.il##^script:has-text(admiral)
