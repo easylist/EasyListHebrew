@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 82nNsty1gBMMcxbLTzXaFg
+! Checksum: rmouMnqj/E8NpC67lASKOQ
 ! Title: EasyList Hebrew
-! Last modified: 16 Aug 2023 17:04 UTC
+! Last modified: 29 Aug 2023 21:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -703,7 +703,7 @@ zegvid.net##*
 @@/advertisement.$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@?pageurl=$xmlhttprequest,third-party,domain=sdarot.buzz|sdarot.tw
-@@||2mdn.net/instream/video/client.js$script,domain=hamal.co.il|mako.co.il|ynet.co.il
+@@||2mdn.net/instream/video/client.js$script,domain=13news.co.il|13tv.co.il|hamal.co.il|mako.co.il|ynet.co.il
 @@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/cab/*.min.js$script,domain=inn.co.il
 @@||a7.org/scripts/Forecast.js$script,domain=inn.co.il
@@ -735,6 +735,7 @@ zegvid.net##*
 @@||bipbip.co.il/Style/Ads.css
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
 @@||cdn.permutive.com/$script,domain=one.co.il
+@@||cdn.taboola.com/libtrc/reshet-reshet/loader.js$script,domain=13news.co.il|13tv.co.il
 @@||cdn.taboola.com/libtrc/wallail-hamal/loader.js$script,domain=hamal.co.il
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
 @@||cdnwiz.com/ads.js$xmlhttprequest
@@ -875,6 +876,7 @@ ynet.co.il#@#.adclass
 !
 !-------------------------Mobile element hiding rules-------------------------!
 !
+baba-mail.co.il##.sticky-ad
 camoni.co.il###closeMobileBanner
 camoni.co.il##.bannerWrapMobile
 camoni.co.il##.bannerWrapMobileBottom
