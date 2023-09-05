@@ -147,6 +147,8 @@ foodsdictionary.co.il###bottom-ad-stick
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
 morfix.co.il##^script:has-text(admiral)
+!
+||warmafterthought.com^$domain=morfix.co.il
 ! * Rotter.net * !
 ||walla.co.il/rotteriframe|$subdocument
 !#if env_mobile
