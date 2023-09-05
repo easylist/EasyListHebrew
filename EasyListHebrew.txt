@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dnD+38dI47jZ3V1UG9V/WQ
+! Checksum: SfjFjiZME3js6Nmiq44U9Q
 ! Title: EasyList Hebrew
-! Last modified: 05 Sep 2023 13:34 UTC
+! Last modified: 05 Sep 2023 13:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -802,6 +802,7 @@ zegvid.net##*
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/gpt/$script,domain=13news.co.il|13tv.co.il|nifgashim.net
+@@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$script,domain=13news.co.il|13tv.co.il
 @@||securepubads.g.doubleclick.net/tag/js/$script,domain=13news.co.il|13tv.co.il
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
 @@||sfx-images.mozilla.org^$image
@@ -823,6 +824,7 @@ zegvid.net##*
 @@||trc.taboola.com/globes-il/$script
 @@||walla.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
 @@||weather2day.co.il/ads.js?$script,~third-party
+@@||www.googletagmanager.com/gtm.js?id=$script,domain=13news.co.il|13tv.co.il
 @@||www3.doubleclick.net^$xmlhttprequest,domain=13news.co.il|13tv.co.il
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ads.js$script
