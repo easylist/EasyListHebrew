@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SfjFjiZME3js6Nmiq44U9Q
+! Checksum: Ltrc8k7gAAfhMgSuWE060Q
 ! Title: EasyList Hebrew
-! Last modified: 05 Sep 2023 13:50 UTC
+! Last modified: 10 Sep 2023 23:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -825,7 +825,6 @@ zegvid.net##*
 @@||walla.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
 @@||weather2day.co.il/ads.js?$script,~third-party
 @@||www.googletagmanager.com/gtm.js?id=$script,domain=13news.co.il|13tv.co.il
-@@||www3.doubleclick.net^$xmlhttprequest,domain=13news.co.il|13tv.co.il
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ads.js$script
 @@||ynet.co.il/Common/Api/Scripts/video/videojs.ads.$script,stylesheet,~third-party
@@ -972,7 +971,6 @@ animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://www.democratv.org"]
 !
 0404.co.il##.sidebannerads
-13news.co.il,13tv.co.il##.XShlG.Matrix1x4styles__Container-sc-zeanww-0
 aiwa.co.il##.bigbnr
 ashdodnet.com##.Banner
 ashdodnet.com##div[style="height: 78px; overflow: hidden; width: 510px;"]
@@ -1070,7 +1068,13 @@ hwzone.co.il##[id^="div-hwad-300x"]
 il.pcmag.com##.zad
 ilimudim.co.il###ads\.strip\.1
 inn.co.il###banner-sticky
+inn.co.il###intext-1.sideInf
+inn.co.il###intext-2.sideInf
+inn.co.il###intext-3.sideInf
+inn.co.il##.banner-BTF_LB.banner
+inn.co.il##.banner-BTF_MPU.banner
 inn.co.il##.banner-BTF_MPU_1.banner
+inn.co.il##.banner-story.banner
 inn.co.il##.banner-top
 inn.co.il##[id^="banner_"]
 israelhayom.co.il##.ih-marketing-info-container
@@ -1104,6 +1108,11 @@ kipa.co.il##.mood.hidden-sm.hidden-md.hidden-xs
 kipa.co.il##.mood1240-100
 kipa.co.il##.sargelWarp
 kipa.co.il##[href^="https://moodaot.kipa.co.il/gomodaa.php"]
+kipa.co.il##[id^="p__"][id$="_kipa_desktop_Article_1280x250_1"]
+kipa.co.il##[id^="p__"][id$="_kipa_desktop_HP_1280x100_2"]
+kipa.co.il##[id^="p__"][id$="_kipa_desktop_HP_1280x100_3"]
+kipa.co.il##[id^="p__"][id$="_kipa_desktop_HP_1280x100_4"]
+kipa.co.il##[id^="p__"][id$="_kipa_desktop_HP_1280x250_1"]
 kipa.co.il##div.textim > div > .mood > .moodiframe.oneMood
 kipa.co.il##div.textim > div > .mood > .moodiframe.oneMood > div
 kolhair.co.il###ad_Footer
@@ -1192,6 +1201,7 @@ news1.co.il###divBannerRight
 news1.co.il##table[bgcolor="#eeeeee"][height="150"]
 news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
+one.co.il###content3d > [href^="http://pubads.g.doubleclick.net/gampad/clk"]
 one.co.il##a[class*="one-article-strip"]
 onlife.co.il##.bottom-50.cj_above_team_banner_desktop
 onlife.co.il##.cj_new_widget_banners_left_long
@@ -1221,7 +1231,8 @@ safa-ivrit.org##.inrpggoogle
 seret.co.il###jumbobannercontainer
 sheee.co.il##[href^="https://tld.walla.co.il/item/"]
 sheee.co.il,walla.co.il##.noprint-hidden.wide
-sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1706fa4.slot
+sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1oyf7dk.slot
+sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-uzosdz.slot
 sheva7.co.il##.desktop-display > .maavaron
 shironet.mako.co.il###playerAdArea
 shmua.com##.adsbygoogle
@@ -1254,6 +1265,7 @@ takdin.co.il##.mainUpperBanner
 tatus.co.il##.rs
 tgspot.co.il##.td-adspot-title-320
 tiuli.com###header_banner_wrapper
+tmi.maariv.co.il##.tmi-banner-container
 totalchat.co.il###PublichVoiceChat
 upf.co.il##.bgbanner
 uzit.co.il###firstGoogleAd
