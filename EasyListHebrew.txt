@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ltrc8k7gAAfhMgSuWE060Q
+! Checksum: meb/TAr/NOHbQCDjMW2f9Q
 ! Title: EasyList Hebrew
-! Last modified: 10 Sep 2023 23:43 UTC
+! Last modified: 12 Sep 2023 00:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -943,6 +943,8 @@ www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
 !
 13news.co.il,13tv.co.il##.show.youMightAlsoLike
 13news.co.il,13tv.co.il##.taboola-wrapper
+13news.co.il,13tv.co.il##.tbl-feed-container
+13news.co.il,13tv.co.il##.trc_rbox_container
 fxp.co.il##.OUTBRAIN
 gadgety.co.il###taboola-left-rail-thumbnails
 gadgety.co.il##.OUTBRAIN
@@ -959,6 +961,8 @@ now14.co.il##.trc_related_container.tbl-feed-card
 onlife.co.il###cj_taboola_widget-2
 onlife.co.il##.cj_taboola
 rotter.net###taboola-forum_atf
+sport5.co.il##.tbl-feed-container
+sport5.co.il##.trc_rbox_container
 walla.co.il##.ob-taste-left
 ynet.co.il###taboola-video-reel-mid-article
 ynet.co.il##.MultiArticleTaboola.layoutItem
