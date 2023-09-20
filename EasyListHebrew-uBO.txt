@@ -45,6 +45,12 @@ sheee.co.il,walla.co.il,~mail.walla.co.il##+js(aopr, googletag.cmd)
 !
 /^(?![a-zA-Z0-9\-]+:\/+www\.sheee\.co\.il\.?(\/|:|$))^[a-zA-Z0-9\-]+:\/+([a-zA-Z0-9\-]+\.)+sheee\.co\.il\.?(\/|:|$)/$1p,domain=www.sheee.co.il
 /^(?![a-zA-Z0-9\-]+:\/+(www\.(walla(news|shops|tours|art|print)|hamal)|(api-mail|dal|dcx|isc|iscwne|www)\.walla)\.co\.il\.?(\/|:|$))^[a-zA-Z0-9\-]+:\/+([a-zA-Z0-9\-]+\.)+(walla(news|shops|tours|art|print)?|hamal)\.co\.il\.?(\/|:|$)/$3p,domain=www.sheee.co.il
+!
+hamal.co.il##.styles_bannerWrapperLayout__iuS_n
+hamal.co.il##.container-fluid.styles_commentWrapper__ufWcY
+hamal.co.il##.container-fluid.styles_mainWrapper__fcFda
+hamal.co.il##.styles_nativeFeed__raMtD
+hamal.co.il##.styles_nativeFeedBorder__XWNFG.styles_nativeFeed__raMtD.container-fluid
 ! * ynet * !
 ||www.ynet.co.il^$important,websocket,1p,domain=www.ynet.co.il
 !
@@ -148,6 +154,10 @@ morfix.co.il##+js(acis, document.createElement, admiral)
 morfix.co.il##^script:has-text(admiral)
 !
 ||warmafterthought.com^$domain=morfix.co.il
+! * FXP * !
+!#if env_mobile
+fxp.co.il###big-wap.top-ba
+!#endif
 ! * Rotter.net * !
 ||walla.co.il/rotteriframe|$subdocument
 !#if env_mobile
