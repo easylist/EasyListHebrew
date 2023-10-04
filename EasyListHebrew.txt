@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YT5VUAOb4/Qf6GLgmS+yjg
+! Checksum: MHXQq1GH6y7DExBRAPDbJQ
 ! Title: EasyList Hebrew
-! Last modified: 28 Sep 2023 21:52 UTC
+! Last modified: 04 Oct 2023 22:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -736,7 +736,6 @@ zegvid.net##*
 @@||callil.co.il/content/Ads/$image,~third-party
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
 @@||cdn.permutive.com/$script,domain=one.co.il
-@@||cdn.taboola.com/libtrc/reshet-reshet/loader.js$script,domain=13news.co.il|13tv.co.il
 @@||cdn.taboola.com/libtrc/wallail-hamal/loader.js$script,domain=hamal.co.il
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
 @@||cdnwiz.com/ads.js$xmlhttprequest
@@ -793,6 +792,7 @@ zegvid.net##*
 @@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||player.bizportal.co.il/Handlers/Advertising.ashx?$xmlhttprequest
 @@||player.ynet.co.il/videojs-ima/videojs.ads.css$stylesheet,domain=calcalist.co.il
+@@||pm-widget.taboola.com/reshet-reshet/load.js$script,domain=13news.co.il|13tv.co.il
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
@@ -803,7 +803,6 @@ zegvid.net##*
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/gpt/$script,domain=13news.co.il|13tv.co.il|nifgashim.net
-@@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$script,domain=13news.co.il|13tv.co.il
 @@||securepubads.g.doubleclick.net/tag/js/$script,domain=13news.co.il|13tv.co.il
 @@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
 @@||sfx-images.mozilla.org^$image
@@ -825,7 +824,6 @@ zegvid.net##*
 @@||trc.taboola.com/globes-il/$script
 @@||walla.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
 @@||weather2day.co.il/ads.js?$script,~third-party
-@@||www.googletagmanager.com/gtm.js?id=$script,domain=13news.co.il|13tv.co.il
 @@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ads.js$script
 @@||ynet.co.il/Common/Api/Scripts/video/videojs.ads.$script,stylesheet,~third-party
@@ -978,6 +976,7 @@ animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://www.democratv.org"]
 !
 0404.co.il##.sidebannerads
+13news.co.il,13tv.co.il##div.dxZevu.frjHsE.NewsFlahesPagestyles__NewsFlashSpecialWidget-sc-1zhe9e-9.NewsFlahesPagestyles__NewsFlashItem-sc-1zhe9e-8
 2net.co.il##.centerParnasa
 aiwa.co.il##.bigbnr
 ashdodnet.com##.Banner
