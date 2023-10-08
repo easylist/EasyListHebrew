@@ -27,10 +27,10 @@ walla.co.il##+js(nowebrtc)
 !walla.co.il##+js(set, String.fromCharCode, noopFunc)
 walla.co.il##+js(nostif, (), 1500)
 !sheee.co.il,walla.co.il,~mail.walla.co.il##+js(aost, Math.random, /computed|blob/)
-!#if env_chromium
-sheee.co.il,walla.co.il,~mail.walla.co.il##+js(aost, Math, injectedScript)
+! !#if env_chromium
+!sheee.co.il,walla.co.il,~mail.walla.co.il##+js(aost, Math, injectedScript)
 !sheee.co.il,walla.co.il,~mail.walla.co.il##+js(aost, Object, injectedScript)
-!#endif
+! !#endif
 sheee.co.il,walla.co.il##^script:has-text(responseText)
 mail.walla.co.il#@#^script:has-text(responseText)
 sheee.co.il,walla.co.il##^script:has-text((window)}catch)
