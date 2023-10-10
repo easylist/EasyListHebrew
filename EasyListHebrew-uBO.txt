@@ -81,6 +81,10 @@ www.mako.co.il##+js(aopw, upManager)
 n12.co.il##[box-title="חוק ומשפט"]
 !
 www.mako.co.il##[box-title="Xtra בריאות "]
+! * NOW14 * !
+!#if env_mobile
+now14.co.il##.fit-banner-size
+!#endif
 ! * Globes * !
 ||www.globes.co.il^$important,websocket,1p,domain=www.globes.co.il
 !
@@ -100,9 +104,9 @@ calcalist.co.il##+js(aopw, upManager)
 !
 ||doubleclick.net^$xhr,redirect-rule=nooptext,domain=13news.co.il|13tv.co.il
 !
-13news.co.il,13tv.co.il##+js(aopw, upManager)
+!13news.co.il,13tv.co.il##+js(aopw, upManager)
 13news.co.il,13tv.co.il##+js(cookie-remover, /r13_maavron/)
-13news.co.il,13tv.co.il##+js(nostif, offsetHeight)
+!13news.co.il,13tv.co.il##+js(nostif, offsetHeight)
 !
 13news.co.il,13tv.co.il##[class^="TimeLinestyles__StyledAdWrap"]
 ! * ONE * !
