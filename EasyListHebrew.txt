@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LQr/s+/ZRVzGMYjoRjVh8A
+! Checksum: khl8PBoplXnGVWpsTHkkNw
 ! Title: EasyList Hebrew
-! Last modified: 16 Oct 2023 23:45 UTC
+! Last modified: 16 Oct 2023 23:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -726,7 +726,6 @@ zegvid.net##*
 @@||akamai.advsnx.net/CDN/walla/
 @@||akamai.advsnx.net/crossdomain.xml$domain=one.co.il|walla.co.il
 @@||akamai.advsnx.net^$xmlhttprequest,domain=mako.co.il
-@@||analytics.google.com/g/collect?$ping,domain=13news.co.il|13tv.co.il
 @@||b-share.com/wp-content/*/advertisement.$script,~third-party
 @@||baligam.go2cloud.org^$popup,domain=getitall.co.il
 @@||banners.hosting-il.com^$domain=cinema-city.co.il|cinemacity.co.il
@@ -737,7 +736,6 @@ zegvid.net##*
 @@||callil.co.il/content/Ads/$image,~third-party
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
 @@||cdn.permutive.com/$script,domain=one.co.il
-@@||cdn.taboola.com/libtrc/reshet-reshet/loader.js$script,domain=13news.co.il|13tv.co.il
 @@||cdn.taboola.com/libtrc/wallail-hamal/loader.js$script,domain=hamal.co.il
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
 @@||cdnwiz.com/ads.js$xmlhttprequest
@@ -763,7 +761,6 @@ zegvid.net##*
 @@||haaretz.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||hamal.co.il/advertising/ads/gtm.js|$script,~third-party
 @@||hamal.co.il/public/assets/ads/$stylesheet,~third-party
-@@||heyday.io/idx/OP$ping,domain=13news.co.il|13tv.co.il
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
@@ -795,7 +792,6 @@ zegvid.net##*
 @@||pas-rahav.com^$domain=cinema-city.co.il|cinemacity.co.il
 @@||player.bizportal.co.il/Handlers/Advertising.ashx?$xmlhttprequest
 @@||player.ynet.co.il/videojs-ima/videojs.ads.css$stylesheet,domain=calcalist.co.il
-@@||pm-widget.taboola.com/reshet-reshet/$script,domain=13news.co.il|13tv.co.il
 @@||pubads.g.doubleclick.net/gampad/ad$domain=ynet.co.il
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
