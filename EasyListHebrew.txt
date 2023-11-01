@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: khl8PBoplXnGVWpsTHkkNw
+! Checksum: +ZlV2TvhHmzPdqCKaejFPA
 ! Title: EasyList Hebrew
-! Last modified: 16 Oct 2023 23:55 UTC
+! Last modified: 01 Nov 2023 23:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -884,9 +884,13 @@ camoni.co.il##.bannerWrapMobileBottom
 foodik.co.il##.sticky-banner.banner-con
 hashulchan.co.il##.banner-placeholder-hashulchan
 israelhayom.co.il##.adunit.ih-adunit
+m.calcalist.co.il##.c-article__ad
 m.isramedia.net##.ad-label
 m.isramedia.net##.g-ad-label
 m.maariv.co.il###a_sticky_test
+m.maariv.co.il##.banner-div-gpt-250
+m.maariv.co.il##.king-banner
+m.n12.co.il###MEDIUM_BANNER
 m.sport5.co.il##.ad
 mobile.mako.co.il##.adv
 mobile.srugim.co.il##[class^="Banner_Wrap"]
@@ -894,6 +898,7 @@ radio-head.co.il##.ad-100-300
 radio-head.co.il##.ad-300-600
 rlive.co.il##.ad-container-row
 rlive.co.il##.adv.anchor
+walla.co.il##.no-desktop.homepage-mobile-top-ad
 yad2.co.il##.iosLoad.mobile_strip_top
 yad2.co.il##.iosLoad.mobile_top_dfp_placeholder_bill
 !
