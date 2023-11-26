@@ -10,9 +10,11 @@
 ! in the forum: https://github.com/easylist/EasyListHebrew/issues
 ! or via email: easylisthebrew@gmail.com
 !
-! EasyList Hebrew works best on uBlock Origin.
-! ---==    https://ublockorigin.com/    ==---
-! Available for Chrome, Firefox, Edge, and Opera.
+!    EasyList Hebrew works best on uBlock Origin.
+!  ---===     https://ublockorigin.com/     ===---
+!       Free, open-source ad content blocker.
+!            Easy on CPU and memory.
+!   Available for Chrome, Firefox, Edge, and Opera.
 !
 ! * Walla! * !
 ||walla.co.il^$important,websocket,1p,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
@@ -182,8 +184,15 @@ isramedia.net###wrapper > literal > div
 ! * bhol.co.il * !
 ||ext.bhol.co.il/uploads/
 bhol.co.il##body:style(overflow: auto !important;)
+bhol.co.il##.frmCapsuleBlock.tblFulWidth.color-04.info-block
 ! * kikar.co.il * !
 www.kikar.co.il##div[aria-label*="המחלקה המסחרית"]:nth-ancestor(5)
+! * actualic.co.il * !
+actualic.co.il##.actua-sticky.actua-footer-bar
+actualic.co.il##.banner-header.banner_ad
+! * hm-news.co.il * !
+hm-news.co.il###sticky_banner_bottom_desktop
+hm-news.co.il###sticky_banner_bottom_mobile
 ! * Jmusic.me * !
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=nooptext,domain=jmusic.me
 !

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RmfuchXAaSWr6i77+J7O1A
+! Checksum: xT8LxYHKxv83BOZINJoJNg
 ! Title: EasyList Hebrew
-! Last modified: 26 Nov 2023 23:35 UTC
+! Last modified: 26 Nov 2023 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -13,9 +13,11 @@
 ! in the forum: https://github.com/easylist/EasyListHebrew/issues
 ! or via email: easylisthebrew@gmail.com
 !
-! EasyList Hebrew works best on uBlock Origin.
-! ---==    https://ublockorigin.com/    ==---
-! Available for Chrome, Firefox, Edge, and Opera.
+!    EasyList Hebrew works best on uBlock Origin.
+!  ---===     https://ublockorigin.com/     ===---
+!       Free, open-source ad content blocker.
+!            Easy on CPU and memory.
+!   Available for Chrome, Firefox, Edge, and Opera.
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
@@ -1223,6 +1225,7 @@ starmed.co.il##div[style="width:990px;height:150px;margin:2px auto 4px auto"]
 start.co.il###topbanner
 takdin.co.il##.mainUpperBanner
 tatus.co.il##.rs
+techtime.co.il##.header-banners.row
 tgspot.co.il##.td-adspot-title-320
 tiuli.com###header_banner_wrapper
 tmi.maariv.co.il##.tmi-banner-container
