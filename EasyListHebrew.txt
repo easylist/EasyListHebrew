@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +ZlV2TvhHmzPdqCKaejFPA
+! Checksum: RmfuchXAaSWr6i77+J7O1A
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2023 23:48 UTC
+! Last modified: 26 Nov 2023 23:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -552,7 +552,6 @@
 ||bladna.co.il/Public/flash/
 ||cdn.shorte.st/link-converter.min.js
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
-||goo.gl^$popup,domain=kikar.co.il
 ||googleusercontent.com^$domain=trusted-software.com
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
 ||leadim4u.com/accounts/default1/banners/
@@ -700,8 +699,6 @@ zegvid.net##*
 @@/ads.min.js?$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/adunits.$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/advert.$image,domain=13news.co.il|13tv.co.il
-@@/advertisement.$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
-@@/dfp/*$script,xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@?pageurl=$xmlhttprequest,third-party,domain=sdarot.buzz|sdarot.tw
 @@||2mdn.net/instream/video/client.js$script,domain=13news.co.il|13tv.co.il|hamal.co.il|mako.co.il|ynet.co.il
 @@||a7.org/Combine.js$script,domain=inn.co.il
@@ -744,7 +741,6 @@ zegvid.net##*
 @@||errors.snackly.co/_.gif|$xmlhttprequest,domain=ynet.co.il
 @@||globes.co.il/js/ads.js
 @@||globes.co.il/news/inc/banners/show_ads.js
-@@||googlesyndication.com/pagead/osd.js$domain=haaretz.co.il|themarker.com
 @@||googletagmanager.com/gtag/js?id=$script,domain=13news.co.il|13tv.co.il|one.co.il
 @@||googletagmanager.com/gtm.js$script,domain=one.co.il
 @@||googletagservices.com/tag/js/gpt.js$domain=13news.co.il|13tv.co.il|nifgashim.net
@@ -756,9 +752,7 @@ zegvid.net##*
 @@||haaretz.co.il/polopoly_fs/*/landscape$image,domain=haaretz.co.il|themarker.com
 @@||haaretz.co.il/polopoly_fs/*/size$image,domain=haaretz.co.il|themarker.com
 @@||haaretz.co.il/st/c/$image,domain=haaretz.co.il|themarker.com
-@@||haaretz.co.il/st/c/work/AB/aby.gif
 @@||haaretz.co.il/st/inter/Global/dailyedition/today/$image,domain=haaretz.co.il|themarker.com
-@@||haaretz.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||hamal.co.il/advertising/ads/gtm.js|$script,~third-party
 @@||hamal.co.il/public/assets/ads/$stylesheet,~third-party
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
@@ -780,7 +774,6 @@ zegvid.net##*
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il
 @@||mako.co.il/js/dfp/dfp.js$script,domain=mako.co.il
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
-@@||mouse.co.il^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||old-games.org^$document
 @@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/omsdk/$script,domain=ynet.co.il
@@ -813,13 +806,9 @@ zegvid.net##*
 @@||static.site24x7rum.com/beacon/site24x7rum-min.js$script,domain=one.co.il
 @@||tags.dxmdp.com/tags/$script,domain=13news.co.il|13tv.co.il
 @@||taimeod.co.il^$document
-@@||themarker.com/Images/negative.png$image,domain=haaretz.co.il|themarker.com
-@@||themarker.com/Images/positive.png$image,domain=haaretz.co.il|themarker.com
 @@||themarker.com/st/c/prod/tm/2017/donorsMap/
-@@||themarker.com^$xmlhttprequest,domain=haaretz.co.il|mouse.co.il|themarker.com
 @@||thetvdb.com/banners/$image,domain=wizdom.xyz
 @@||tornado-top.co.il/template/images/
-@@||tpc.googlesyndication.com/simgad/$xmlhttprequest,domain=haaretz.co.il|themarker.com
 @@||translate.google.*/gen204?$image,domain=maccabi4u.co.il
 @@||trc.taboola.com/globes-il/$script
 @@||walla.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
@@ -839,12 +828,6 @@ bipbip.co.il#@#.adpic
 bizportal.co.il#@#.afs_ads
 blms.co.il#@#.addtitle
 callil.co.il#@##AdTop
-haaretz.co.il,themarker.com#@#.adBanner
-haaretz.co.il,themarker.com#@#.footer-ruler
-haaretz.co.il,themarker.com#@#.js-dfp-ad
-haaretz.co.il,themarker.com#@#[data-back="promotional-content"]
-haaretz.co.il,themarker.com#@#div[class*="Banner"]
-haaretz.co.il,themarker.com#@#div[class*="banner"]
 holmesplace.co.il#@#.image-advertisement
 homeless.co.il#@#.postad
 hwzone.co.il#@##adsense
@@ -920,27 +903,12 @@ a.co.il,forum.lametayel.co.il,maariv.co.il##.banner
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
 baba-mail.co.il,mako.co.il,pcmagazine.co.il,podcasts.center##.ad
-bhol-forums.co.il,bhol.co.il###Plasma_1
-bhol-forums.co.il,bhol.co.il###divBanner_Plazma
-bhol-forums.co.il,bhol.co.il###sdera.width100pc
-bhol-forums.co.il,bhol.co.il###top_banner_ph
-bhol-forums.co.il,bhol.co.il##.centered.padt10 > .clear
 calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
 calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
-haaretz.co.il,mouse.co.il,themarker.com##a[href*="://rmkz.themarker.com/"]
-haaretz.co.il,themarker.com###paywall-promotion-banner
-haaretz.co.il,themarker.com###top_banners
-haaretz.co.il,themarker.com##.footer-ruler
-haaretz.co.il,themarker.com##.footer-ruler--containter
-haaretz.co.il,themarker.com##.js-modal
-haaretz.co.il,themarker.com##.js-subscription-popups
-haaretz.co.il,themarker.com##[data-back="promotional-content"]
-haaretz.co.il,themarker.com##[id*="div-gpt-ad"]
 haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
-haaretz.co.il,themarker.com##iframe[data-origin]
 www.haaretz.co.il,www.themarker.com##[href*="PromotedContent"]
 www.haaretz.co.il,www.themarker.com##[href^="https://supermarker.themarker.com/"]
 www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
@@ -997,22 +965,7 @@ baba-mail.co.il##.ad-300-250
 baba-mail.co.il##.ad-700-156
 baba-mail.co.il##.ad-970-250
 baba-mail.co.il##.dynAds
-bhol.co.il###AdvertisementSystemTakeOver
-bhol.co.il###divBanner_BigPlazma
-bhol.co.il###divBanner_RegularPlazma
-bhol.co.il###divPlazma
-bhol.co.il###dolphinContainer
-bhol.co.il###flashBtnX
-bhol.co.il###floatDownBar
-bhol.co.il###test.f-right
-bhol.co.il##.banner.clear
 bhol.co.il##.fade
-bhol.co.il##.floaterin.floaterout
-bhol.co.il##.response[style="background-color:#F4F2F0"]
-bhol.co.il##.title14pxblue
-bhol.co.il##[style="position: relative; display: inline-block; vertical-align: text-bottom; text-align: justify; height: 20px; width: 111px;"]
-bhol.co.il##iframe[src^="http://ads.bhol.co.il/"]
-bhol.co.il##td[style="padding-bottom:4px; padding-top:7px"]
 bigbroil.com##.adsbygoogle
 bigbroil.com##.desk_mode.adsgoogle
 bipbip.co.il###LeftBanner
@@ -1111,12 +1064,6 @@ jobmaster.co.il###leftBanner
 jobmaster.co.il###rightBanner
 junkyard.co.il##.plasma_banner
 junkyard.co.il##div[id^="banner"]
-kikar.co.il###exposeMask
-kikar.co.il###maavaron_overlay
-kikar.co.il##.cnoHcopedbackground
-kikar.co.il##.logo
-kikar.co.il##.sponsoredbackground
-kikar.co.il##[id^="takeover"]
 kipa.co.il###innerMoodaa2
 kipa.co.il###mekodam
 kipa.co.il##.Ozen300
@@ -1133,13 +1080,6 @@ kipa.co.il##div.textim > div > .mood > .moodiframe.oneMood
 kipa.co.il##div.textim > div > .mood > .moodiframe.oneMood > div
 kolhair.co.il###ad_Footer
 kolhair.co.il##.post_ad_box
-ladaat.info###divBranzaRightBanner
-ladaat.info###divMainBanner
-ladaat.info###divMekomiRightBanner
-ladaat.info###divMivzakimAd
-ladaat.info###divRightButtonsAds
-ladaat.info###divRightVideoAd
-ladaat.info###divTopBanner
 lib.cet.ac.il##td[background^="/images/commercials"]
 linicom.co.il##a[target="_blank"]
 link4u.co.il###link_banner
