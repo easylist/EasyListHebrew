@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xT8LxYHKxv83BOZINJoJNg
+! Checksum: uxzdiY4Ko9i4rNMRozq/vg
 ! Title: EasyList Hebrew
-! Last modified: 26 Nov 2023 23:51 UTC
+! Last modified: 27 Nov 2023 00:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -432,22 +432,8 @@
 ||psakdin.co.il/ExternalFrames/$domain=calcalist.co.il
 ||s3.amazonaws.com^$script,domain=calcalist.co.il
 ! * Haaretz, TheMarker * !
-/haaretz\.co\.il\/(?!.*\.(js)($|\?)).*/$script,domain=haaretz.co.il|themarker.com
-/haaretz\.co\.il\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\//$image,subdocument,domain=haaretz.co.il|themarker.com
-!
-||haaretz.co.il/htz/images/bg/Ad_bg.gif
-||haaretz.co.il/st/media
-||haaretz.co.il^*/AB/aby.gif
-||haaretz.co.il^*/Banners/
-||haaretz.co.il^*/Houdini/
-||houdini.haaretz.co.il^
-||images.haarets.co.il/image/upload/w_227,h_112,c_crop/q_auto,h_98,w_227,c_fill,f_auto/fl_lossy.any_format.preserve_transparency.progressive:none/v1548162519/1.6867261.518501105.jpg
-||rmkz.themarker.com^$popup
-||themarker.com/abc$script
-||themarker.com/dclk/
-||themarker.com/st/media
-||themarker.com/tm/js/resp/header_scripts/internal/util/z_adblockutil.js
-||themarker.com^*/Houdini/
+!/haaretz\.co\.il\/(?!.*\.(js)($|\?)).*/$script,domain=haaretz.co.il|themarker.com
+!/haaretz\.co\.il\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\/[\w\.!]+\//$image,subdocument,domain=haaretz.co.il|themarker.com
 ! * Reshet 13 * !
 !/^(?![a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*((gov|idf|muni|ac|k12|net)\.il|(google|blogspot|phpbb|minifier|enable|tadam|nagich|nagishplus|nagishly|livedns|user-a|emap|23tv|glz|icast|ecast|mediacast|live1|siz|gif|meduzot|telesport|teleline|livegames|2net|weather2day|mekorotapp|e-vrit|fav|slash|rabbi|kaplanopensource|systematics|israelcoronamap|icdn|13tv|13news|nana10|nana|nanafiles|yummies|linicom)\.co\.il|(kan|kankids|makan|iba|oref|iaf|parks|imj|nli|bh|isoc|hebrew-academy|kineret|teva|zavit|ip6|profile|pitchonlev)\.org\.il)\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.il\.?([\/\:]|$)/$third-party,domain=13news.co.il|13tv.co.il
 !/^(?![a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(facebook|fbcdn|threads|dmcdn|slideshare|cloudfront|cloudflare|fastly|fastlylb|ovh|gammacdn|edgecastcdn|footprint|incapdns|cloudapp|brightcove|jsdelivr|akamai|akamaihd|akamaized|akamaiedge|akahost|ctedgecdn|2mdn|edgesuite|azurewebsites|azureedge|windows|hwcdn|zencdn|llnwd|llnwi|boltdns|msecnd|bitsngo|nocookie|datatables|docdroid|iframely|algolia|anvato|maphub|dwcdn|typekit|edgefonts|recaptcha|ampproject|viafoura|yastatic|yahoodns|imgix|behance|darksky|google|twitchcdn|ttvnw|jtvnw|dailyuploads|deviantart|8ch|b-cdn|vodgc|hlsplayer|streamlock|web-view|streamgates|cdnwz|playgorithm|vidiom|radwarecloud|f-static|socketcdn|xicdn|2cnt|chartbeat|doubleclick|advsnx|geoplugin|sc-static|artipbox)\.net\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.net\.?([\/\:]|$)/$third-party,domain=13news.co.il|13tv.co.il
