@@ -146,6 +146,10 @@ gadgety.co.il##.mobile-sticky-ad
 !#if env_mobile
 tgspot.co.il##.sticky-ads
 !#endif
+! * dtown * !
+!#if env_mobile
+! www.dtown.co.il##[id^="iv-gpt-ad-"]
+!#endif
 ! * FoodsDictionary * !
 @@||foodsdictionary.co.il/static/$xhr,1p
 @@||foodsdictionary.co.il^$ghide
@@ -206,3 +210,4 @@ koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
 koozi.info##.tien-ads-video:style(background: none!important;)
 !
 !-----------------------------------------------------------------------------!
+!
