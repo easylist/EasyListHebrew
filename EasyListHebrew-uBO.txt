@@ -148,7 +148,7 @@ tgspot.co.il##.sticky-ads
 !#endif
 ! * dtown * !
 !#if env_mobile
-! www.dtown.co.il##[id^="iv-gpt-ad-"]
+www.dtown.co.il##[id^="iv-gpt-ad-"]
 !#endif
 ! * FoodsDictionary * !
 @@||foodsdictionary.co.il/static/$xhr,1p
