@@ -223,7 +223,6 @@ www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathen
 !
 www-haaretz-co-il.eu1.proxy.openathens.net##+js(aeld, load, hblocked)
 www-haaretz-co-il.eu1.proxy.openathens.net##+js(acs, $, AdBlockUtil)
-www-haaretz-co-il.eu1.proxy.openathens.net##+js(set, showAds, true)
 www-haaretz-co-il.eu1.proxy.openathens.net##html:style(height: auto !important; overflow: auto !important)
 www-haaretz-co-il.eu1.proxy.openathens.net##span:has([href*="promo"]):xpath(..)
 !
