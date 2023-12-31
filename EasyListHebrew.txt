@@ -1003,6 +1003,7 @@ hakolhayehudi.co.il##.home-banner-3.margin-top-30.row
 hashulchan.co.il##.show.sticky_footer-container
 hidabroot.org##.panel-row-upper
 hidabroot.org##.remove-ad
+hm-news.co.il##iframe[src^="https://media.hm-news.co.il/js"]
 homeless.co.il###board_middle_advert
 homeless.co.il###plasma_container
 homeless.co.il##.boardfooter_tr
