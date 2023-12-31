@@ -1,3 +1,5 @@
 דיווח על פרסומות ובעיות | Reporting on ads and problems
 
-https://github.com/easylist/EasyListHebrew/wiki
+[Issues](https://github.com/easylist/EasyListHebrew/wiki)
+שליחת תיקונים/פילטרים חדשים | Contributing
+[CONTRIBUTING](https://github.com/easylist/EasyListHebrew/blob/master/CONTRIBUTING.md)
