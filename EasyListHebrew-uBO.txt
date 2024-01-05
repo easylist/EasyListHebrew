@@ -202,9 +202,6 @@ hm-news.co.il###sticky_banner_bottom_mobile
 !
 jmusic.me##+js(aopr, mdp_deblocker)
 jmusic.me##+js(nostif, mdpDeBlocker)
-! * Sdarot.TV * !
-sdarot.*#?##afterLoad:style(display: block !important)
-sdarot.*##[href*="channel22.co.il"]
 ! * Koozi * !
 koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
 koozi.info##.tien-ads-video:style(background: none!important;)

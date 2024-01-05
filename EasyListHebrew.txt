@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RZHJiRg2odXptAzw3kyR1A
+! Checksum: CH/gHT9rRoGYPnvm6LzybA
 ! Title: EasyList Hebrew
-! Last modified: 04 Jan 2024 01:34 UTC
+! Last modified: 05 Jan 2024 01:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -687,7 +687,6 @@ zegvid.net##*
 @@/ads.min.js?$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/adunits.$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/advert.$image,domain=13news.co.il|13tv.co.il
-@@?pageurl=$xmlhttprequest,third-party,domain=sdarot.buzz|sdarot.tw
 @@||2mdn.net/instream/video/client.js$script,domain=13news.co.il|13tv.co.il|hamal.co.il|mako.co.il|ynet.co.il
 @@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/cab/*.min.js$script,domain=inn.co.il
@@ -746,7 +745,7 @@ zegvid.net##*
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|calcalist.co.il|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|one.co.il|sdarot.buzz|sdarot.tw|sport5.co.il|tech12.co.il|tvbee.co.il|ynet.co.il
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|calcalist.co.il|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|one.co.il|sport5.co.il|tech12.co.il|tvbee.co.il|ynet.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
@@ -790,7 +789,6 @@ zegvid.net##*
 @@||shukitv.ucoz.com/script/ads.js
 @@||sport5.co.il^*/dfp.$script,~third-party
 @@||sport5.co.il^*/dfp/$script,~third-party
-@@||static.sdarot.*^*/plugins/*/videojs.ads.$script,stylesheet,~third-party,domain=sdarot.buzz|sdarot.tw
 @@||static.site24x7rum.com/beacon/site24x7rum-min.js$script,domain=one.co.il
 @@||tags.dxmdp.com/tags/$script,domain=13news.co.il|13tv.co.il
 @@||taimeod.co.il^$document
@@ -1219,7 +1217,6 @@ sport5.co.il##[onclick*="hpClickEvent('mako');"]
 sport5.co.il##[src^="https://meitavads-"]
 sports.walla.co.il##.type-2.common-hp-articles.sequence
 sports.walla.co.il##[src="/public/assets/sport/winner_logo.webp"]
-sratim.tv,sratim.video##.advertisment-wrapper
 srugim.co.il##.gapunit
 srugim.co.il##.kidums_separate
 srugim.co.il##.srugim_top_slider
