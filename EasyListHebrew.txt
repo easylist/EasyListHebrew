@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tds+SC8i27TRLwkS2le9cQ
+! Checksum: 9wCVr1Y99nkaoKg+MlweZQ
 ! Title: EasyList Hebrew
-! Last modified: 08 Jan 2024 15:44 UTC
+! Last modified: 08 Jan 2024 16:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -548,6 +548,7 @@
 ||player.vimeo.com/video/383596619|$subdocument,domain=ch10.co.il
 ||psakdin.co.il/Pictures/Banners/
 ||raddar.co.il/bannersa.php
+||saphiretelavivisrael.com^
 ||shoofoo.co.il/banners
 ||takana.co.il^$image,third-party
 ||wcdn.co.il/banners/
@@ -614,6 +615,7 @@ movitop.info##*
 mporli.info##*
 myvod.me##*
 pinukim.net##*
+saphiretelavivisrael.com##*
 sdarotil.top##*
 seret.live##*
 shaardollar.co.il##*
