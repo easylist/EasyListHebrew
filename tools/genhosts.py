@@ -9,6 +9,7 @@ endswith_filters = [
     "^$document",
     "^$doc",
     "^$all",
+    "##*",
     "^",
 ]
 
@@ -20,9 +21,9 @@ domains = set()
 with open(argv[1], "r") as f:
     for line in f:
         line = line.strip()
-        if line.startswith("||") and "/" not in line and ":" not in line:
+        if (line.startswith("||") and "/" not in line and ":" not in line) or line.endswith('##*'):
             for filter in endswith_filters:
-                if line.endswith(filter) and "*" not in line:
+                if line.endswith(filter) and "*" not in line[:-1]:
                     domain = line.replace(filter, "").replace("||", "")
                     domains.add(domain)
 
