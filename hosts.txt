@@ -41,6 +41,7 @@
 0.0.0.0 asermtawlfs.xyz
 0.0.0.0 ashleymadison.com
 0.0.0.0 ashleyrnadison.com
+0.0.0.0 avoda-mehabait.co.il
 0.0.0.0 azadv.co.il
 0.0.0.0 bakkels.com
 0.0.0.0 banners.news1.co.il

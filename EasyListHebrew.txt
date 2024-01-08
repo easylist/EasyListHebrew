@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tdKd4UMol4K5y06I1PtHag
+! Checksum: tds+SC8i27TRLwkS2le9cQ
 ! Title: EasyList Hebrew
-! Last modified: 07 Jan 2024 02:39 UTC
+! Last modified: 08 Jan 2024 15:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -533,6 +533,7 @@
 !
 !--------------------------1st party blocking rules---------------------------!
 !
+||avoda-mehabait.co.il^
 ||banners.news1.co.il^
 ||banners.news1.co.il^$popup
 ||beaverscripts.com/openwindow.js
@@ -563,6 +564,7 @@
 ##.wpvl.wpvl-youtube.ng-scope.size-xl > .ng-scope + .fblogin.lockoverlay.ng-scope
 ##.wpvl.wpvl-youtube.ng-scope.size-xxl > [ng-show="!blocked"] + * + .ng-scope + .fblogin.lockoverlay.ng-scope
 asface.pw##*
+avoda-mehabait.co.il##*
 balimon.info##*
 bitys.pw##*
 bobuzz.com##*
