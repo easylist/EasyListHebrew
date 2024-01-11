@@ -177,6 +177,8 @@ rotter.net###notes > .ads
 rotter.net###wrapper > .ads
 rotter.net###taboola-below-article-thumbnails
 !#endif
+rotter.net##[href="https://sales22.telekol.co.il/"]
+rotter.net##[href="https://bit.ly/3JbFKqV"]
 ! * IsraMedia * !
 isramedia.net###wrapper > literal > div
 ! * Kipa.co.il * !
