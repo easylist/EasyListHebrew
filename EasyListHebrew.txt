@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9wCVr1Y99nkaoKg+MlweZQ
+! Checksum: NFCclbVq4usluqtaeK6Sfg
 ! Title: EasyList Hebrew
-! Last modified: 08 Jan 2024 16:34 UTC
+! Last modified: 11 Jan 2024 23:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -533,7 +533,6 @@
 !
 !--------------------------1st party blocking rules---------------------------!
 !
-||avoda-mehabait.co.il^
 ||banners.news1.co.il^
 ||banners.news1.co.il^$popup
 ||beaverscripts.com/openwindow.js
@@ -548,7 +547,6 @@
 ||player.vimeo.com/video/383596619|$subdocument,domain=ch10.co.il
 ||psakdin.co.il/Pictures/Banners/
 ||raddar.co.il/bannersa.php
-||saphiretelavivisrael.com^
 ||shoofoo.co.il/banners
 ||takana.co.il^$image,third-party
 ||wcdn.co.il/banners/
@@ -639,6 +637,7 @@ youlim.info##*
 zegvid.com##*
 zegvid.net##*
 ||alipim.net^
+||avoda-mehabait.co.il^
 ||cooldays.net/app/vod-blocker$script
 ||fringantlarn8.live^
 ||hasdarot.cc^
@@ -659,6 +658,7 @@ zegvid.net##*
 ||losittooday.info^
 ||mporli.info^
 ||pinukim.net^
+||saphiretelavivisrael.com^
 ||sdarotil.top^
 ||seret.live^
 !
