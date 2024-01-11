@@ -171,6 +171,7 @@ fxp.co.il###big-wap.top-ba
 !#endif
 ! * Rotter.net * !
 ||walla.co.il/rotteriframe|$subdocument
+rotter.net##.ads
 !#if env_mobile
 rotter.net###notes > .ads
 rotter.net###wrapper > .ads
