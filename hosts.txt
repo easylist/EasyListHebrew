@@ -197,6 +197,7 @@
 0.0.0.0 lead.foxweb.co.il
 0.0.0.0 leshem.info
 0.0.0.0 like-it.co.il
+0.0.0.0 livenza-il.com
 0.0.0.0 lools.info
 0.0.0.0 loopmaze.com
 0.0.0.0 losittooday.info
@@ -212,6 +213,7 @@
 0.0.0.0 makelove.co.il
 0.0.0.0 mashrokit.info
 0.0.0.0 maskoter.com
+0.0.0.0 matihlle-ocean.com
 0.0.0.0 media-goal.co.il
 0.0.0.0 media.adextent.com
 0.0.0.0 media.foxweb.co.il
