@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4OV9gIBDlSr2gcDh9YNBjg
+! Checksum: wNbgPKK9ceEHCbQOj0d/Qw
 ! Title: EasyList Hebrew
-! Last modified: 17 Jan 2024 22:05 UTC
+! Last modified: 17 Jan 2024 22:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -859,9 +859,9 @@ camoni.co.il##.bannerWrapMobileBottom
 foodik.co.il##.sticky-banner.banner-con
 hashulchan.co.il##.banner-placeholder-hashulchan
 israelhayom.co.il##.adunit.ih-adunit
+kipa.co.il##.mood_mobileweb.mood300-250.mood
 kipa.co.il##[id^="p__"][id$="_kipa_mobileweb_HP_320x50_sticky"]
 kipa.co.il##[id^="p__"][id$="_kipa_mobileweb_HP_king_top"]
-kipa.co.il.mood_mobileweb.mood300-250.mood
 m.calcalist.co.il##.c-article__ad
 m.isramedia.net##.ad-label
 m.isramedia.net##.g-ad-label
@@ -873,8 +873,8 @@ m.n12.co.il###MEDIUM_BANNER
 m.n12.co.il##.advertisingitem
 m.one.co.il##[id*="_ucAdArticleAfterCategory_"]
 m.sport5.co.il##.ad
+mobile.mako.co.il##.adArticle
 mobile.mako.co.il##.adv
-mobile.mako.co.il#.adArticle
 mobile.srugim.co.il##[class^="Banner_Wrap"]
 radio-head.co.il##.ad-100-300
 radio-head.co.il##.ad-300-600
@@ -992,7 +992,7 @@ calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
 calendar.2net.co.il##.advertizement
-calendar.walla.co.il##[href^="https://tld.walla.co.il/item/"]
+calendar.walla.co.il,sheee.co.il##[href^="https://tld.walla.co.il/item/"]
 camoni.co.il###top-banner
 camoni.co.il##.article-content-banner
 camoni.co.il##.bannerWrap
@@ -1217,7 +1217,6 @@ s-maof.com##div[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##div[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 safa-ivrit.org##.inrpggoogle
 seret.co.il###jumbobannercontainer
-sheee.co.il##[href^="https://tld.walla.co.il/item/"]
 sheee.co.il,walla.co.il##.noprint-hidden.wide
 sheee.co.il,walla.co.il##.section-text-more-box
 sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1oyf7dk.slot
