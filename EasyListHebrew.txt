@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wd3cMlqBIAcnfnF+XVsQDw
+! Checksum: 4OV9gIBDlSr2gcDh9YNBjg
 ! Title: EasyList Hebrew
-! Last modified: 15 Jan 2024 20:55 UTC
+! Last modified: 17 Jan 2024 22:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -859,24 +859,34 @@ camoni.co.il##.bannerWrapMobileBottom
 foodik.co.il##.sticky-banner.banner-con
 hashulchan.co.il##.banner-placeholder-hashulchan
 israelhayom.co.il##.adunit.ih-adunit
+kipa.co.il##[id^="p__"][id$="_kipa_mobileweb_HP_320x50_sticky"]
+kipa.co.il##[id^="p__"][id$="_kipa_mobileweb_HP_king_top"]
+kipa.co.il.mood_mobileweb.mood300-250.mood
 m.calcalist.co.il##.c-article__ad
 m.isramedia.net##.ad-label
 m.isramedia.net##.g-ad-label
 m.maariv.co.il###a_sticky_test
 m.maariv.co.il##.banner-div-gpt-250
-m.maariv.co.il##.king-banner
+m.maariv.co.il##.mm-promo-content-active
+m.maariv.co.il,tmi.maariv.co.il##.king-banner
 m.n12.co.il###MEDIUM_BANNER
+m.n12.co.il##.advertisingitem
+m.one.co.il##[id*="_ucAdArticleAfterCategory_"]
 m.sport5.co.il##.ad
 mobile.mako.co.il##.adv
+mobile.mako.co.il#.adArticle
 mobile.srugim.co.il##[class^="Banner_Wrap"]
 radio-head.co.il##.ad-100-300
 radio-head.co.il##.ad-300-600
 rlive.co.il##.ad-container-row
 rlive.co.il##.adv.anchor
 rotter.co.il##.ads
+tmi.maariv.co.il##.AdvertisingNew
 walla.co.il##.no-desktop.homepage-mobile-top-ad
 yad2.co.il##.iosLoad.mobile_strip_top
 yad2.co.il##.iosLoad.mobile_top_dfp_placeholder_bill
+yad2.co.il##[class*="top-gallery_mobileDfp_"][class*="dfp-slot_mobileOnly_"][class*="dfp-slot_container_"]
+yad2.co.il##[class*="upper-ad-content_mobileStripTopGhost_"]
 !
 !------------------------------Mobile Whitelist-------------------------------!
 !
@@ -917,6 +927,8 @@ www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
 fxp.co.il##.OUTBRAIN
 gadgety.co.il###taboola-left-rail-thumbnails
 gadgety.co.il##.OUTBRAIN
+geektime.co.il###area-taboola-after-content
+geektime.co.il###area-taboola-top-content
 ice.co.il##.OUTBRAIN
 inn.co.il##.article-taboola
 inn.co.il##.taboola
@@ -930,6 +942,7 @@ news.walla.co.il##li.outbrain
 now14.co.il##.trc_related_container.tbl-feed-card
 onlife.co.il###cj_taboola_widget-2
 onlife.co.il##.cj_taboola
+radio-israel.org###taboola_div
 rotter.net###taboola-forum_atf
 sport5.co.il##.tbl-feed-container
 sport5.co.il##.trc_rbox_container
@@ -979,6 +992,7 @@ calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
 calendar.2net.co.il##.advertizement
+calendar.walla.co.il##[href^="https://tld.walla.co.il/item/"]
 camoni.co.il###top-banner
 camoni.co.il##.article-content-banner
 camoni.co.il##.bannerWrap
@@ -1105,6 +1119,7 @@ maariv.co.il##.article-left-side-banner
 maariv.co.il##.article-top-banner
 maariv.co.il##.banner-left-home
 maariv.co.il##.box-banner-wrap
+maariv.co.il##.cls_970x350_1st_top.one-row
 maariv.co.il##.horizontal-banner-wrap
 maariv.co.il##.news-feed-banner
 maariv.co.il##.xl-banner-wrap
@@ -1308,6 +1323,8 @@ xnet.ynet.co.il##.ContentLink.banner.Low
 xnet.ynet.co.il##.ad.hdn
 yad2.co.il###desktop-top-banners
 yad2.co.il###martef
+yad2.co.il##.desktop-only[class*="slots_desktopTextlinkLightBoxAd_"]
+yad2.co.il##.desktop-only[class*="slots_desktopTvAd_"]
 yad2.co.il##.dfp
 yad2.co.il##.dfp-desktop-tv-wrapper
 yad2.co.il##.dfp-slot-container
@@ -1316,6 +1333,7 @@ yad2.co.il##.inactive.top_boxes_row
 yad2.co.il##.magazine-frame
 yad2.co.il##.magazine_per_category
 yad2.co.il##.sticky_magazine
+yad2.co.il##[class*="dfp-slot_desktopOnly_"][class*="dfp-slot_container_"]
 yeshanews.com###sideban
 ynet.co.il###ads\.newspaper
 ynet.co.il###ads\.top\.2

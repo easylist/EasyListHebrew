@@ -144,11 +144,16 @@ gadgety.co.il##.mobile-sticky-ad
 !#endif
 ! * TGspot * !
 !#if env_mobile
+tgspot.co.il##.centerad
 tgspot.co.il##.sticky-ads
 !#endif
 ! * dtown * !
 !#if env_mobile
 www.dtown.co.il##[id^="iv-gpt-ad-"]
+!#endif
+! * htmag.co.il * !
+!#if env_mobile
+htmag.co.il##.ads-block
 !#endif
 ! * FoodsDictionary * !
 @@||foodsdictionary.co.il/static/$xhr,1p
