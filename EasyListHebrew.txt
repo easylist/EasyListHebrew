@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wNbgPKK9ceEHCbQOj0d/Qw
+! Checksum: 1zLbbrNJ4jHZNzkF7dN7Fg
 ! Title: EasyList Hebrew
-! Last modified: 17 Jan 2024 22:21 UTC
+! Last modified: 18 Jan 2024 18:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1346,6 +1346,7 @@ ynet.co.il##.pplus_hdr_ad
 ynet.co.il##.promolightboxmvc
 ynet.co.il##[class*="MarketingCarousel"]
 ynet.co.il##[class*="PromoLightbox"]
+ynet.co.il##^style#yitwall
 yo-yoo.co.il###unit1
 yo-yoo.co.il###unit2
 zap.co.il##.BannerBoxNew
