@@ -561,6 +561,7 @@
 ##.wpvl.wpvl-youtube.ng-scope.size-xxl > [ng-show="!blocked"] + * + .ng-scope + .fblogin.lockoverlay.ng-scope
 asface.pw##*
 avoda-mehabait.co.il##*
+bagly.co.il##*
 balimon.info##*
 bitys.pw##*
 bobuzz.com##*
@@ -617,9 +618,12 @@ sdarotil.top##*
 seret.live##*
 shaardollar.co.il##*
 sirtoonim.info##*
+sortie-shop.com##*
 stomi.info##*
+stylebox.co.il##*
 topfliightss.net##*
 tukid.info##*
+twobluedeer.com##*
 ugbuzz.net##*
 usbuzz.net##*
 vebuzz.net##*

@@ -44,6 +44,7 @@
 0.0.0.0 ashleyrnadison.com
 0.0.0.0 avoda-mehabait.co.il
 0.0.0.0 azadv.co.il
+0.0.0.0 bagly.co.il
 0.0.0.0 bakkels.com
 0.0.0.0 balimon.info
 0.0.0.0 banners.news1.co.il
@@ -287,6 +288,7 @@
 0.0.0.0 slutspro.com
 0.0.0.0 slutsroom.com
 0.0.0.0 social-hookup.com
+0.0.0.0 sortie-shop.com
 0.0.0.0 sportapp.co.il
 0.0.0.0 sprawley.com
 0.0.0.0 srvjar.com
@@ -294,6 +296,7 @@
 0.0.0.0 storagecdncloud.co
 0.0.0.0 strauss-water-campaign.co.il
 0.0.0.0 streamin.to
+0.0.0.0 stylebox.co.il
 0.0.0.0 syntetech.com
 0.0.0.0 talkahead.com
 0.0.0.0 texasboston.com
@@ -309,6 +312,7 @@
 0.0.0.0 truegifstandmore.com
 0.0.0.0 trustmedia.co.il
 0.0.0.0 tukid.info
+0.0.0.0 twobluedeer.com
 0.0.0.0 typication.com
 0.0.0.0 ugbuzz.net
 0.0.0.0 um-per.com
