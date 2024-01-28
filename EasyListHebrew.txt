@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ys1Y7mSR3m1NccVEdeK0aQ
+! Checksum: jfl5SlmaGQflnl/UHWazfA
 ! Title: EasyList Hebrew
-! Last modified: 23 Jan 2024 02:36 UTC
+! Last modified: 28 Jan 2024 23:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -943,6 +943,7 @@ radio-israel.org###taboola_div
 rotter.net###taboola-forum_atf
 sport5.co.il##.tbl-feed-container
 sport5.co.il##.trc_rbox_container
+sports.walla.co.il##.wrap-outbrain
 walla.co.il##.ob-taste-left
 ynet.co.il###taboola-video-reel-mid-article
 ynet.co.il##.MultiArticleTaboola.layoutItem
@@ -990,7 +991,8 @@ calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
 calendar.2net.co.il##.advertizement
-calendar.walla.co.il,sheee.co.il##[href^="https://tld.walla.co.il/item/"]
+calendar.walla.co.il,news.walla.co.il##[href^="https://tmirecycle.walla.co.il/item/"]
+calendar.walla.co.il,news.walla.co.il,sheee.co.il##[href^="https://tld.walla.co.il/item/"]
 camoni.co.il###top-banner
 camoni.co.il##.article-content-banner
 camoni.co.il##.bannerWrap
@@ -1254,6 +1256,7 @@ tgspot.co.il##.td-adspot-title-320
 tiuli.com###header_banner_wrapper
 tmi.maariv.co.il##.tmi-banner-container
 totalchat.co.il###PublichVoiceChat
+tvbee.co.il##.slider2.bottom_line_neo
 upf.co.il##.bgbanner
 uzit.co.il###firstGoogleAd
 walla.co.il###adPlayer
