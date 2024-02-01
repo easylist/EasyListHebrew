@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: O7Rb8egGgT05v48o++f7lw
+! Checksum: 6bCHCH/VdP8ZSkBh6NUA8Q
 ! Title: EasyList Hebrew
-! Last modified: 01 Feb 2024 02:27 UTC
+! Last modified: 01 Feb 2024 02:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1169,10 +1169,10 @@ morfix.co.il##.TopLeftRadvertisement_translation
 morfix.co.il##.result_adv
 morfix.co.il##.top_line_ad
 morfix.co.il##.top_line_ad_translation
-n12.co.il##.with-bg.sponsor
 n12.co.il##[href="https://www.mako.co.il/news-law_guide"]
 n12.co.il##[href^="/news-law_guide/"]
 n12.co.il##[src^="https://www.duns100.co.il/frame/hp3?"]
+n12.co.il,tech12.co.il##.with-bg.sponsor
 netex.co.il##.banner.b160x600
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
