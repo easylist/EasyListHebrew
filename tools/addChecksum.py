@@ -30,7 +30,7 @@
 #                                                                           #
 #############################################################################
 
-import sys, re, hashlib, base64, datetime
+import io, sys, re, hashlib, base64, datetime
 
 checksumRegexp = re.compile(r"^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 dateRegexp = re.compile(r"^\s*!\s*Last modified[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
@@ -152,5 +152,5 @@ if __name__ == "__main__":
     with open(sys.argv[1], "r") as f:
         data = f.read()
         data = addChecksum(sort_file(data))
-    with open(sys.argv[2], "w") as f:
+    with io.open(sys.argv[2], "w", newline='\n') as f:
         f.write(data)

@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # Generates a hosts file from adblock file
 from sys import argv
+import io
 
 endswith_filters = [
     "^$third-party",
@@ -30,7 +31,7 @@ with open(argv[1], "r") as f:
 domains = list(domains)
 domains.sort()
 
-with open(hosts, "w") as ho, open(ad_guard_hosts, "w") as agho:
+with io.open(hosts, "w", newline='\n') as ho, io.open(ad_guard_hosts, "w", newline='\n') as agho:
     for f in (ho, agho):
         f.write(
             "# This lists only contains domains which are used for ads, tracking or popups. it does not block in-HTML elements.\n"
