@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jfl5SlmaGQflnl/UHWazfA
+! Checksum: O7Rb8egGgT05v48o++f7lw
 ! Title: EasyList Hebrew
-! Last modified: 28 Jan 2024 23:47 UTC
+! Last modified: 01 Feb 2024 02:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
