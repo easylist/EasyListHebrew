@@ -222,6 +222,7 @@ www-globes-co-il.eu1.proxy.openathens.net##+js(set, document.blocked_var, 1)
 www-globes-co-il.eu1.proxy.openathens.net##+js(set, ____ads_js_blocked, false)
 www-globes-co-il.eu1.proxy.openathens.net###Globes_Displays
 www-globes-co-il.eu1.proxy.openathens.net##.Banner_in_Content
+www-globes-co-il.eu1.proxy.openathens.net##.spAr
 www-globes-co-il.eu1.proxy.openathens.net##.topBanner
 !
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##+js(aeld, , hblocked)

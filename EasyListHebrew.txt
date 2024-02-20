@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KuJUEgGHuYDHEYW3XB5Qsw
+! Checksum: 2QbXsX/KMn9ZB50vWb+aOw
 ! Title: EasyList Hebrew
-! Last modified: 04 Feb 2024 01:10 UTC
+! Last modified: 20 Feb 2024 04:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -752,7 +752,7 @@ zegvid.net##*
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|calcalist.co.il|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|one.co.il|sport5.co.il|tech12.co.il|tvbee.co.il|ynet.co.il
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|bizportal.co.il|calcalist.co.il|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|one.co.il|sport5.co.il|tech12.co.il|tvbee.co.il|ynet.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
@@ -766,8 +766,10 @@ zegvid.net##*
 @@||lb.advsnx.net/AdServer/?ZoneID=$domain=mako.co.il
 @@||lb.advsnx.net/as$domain=mako.co.il
 @@||lb.advsnx.net/crossdomain.xml$domain=mako.co.il
+@@||libs.outbrain.com/video/$script,domain=bizportal.co.il
 @@||mako.co.il/js/dfp/dfp.js$script,domain=mako.co.il
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
+@@||nv.vi-serve.com/vis-media/$image,media,domain=bizportal.co.il
 @@||old-games.org^$document
 @@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/omsdk/$script,domain=ynet.co.il
@@ -785,6 +787,9 @@ zegvid.net##*
 @@||qamesh.com/Images/advert.png
 @@||rcs.mako.co.il/js/ads.js$script,xmlhttprequest
 @@||rcs.mako.co.il/js/prebid-$xmlhttprequest,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
+@@||s.vi-serve.com/publishers/$script,domain=bizportal.co.il
+@@||s.vi-serve.com/source.m.js$script,domain=bizportal.co.il
+@@||s.vi-serve.com/tagLoader.js$script,domain=bizportal.co.il
 @@||s3.kikar.net/js/jquery.dfp.js$domain=kikar.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?$image,xmlhttprequest,domain=sport5.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
@@ -797,6 +802,7 @@ zegvid.net##*
 @@||sport5.co.il^*/dfp.$script,~third-party
 @@||sport5.co.il^*/dfp/$script,~third-party
 @@||static.site24x7rum.com/beacon/site24x7rum-min.js$script,domain=one.co.il
+@@||t.vi-serve.com/?event=$image,domain=bizportal.co.il
 @@||tags.dxmdp.com/tags/$script,domain=13news.co.il|13tv.co.il
 @@||taimeod.co.il^$document
 @@||themarker.com/st/c/prod/tm/2017/donorsMap/
@@ -804,6 +810,7 @@ zegvid.net##*
 @@||tornado-top.co.il/template/images/
 @@||translate.google.*/gen204?$image,domain=maccabi4u.co.il
 @@||trc.taboola.com/globes-il/$script
+@@||vis.vi-serve.com/playlist/$xmlhttprequest,domain=bizportal.co.il
 @@||walla.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
 @@||weather2day.co.il/ads.js?$script,~third-party
 @@||xads.zedo.com^$popup,domain=one.co.il
@@ -959,6 +966,9 @@ animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://unionhorizon.walla.co.il"]
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,nick.walla.co.il,olympics.walla.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://www.democratv.org"]
 !
+animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,calendar.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,gaming.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,olympics.walla.co.il,sheee.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://tld.walla.co.il/item/"]
+animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,calendar.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,gaming.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,olympics.walla.co.il,sheee.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://tmirecycle.walla.co.il/item/"]
+!
 0404.co.il##.sidebannerads
 13news.co.il,13tv.co.il##div.dxZevu.frjHsE.NewsFlahesPagestyles__NewsFlashSpecialWidget-sc-1zhe9e-9.NewsFlahesPagestyles__NewsFlashItem-sc-1zhe9e-8
 14across.co.il##.across-google-ad.across-google-wide-ad
@@ -995,8 +1005,6 @@ calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
 calendar.2net.co.il##.advertizement
-calendar.walla.co.il,news.walla.co.il,sheee.co.il,sports.walla.co.il##[href^="https://tld.walla.co.il/item/"]
-calendar.walla.co.il,news.walla.co.il,sports.walla.co.il##[href^="https://tmirecycle.walla.co.il/item/"]
 camoni.co.il###top-banner
 camoni.co.il##.article-content-banner
 camoni.co.il##.bannerWrap
@@ -1021,6 +1029,7 @@ globes.co.il###jumbo_container.nocontent.topBanner
 globes.co.il##.Banner_in_Content
 globes.co.il##.bannerCenter.gr
 globes.co.il##.kidum
+globes.co.il##.spAr
 globes.co.il##a[href*="theadblockerproject.org"]
 haipo.co.il##div[onclick*="countAdClick"]
 hashulchan.co.il##.show.sticky_footer-container
@@ -1188,6 +1197,8 @@ news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
 newsnow.co.il##.text-center.adv_mevzakim.adv.callout
 newsnow.co.il##.text-center.adv_posts_top.adv.callout
 one.co.il###content3d > [href^="http://pubads.g.doubleclick.net/gampad/clk"]
+one.co.il##.ad-container-bottom-jumbo.ad-container.ad-bg
+one.co.il##.vod-player-sponsor-image-bottom
 one.co.il##a[class*="one-article-strip"]
 onlife.co.il##.bottom-50.cj_above_team_banner_desktop
 onlife.co.il##.cj_new_widget_banners_left_long
@@ -1315,6 +1326,7 @@ www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
 www.mako.co.il##[href^="https://abbvie.mako.co.il/?"]
 www.mako.co.il##[href^="https://www.holidayfinder.co.il/"][href*="?utm_source=mako&utm_medium=affiliate&utm_campaign=component"]
 www.mako.co.il##[style="background-image:url('https://img.mako.co.il/2022/07/10/skinholidayfinder.png')"]
+www.walla.co.il###mekomiSection
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.300x250\.1
