@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 16e7o8hNty5rSOFk+3iyTA
+! Checksum: 55zx05TP8ezwhgOa7aZ4Kg
 ! Title: EasyList Hebrew
-! Last modified: 02 Mar 2024 17:51 UTC
+! Last modified: 05 Mar 2024 02:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -884,6 +884,7 @@ m.n12.co.il##.advertisingitem
 m.n12.co.il##.textadvertisingitem
 m.n12.co.il##[src="https://img.mako.co.il/2024/02/13/NEWPOSTER.jpg"]
 m.one.co.il##[id*="_ucAdArticleAfterCategory_"]
+m.one.co.il##[id*="_ucAdMiddleArticle_"]
 m.sport5.co.il##.ad
 mobile.mako.co.il##.adArticle
 mobile.mako.co.il##.adv
@@ -1211,8 +1212,11 @@ onlife.co.il##.persumi-text
 pitria.com##.adcontainer
 posta.co.il###banners-after-flashes
 posta.co.il###banners-below-menu
+posta.co.il###fixed-right.margin-fixed.banners-area
+posta.co.il##.group-731.single-onsidebar.banners-area
 posta.co.il##.group-749.home-line.banners-area
 posta.co.il##.group-752.home-line.banners-area
+posta.co.il##.slick-slider.slick-initialized.vertical-fade
 psakdin.co.il###bnrTop
 radio-head.co.il##.ad-flat.ad
 rateonclick.com###connect
@@ -1273,7 +1277,8 @@ tatus.co.il##.rs
 techtime.co.il##.header-banners.row
 tgspot.co.il##.td-adspot-title-320
 tiuli.com###header_banner_wrapper
-tmi.maariv.co.il##.tmi-banner-container
+tmi.maariv.co.il##.cls970x250-1st.tmi-banner-container
+tmi.maariv.co.il##.cls970x350-1st-top.tmi-banner-container
 totalchat.co.il###PublichVoiceChat
 tvbee.co.il##.slider2.bottom_line_neo
 upf.co.il##.bgbanner
