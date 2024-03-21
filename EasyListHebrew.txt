@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 55zx05TP8ezwhgOa7aZ4Kg
+! Checksum: 7vmrIhmlIelFuusWXNlpoA
 ! Title: EasyList Hebrew
-! Last modified: 05 Mar 2024 02:59 UTC
+! Last modified: 21 Mar 2024 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -774,7 +774,7 @@ zegvid.net##*
 @@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/omsdk/$script,domain=ynet.co.il
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=isramedia.net|mako.co.il|sport5.co.il|themarker.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=haaretz.co.il|isramedia.net|mako.co.il|sport5.co.il|themarker.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=13news.co.il|13tv.co.il|haaretz.co.il|one.co.il|themarker.com
 @@||pas-rahav.com/creativitys
@@ -900,7 +900,9 @@ walla.co.il##.only-mobile.item-ad-in-content-placeholder
 yad2.co.il##.iosLoad.mobile_strip_top
 yad2.co.il##.iosLoad.mobile_top_dfp_placeholder_bill
 yad2.co.il##[class*="additional-info_mobileStripMiddleDfp_"]
+yad2.co.il##[class*="top-gallery_mobileDfp_"]
 yad2.co.il##[class*="upper-ad-content_mobileStripTopDfp_"]
+yad2.co.il##[class*="upper-item-description_mobileStripTopDfp_"]
 !
 !------------------------------Mobile Whitelist-------------------------------!
 !
@@ -1278,7 +1280,6 @@ techtime.co.il##.header-banners.row
 tgspot.co.il##.td-adspot-title-320
 tiuli.com###header_banner_wrapper
 tmi.maariv.co.il##.cls970x250-1st.tmi-banner-container
-tmi.maariv.co.il##.cls970x350-1st-top.tmi-banner-container
 totalchat.co.il###PublichVoiceChat
 tvbee.co.il##.slider2.bottom_line_neo
 upf.co.il##.bgbanner
