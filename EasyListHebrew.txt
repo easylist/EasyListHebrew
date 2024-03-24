@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7vmrIhmlIelFuusWXNlpoA
+! Checksum: I+ccVFEt+Jtj8kAlLL8G3g
 ! Title: EasyList Hebrew
-! Last modified: 21 Mar 2024 03:31 UTC
+! Last modified: 24 Mar 2024 02:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -739,14 +739,6 @@ zegvid.net##*
 @@||googletagmanager.com/gtm.js$script,domain=one.co.il
 @@||googletagservices.com/tag/js/gpt.js$domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||gplanet.co.il/js/adx.js
-@@||haaretz.co.il/htz/css/teasers.css?$stylesheet
-@@||haaretz.co.il/htz/images/favicon-160x160.png
-@@||haaretz.co.il/htz/images/logos/htz-logo.v2.svg
-@@||haaretz.co.il/htz/js/resp/minified/header-scripts-int.js
-@@||haaretz.co.il/polopoly_fs/*/landscape$image,domain=haaretz.co.il|themarker.com
-@@||haaretz.co.il/polopoly_fs/*/size$image,domain=haaretz.co.il|themarker.com
-@@||haaretz.co.il/st/c/$image,domain=haaretz.co.il|themarker.com
-@@||haaretz.co.il/st/inter/Global/dailyedition/today/$image,domain=haaretz.co.il|themarker.com
 @@||hamal.co.il/advertising/ads/gtm.js|$script,~third-party
 @@||hamal.co.il/public/assets/ads/$stylesheet,~third-party
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
@@ -805,7 +797,6 @@ zegvid.net##*
 @@||t.vi-serve.com/?event=$image,domain=bizportal.co.il
 @@||tags.dxmdp.com/tags/$script,domain=13news.co.il|13tv.co.il
 @@||taimeod.co.il^$document
-@@||themarker.com/st/c/prod/tm/2017/donorsMap/
 @@||thetvdb.com/banners/$image,domain=wizdom.xyz
 @@||tornado-top.co.il/template/images/
 @@||translate.google.*/gen204?$image,domain=maccabi4u.co.il

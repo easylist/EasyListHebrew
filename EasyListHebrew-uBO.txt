@@ -258,5 +258,7 @@ www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathen
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="https:"][href*="themarker"][href*="com"][href*="labels/"]
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="http"][href*="doubleclick"][href*="net"][href*="clk?id"]
 !
+@@*googlesyndication*/pagead/js/adsbygoogle.js$domain=www-haaretz-co-il.eu1.proxy.openathens.net|www-themarker-com.eu1.proxy.openathens.net
+!
 !-----------------------------------------------------------------------------!
 !
