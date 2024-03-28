@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vCVg3UNt+GehTYc9KE56qg
+! Checksum: Owf3ajGgey+Jxj70TCa9Qg
 ! Title: EasyList Hebrew
-! Last modified: 24 Mar 2024 20:15 UTC
+! Last modified: 28 Mar 2024 23:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -744,6 +744,7 @@ zegvid.net##*
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
+@@||imasdk.googleapis.com/js/core/bridge3.630.1_he.html$domain=mako.co.il
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|bizportal.co.il|calcalist.co.il|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|one.co.il|sport5.co.il|tech12.co.il|tvbee.co.il|ynet.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
