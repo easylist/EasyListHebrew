@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vCVg3UNt+GehTYc9KE56qg
+! Checksum: gkAPoSQEFLtW+0MRkYbtZg
 ! Title: EasyList Hebrew
-! Last modified: 24 Mar 2024 20:15 UTC
+! Last modified: 02 Apr 2024 02:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -836,6 +836,7 @@ one.co.il#@#a[href^="http://xads.zedo.com/"]
 pitria.com#@#.header-ad
 tapuz.co.il#@#.afs_ads
 ynet.co.il#@#.adclass
+ynet.co.il#@#.shareBtn
 !
 !---------------------------------Mobile Ads----------------------------------!
 !
@@ -1328,7 +1329,6 @@ www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
 www.mako.co.il##[href^="https://abbvie.mako.co.il/?"]
 www.mako.co.il##[href^="https://www.holidayfinder.co.il/"][href*="?utm_source=mako&utm_medium=affiliate&utm_campaign=component"]
 www.mako.co.il##[style="background-image:url('https://img.mako.co.il/2022/07/10/skinholidayfinder.png')"]
-www.walla.co.il###mekomiSection
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.300x250\.1
