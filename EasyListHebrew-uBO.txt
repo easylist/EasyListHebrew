@@ -52,8 +52,6 @@ sheee.co.il,walla.co.il,~mail.walla.co.il##+js(aopr, googletag.cmd)
 walla.co.il##.text-content aside
 !#endif
 !
-!||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,important,domain=hamal.co.il
-!
 hamal.co.il##[class^="styles_bannerWrapper"]
 hamal.co.il##.container-fluid.styles_commentWrapper__Ggo7W
 hamal.co.il##.container-fluid.styles_mainWrapper__kR3CG
@@ -63,7 +61,6 @@ hamal.co.il##.styles_nativeFeed__I_3Qr
 !
 ||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2.png,domain=ynet.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=ynet.co.il
-!||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,important,domain=ynet.co.il
 !
 ynet.co.il##+js(aopw, upManager)
 ynet.co.il##+js(nostif, offsetHeight)
@@ -80,7 +77,6 @@ ynet.co.il##^style#yitwall
 ||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2.png,domain=mako.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=mako.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noopjs,important,domain=mako.co.il
-!||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,important,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
 !
 !#if !env_mobile
 mako.co.il##+js(aopw, upManager)
@@ -105,7 +101,6 @@ globes.co.il##+js(aopw, upManager)
 !
 ||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2.png,domain=calcalist.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=calcalist.co.il
-!||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,important,domain=calcalist.co.il
 !
 !#if !env_mobile
 calcalist.co.il##+js(aopw, upManager)
@@ -115,7 +110,6 @@ calcalist.co.il##+js(aopw, upManager)
 ||13tv.co.il^$important,websocket,1p,domain=13tv.co.il
 !
 ||doubleclick.net^$xhr,redirect-rule=nooptext,domain=13news.co.il|13tv.co.il
-!||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,important,domain=13news.co.il|13tv.co.il
 !
 !13news.co.il,13tv.co.il##+js(aopw, upManager)
 !13news.co.il,13tv.co.il##+js(cookie-remover, /r13_maavron/)
@@ -125,12 +119,8 @@ calcalist.co.il##+js(aopw, upManager)
 ! * SPORT5 * !
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=sport5.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noopjs,important,domain=sport5.co.il
-!||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,important,domain=sport5.co.il
 ! * ONE * !
-!||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,important,domain=one.co.il
 ||xads.zedo.com/ads2/c?*.one.co.il/$script,important,redirect=noopjs,1p
-! * Maariv * !
-!||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,important,domain=maariv.co.il
 ! * inn.co.il * !
 ||inn.co.il^$important,websocket,1p,domain=inn.co.il
 !
