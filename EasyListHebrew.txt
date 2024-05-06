@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iWbVF7EYvixSTNUyQ5StqA
+! Checksum: 49cgsTOnpnXX2qAu1ej1Mg
 ! Title: EasyList Hebrew
-! Last modified: 06 May 2024 01:23 UTC
+! Last modified: 06 May 2024 01:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -946,6 +946,7 @@ maariv.co.il##.OUTBRAIN
 maariv.co.il##.article-5-outbrain-script
 maariv.co.il##.article-9-outbrain-script
 maariv.co.il##.article-left-side-outbrain
+maariv.co.il##.may-interest-you
 maariv.co.il##.right-side-outbrain
 news.walla.co.il##li.outbrain
 news.walla.co.il,sports.walla.co.il##.wrap-outbrain
@@ -1205,6 +1206,7 @@ onlife.co.il##.bottom-50.cj_above_team_banner_desktop
 onlife.co.il##.cj_new_widget_banners_left_long
 onlife.co.il##.persumi-text
 pitria.com##.adcontainer
+portal.takdin.co.il##.resp-mobile-hidden.banner
 posta.co.il###banners-after-flashes
 posta.co.il###banners-below-menu
 posta.co.il###fixed-right.margin-fixed.banners-area
@@ -1310,6 +1312,7 @@ walla.co.il##a[href*="jor-el.net"] + img[src^="blob"]
 walla.co.il##a[href*="jor-el.net"] img[src^="blob"]
 walla.co.il##a[href][onmousedown] img[src^="blob"]
 walla.co.il##a[href^="javascript:"] img[src^="blob"]
+walla.co.il##div.ads
 walla.co.il##div[class^="ads-spaces"]
 walla.co.il##div[id^="Fusion_holder"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
