@@ -198,6 +198,7 @@
 0.0.0.0 lead.foxweb.co.il
 0.0.0.0 leshem.info
 0.0.0.0 like-it.co.il
+0.0.0.0 linicom.co.il
 0.0.0.0 livenza-il.com
 0.0.0.0 lools.info
 0.0.0.0 loopmaze.com

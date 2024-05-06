@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6QEUWmvvG/jK2+hOP2AQHw
+! Checksum: iWbVF7EYvixSTNUyQ5StqA
 ! Title: EasyList Hebrew
-! Last modified: 06 May 2024 01:14 UTC
+! Last modified: 06 May 2024 01:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -31,6 +31,7 @@
 ||erate.co.il^$third-party
 ||gitam.1host.co.il^$third-party
 ||jwtdigital-media.co.il^$~font,third-party
+||linicom.co.il^$third-party
 ||media.adextent.com^$third-party
 ||media.foxweb.co.il^$third-party
 ||mimgoal.com^$third-party
