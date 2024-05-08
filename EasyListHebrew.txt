@@ -1019,6 +1019,7 @@ ch10.co.il##.rt-banners
 chabad.info##.adpro
 chodal24.com##a[target="_blank"][href*="/urvd/4-"]
 easy.co.il##.biz-item-box:has(.biz-item-modaa)
+easy.co.il##.pirsomet-header
 forum.lametayel.co.il##.textlinks_wide.textlinks
 frogi.co.il##.adbox
 fun.walla.co.il##.game-item > .pre-game
