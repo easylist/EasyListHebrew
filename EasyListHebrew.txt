@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: haxjqkQrInTIHBpLDIU3uw
+! Checksum: 0NMjFlot8ri9JzBOVkFRQw
 ! Title: EasyList Hebrew
-! Last modified: 22 May 2024 00:44 UTC
+! Last modified: 22 May 2024 00:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -727,7 +727,6 @@ zegvid.net##*
 @@||bipbip.co.il/Style/Ads.css
 @@||callil.co.il/content/Ads/$image,~third-party
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
-@@||cdn.permutive.com/$script,domain=one.co.il
 @@||cdn.taboola.com/libtrc/wallail-hamal/loader.js$script,domain=hamal.co.il
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
 @@||cdnwiz.com/ads.js$xmlhttprequest
@@ -764,7 +763,6 @@ zegvid.net##*
 @@||matrix.ynet.co.il/JS/GA/ads_controller.js
 @@||nv.vi-serve.com/vis-media/$image,media,domain=bizportal.co.il
 @@||old-games.org^$document
-@@||one.co.il^$xmlhttprequest
 @@||pagead2.googlesyndication.com/omsdk/$script,domain=ynet.co.il
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=haaretz.co.il|isramedia.net|mako.co.il|sport5.co.il|themarker.com
@@ -804,7 +802,6 @@ zegvid.net##*
 @@||vis.vi-serve.com/playlist/$xmlhttprequest,domain=bizportal.co.il
 @@||walla.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
 @@||weather2day.co.il/ads.js?$script,~third-party
-@@||xads.zedo.com^$popup,domain=one.co.il
 @@||yad2.co.il/ads.js$script
 @@||ynet.co.il/Common/Api/Scripts/video/videojs.ads.$script,stylesheet,~third-party
 @@||ynet.co.il/dc/dcLoadAds/$script,domain=ynet.co.il
@@ -832,7 +829,6 @@ lavender.co.il#@##topAds
 leyada.net#@#.banner-300
 now14.co.il#@##taboola-below-article-thumbnails
 now14.co.il#@#.share-zone
-one.co.il#@#a[href^="http://xads.zedo.com/"]
 pitria.com#@#.header-ad
 tapuz.co.il#@#.afs_ads
 ynet.co.il#@#.adclass
