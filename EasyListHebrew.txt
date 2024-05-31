@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5spoUT+91bXEAXPLTdPKkw
+! Checksum: K5Fb1s9aGf2z1WIoeGbefg
 ! Title: EasyList Hebrew
-! Last modified: 31 May 2024 14:05 UTC
+! Last modified: 31 May 2024 14:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1187,6 +1187,7 @@ netex.co.il##.banner.b160x600
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
 newmail.walla.co.il##.walTopBannerInside
+news.walla.co.il##.separator.css-1v283wf
 news.walla.co.il,sports.walla.co.il##.css-jmqqm5
 news1.co.il###PlazmaDiv
 news1.co.il###TopBanner
@@ -1304,6 +1305,7 @@ walla.co.il##.tld-side-recommendation.editor-selections.three-section-articles.s
 walla.co.il##.top_banner_outer.relative
 walla.co.il##.vertical-232.tld.type-2.vertical-editable.common-hp-articles.sequence
 walla.co.il##.walla-shops
+walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-q11uhs.slot
 walla.co.il##[alt="adImg"]
 walla.co.il##[data-adid]
 walla.co.il##[data-advertiser-id]
