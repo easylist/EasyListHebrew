@@ -273,6 +273,8 @@
 0.0.0.0 rpe.co.il
 0.0.0.0 s-iwantyou.com
 0.0.0.0 saphiretelavivisrael.com
+0.0.0.0 sdarot-il.org
+0.0.0.0 sdarot.cc
 0.0.0.0 sdarotil.top
 0.0.0.0 sdc.mako.co.il
 0.0.0.0 sekindo.com
