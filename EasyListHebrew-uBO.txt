@@ -124,10 +124,12 @@ calcalist.co.il##+js(aopw, upManager)
 ! * inn.co.il * !
 ||inn.co.il^$important,websocket,1p,domain=inn.co.il
 !
+!#if !env_mobile
 !inn.co.il##+js(aopr, TextDecoder)
 inn.co.il##+js(aopw, upManager)
 inn.co.il##+js(nostif, popup)
 inn.co.il##+js(nowoif)
+!#endif
 ! * yad2 * !
 |blob:$important,domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
 !
@@ -182,6 +184,7 @@ morfix.co.il##^script:has-text(admiral)
 ! * FXP * !
 !#if env_mobile
 fxp.co.il###big-wap.top-ba
+fxp.co.il###first-post-location
 !#endif
 ! * Rotter.net * !
 ||walla.co.il/rotteriframe|$subdocument
@@ -194,6 +197,7 @@ rotter.net###taboola-below-article-thumbnails
 rotter.net##[href="https://www.kalish-fin.com/y"]
 rotter.net##[href="https://sales22.telekol.co.il/"]
 rotter.net##[href="https://bit.ly/3JbFKqV"]
+rotter.net##[href="https://bit.ly/3yQVHRU"]
 ! * IsraMedia * !
 isramedia.net###wrapper > literal > div
 ! * Kipa.co.il * !
