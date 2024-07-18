@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wGj2IhYXFXB0HKf0XKKMJA
+! Checksum: f5Rru1e1O6zBdmk5ZuOjUA
 ! Title: EasyList Hebrew
-! Last modified: 16 Jul 2024 13:34 UTC
+! Last modified: 18 Jul 2024 21:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -885,6 +885,7 @@ m.n12.co.il##.textadvertisingitem
 m.n12.co.il##[src="https://img.mako.co.il/2024/02/13/NEWPOSTER.jpg"]
 m.one.co.il##[id*="_ucAdArticleAfterCategory_"]
 m.one.co.il##[id*="_ucAdMiddleArticle_"]
+m.sponser.co.il##.gpt-slot
 m.sport5.co.il##.ad
 mobile.mako.co.il##.adArticle
 mobile.mako.co.il##.adv
@@ -1287,6 +1288,7 @@ takdin.co.il##.mainUpperBanner
 tatus.co.il##.rs
 techtime.co.il##.header-banners.row
 tgspot.co.il##.td-adspot-title-320
+thecage.co.il##.banner-box
 tiuli.com###header_banner_wrapper
 tmi.maariv.co.il##.cls970x250-1st.tmi-banner-container
 totalchat.co.il###PublichVoiceChat
@@ -1389,7 +1391,6 @@ yo-yoo.co.il###unit2
 zap.co.il##.BannerBoxNew
 zap.co.il##.Martef
 zap.co.il##.leftSideBanner
-
 !
 !------------------------------ABP-specific rules-----------------------------!
 !
