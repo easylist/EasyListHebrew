@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VtrPyp2n68k7CAjGSckVlg
+! Checksum: Pw4Nv+raHktVZRzPpkCwnA
 ! Title: EasyList Hebrew
-! Last modified: 23 Jul 2024 13:38 UTC
+! Last modified: 23 Jul 2024 13:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -928,13 +928,6 @@ baba-mail.co.il,mako.co.il,pcmagazine.co.il,podcasts.center##.ad
 calcalist.co.il,frogi.co.il,mynet.co.il,ynet.co.il###ads\.top
 calcalist.co.il,ynet.co.il##a[href*="goodluckblockingthis.com"]
 calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
-haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
-haaretz.co.il,themarker.com##a[href*="gampad/clk"]
-haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
-www.haaretz.co.il,www.themarker.com##[href*="PromotedContent"]
-www.haaretz.co.il,www.themarker.com##[href^="https://supermarker.themarker.com/"]
-www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
-www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
 !
 ! *** Outbrain / Taboola *** !
 !
@@ -1043,6 +1036,9 @@ globes.co.il##.bannerCenter.gr
 globes.co.il##.kidum
 globes.co.il##.spAr
 globes.co.il##a[href*="theadblockerproject.org"]
+haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
+haaretz.co.il,themarker.com##a[href*="gampad/clk"]
+haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haipo.co.il##div[onclick*="countAdClick"]
 hashulchan.co.il##.show.sticky_footer-container
 hidabroot.org##.panel-row-upper
@@ -1343,6 +1339,10 @@ wen.co.il##.wenBanner
 wisebuy.co.il##.mid1Banner
 wolt.com##button:has(> div > div > div > span:has-text(ממומן))
 wolt.com##div:has(> div > div > div > div > div > p:has-text(ממומן))
+www.haaretz.co.il,www.themarker.com##[href*="PromotedContent"]
+www.haaretz.co.il,www.themarker.com##[href^="https://supermarker.themarker.com/"]
+www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
+www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
 www.lametayel.co.il##.w-full.bg-grey-100.header-banner-wrapper
 www.mako.co.il##.clearer.scale_image.mako_feed_neo.ver2.part2
 www.mako.co.il##[box-title="Xtra Secret"]
