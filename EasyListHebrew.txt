@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8m88AwvFn+kYXUOyJFLhZw
+! Checksum: xlmC4d/w/MyIKhk3vZAC1Q
 ! Title: EasyList Hebrew
-! Last modified: 29 Jul 2024 21:58 UTC
+! Last modified: 29 Jul 2024 22:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -879,6 +879,8 @@ m.maariv.co.il##.cls300x250.mm-banner-container
 m.maariv.co.il##.cls393x163.mm-banner-container
 m.maariv.co.il##.mm-promo-content-active
 m.maariv.co.il,tmi.maariv.co.il##.king-banner
+m.n12.co.il###CM8ShowAd_MOBILE_MONSTER1_300X250
+m.n12.co.il###CM8ShowAd_MOBILE_MONSTER2_300X250
 m.n12.co.il###CM8ShowAd_MOBILE_MONSTER3_300X250
 m.n12.co.il###MEDIUM_BANNER
 m.n12.co.il##.advertisingitem
@@ -1164,6 +1166,8 @@ mako.co.il##.bannerClose
 mako.co.il##.mako_main_portlet_container > a[target="_blank"] > img
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
+mako.co.il##[class^="Ad_root_"]
+mako.co.il##[class^="Layout_premiumWrapperElement_"]
 mako.co.il##[href^="https://adclick.g.doubleclick.net/"]
 mako.co.il##[src="https://img.mako.co.il/2023/03/12/rosh.gif"]
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
@@ -1302,6 +1306,7 @@ walla.co.il###videoOverlay
 walla.co.il###we\ show
 walla.co.il###zoomSection
 walla.co.il##.ads-spaces-shdera-hp
+walla.co.il##.aside-desktop iframe
 walla.co.il##.commercial-items.mixed-sequence.sequence
 walla.co.il##.css-k0dd80
 walla.co.il##.homepage-desktop-top-ad
