@@ -92,6 +92,12 @@ www.mako.co.il##[box-title="Xtra בריאות "]
 !#if env_mobile
 now14.co.il##.fit-banner-size
 !#endif
+! * Israel Hayom * !
+!#if env_mobile
+israelhayom.co.il##.new-toolbar:style(padding-bottom: 0px !important;)
+israelhayom.co.il##.new-toolbar:style(height: 50px !important;)
+israelhayom.co.il##.footer:style(padding-bottom: 50px !important;)
+!#endif
 ! * Globes * !
 ||www.globes.co.il^$important,websocket,1p,domain=www.globes.co.il
 !
