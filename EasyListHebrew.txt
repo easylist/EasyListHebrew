@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EouQ5W0T5RlU1dnkqJP1Gg
+! Checksum: xv/+c29+lOjVIINm0/hlkA
 ! Title: EasyList Hebrew
-! Last modified: 02 Aug 2024 13:58 UTC
+! Last modified: 02 Aug 2024 14:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -977,6 +977,7 @@ animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,calendar.walla.co.il,car
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,calendar.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,gaming.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,olympics.walla.co.il,sheee.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://tmirecycle.walla.co.il/item/"]
 !
 0404.co.il##.sidebannerads
+13news.co.il,13tv.co.il##[class^="TopBannerstyles_"]
 13news.co.il,13tv.co.il##div.dxZevu.frjHsE.NewsFlahesPagestyles__NewsFlashSpecialWidget-sc-1zhe9e-9.NewsFlahesPagestyles__NewsFlashItem-sc-1zhe9e-8
 14across.co.il##.across-google-ad.across-google-wide-ad
 2net.co.il##.centerParnasa
@@ -1351,6 +1352,8 @@ www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
 www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
 www.lametayel.co.il##.w-full.bg-grey-100.header-banner-wrapper
 www.mako.co.il##.clearer.scale_image.mako_feed_neo.ver2.part2
+www.mako.co.il##.h033Desktop_root__UovNL
+www.mako.co.il##.v025Desktop_root__bxIn4
 www.mako.co.il##[box-title="Xtra Secret"]
 www.mako.co.il##[data-items="holidayFinderOrdering"]
 www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
