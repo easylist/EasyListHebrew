@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xv/+c29+lOjVIINm0/hlkA
+! Checksum: l97nPJWErWUk4CXm2PkiUQ
 ! Title: EasyList Hebrew
-! Last modified: 02 Aug 2024 14:06 UTC
+! Last modified: 03 Aug 2024 22:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -904,6 +904,7 @@ walla.co.il##.no-desktop.homepage-mobile-top-ad
 walla.co.il##.only-mobile.item-ad-in-content-placeholder
 yad2.co.il##.iosLoad.mobile_strip_top
 yad2.co.il##.iosLoad.mobile_top_dfp_placeholder_bill
+yad2.co.il##[class*="_mobileInnerDfp_"]
 yad2.co.il##[class*="additional-info_mobileStripMiddleDfp_"]
 yad2.co.il##[class*="top-gallery_mobileDfp_"]
 yad2.co.il##[class*="upper-ad-content_mobileStripTopDfp_"]
@@ -1350,7 +1351,8 @@ www.haaretz.co.il,www.themarker.com##[href*="PromotedContent"]
 www.haaretz.co.il,www.themarker.com##[href^="https://supermarker.themarker.com/"]
 www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
 www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
-www.lametayel.co.il##.w-full.bg-grey-100.header-banner-wrapper
+www.lametayel.co.il##.overflow-hidden.mx-auto.banner-outer-wrapper
+www.lametayel.co.il##.w-full.header-banner-wrapper
 www.mako.co.il##.clearer.scale_image.mako_feed_neo.ver2.part2
 www.mako.co.il##.h033Desktop_root__UovNL
 www.mako.co.il##.v025Desktop_root__bxIn4
