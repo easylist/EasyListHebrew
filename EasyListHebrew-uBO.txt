@@ -220,6 +220,7 @@ bhol.co.il##body:style(overflow: auto !important;)
 bhol.co.il##.frmCapsuleBlock.tblFulWidth.color-04.info-block
 ! * kikar.co.il * !
 www.kikar.co.il##div[aria-label*="המחלקה המסחרית"]:nth-ancestor(5)
+www.kikar.co.il##iframe[title*="Banner"]:upward(4)
 ! * actualic.co.il * !
 actualic.co.il##.actua-sticky.actua-footer-bar
 actualic.co.il##.banner-header.banner_ad
