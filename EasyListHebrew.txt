@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vxaVL/KDXD4kXnJAmHVXkw
+! Checksum: qTgyMCD0M61DDDSOpIPj7A
 ! Title: EasyList Hebrew
-! Last modified: 08 Aug 2024 20:42 UTC
+! Last modified: 08 Aug 2024 20:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1273,6 +1273,7 @@ sport5.co.il##.article-list-alt2.article-list-alt > .article-holder-homepage > .
 sport5.co.il##.banner-list
 sport5.co.il##.makoitemLeft
 sport5.co.il##.post.post-alt
+sport5.co.il##.rioEvents
 sport5.co.il##.skin-header
 sport5.co.il##[href="http://www.mako.co.il"]
 sport5.co.il##[href="https://www.mako.co.il"]
