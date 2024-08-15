@@ -215,7 +215,6 @@ isramedia.net###wrapper > literal > div
 ! * ch10.co.il * !
 ||ch10.co.il/wp-content/uploads/2021/*/*.mp4$media,redirect=noopmp4-1s
 ! * bhol.co.il * !
-||ext.bhol.co.il/uploads/
 bhol.co.il##body:style(overflow: auto !important;)
 bhol.co.il##.frmCapsuleBlock.tblFulWidth.color-04.info-block
 ! * kikar.co.il * !

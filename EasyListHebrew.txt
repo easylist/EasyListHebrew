@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GTZEu7AzCognpTSAiXz38A
+! Checksum: Vy9BXRHp6/Q6dpnq8zIs2g
 ! Title: EasyList Hebrew
-! Last modified: 08 Aug 2024 20:48 UTC
+! Last modified: 15 Aug 2024 00:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -499,6 +499,10 @@
 ||landing.kipa.co.il/?id=$popup
 ||moodaot.kipa.co.il/userFiles/moods/$subdocument
 ||the.sweets-jar.com/?id=$popup,domain=kipa.co.il
+! * bhol.co.il * !
+||bhol.co.il/rich_banners/
+||bhol.co.il/system/ad_manager/get_all_banners$xmlhttprequest
+||ext.bhol.co.il/uploads/
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
@@ -534,7 +538,6 @@
 ||banners.news1.co.il^
 ||banners.news1.co.il^$popup
 ||beaverscripts.com/openwindow.js
-||bhol.co.il/rich_banners/
 ||bladna.co.il/Public/flash/
 ||cdn.shorte.st/link-converter.min.js
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
