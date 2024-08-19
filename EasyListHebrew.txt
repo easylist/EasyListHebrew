@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Vy9BXRHp6/Q6dpnq8zIs2g
+! Checksum: i3qmhwn4TVJRU/K0KogW7A
 ! Title: EasyList Hebrew
-! Last modified: 15 Aug 2024 00:42 UTC
+! Last modified: 19 Aug 2024 00:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1352,6 +1352,7 @@ wen.co.il##.wenBanner
 wisebuy.co.il##.mid1Banner
 wolt.com##button:has(> div > div > div > span:has-text(ממומן))
 wolt.com##div:has(> div > div > div > div > div > p:has-text(ממומן))
+www.geektime.co.il##.hide-text.text-center.py-5.col-12
 www.haaretz.co.il,www.themarker.com##[href*="PromotedContent"]
 www.haaretz.co.il,www.themarker.com##[href^="https://supermarker.themarker.com/"]
 www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
