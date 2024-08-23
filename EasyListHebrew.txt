@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xoA0IvC7G720D18wHWRZqg
+! Checksum: vWFkLwYUV9dyCKRLSxY34Q
 ! Title: EasyList Hebrew
-! Last modified: 22 Aug 2024 10:03 UTC
+! Last modified: 23 Aug 2024 13:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -709,6 +709,7 @@ zegvid.net##*
 @@/adunits.$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/advert.$image,domain=13news.co.il|13tv.co.il
 @@||2mdn.net/instream/video/client.js$script,domain=13news.co.il|13tv.co.il|hamal.co.il|mako.co.il|ynet.co.il
+@@||555.co.il/pearl/rest/analytics/$xhr
 @@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/cab/*.min.js$script,domain=inn.co.il
 @@||a7.org/scripts/Forecast.js$script,domain=inn.co.il
