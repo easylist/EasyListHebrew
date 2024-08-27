@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /LEXu8QMO2MNokO7KpLefA
+! Checksum: aJh3iMZMbOH+xMiloRGVsA
 ! Title: EasyList Hebrew
-! Last modified: 27 Aug 2024 02:04 UTC
+! Last modified: 27 Aug 2024 02:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1261,10 +1261,7 @@ safa-ivrit.org##.inrpggoogle
 seret.co.il###jumbobannercontainer
 sheee.co.il,walla.co.il##.noprint-hidden.wide
 sheee.co.il,walla.co.il##.section-text-more-box
-sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1oyf7dk.slot
-sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1y47yz8.slot
-sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-q11uhs.slot
-sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-uzosdz.slot
+sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1m8p2t9.slot
 sheva7.co.il##.desktop-display > .maavaron
 shironet.mako.co.il###playerAdArea
 shmua.com##.adsbygoogle
@@ -1279,8 +1276,6 @@ sport5.co.il##.article-list-alt2.article-list-alt > .article-holder-homepage > .
 sport5.co.il##.banner-list
 sport5.co.il##.makoitemLeft
 sport5.co.il##.post.post-alt
-sport5.co.il##.rioEvents
-sport5.co.il##.skin-header
 sport5.co.il##[href="http://www.mako.co.il"]
 sport5.co.il##[href="https://www.mako.co.il"]
 sport5.co.il##[href^="https://www.mako.co.il/"][href$="&utm_source=sport5&utm_medium=RSS"]
