@@ -49,7 +49,7 @@ sheee.co.il,walla.co.il,~mail.walla.co.il##+js(aopr, googletag.cmd)
 /^(?![a-zA-Z0-9\-]+:\/+(www\.(walla(news|shops|tours|art|print)|hamal)|(api-mail|dal|dcx|isc|iscwne|www)\.walla)\.co\.il\.?(\/|:|$))^[a-zA-Z0-9\-]+:\/+([a-zA-Z0-9\-]+\.)+(walla(news|shops|tours|art|print)?|hamal)\.co\.il\.?(\/|:|$)/$3p,domain=www.sheee.co.il
 !
 !#if env_mobile
-walla.co.il##.text-content aside
+sheee.co.il,walla.co.il##.text-content aside
 !#endif
 !
 hamal.co.il##[class^="styles_bannerWrapper"]
