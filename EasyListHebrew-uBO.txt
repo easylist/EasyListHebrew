@@ -226,6 +226,11 @@ actualic.co.il##.banner-header.banner_ad
 ! * hm-news.co.il * !
 hm-news.co.il###sticky_banner_bottom_desktop
 hm-news.co.il###sticky_banner_bottom_mobile
+! * shvoong.co.il * !
+!#if !env_mobile
+www.shvoong.co.il##.dialog-lightbox-close-button.dialog-close-button
+www.shvoong.co.il##.elementor-column-gap-no.elementor-container
+!#endif
 ! * Jmusic.me * !
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=nooptext,domain=jmusic.me
 !

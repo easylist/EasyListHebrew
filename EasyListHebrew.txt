@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ubyfnq8I8sIJRnwYblAJGg
+! Checksum: r4vNPsTucPxnOrO8fX2svQ
 ! Title: EasyList Hebrew
-! Last modified: 04 Sep 2024 00:44 UTC
+! Last modified: 09 Sep 2024 21:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -869,6 +869,7 @@ ynet.co.il#@#.shareBtn
 atmag.co.il,hashulchan.co.il,timeout.co.il##.banner-placeholder
 atmag.co.il,hashulchan.co.il,timeout.co.il##.sb-show.sticky-banner
 baba-mail.co.il##.sticky-ad
+bizportal.co.il##.bottom-sticky-strip
 camoni.co.il###closeMobileBanner
 camoni.co.il##.bannerWrapMobile
 camoni.co.il##.bannerWrapMobileBottom
@@ -988,6 +989,7 @@ animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,buzzit.walla.co.il,cars.
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,calendar.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,gaming.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,olympics.walla.co.il,sheee.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://tld.walla.co.il/item/"]
 animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,calendar.walla.co.il,cars.walla.co.il,celebs.walla.co.il,e.walla.co.il,elections.walla.co.il,euro.walla.co.il,fashion.walla.co.il,finance.walla.co.il,food.walla.co.il,gaming.walla.co.il,healthy.walla.co.il,home.walla.co.il,judaism.walla.co.il,kids.walla.co.il,mag.walla.co.il,movies.walla.co.il,mundial.walla.co.il,nadlan.walla.co.il,news.walla.co.il,olympics.walla.co.il,sheee.co.il,sports.walla.co.il,tags.walla.co.il,tech.walla.co.il,travel.walla.co.il,tv-guide.walla.co.il,usaelections.walla.co.il,viva.walla.co.il,vod.walla.co.il,weather.walla.co.il,www.walla.co.il##[href^="https://tmirecycle.walla.co.il/item/"]
 !
+0404.co.il##.banner_ads
 0404.co.il##.sidebannerads
 13news.co.il,13tv.co.il##[class^="TopBannerstyles_"]
 13news.co.il,13tv.co.il##div.dxZevu.frjHsE.NewsFlahesPagestyles__NewsFlashSpecialWidget-sc-1zhe9e-9.NewsFlahesPagestyles__NewsFlashItem-sc-1zhe9e-8
@@ -1038,6 +1040,8 @@ ch10.co.il##.contento_Container
 ch10.co.il##.rt-banners
 chabad.info##.adpro
 chodal24.com##a[target="_blank"][href*="/urvd/4-"]
+davar1.co.il##.banner-article-top-wrap
+davar1.co.il##.banner-top-wrap
 easy.co.il##.biz-item-box:has(.biz-item-modaa)
 easy.co.il##.pirsomet-header
 forum.lametayel.co.il##.textlinks_wide.textlinks
@@ -1372,6 +1376,8 @@ www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
 www.mako.co.il##[href^="https://abbvie.mako.co.il/?"]
 www.mako.co.il##[href^="https://www.holidayfinder.co.il/"][href*="?utm_source=mako&utm_medium=affiliate&utm_campaign=component"]
 www.mako.co.il##[style="background-image:url('https://img.mako.co.il/2022/07/10/skinholidayfinder.png')"]
+www.shvoong.co.il##.banner-full-width
+www.shvoong.co.il##.banner-sticky-right
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.300x250\.1
