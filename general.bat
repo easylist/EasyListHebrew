@@ -1,2 +1,2 @@
 @echo off
-python generalFinder.py > general.txt
+python tools\generalFinder.py > general.txt
