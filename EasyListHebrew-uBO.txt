@@ -210,6 +210,7 @@ isramedia.net###wrapper > literal > div
 ! * Kipa.co.il * !
 !#if env_mobile
 kipa.co.il###footerBar
+kipa.co.il###fotterBar:style(height: auto !important;)
 !#endif
 !
 ||kipa.co.il/userFiles/moodaot/*.mp4$media,redirect=noopmp4-1s
