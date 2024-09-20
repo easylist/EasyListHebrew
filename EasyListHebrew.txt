@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7BOJXpOMTiw0LFuNKZ/K9w
+! Checksum: DLDW2RXncpXUvJb/55VT9w
 ! Title: EasyList Hebrew
-! Last modified: 20 Sep 2024 04:42 UTC
+! Last modified: 20 Sep 2024 04:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -877,6 +877,8 @@ foodik.co.il##.sticky-banner.banner-con
 hashulchan.co.il##.banner-placeholder-hashulchan
 israelhayom.co.il##.adunit.ih-adunit
 kipa.co.il##.mood_mobileweb.mood300-250.mood
+kipa.co.il##[id^="p__"][id$="_kipa_mobile_native_kipa_mobile_native_1"]
+kipa.co.il##[id^="p__"][id$="_kipa_mobile_native_kipa_mobile_native_2"]
 kipa.co.il##[id^="p__"][id$="_kipa_mobileweb_Article_320x50_sticky"]
 kipa.co.il##[id^="p__"][id$="_kipa_mobileweb_Article_king_top"]
 kipa.co.il##[id^="p__"][id$="_kipa_mobileweb_HP_320x50_sticky"]
@@ -1090,6 +1092,7 @@ inn.co.il###intext-1.sideInf
 inn.co.il###intext-2.sideInf
 inn.co.il###intext-3.sideInf
 inn.co.il###intext-4.sideInf
+inn.co.il###intext-5.sideInf
 inn.co.il##.banner-BTF_LB.banner
 inn.co.il##.banner-BTF_MPU.banner
 inn.co.il##.banner-BTF_MPU_1.banner
