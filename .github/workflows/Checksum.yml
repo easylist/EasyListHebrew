@@ -1,0 +1,50 @@
+name: Checksum
+
+on:
+  push:
+    branches: [ "master" ]
+    paths:
+      - 'EasyListHebrew.txt'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Upgrade pip
+        run: pip install --upgrade pip
+
+      - name: Run the script
+        id: run_script
+        run: |
+          tmpList=$(mktemp)
+          python3 .github/scripts/addChecksum.py EasyListHebrew.txt $tmpList
+          python3 .github/scripts/validateChecksum.py $tmpList
+          if [ $? == 0 ] ; then
+            mv -f $tmpList EasyListHebrew.txt
+          else
+            echo 'something wrong'
+          fi
+          python3 .github/scripts/genhosts.py EasyListHebrew.txt
+
+      - name: Ensure EasyListHebrew.txt exists
+        run: |
+          if [ ! -f EasyListHebrew.txt ]; then
+            echo "Creating EasyListHebrew.txt"
+            touch EasyListHebrew.txt
+          fi
+
+      - name: Update EasyListHebrew.txt file
+        run: |
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add EasyListHebrew.txt
+            git commit -m "Update Checksum"
+            git push
