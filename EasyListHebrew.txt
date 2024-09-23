@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DhUIicvewLzWM3iZxkBsCg
+! Checksum: 16pTSqJbmOJH61RyIPoTmQ
 ! Title: EasyList Hebrew
-! Last modified: 20 Sep 2024 13:16 UTC
+! Last modified: 23 Sep 2024 07:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -502,7 +502,7 @@
 ! * bhol.co.il * !
 ||bhol.co.il/rich_banners/
 ||bhol.co.il/system/ad_manager/get_all_banners$xmlhttprequest
-||ext.bhol.co.il/uploads/
+||ext.bhol.co.il/
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
