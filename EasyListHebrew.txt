@@ -502,7 +502,7 @@
 ! * bhol.co.il * !
 ||bhol.co.il/rich_banners/
 ||bhol.co.il/system/ad_manager/get_all_banners$xmlhttprequest
-||ext.bhol.co.il/uploads/
+||ext.bhol.co.il/
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
