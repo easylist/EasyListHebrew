@@ -53,9 +53,9 @@ sheee.co.il,walla.co.il##.text-content aside
 !#endif
 !
 hamal.co.il##[class^="styles_bannerWrapper"]
-hamal.co.il##.container-fluid.styles_commentWrapper__Ggo7W
-hamal.co.il##.container-fluid.styles_mainWrapper__kR3CG
-hamal.co.il##.styles_nativeFeed__I_3Qr
+hamal.co.il##.container-fluid.styles_commentWrapper__ufWcY
+hamal.co.il##.container-fluid.styles_mainWrapper__fcFda
+hamal.co.il##.styles_nativeFeed__raMtD
 ! * ynet * !
 ||www.ynet.co.il^$important,websocket,1p,domain=www.ynet.co.il
 !
