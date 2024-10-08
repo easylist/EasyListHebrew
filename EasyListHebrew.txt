@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Cvnv8YP1VymVME9AxMTZsw
+! Checksum: SgmLghsTVx8OJydkZ3GSHg
 ! Title: EasyList Hebrew
-! Last modified: 08 Oct 2024 06:21 UTC
+! Last modified: 08 Oct 2024 06:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1384,9 +1384,10 @@ www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
 www.lametayel.co.il##.overflow-hidden.mx-auto.banner-outer-wrapper
 www.lametayel.co.il##.w-full.header-banner-wrapper
 www.mako.co.il##.clearer.scale_image.mako_feed_neo.ver2.part2
-www.mako.co.il##.h033Desktop_root__UovNL
-www.mako.co.il##.v025Desktop_root__bxIn4
+www.mako.co.il##.h033Desktop_root__ZgE9t
+www.mako.co.il##.v025Desktop_root__EcTEG
 www.mako.co.il##[box-title="Xtra Secret"]
+www.mako.co.il##[class^="Homepage_premiumWrapperElement_"]
 www.mako.co.il##[data-items="holidayFinderOrdering"]
 www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
 www.mako.co.il##[href^="https://abbvie.mako.co.il/?"]
