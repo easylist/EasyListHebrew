@@ -21,20 +21,36 @@ jobs:
       - name: Upgrade pip
         run: pip install --upgrade pip
 
+      - name: Validate Checksum
+        id: checksum_validation
+        run: |
+          output=$(python3 .github/scripts/validateChecksum.py EasyListHebrew.txt)
+          echo "Validation output is: $output"
+          if [[ $output == "Checksum is valid" ]]; then
+            echo "build=no" >> $GITHUB_ENV
+            exit 0
+          else
+            echo 'Invalid checksum, creating a new one.'
+            echo "build=yes" >> $GITHUB_ENV
+          fi
+
       - name: Run the script
-        id: run_script
+        if: env.build == 'yes'
         run: |
           tmpList=$(mktemp)
           python3 .github/scripts/addChecksum.py EasyListHebrew.txt $tmpList
-          python3 .github/scripts/validateChecksum.py $tmpList
-          if [ $? == 0 ] ; then
+          output=$(python3 .github/scripts/validateChecksum.py $tmpList)
+          echo "Validation output for new file: $output"
+          if [[ $output == "Checksum is valid" ]]; then
             mv -f $tmpList EasyListHebrew.txt
           else
-            echo 'something wrong'
+            echo 'Something went wrong with checksum validation for the updated file.'
+            exit 1
           fi
           python3 .github/scripts/genhosts.py EasyListHebrew.txt
 
       - name: Ensure EasyListHebrew.txt exists
+        if: env.build == 'yes'
         run: |
           if [ ! -f EasyListHebrew.txt ]; then
             echo "Creating EasyListHebrew.txt"
@@ -42,6 +58,7 @@ jobs:
           fi
 
       - name: Update EasyListHebrew.txt file
+        if: env.build == 'yes'
         run: |
             git config user.name "github-actions"
             git config user.email "github-actions@github.com"

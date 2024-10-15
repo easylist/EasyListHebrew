@@ -35,12 +35,10 @@ import io, sys, re, hashlib, base64, datetime
 checksumRegexp = re.compile(r"^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 dateRegexp = re.compile(r"^\s*!\s*Last modified[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 
-
 def addChecksum(data):
     data = re.sub(
         dateRegexp,
-        "! Last modified: %s"
-        % datetime.datetime.utcnow().strftime("%d %b %Y %H:%M UTC\n"),
+        "! Last modified: %s" % datetime.datetime.utcnow().strftime("%d %b %Y %H:%M UTC\n"),
         data,
     )
     checksum = calculateChecksum(data)
@@ -48,23 +46,31 @@ def addChecksum(data):
     data = re.sub(r"(\r?\n)", r"\1! Checksum: %s\1" % checksum, data, 1)
     return data
 
-
 def calculateChecksum(data):
     md5 = hashlib.md5()
     md5.update(normalize(data).encode("utf-8"))
     return base64.b64encode(md5.digest()).rstrip(b"=").decode()
 
-
 def normalize(data):
-    data = re.sub(r"\r", "", data)
-    data = re.sub(r"\n+", "\n", data)
-    data = re.sub(checksumRegexp, "", data)
-    return data
+    # Split the data into lines
+    lines = data.splitlines()
+    
+    # Find the starting point for checksum calculation
+    start_index = -1
+    for i, line in enumerate(lines):
+        if line.strip() == "! *** Adservers *** !":
+            start_index = i + 1  # Start from the next line
+            break
 
+    # If the start marker was found, use the content from that point to the end
+    if start_index != -1:
+        return "\n".join(lines[start_index:])
+    
+    # If the marker is not found, return an empty string
+    return ""
 
 # Coded by EasyList Hebrew Team
 # Licence: https://easylist.to/pages/licence.html
-
 
 def sort_file(data):
     lines = data.split("\n") + ["\n"]
@@ -146,7 +152,6 @@ def sort_file(data):
                             line = url[0] + "$" + "domain=" + "|".join(domain)
                 lst.append(line + "\n")
     return res.rstrip()
-
 
 if __name__ == "__main__":
     with open(sys.argv[1], "r") as f:
