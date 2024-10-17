@@ -30,10 +30,9 @@
 #                                                                           #
 #############################################################################
 
-import sys, re, codecs, hashlib, base64
+import sys, re, hashlib, base64
 
 checksumRegexp = re.compile(r"^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
-
 
 def validate(data):
     checksum = extractChecksum(data)
@@ -47,29 +46,37 @@ def validate(data):
         print(f"Wrong checksum: found {checksum}, expected {expectedChecksum}")
         raise RuntimeError("bad checksum")
 
-
 def extractChecksum(data):
     match = re.search(checksumRegexp, data)
     return match.group(1) if match else None
-
 
 def calculateChecksum(data):
     md5 = hashlib.md5()
     md5.update(normalize(data).encode("utf-8"))
     return base64.b64encode(md5.digest()).rstrip(b"=").decode()
 
-
 def normalize(data):
-    data = re.sub(r"\r", "", data)
-    data = re.sub(r"\n+", "\n", data)
-    data = re.sub(checksumRegexp, "", data)
-    return data
+    # Split the data into lines
+    lines = data.splitlines()
+    
+    # Find the starting point for checksum calculation
+    start_index = -1
+    for i, line in enumerate(lines):
+        if line.strip() == "! *** Adservers *** !":
+            start_index = i + 1  # Start from the next line
+            break
 
+    # If the start marker was found, use the content from that point to the end
+    if start_index != -1:
+        return "\n".join(lines[start_index:])
+
+    # If the marker is not found, return an empty string
+    return ""
 
 if __name__ == "__main__":
     try:
-        with open(sys.argv[1]) as f:
+        with open(sys.argv[1], 'r', encoding='utf-8') as f:
             validate(f.read())
-    except:
-        sys.exit(1)
+    except Exception as e:
+        print(f"Error: {e}")
     sys.exit(0)

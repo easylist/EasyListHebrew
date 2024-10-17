@@ -22,6 +22,7 @@
 !--------------------------3rd party blocking rules---------------------------!
 !
 ! *** Adservers *** !
+! Do not delete or change the line above, it will cause the scripts to stop running !!!
 !
 ||213.8.137.51^
 ||activated.co.il^$third-party
