@@ -58,20 +58,12 @@ def calculateChecksum(data):
 def normalize(data):
     # Split the data into lines
     lines = data.splitlines()
-    
-    # Find the starting point for checksum calculation
-    start_index = -1
-    for i, line in enumerate(lines):
-        if line.strip() == "! *** Adservers *** !":
-            start_index = i + 1  # Start from the next line
-            break
 
-    # If the start marker was found, use the content from that point to the end
-    if start_index != -1:
-        return "\n".join(lines[start_index:])
+    # Filter out the line that contains the checksum
+    filtered_lines = [line for line in lines if not re.match(r"^\s*!?\s*checksum\s*:\s*", line, re.I)]
 
-    # If the marker is not found, return an empty string
-    return ""
+    # Return the remaining lines joined back into a single string
+    return "\n".join(filtered_lines)
 
 if __name__ == "__main__":
     try:
