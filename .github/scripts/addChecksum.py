@@ -27,7 +27,6 @@
 #                                                                           #
 # Note: your subscription file should be saved in UTF-8 encoding, otherwise #
 # the operation will fail.                                                  #
-#                                                                           #
 #############################################################################
 
 import io, sys, re, hashlib, base64, datetime
@@ -55,16 +54,19 @@ def normalize(data):
     # Split the data into lines
     lines = data.splitlines()
     
+    # Filter out the line that contains the checksum
+    filtered_lines = [line for line in lines if not re.match(r"^\s*!?\s*checksum\s*:\s*", line, re.I)]
+
     # Find the starting point for checksum calculation
     start_index = -1
-    for i, line in enumerate(lines):
+    for i, line in enumerate(filtered_lines):
         if line.strip() == "! *** Adservers *** !":
             start_index = i + 1  # Start from the next line
             break
 
     # If the start marker was found, use the content from that point to the end
     if start_index != -1:
-        return "\n".join(lines[start_index:])
+        return "\n".join(filtered_lines[start_index:])
     
     # If the marker is not found, return an empty string
     return ""
@@ -154,8 +156,8 @@ def sort_file(data):
     return res.rstrip()
 
 if __name__ == "__main__":
-    with open(sys.argv[1], "r") as f:
+    with open(sys.argv[1], "r", encoding='utf-8') as f:
         data = f.read()
         data = addChecksum(sort_file(data))
-    with io.open(sys.argv[2], "w", newline='\n') as f:
+    with io.open(sys.argv[2], "w", newline='\n', encoding='utf-8') as f:
         f.write(data)
