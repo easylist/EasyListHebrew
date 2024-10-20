@@ -35,18 +35,22 @@ checksumRegexp = re.compile(r"^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n", re.I | 
 dateRegexp = re.compile(r"^\s*!\s*Last modified[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 
 def addChecksum(data):
+    # Update the last modified date
     data = re.sub(
         dateRegexp,
         "! Last modified: %s" % datetime.datetime.utcnow().strftime("%d %b %Y %H:%M UTC\n"),
         data,
     )
     checksum = calculateChecksum(data)
+    # Remove existing checksums
     data = re.sub(checksumRegexp, "", data)
+    # Add the new checksum
     data = re.sub(r"(\r?\n)", r"\1! Checksum: %s\1" % checksum, data, 1)
     return data
 
 def calculateChecksum(data):
     md5 = hashlib.md5()
+    # Normalize the data for checksum calculation
     md5.update(normalize(data).encode("utf-8"))
     return base64.b64encode(md5.digest()).rstrip(b"=").decode()
 
@@ -54,22 +58,11 @@ def normalize(data):
     # Split the data into lines
     lines = data.splitlines()
     
-    # Filter out the line that contains the checksum
-    filtered_lines = [line for line in lines if not re.match(r"^\s*!?\s*checksum\s*:\s*", line, re.I)]
-
-    # Find the starting point for checksum calculation
-    start_index = -1
-    for i, line in enumerate(filtered_lines):
-        if line.strip() == "! *** Adservers *** !":
-            start_index = i + 1  # Start from the next line
-            break
-
-    # If the start marker was found, use the content from that point to the end
-    if start_index != -1:
-        return "\n".join(filtered_lines[start_index:])
+    # Filter out lines containing the checksum
+    filtered_lines = [line for line in lines if not re.match(r"^\s*!?\s*checksum\s*:", line, re.I)]
     
-    # If the marker is not found, return an empty string
-    return ""
+    # Join remaining lines for checksum calculation
+    return "\n".join(filtered_lines)
 
 # Coded by EasyList Hebrew Team
 # Licence: https://easylist.to/pages/licence.html
