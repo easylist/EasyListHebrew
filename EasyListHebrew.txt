@@ -543,6 +543,7 @@
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
 ||googleusercontent.com^$domain=trusted-software.com
 ||kikarhashabat.co.il/data/auto/images/landing_pages_
+||www.kikar.co.il/a/$subdocument
 ||leadim4u.com/accounts/default1/banners/
 ||negishim.com/accessibility/
 ||player.vimeo.com/video/383596619|$subdocument,domain=ch10.co.il
