@@ -565,6 +565,7 @@
 ##.wpvl.wpvl-youtube.ng-scope.size-xl > .ng-scope + .fblogin.lockoverlay.ng-scope
 ##.wpvl.wpvl-youtube.ng-scope.size-xxl > [ng-show="!blocked"] + * + .ng-scope + .fblogin.lockoverlay.ng-scope
 asface.pw##*
+atardrushim.com##*
 avoda-mehabait.co.il##*
 bagly.co.il##*
 balimon.info##*
@@ -650,6 +651,7 @@ youlim.info##*
 zegvid.com##*
 zegvid.net##*
 ||alipim.net^
+||atardrushim.com^
 ||avoda-mehabait.co.il^
 ||cooldays.net/app/vod-blocker$script
 ||fringantlarn8.live^
