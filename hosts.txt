@@ -42,6 +42,7 @@
 0.0.0.0 asface.pw
 0.0.0.0 ashleymadison.com
 0.0.0.0 ashleyrnadison.com
+0.0.0.0 atardrushim.com
 0.0.0.0 avoda-mehabait.co.il
 0.0.0.0 azadv.co.il
 0.0.0.0 bagly.co.il
