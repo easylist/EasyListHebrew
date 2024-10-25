@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: eq9Ojt5MuYQm6czkfQpLnw
+! Checksum: 4akguO22hB+skVuP5XQ/bA
 ! Title: EasyList Hebrew
-! Last modified: 25 Oct 2024 05:30 UTC
+! Last modified: 25 Oct 2024 05:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1123,6 +1123,7 @@ inn.co.il##.banner.forecast-aside-banner
 inn.co.il##[id^="banner_"]
 isport.co.il##[href="https://www.bankhapoalim.co.il/he/loans/postpone-loan"]
 israelhayom.co.il###fakeimage
+israelhayom.co.il##.full_width.system-banner
 israelhayom.co.il##.ih-marketing-info-container
 israelhayom.co.il##.ih-marketing-item-container
 israelhayom.co.il##.link-list-item-commercial
