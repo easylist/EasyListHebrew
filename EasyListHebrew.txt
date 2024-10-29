@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aDFXfEZkoqbfoM45KDUiXw
+! Checksum: U5/XzkOJ0MbpNBVkWnwJ4g
 ! Title: EasyList Hebrew
-! Last modified: 29 Oct 2024 21:20 UTC
+! Last modified: 29 Oct 2024 21:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -930,6 +930,10 @@ www.mako.co.il##.h1MainItemMobile_root__29M_o
 www.mako.co.il##.h1Mobile_root__6UWJ2
 www.mako.co.il##.v05Mobile_root__Uad3G
 www.mako.co.il##[class^="Maavaron_root__"]
+www.rlive.co.il##.block.md\:hidden.w-full.h-\[280px\].bg-gray-200
+www.rlive.co.il##.md\:hidden.my-4.block.h-\[300px\].bg-gray-200
+www.rlive.co.il##.mt-4.md\:hidden.block.h-\[250px\].is-container.bg-gray-200
+www.rlive.co.il##.my-4.md\:hidden.block.h-\[250px\].is-container.bg-gray-200
 yad2.co.il##.iosLoad.mobile_strip_top
 yad2.co.il##.iosLoad.mobile_top_dfp_placeholder_bill
 yad2.co.il##[class*="_mobileInnerDfp_"]
@@ -1405,6 +1409,11 @@ www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
 www.mako.co.il##[href^="https://abbvie.mako.co.il/?"]
 www.mako.co.il##[href^="https://www.holidayfinder.co.il/"][href*="?utm_source=mako&utm_medium=affiliate&utm_campaign=component"]
 www.mako.co.il##[style="background-image:url('https://img.mako.co.il/2022/07/10/skinholidayfinder.png')"]
+www.rlive.co.il##.block.mt-2.h-\[250px\].is-container.bg-gray-200
+www.rlive.co.il##.block.my-8.is-container.w-full.h-\[250px\].bg-gray-200
+www.rlive.co.il##.md\:flex.hidden.mt-4.h-\[250px\].is-container.bg-gray-200
+www.rlive.co.il##.mt-1.max-md\:hidden.block.h-\[140px\].is-container.bg-gray-200
+www.rlive.co.il##.w-\[350px\].min-w-\[350px\].lg\:flex.hidden.h-auto.bg-gray-200
 www.shvoong.co.il##.banner-full-width
 www.shvoong.co.il##.banner-sticky-right
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
