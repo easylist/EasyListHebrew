@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Q56WrrUgNl5nn0cRQNfKAA
+! Checksum: Y0ZExd1CaT2RYoYy85cd3Q
 ! Title: EasyList Hebrew
-! Last modified: 04 Nov 2024 03:28 UTC
+! Last modified: 04 Nov 2024 03:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1404,6 +1404,7 @@ www.mako.co.il##.h033Desktop_root__ZgE9t
 www.mako.co.il##.v025Desktop_root__EcTEG
 www.mako.co.il##[box-title="Xtra Secret"]
 www.mako.co.il##[class^="Homepage_premiumWrapperElement_"]
+www.mako.co.il##[class^="MakoLayout_premiumWrapperElement_"]
 www.mako.co.il##[data-items="holidayFinderOrdering"]
 www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
 www.mako.co.il##[href^="https://abbvie.mako.co.il/?"]
@@ -1445,6 +1446,7 @@ ynet.co.il##.ArticleBannerComponenta
 ynet.co.il##.CAATVcompAdvertiseTv
 ynet.co.il##.StripMarketingComponenta1280
 ynet.co.il##.art_tkb_talkback_advert
+ynet.co.il##.articleBodyInreadWrapper
 ynet.co.il##.banner.layoutItem
 ynet.co.il##.commertial.slotView
 ynet.co.il##.extended-banner.layoutItem
