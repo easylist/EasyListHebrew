@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HrY6bLOl63wgo67u9/tqMA
+! Checksum: +JNlhi3TtiPTu3Ub6gGLkw
 ! Title: EasyList Hebrew
-! Last modified: 14 Nov 2024 13:05 UTC
+! Last modified: 14 Nov 2024 13:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -922,6 +922,7 @@ rlive.co.il##.ad-container-row
 rlive.co.il##.adv.anchor
 rotter.co.il##.ads
 sheee.co.il,walla.co.il##.only-mobile.css-13oxhn3.css-1m8p2t9.slot
+stips.co.il##.pirs-links.paragraph
 technozone.co.il##.post_thumbnail_ad
 tmi.maariv.co.il##.AdvertisingNew
 walla.co.il##.no-desktop.homepage-mobile-top-ad
@@ -1000,6 +1001,7 @@ rotter.net###taboola-forums-top-react
 rotter.net###taboola-post-top-react
 sport5.co.il##.tbl-feed-container
 sport5.co.il##.trc_rbox_container
+stips.co.il##.t-recommendations-area
 walla.co.il##.ob-taste-left
 ynet.co.il###taboola-video-reel-mid-article
 ynet.co.il##.MultiArticleTaboola.layoutItem
