@@ -33,6 +33,7 @@ walla.co.il##+js(nostif, (), 1500)
 !sheee.co.il,walla.co.il,~mail.walla.co.il##+js(aost, Math, injectedScript)
 !sheee.co.il,walla.co.il,~mail.walla.co.il##+js(aost, Object, injectedScript)
 ! !#endif
+sheee.co.il,walla.co.il##+js(no-fetch-if, adsbygoogle)
 sheee.co.il,walla.co.il##^script:has-text(responseText)
 mail.walla.co.il#@#^script:has-text(responseText)
 sheee.co.il,walla.co.il##^script:has-text((window)}catch)
@@ -64,6 +65,7 @@ hamal.co.il##.styles_nativeFeed__raMtD
 !
 ynet.co.il##+js(aopw, upManager)
 ynet.co.il##+js(nostif, offsetHeight)
+ynet.co.il##+js(no-fetch-if, adsbygoogle)
 !
 !#if env_mobile
 ynet.co.il##^style#yitwall
@@ -84,6 +86,7 @@ mako.co.il##+js(aopw, upManager)
 !#if env_mobile
 www.mako.co.il##+js(aopw, upManager)
 !#endif
+mako.co.il,n12.co.il##+js(no-fetch-if, adsbygoogle)
 !
 n12.co.il##[box-title="חוק ומשפט"]
 !
@@ -111,6 +114,7 @@ globes.co.il##+js(aopw, upManager)
 !#if !env_mobile
 calcalist.co.il##+js(aopw, upManager)
 !#endif
+calcalist.co.il##+js(no-fetch-if, adsbygoogle)
 ! * Reshet 13 * !
 ||13news.co.il^$important,websocket,1p,domain=13news.co.il
 ||13tv.co.il^$important,websocket,1p,domain=13tv.co.il
@@ -120,13 +124,18 @@ calcalist.co.il##+js(aopw, upManager)
 !13news.co.il,13tv.co.il##+js(aopw, upManager)
 !13news.co.il,13tv.co.il##+js(cookie-remover, /r13_maavron/)
 !13news.co.il,13tv.co.il##+js(nostif, offsetHeight)
+13news.co.il,13tv.co.il##+js(no-fetch-if, adsbygoogle)
 !
 13news.co.il,13tv.co.il##[class^="TimeLinestyles__StyledAdWrap"]
 ! * SPORT5 * !
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=sport5.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noopjs,important,domain=sport5.co.il
+!
+sport5.co.il##+js(no-fetch-if, adsbygoogle)
 ! * ONE * !
 ||xads.zedo.com/ads2/c?*.one.co.il/$script,important,redirect=noopjs,1p
+!
+one.co.il##+js(no-fetch-if, adsbygoogle)
 ! * inn.co.il * !
 ||inn.co.il^$important,websocket,1p,domain=inn.co.il
 !
@@ -146,11 +155,13 @@ inn.co.il##+js(nowoif)
 ||yad2.co.il/js-new/showAds.js$script,redirect=noopjs,domain=yad2.co.il
 !
 yad2.co.il##+js(aopw, upManager)
+yad2.co.il##+js(no-fetch-if, adsbygoogle)
 !
 ||perfdrive.com^$badfilter
 ! * Haaretz, TheMarker * !
 haaretz.co.il,themarker.com##+js(aeld, , hblocked)
 haaretz.co.il,themarker.com##+js(set, showAds, true)
+haaretz.co.il,themarker.com##+js(no-fetch-if, adsbygoogle)
 !
 haaretz.co.il##html:style(height: auto !important; overflow: auto !important)
 haaretz.co.il##span:has([href*="promo"]):xpath(..)
@@ -260,6 +271,7 @@ www-globes-co-il.eu1.proxy.openathens.net##.topBanner
 !
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##+js(aeld, , hblocked)
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##+js(set, showAds, true)
+www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##+js(no-fetch-if, adsbygoogle)
 !
 www-haaretz-co-il.eu1.proxy.openathens.net##+js(aeld, load, hblocked)
 www-haaretz-co-il.eu1.proxy.openathens.net##+js(acs, $, AdBlockUtil)
