@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DsFIwjw8iptEetiVnS9C5g
+! Checksum: I1Tmt2T7G6qTXwYPpZnRvA
 ! Title: EasyList Hebrew
-! Last modified: 26 Nov 2024 01:16 UTC
+! Last modified: 26 Nov 2024 01:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1400,6 +1400,7 @@ wolt.com##button:has(> div > div > div > span:has-text(ממומן))
 wolt.com##div:has(> div > div > div > div > div > p:has-text(ממומן))
 www.geektime.co.il##.banner.row
 www.geektime.co.il##.hide-text.text-center.py-5.col-12
+www.haaretz.co.il,www.themarker.com##.hide_m.hide_.gam-placeholder
 www.haaretz.co.il,www.themarker.com##[href*="PromotedContent"]
 www.haaretz.co.il,www.themarker.com##[href^="https://supermarker.themarker.com/"]
 www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
