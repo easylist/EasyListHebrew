@@ -30,7 +30,10 @@
 #                                                                           #
 #############################################################################
 
-import sys, re, hashlib, base64
+import sys
+import re
+import hashlib
+import base64
 
 checksumRegexp = re.compile(r"^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 
@@ -78,4 +81,5 @@ if __name__ == "__main__":
             validate(f.read())
     except Exception as e:
         print(f"Error: {e}")
+        sys.exit(-1)
     sys.exit(0)

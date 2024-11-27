@@ -19,7 +19,7 @@ ad_guard_hosts = "adguard_hosts.txt"
 
 domains = set()
 
-with open(argv[1], "r") as f:
+with open(argv[1], "r", encoding="utf-8") as f:
     for line in f:
         line = line.strip()
         if (
@@ -33,8 +33,8 @@ with open(argv[1], "r") as f:
 domains = list(domains)
 domains.sort()
 
-with io.open(hosts, "w", newline="\n") as ho, io.open(
-    ad_guard_hosts, "w", newline="\n"
+with io.open(hosts, "w", newline="\n", encoding="utf-8") as ho, io.open(
+    ad_guard_hosts, "w", newline="\n", encoding="utf-8"
 ) as agho:
     for f in (ho, agho):
         f.write(

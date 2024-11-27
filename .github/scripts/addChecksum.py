@@ -29,7 +29,12 @@
 # the operation will fail.                                                  #
 #############################################################################
 
-import io, sys, re, hashlib, base64, datetime
+import io
+import sys
+import re
+import hashlib
+import base64
+import datetime
 
 checksumRegexp = re.compile(r"^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 dateRegexp = re.compile(r"^\s*!\s*Last modified[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
