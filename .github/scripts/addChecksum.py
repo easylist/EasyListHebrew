@@ -34,11 +34,13 @@ import io, sys, re, hashlib, base64, datetime
 checksumRegexp = re.compile(r"^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 dateRegexp = re.compile(r"^\s*!\s*Last modified[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 
+
 def addChecksum(data):
     # Update the last modified date
     data = re.sub(
         dateRegexp,
-        "! Last modified: %s" % datetime.datetime.utcnow().strftime("%d %b %Y %H:%M UTC\n"),
+        "! Last modified: %s"
+        % datetime.datetime.utcnow().strftime("%d %b %Y %H:%M UTC\n"),
         data,
     )
     checksum = calculateChecksum(data)
@@ -48,24 +50,30 @@ def addChecksum(data):
     data = re.sub(r"(\r?\n)", r"\1! Checksum: %s\1" % checksum, data, 1)
     return data
 
+
 def calculateChecksum(data):
     md5 = hashlib.md5()
     # Normalize the data for checksum calculation
     md5.update(normalize(data).encode("utf-8"))
     return base64.b64encode(md5.digest()).rstrip(b"=").decode()
 
+
 def normalize(data):
     # Split the data into lines
     lines = data.splitlines()
-    
+
     # Filter out lines containing the checksum
-    filtered_lines = [line for line in lines if not re.match(r"^\s*!?\s*checksum\s*:", line, re.I)]
-    
+    filtered_lines = [
+        line for line in lines if not re.match(r"^\s*!?\s*checksum\s*:", line, re.I)
+    ]
+
     # Join remaining lines for checksum calculation
     return "\n".join(filtered_lines)
 
+
 # Coded by EasyList Hebrew Team
 # Licence: https://easylist.to/pages/licence.html
+
 
 def sort_file(data):
     lines = data.split("\n") + ["\n"]
@@ -148,9 +156,10 @@ def sort_file(data):
                 lst.append(line + "\n")
     return res.rstrip()
 
+
 if __name__ == "__main__":
-    with open(sys.argv[1], "r", encoding='utf-8') as f:
+    with open(sys.argv[1], "r", encoding="utf-8") as f:
         data = f.read()
         data = addChecksum(sort_file(data))
-    with io.open(sys.argv[2], "w", newline='\n', encoding='utf-8') as f:
+    with io.open(sys.argv[2], "w", newline="\n", encoding="utf-8") as f:
         f.write(data)

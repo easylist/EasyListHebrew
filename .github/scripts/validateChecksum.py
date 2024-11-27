@@ -34,6 +34,7 @@ import sys, re, hashlib, base64
 
 checksumRegexp = re.compile(r"^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 
+
 def validate(data):
     checksum = extractChecksum(data)
     if not checksum:
@@ -46,28 +47,34 @@ def validate(data):
         print(f"Wrong checksum: found {checksum}, expected {expectedChecksum}")
         raise RuntimeError("bad checksum")
 
+
 def extractChecksum(data):
     match = re.search(checksumRegexp, data)
     return match.group(1) if match else None
+
 
 def calculateChecksum(data):
     md5 = hashlib.md5()
     md5.update(normalize(data).encode("utf-8"))
     return base64.b64encode(md5.digest()).rstrip(b"=").decode()
 
+
 def normalize(data):
     # Split the data into lines
     lines = data.splitlines()
 
     # Filter out the line that contains the checksum
-    filtered_lines = [line for line in lines if not re.match(r"^\s*!?\s*checksum\s*:\s*", line, re.I)]
+    filtered_lines = [
+        line for line in lines if not re.match(r"^\s*!?\s*checksum\s*:\s*", line, re.I)
+    ]
 
     # Return the remaining lines joined back into a single string
     return "\n".join(filtered_lines)
 
+
 if __name__ == "__main__":
     try:
-        with open(sys.argv[1], 'r', encoding='utf-8') as f:
+        with open(sys.argv[1], "r", encoding="utf-8") as f:
             validate(f.read())
     except Exception as e:
         print(f"Error: {e}")

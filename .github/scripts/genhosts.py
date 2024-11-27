@@ -22,7 +22,9 @@ domains = set()
 with open(argv[1], "r") as f:
     for line in f:
         line = line.strip()
-        if (line.startswith("||") and "/" not in line and ":" not in line) or line.endswith('##*'):
+        if (
+            line.startswith("||") and "/" not in line and ":" not in line
+        ) or line.endswith("##*"):
             for filter in endswith_filters:
                 if line.endswith(filter) and "*" not in line[:-1]:
                     domain = line.replace(filter, "").replace("||", "")
@@ -31,7 +33,9 @@ with open(argv[1], "r") as f:
 domains = list(domains)
 domains.sort()
 
-with io.open(hosts, "w", newline='\n') as ho, io.open(ad_guard_hosts, "w", newline='\n') as agho:
+with io.open(hosts, "w", newline="\n") as ho, io.open(
+    ad_guard_hosts, "w", newline="\n"
+) as agho:
     for f in (ho, agho):
         f.write(
             "# This lists only contains domains which are used for ads, tracking or popups. it does not block in-HTML elements.\n"
