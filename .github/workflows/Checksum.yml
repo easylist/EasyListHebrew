@@ -17,41 +17,41 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
       - name: Validate existing checksum
         id: validate_existing_checksum
-        continue-on-error: true
         run: |
-          python3 .github/scripts/validateChecksum.py EasyListHebrew.txt
-          echo "validation_status=$?" >> $GITHUB_OUTPUT
+          python3 .github/scripts/validateChecksum.py EasyListHebrew.txt || echo "bad_checksum=true" >> $GITHUB_ENV
 
       - name: Run checksum update
-        if: steps.validate_existing_checksum.outputs.validation_status != '0'
+        if: ${{ env.bad_checksum == 'true' }}
         id: update_checksum
         run: |
           tmpList=$(mktemp)
           python3 .github/scripts/addChecksum.py EasyListHebrew.txt $tmpList
           python3 .github/scripts/validateChecksum.py $tmpList
-          if [ $? == 0 ] ; then
+          if [ $? -eq 0 ]; then
             mv -f $tmpList EasyListHebrew.txt
           else
-            echo 'something wrong'
+            echo "Checksum validation failed after update"
             exit 1
           fi
 
       - name: Run genhosts
-        id: run_genhost_script
+        id: genhosts
         run: python3 .github/scripts/genhosts.py EasyListHebrew.txt
 
       - name: Check for changes
         id: git_status
         run: |
-          git status --porcelain
-          echo "changes=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
+          changes=$(git status --porcelain | wc -l)
+          echo "Detected changes: $changes"
+          echo "changes=$changes" >> $GITHUB_OUTPUT
 
       - name: Update EasyListHebrew.txt file
-        if: steps.validate_existing_checksum.outputs.validation_status != '0' && steps.git_status.outputs.changes != '0'
+        if: steps.git_status.outputs.changes != '0'
         run: |
-            git config user.name "github-actions[bot]"
-            git config user.email "actions@github.com"
-            git commit -am "Update Checksum"
-            git push
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git commit -am "Update Checksum"
+          git push
