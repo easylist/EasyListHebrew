@@ -1093,6 +1093,7 @@ haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][targ
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haipo.co.il##div[onclick*="countAdClick"]
+hidabroot.org##[href*="https://target.hidabroot.org/ad_manager"]
 hidabroot.org###desktop_vid_bnr
 hidabroot.org##.panel-row-upper
 hidabroot.org##.remove-ad
