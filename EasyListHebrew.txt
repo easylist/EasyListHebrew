@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: 2AfooJ1X2DFm+qOirioEiA
+! Checksum: 2AfooJ1X2DFm+qOirioEiA2
 ! Title: EasyList Hebrew
 ! Last modified: 27 Nov 2024 10:26 UTC
 ! Expires: 1 days (update frequency)
