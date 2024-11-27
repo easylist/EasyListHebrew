@@ -17,12 +17,16 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+      - name: Validate existing checksum
+        id: validate_existing_checksum
+        continue-on-error: true
+        run: |
+          python3 .github/scripts/validateChecksum.py EasyListHebrew.txt
+          echo "validation_status=$?" >> $GITHUB_OUTPUT
 
-      - name: Upgrade pip
-        run: pip install --upgrade pip
-
-      - name: Run the script
-        id: run_script
+      - name: Run checksum update
+        if: steps.validate_existing_checksum.outputs.validation_status != '0'
+        id: update_checksum
         run: |
           tmpList=$(mktemp)
           python3 .github/scripts/addChecksum.py EasyListHebrew.txt $tmpList
@@ -31,20 +35,23 @@ jobs:
             mv -f $tmpList EasyListHebrew.txt
           else
             echo 'something wrong'
+            exit 1
           fi
-          python3 .github/scripts/genhosts.py EasyListHebrew.txt
 
-      - name: Ensure EasyListHebrew.txt exists
+      - name: Run genhosts
+        id: run_genhost_script
+        run: python3 .github/scripts/genhosts.py EasyListHebrew.txt
+
+      - name: Check for changes
+        id: git_status
         run: |
-          if [ ! -f EasyListHebrew.txt ]; then
-            echo "Creating EasyListHebrew.txt"
-            touch EasyListHebrew.txt
-          fi
+          git status --porcelain
+          echo "changes=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
 
       - name: Update EasyListHebrew.txt file
+        if: steps.validate_existing_checksum.outputs.validation_status != '0' && steps.git_status.outputs.changes != '0'
         run: |
-            git config user.name "actions-user"
+            git config user.name "github-actions[bot]"
             git config user.email "actions@github.com"
-            git add EasyListHebrew.txt
-            git commit -m "Update Checksum"
+            git commit -am "Update Checksum"
             git push
