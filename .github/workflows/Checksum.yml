@@ -54,4 +54,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "actions@github.com"
           git commit -am "Update Checksum"
-          git push
+          git push origin HEAD
