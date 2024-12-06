@@ -1285,6 +1285,7 @@ posta.co.il##.group-731.single-onsidebar.banners-area
 posta.co.il##.group-749.home-line.banners-area
 posta.co.il##.group-752.home-line.banners-area
 posta.co.il##.slick-slider.slick-initialized.vertical-fade
+prog.co.il##div[class*="BannerUnit"]
 psakdin.co.il###bnrTop
 radio-head.co.il##.ad-flat.ad
 rateonclick.com###connect
