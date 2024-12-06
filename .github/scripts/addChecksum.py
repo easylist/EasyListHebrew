@@ -45,7 +45,7 @@ def addChecksum(data):
     data = re.sub(
         dateRegexp,
         "! Last modified: %s"
-        % datetime.datetime.utcnow().strftime("%d %b %Y %H:%M UTC\n"),
+        % datetime.datetime.now(datetime.UTC).strftime("%d %b %Y %H:%M UTC\n"),
         data,
     )
     checksum = calculateChecksum(data)
