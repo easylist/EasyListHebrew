@@ -245,6 +245,7 @@ hm-news.co.il###sticky_banner_bottom_desktop
 hm-news.co.il###sticky_banner_bottom_mobile
 ! * hidabroot.org * !
 ||hidabroot.wizzo.stream/storage/2024/*/*/original.mp4|$media,redirect=noopmp4-1s
+||target.hidabroot.org/ad_manager/get_all_banners$xhr,redirect=nooptext,domain=hidabroot.org
 ! * shvoong.co.il * !
 !#if !env_mobile
 www.shvoong.co.il##.dialog-lightbox-close-button.dialog-close-button
