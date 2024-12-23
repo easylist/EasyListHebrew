@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: l0sXL+d0dTv7XUIQK44Rgw
+! Checksum: 470b1c3uapK93Cfjnsyu5w
 ! Title: EasyList Hebrew
-! Last modified: 23 Dec 2024 04:12 UTC
+! Last modified: 23 Dec 2024 04:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -939,6 +939,7 @@ www.rlive.co.il##.mb-4.md\:hidden.block.max-h-\[60px\].h-\[60px\].is-container
 www.rlive.co.il##.md\:hidden.block.my-8.is-container.w-full.max-h-\[280px\].h-\[280px\]
 www.rlive.co.il##.md\:hidden.mt-4.block.max-h-\[300px\].h-\[300px\]
 www.rlive.co.il##.mt-1.block.md\:max-h-\[250px\].max-h-\[145px\].md\:h-\[250px\].h-\[145px\].is-container
+www.rlive.co.il##.mt-4.md\:hidden.block.max-h-\[250px\].h-\[250px\].is-container
 www.rlive.co.il##.mt-4.md\:hidden.block.max-h-\[280px\].h-\[280px\].is-container
 www.rlive.co.il##.my-4.md\:hidden.block.max-h-\[250px\].h-\[250px\].is-container
 yad2.co.il##.iosLoad.mobile_strip_top
@@ -1292,6 +1293,7 @@ posta.co.il##.slick-slider.slick-initialized.vertical-fade
 prog.co.il##div[class*="BannerUnit"]
 psakdin.co.il###bnrTop
 radio-head.co.il##.ad-flat.ad
+radio-head.co.il##[class*="banner_size"][class*="banner_container_"]
 rateonclick.com###connect
 rateonclick.com##a[href*="campaigns.layer.co.il/"]
 rlive.co.il##.adv-placeholder
