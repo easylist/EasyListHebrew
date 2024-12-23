@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 470b1c3uapK93Cfjnsyu5w
+! Checksum: gE1t+TiV/eJIstBo29ezVw
 ! Title: EasyList Hebrew
-! Last modified: 23 Dec 2024 04:22 UTC
+! Last modified: 23 Dec 2024 04:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -927,6 +927,10 @@ sheee.co.il,walla.co.il##.only-mobile.css-13oxhn3.css-1m8p2t9.slot
 stips.co.il##.pirs-links.paragraph
 technozone.co.il##.post_thumbnail_ad
 tmi.maariv.co.il##.AdvertisingNew
+tmi.maariv.co.il##.cls-250-4th.tmi-banner-container
+tmi.maariv.co.il##.cls300x100-2nd.tmi-banner-container
+tmi.maariv.co.il##.cls320x250-3rd.tmi-banner-container
+tmi.maariv.co.il##.cls320x480-1st.tmi-banner-container
 walla.co.il##.no-desktop.homepage-mobile-top-ad
 walla.co.il##.only-mobile.item-ad-in-content-placeholder
 walla.co.il##div.center-bottom[data-slot-name="nickbar_phone"]
