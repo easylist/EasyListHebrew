@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iigOpcfaY5iiVutL+FIYxA
+! Checksum: YLJQU9+F284kWVBvfZG9iw
 ! Title: EasyList Hebrew
-! Last modified: 03 Jan 2025 00:07 UTC
+! Last modified: 03 Jan 2025 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -930,6 +930,8 @@ technozone.co.il##.post_thumbnail_ad
 tmi.maariv.co.il##.AdvertisingNew
 tmi.maariv.co.il##.cls-250-4th.tmi-banner-container
 tmi.maariv.co.il##.cls300x100-2nd.tmi-banner-container
+tmi.maariv.co.il##.cls300x100_2nd.tmi-banner-container
+tmi.maariv.co.il##.cls300x250-3rd.tmi-banner-container
 tmi.maariv.co.il##.cls320x250-3rd.tmi-banner-container
 tmi.maariv.co.il##.cls320x480-1st.tmi-banner-container
 walla.co.il##.no-desktop.homepage-mobile-top-ad
