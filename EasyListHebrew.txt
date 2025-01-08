@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Wm9waEDWvCQUfVjyzNuySw
+! Checksum: OILsYA3etxkV0KaUdW+kNg
 ! Title: EasyList Hebrew
-! Last modified: 08 Jan 2025 01:14 UTC
+! Last modified: 08 Jan 2025 01:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -972,7 +972,7 @@ yad2.co.il##[class*="upper-item-description_mobileStripTopDfp_"]
 !
 2net.co.il,auto.co.il##.TopBanner
 93fm.co.il,ch10.co.il##.arti-banners
-a.co.il,forum.lametayel.co.il,maariv.co.il##.banner
+a.co.il,emess.co.il,forum.lametayel.co.il,maariv.co.il##.banner
 aiwa.co.il,bladna.co.il,karmelna.net##[class*="banner"]
 almadar.co.il,marmar.co.il##img[src^="VIRARTICLES/shadv/"]
 baba-mail.co.il,mako.co.il,pcmagazine.co.il,podcasts.center##.ad
@@ -1426,6 +1426,7 @@ www.lametayel.co.il##.overflow-hidden.mx-auto.banner-outer-wrapper
 www.lametayel.co.il##.w-full.header-banner-wrapper
 www.mako.co.il##.clearer.scale_image.mako_feed_neo.ver2.part2
 www.mako.co.il##.h033Desktop_root__ZgE9t
+www.mako.co.il##.poster_root__Tp4J_
 www.mako.co.il##.v025Desktop_root__EcTEG
 www.mako.co.il##[box-title="Xtra Secret"]
 www.mako.co.il##[data-items="holidayFinderOrdering"]
