@@ -279,6 +279,8 @@ www-haaretz-co-il.eu1.proxy.openathens.net##+js(acs, $, AdBlockUtil)
 www-haaretz-co-il.eu1.proxy.openathens.net##html:style(height: auto !important; overflow: auto !important)
 www-haaretz-co-il.eu1.proxy.openathens.net##span:has([href*="promo"]):xpath(..)
 !
+www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##.hide_m.hide_.gam-placeholder
+www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##.no-print.advert
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href*="PromotedContent"]
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="https:"][href*="supermarker"][href*="themarker"][href*="com"]
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="https:"][href*="haaretz"][href*="co"][href*="il"][href*="labels/"]
