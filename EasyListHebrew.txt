@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +H3dQdtg1zwM8xzaqobAfw
+! Checksum: VZ75sY9fHPSY9f6ucD6vCQ
 ! Title: EasyList Hebrew
-! Last modified: 06 Feb 2025 13:22 UTC
+! Last modified: 09 Feb 2025 18:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1108,6 +1108,10 @@ haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][targ
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haipo.co.il##div[onclick*="countAdClick"]
+hamal.co.il##.container-fluid.styles_commentWrapper__ufWcY
+hamal.co.il##.container-fluid.styles_mainWrapper__fcFda
+hamal.co.il##.styles_nativeFeed__raMtD
+hamal.co.il##[class^="styles_bannerWrapper"]
 hidabroot.org###desktop_vid_bnr
 hidabroot.org##.bannerCls.trg_banner
 hidabroot.org##.panel-row-upper
