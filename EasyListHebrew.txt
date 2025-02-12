@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zu2cPzH4ecQMjFpFrSE8+w
+! Checksum: UMv4YHF/zk4+4YIsUqqeyA
 ! Title: EasyList Hebrew
-! Last modified: 09 Feb 2025 18:42 UTC
+! Last modified: 12 Feb 2025 21:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -347,7 +347,6 @@
 ||a.walla.co.il^
 ||artipbox.net^$third-party,domain=walla.co.il
 ||azureedge.net^$third-party,domain=walla.co.il
-||browsiprod.com^$script,xmlhttprequest,domain=walla.co.il
 ||cooladata.com^$third-party,domain=walla.co.il
 ||elasticbeanstalk.com^$third-party,domain=walla.co.il
 ||exposeboxwallashops.blob.core.windows.net^
@@ -359,7 +358,6 @@
 ||jor-el.net^
 ||jor-el.net^$popup
 ||kxcdn.com^$third-party,domain=6days.walla.co.il|animals.walla.co.il|b.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|sports.walla.co.il|tech.walla.co.il|travel.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|www.walla.co.il
-||live.sekindo.com/uploads/users/$domain=walla.co.il
 ||logidea.info^$third-party,domain=walla.co.il
 ||mishpati.co.il/-partners/walla-form$subdocument
 ||walla.yad2.co.il/*banner$subdocument,domain=walla.co.il
@@ -384,7 +382,6 @@
 /CdaMarketingLink/*
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||article.yedioth.co.il/assets/Banners
-||browsiprod.com^$script,xmlhttprequest,domain=ynet.co.il
 ||dynamicyield.com^$script,domain=ynet.co.il
 ||go.ynet.co.il/short/Demos/*/Ads/
 ||go.ynet.co.il/short/content/2013/Career/SideJobs/
@@ -422,7 +419,6 @@
 ||rcs.mako.co.il/js/player/*/Artimedia/ArtimediaAdManager.js
 ||sdc.mako.co.il^
 ||shironet.mako.co.il/jsp/images/main_strip_ad_box_718.gif
-||valuad.cloud^$third-party,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
 ! * Globes * !
 ||www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
 !
@@ -543,7 +539,6 @@
 ||banners.news1.co.il^$popup
 ||beaverscripts.com/openwindow.js
 ||bladna.co.il/Public/flash/
-||cdn.shorte.st/link-converter.min.js
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
 ||ext.kore.co.il/out/$script,domain=www.kore.co.il
 ||googleusercontent.com^$domain=trusted-software.com
@@ -837,16 +832,12 @@ adi.gov.il#@#.small-ad
 bipbip.co.il#@##printads
 bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
-bizportal.co.il#@#.afs_ads
 blms.co.il#@#.addtitle
 callil.co.il#@##AdTop
 holmesplace.co.il#@#.image-advertisement
 homeless.co.il#@#.postad
-hwzone.co.il#@##adsense
-ice.co.il#@#.afs_ads
 investing.com#@##findABroker
 investing.com#@#.generalOverlay
-investing.com#@#.tradenowBtn
 junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
 lavender.co.il#@##topAds
@@ -854,7 +845,6 @@ leyada.net#@#.banner-300
 now14.co.il#@##taboola-below-article-thumbnails
 now14.co.il#@#.share-zone
 pitria.com#@#.header-ad
-tapuz.co.il#@#.afs_ads
 ynet.co.il#@#.adclass
 ynet.co.il#@#.shareBtn
 !
@@ -865,7 +855,6 @@ ynet.co.il#@#.shareBtn
 ||apps.mako.co.il/mobile/config/android/sport5/banner_config.xml
 ||fus.walla.co.il/json/5804468/mint.walla_android.homepage/spons
 ||images.yad2.co.il/Pic/yad2new/homepage_promotions/prom
-||live.sekindo.com/uploads/users/*/ads/
 ||m.sport5.co.il/Images/DreamTeam320X40.png
 ||resources.fortvision.com/staticfiles
 ||sport5.co.il/cm8ads/
@@ -945,7 +934,6 @@ www.rlive.co.il##.block.md\:hidden.w-full.max-h-\[280px\].h-\[280px\]
 www.rlive.co.il##.mb-4.md\:hidden.block.max-h-\[60px\].h-\[60px\].is-container
 www.rlive.co.il##.md\:hidden.block.my-8.is-container.w-full.max-h-\[280px\].h-\[280px\]
 www.rlive.co.il##.md\:hidden.mt-4.block.max-h-\[300px\].h-\[300px\]
-www.rlive.co.il##.mt-1.block.md\:max-h-\[250px\].max-h-\[145px\].md\:h-\[250px\].h-\[145px\].is-container
 www.rlive.co.il##.mt-4.md\:hidden.block.max-h-\[250px\].h-\[250px\].is-container
 www.rlive.co.il##.mt-4.md\:hidden.block.max-h-\[280px\].h-\[280px\].is-container
 www.rlive.co.il##.my-4.md\:hidden.block.max-h-\[250px\].h-\[250px\].is-container
@@ -1093,7 +1081,6 @@ fun.walla.co.il##.game-item > .pre-game
 fxp.co.il###adfxp
 gadgety.co.il##.desktop-ad-720-90
 gadgety.co.il##.gadgety-ad-wrapper
-gadgety.co.il##.vertical-ad
 gadgety.co.il##div[data-adpath^="/"]
 galgalim.co.il##.page_banner
 galgalim.co.il##[class^="google_ad_wrap_"]
