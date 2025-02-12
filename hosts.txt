@@ -67,6 +67,7 @@
 0.0.0.0 bostonparadise.com
 0.0.0.0 bostonwall.com
 0.0.0.0 browsergames2018.com
+0.0.0.0 browsiprod.com
 0.0.0.0 bsdigital.co.il
 0.0.0.0 bsdygital.co.il
 0.0.0.0 bulgarine.com
