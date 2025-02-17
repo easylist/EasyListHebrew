@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vGJ9/rWZukAGPAzikD+w/w
+! Checksum: E1mKx6GPcLhNUEW4WHKugQ
 ! Title: EasyList Hebrew
-! Last modified: 12 Feb 2025 21:46 UTC
+! Last modified: 17 Feb 2025 18:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -761,7 +761,7 @@ zegvid.net##*
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|bizportal.co.il|calcalist.co.il|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|now14.co.il|one.co.il|sport5.co.il|tech12.co.il|tvbee.co.il|ynet.co.il
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|bizportal.co.il|calcalist.co.il|channel14.web-prd.immergo.tv|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|now14.co.il|one.co.il|sport5.co.il|tech12.co.il|tvbee.co.il|ynet.co.il
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=channel14.web-prd.immergo.tv|now14.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
@@ -914,6 +914,7 @@ radio-head.co.il##.ad-300-600
 rlive.co.il##.ad-container-row
 rlive.co.il##.adv.anchor
 rotter.co.il##.ads
+sheee.co.il,walla.co.il##.center-bottom.is-fixed.only-mobile.css-1m8p2t9.slot
 sheee.co.il,walla.co.il##.only-mobile.css-13oxhn3.css-1m8p2t9.slot
 stips.co.il##.pirs-links.paragraph
 technozone.co.il##.post_thumbnail_ad
@@ -946,6 +947,9 @@ yad2.co.il##[class*="dfp-slot_mobileOnly_"][class*="dfp-slot_container_"]
 yad2.co.il##[class*="top-gallery_mobileDfp_"]
 yad2.co.il##[class*="upper-ad-content_mobileStripTopDfp_"]
 yad2.co.il##[class*="upper-item-description_mobileStripTopDfp_"]
+ynet.co.il###ads\.strip\.content\.1
+ynet.co.il###ads\.strip\.content\.2
+ynet.co.il##.dfpId
 !
 !------------------------------Mobile Whitelist-------------------------------!
 !
