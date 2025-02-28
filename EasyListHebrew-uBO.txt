@@ -132,8 +132,6 @@ sport5.co.il##+js(no-fetch-if, adsbygoogle)
 !
 one.co.il##+js(no-fetch-if, adsbygoogle)
 ! * inn.co.il * !
-||inn.co.il^$important,websocket,1p,domain=inn.co.il
-!
 !#if !env_mobile
 !inn.co.il##+js(aopr, TextDecoder)
 inn.co.il##+js(aopw, upManager)
