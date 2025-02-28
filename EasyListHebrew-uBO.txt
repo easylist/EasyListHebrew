@@ -171,7 +171,11 @@ tgspot.co.il##.centerad
 tgspot.co.il##.sticky-ads
 !#endif
 ! * dtown * !
+www.dtown.co.il##div.home-page-line.leaderboard
+www.dtown.co.il##div.home-page-line.items-cards
+www.dtown.co.il##.mb-4.leaderboard-placeholder.leaderboard
 !#if env_mobile
+www.dtown.co.il##[id^="banner-mob-"]
 www.dtown.co.il##[id^="iv-gpt-ad-"]
 !#endif
 ! * htmag.co.il * !
