@@ -613,6 +613,25 @@ magnivim.info##*
 matihlle-ocean.com##*
 metador.info##*
 mklrty.info##*
+mizrahi-il.com##*
+bumbalu-israel.com##*
+meirav-il.com##*
+lavaveli.com##*
+zohar-trends.com##*
+noa-tikim.com##*
+aurelia-il.com##*
+orenthelabel.com##*
+giborboxr-il.com##*
+briut-chai.com##*
+graces-bag.com##*
+cohenza-il.com##*
+shahar-il.com##*
+noya-il.com##*
+ofnatlevi-il.com##*
+levoria-il.com##*
+ezra-il.com##*
+votladora.com##*
+kooduu.com##*
 movitop.info##*
 mporli.info##*
 myvod.me##*
@@ -678,6 +697,7 @@ zegvid.net##*
 ||sdarotil.top^
 ||seret.live^
 ||tvfeel.cc^
+
 !
 !----------------------Whitelists to fix broken sites-------------------------!
 !
