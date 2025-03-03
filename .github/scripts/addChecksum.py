@@ -52,7 +52,7 @@ def addChecksum(data):
     # Remove existing checksums
     data = re.sub(checksumRegexp, "", data)
     # Add the new checksum
-    data = re.sub(r"(\r?\n)", r"\1! Checksum: %s\1" % checksum, data, 1)
+    data = re.sub(r"(\r?\n)", r"\1! Checksum: %s\1" % checksum, data, count=1)
     return data
 
 
