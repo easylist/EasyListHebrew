@@ -467,7 +467,6 @@
 ||a7.org/adblock/
 ||a7.org/media$script,xmlhttprequest
 ||a7.org/scripts/Maavaron.js
-||a7.org^$script,domain=inn.co.il
 ||dwnmedia.a7.org/inntv/media/
 ||info.a7.org^$domain=inn.co.il
 ||inn.co.il/info_en/
