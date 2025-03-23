@@ -132,6 +132,7 @@ sport5.co.il##+js(no-fetch-if, adsbygoogle)
 !
 one.co.il##+js(no-fetch-if, adsbygoogle)
 ! * inn.co.il * !
+inn.co.il##+js(no-fetch-if, adsbygoogle)
 !#if !env_mobile
 !inn.co.il##+js(aopr, TextDecoder)
 inn.co.il##+js(aopw, upManager)

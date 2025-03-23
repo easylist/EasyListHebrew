@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yr9xPLqzvWjux1JX5gK8hw
+! Checksum: c8idvMufcl3STytT9TgsTQ
 ! Title: EasyList Hebrew
-! Last modified: 11 Mar 2025 14:58 UTC
+! Last modified: 23 Mar 2025 02:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -760,7 +760,7 @@ zohar-trends.com##*
 @@||bipbip.co.il/Style/Ads.css
 @@||callil.co.il/content/Ads/$image,~third-party
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
-@@||cdn.taboola.com/libtrc/inn-hebrew/loader.js$domain=www.inn.co.il
+@@||cdn.taboola.com/libtrc/inn-hebrew/loader.js$script,domain=inn.co.il
 @@||cdn.taboola.com/libtrc/reshet-reshet/loader.js$script,domain=13news.co.il|13tv.co.il
 @@||cdn.taboola.com/libtrc/wallail-hamal/loader.js$script,domain=hamal.co.il
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
@@ -801,7 +801,7 @@ zohar-trends.com##*
 @@||old-games.org^$document
 @@||pagead2.googlesyndication.com/omsdk/$script,domain=ynet.co.il
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=haaretz.co.il|isramedia.net|mako.co.il|pc-dev.co.il|pc.co.il|sport5.co.il|themarker.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=haaretz.co.il|inn.co.il|isramedia.net|mako.co.il|pc-dev.co.il|pc.co.il|sport5.co.il|themarker.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=13news.co.il|13tv.co.il|haaretz.co.il|one.co.il|themarker.com
 @@||pas-rahav.com/creativitys
