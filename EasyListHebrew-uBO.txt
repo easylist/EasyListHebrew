@@ -158,6 +158,9 @@ haaretz.co.il,themarker.com##+js(no-fetch-if, adsbygoogle)
 !
 haaretz.co.il##html:style(height: auto !important; overflow: auto !important)
 haaretz.co.il##span:has([href*="promo"]):xpath(..)
+! * News1 * !
+www.news1.co.il##div.banner-container
+www.news1.co.il###overlay
 ! * Gadgety * !
 !#if env_mobile
 gadgety.co.il##.site-ads
