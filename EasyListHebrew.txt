@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: c8idvMufcl3STytT9TgsTQ
+! Checksum: L6ZjW71Gb8ZWXFyiUw43+Q
 ! Title: EasyList Hebrew
-! Last modified: 23 Mar 2025 02:00 UTC
+! Last modified: 23 Mar 2025 02:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -696,7 +696,6 @@ zohar-trends.com##*
 ||sdarotil.top^
 ||seret.live^
 ||tvfeel.cc^
-
 !
 !----------------------Whitelists to fix broken sites-------------------------!
 !
