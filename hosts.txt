@@ -74,6 +74,7 @@
 0.0.0.0 bsdygital.co.il
 0.0.0.0 bulgarine.com
 0.0.0.0 bumbalu-israel.com
+0.0.0.0 carsguys.co.il
 0.0.0.0 cdn.mdigital.co.il
 0.0.0.0 cdnic.site
 0.0.0.0 cellebrate.mobi
