@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UXP6LGWzNk9SEN2GWuiI1w
+! Checksum: Gm6uabYUf7q2q9I5KgUwUg
 ! Title: EasyList Hebrew
-! Last modified: 02 Apr 2025 01:10 UTC
+! Last modified: 02 Apr 2025 01:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1020,6 +1020,7 @@ maariv.co.il##.article-9-outbrain-script
 maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.may-interest-you
 maariv.co.il##.right-side-outbrain
+maariv.co.il##.weather-outbrain
 news.walla.co.il##li.outbrain
 news.walla.co.il,sports.walla.co.il##.wrap-outbrain
 now14.co.il##.trc_related_container.tbl-feed-card
@@ -1397,6 +1398,7 @@ tgspot.co.il##.td-adspot-title-320
 thecage.co.il##.banner-box
 tiuli.com###header_banner_wrapper
 tmi.maariv.co.il##.cls970x250-1st.tmi-banner-container
+tmi.maariv.co.il##.tmi-article > .cls970x350-1st-top.tmi-banner-container
 totalchat.co.il###PublichVoiceChat
 tvbee.co.il##.slider2.bottom_line_neo
 upf.co.il##.bgbanner
