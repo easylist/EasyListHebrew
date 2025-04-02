@@ -243,7 +243,10 @@ actualic.co.il##.banner-header.banner_ad
 ! * hm-news.co.il * !
 hm-news.co.il###sticky_banner_bottom_desktop
 hm-news.co.il###sticky_banner_bottom_mobile
+! * kore.co.il * !
+||www.kore.co.il/system/ad_manager/get_all_banners$xhr,domain=www.kore.co.il
 ! * hidabroot.org * !
+||ext.hidabroot.org/out/banners.js?webId=$script,domain=www.hidabroot.org
 ||hidabroot.wizzo.stream/storage/2024/*/*/original.mp4|$media,redirect=noopmp4-1s
 ||target.hidabroot.org/ad_manager/get_all_banners$xhr,redirect=nooptext,domain=hidabroot.org
 ! * shvoong.co.il * !
