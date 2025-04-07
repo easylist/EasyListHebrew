@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mTrnUHjcqWamt7yLswf3lA
+! Checksum: rzxOUCV8Cw928ASh3z3Z1Q
 ! Title: EasyList Hebrew
-! Last modified: 07 Apr 2025 01:00 UTC
+! Last modified: 07 Apr 2025 01:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1278,10 +1278,6 @@ mako.co.il##[src="https://img.mako.co.il/2023/03/12/rosh.gif"]
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
 mako.co.il##div[id^="top-strip"]
 mako.co.il##iframe[src*="javascript:document.write('"]
-makorrishon.co.il###bLColumnText.small
-makorrishon.co.il###bRColumnText.small
-makorrishon.co.il##.spacer.leftBox:nth-of-type(2)
-makorrishon.co.il##.tallBanner.spacer
 masa.co.il##.google-ad-links-wrapper
 masa.co.il##.top-firsomet
 mavir.co.il##.adv160_600
@@ -1317,6 +1313,10 @@ news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
 newsnow.co.il##.text-center.adv_mevzakim.adv.callout
 newsnow.co.il##.text-center.adv_posts_top.adv.callout
+nrg-co-il.makorrishon.co.il,www.makorrishon.co.il###bLColumnText.small
+nrg-co-il.makorrishon.co.il,www.makorrishon.co.il###bRColumnText.small
+nrg-co-il.makorrishon.co.il,www.makorrishon.co.il##.spacer.leftBox:nth-of-type(2)
+nrg-co-il.makorrishon.co.il,www.makorrishon.co.il##.tallBanner.spacer
 one.co.il###content3d > [href^="http://pubads.g.doubleclick.net/gampad/clk"]
 one.co.il##.ad-container-bottom-jumbo.ad-container.ad-bg
 one.co.il##.top-4-articles > .one-secondaries-articles > div > #divTicker3D
