@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UpzgLaNvbPAy36X79rv4oQ
+! Checksum: Mn5Mah8H2KtTnaZGaUS7kw
 ! Title: EasyList Hebrew
-! Last modified: 07 Apr 2025 01:16 UTC
+! Last modified: 07 Apr 2025 01:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -783,8 +783,8 @@ zohar-trends.com##*
 @@||holmesplace.co.il/sites/all/modules$domain=holmesplace.co.il
 @@||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js$script,~third-party
 @@||imaot.co.il/Recipe/$xmlhttprequest
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|bizportal.co.il|calcalist.co.il|channel14.web-prd.immergo.tv|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|now14.co.il|one.co.il|sport5.co.il|tech12.co.il|tvbee.co.il|ynet.co.il
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=channel14.web-prd.immergo.tv|now14.co.il
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|bizportal.co.il|c14.co.il|calcalist.co.il|channel14.web-prd.immergo.tv|hamal.co.il|maariv.co.il|mako.co.il|n12.co.il|now14.co.il|one.co.il|sport5.co.il|tech12.co.il|tvbee.co.il|ynet.co.il
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=c14.co.il|channel14.web-prd.immergo.tv|now14.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
@@ -856,6 +856,8 @@ bipbip.co.il#@##printads
 bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
 blms.co.il#@#.addtitle
+c14.co.il,now14.co.il#@##taboola-below-article-thumbnails
+c14.co.il,now14.co.il#@#.share-zone
 callil.co.il#@##AdTop
 holmesplace.co.il#@#.image-advertisement
 homeless.co.il#@#.postad
@@ -865,8 +867,6 @@ junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
 lavender.co.il#@##topAds
 leyada.net#@#.banner-300
-now14.co.il#@##taboola-below-article-thumbnails
-now14.co.il#@#.share-zone
 pitria.com#@#.header-ad
 ynet.co.il#@#.adclass
 ynet.co.il#@#.shareBtn
@@ -1009,6 +1009,7 @@ calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
 13news.co.il,13tv.co.il##.tbl-feed-container
 13news.co.il,13tv.co.il##.trc_rbox_container
 bizportal.co.il###ob-new-video-wrap
+c14.co.il,now14.co.il##.trc_related_container.tbl-feed-card
 fxp.co.il##.OUTBRAIN
 gadgety.co.il###taboola-left-rail-thumbnails
 gadgety.co.il##.OUTBRAIN
@@ -1028,7 +1029,6 @@ maariv.co.il##.right-side-outbrain
 maariv.co.il##.weather-outbrain
 news.walla.co.il##li.outbrain
 news.walla.co.il,sports.walla.co.il##.wrap-outbrain
-now14.co.il##.trc_related_container.tbl-feed-card
 onlife.co.il###cj_taboola_widget-2
 onlife.co.il##.cj_taboola
 radio-israel.org###taboola_div

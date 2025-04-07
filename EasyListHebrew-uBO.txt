@@ -90,7 +90,7 @@ n12.co.il##[box-title="חוק ומשפט"]
 www.mako.co.il##[box-title="Xtra בריאות "]
 ! * NOW14 * !
 !#if env_mobile
-now14.co.il##.fit-banner-size
+c14.co.il,now14.co.il##.fit-banner-size
 !#endif
 ! * Israel Hayom * !
 !#if env_mobile
