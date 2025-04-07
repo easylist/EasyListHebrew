@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rzxOUCV8Cw928ASh3z3Z1Q
+! Checksum: UpzgLaNvbPAy36X79rv4oQ
 ! Title: EasyList Hebrew
-! Last modified: 07 Apr 2025 01:12 UTC
+! Last modified: 07 Apr 2025 01:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1094,6 +1094,7 @@ calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
 calcalist.co.il##[valign="top"] + [valign="top"] + tr[height="7"]
 calendar.2net.co.il##.advertizement
+calendar.2net.co.il##.changeFont.pImage-MG.pImage
 camoni.co.il###top-banner
 camoni.co.il##.article-content-banner
 camoni.co.il##.bannerWrap
