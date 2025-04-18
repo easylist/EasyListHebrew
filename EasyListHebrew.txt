@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 29F5DCwLo47WnP3c/ziblQ
+! Checksum: JSaZaXdVdgtzJp1FnTh6Pg
 ! Title: EasyList Hebrew
-! Last modified: 18 Apr 2025 03:14 UTC
+! Last modified: 18 Apr 2025 03:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1122,6 +1122,8 @@ gadgety.co.il##div[data-adpath^="/"]
 galgalim.co.il##.page_banner
 galgalim.co.il##[class^="google_ad_wrap_"]
 gamepro.co.il##.active.quads-sticky
+games.israelhayom.co.il##.bnr_750
+games.israelhayom.co.il##.bnr_970
 globes.co.il###Globes_Displays
 globes.co.il###jumbo_container.nocontent.topBanner
 globes.co.il##.Banner_in_Content
@@ -1327,6 +1329,9 @@ onlife.co.il##.bottom-50.cj_above_team_banner_desktop
 onlife.co.il##.cj_new_widget_banners_left_long
 onlife.co.il##.persumi-text
 pitria.com##.adcontainer
+play.walla.co.il##.bnr_160
+play.walla.co.il##.bnr_728
+play.walla.co.il##.bnr_970
 portal.takdin.co.il##.resp-mobile-hidden.banner
 posta.co.il###banners-after-flashes
 posta.co.il###banners-below-menu
