@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jSUI5Xr4KZfRZFUsvEHrPw
+! Checksum: EZzpc6X7Cp7Md35bkwring
 ! Title: EasyList Hebrew
-! Last modified: 25 Apr 2025 03:52 UTC
+! Last modified: 25 Apr 2025 03:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -802,7 +802,7 @@ zohar-trends.com##*
 @@||old-games.org^$document
 @@||pagead2.googlesyndication.com/omsdk/$script,domain=ynet.co.il
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=sport5.co.il
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=haaretz.co.il|inn.co.il|isramedia.net|mako.co.il|pc-dev.co.il|pc.co.il|sport5.co.il|themarker.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=haaretz.co.il|inn.co.il|isramedia.net|mako.co.il|n12.co.il|pc-dev.co.il|pc.co.il|sport5.co.il|tech12.co.il|themarker.com|tvbee.co.il
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=pitaronfree.blogspot.co.il|pitaronfree.blogspot.com
 @@||partner.googleadservices.com/gpt/pubads_$script,domain=13news.co.il|13tv.co.il|haaretz.co.il|one.co.il|themarker.com
 @@||pas-rahav.com/creativitys

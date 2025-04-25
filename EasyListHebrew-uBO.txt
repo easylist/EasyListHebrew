@@ -74,9 +74,9 @@ ynet.co.il##^style#yitwall
 !
 ||www.mako.co.il^$important,websocket,1p,domain=www.mako.co.il
 !
-||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2.png,domain=mako.co.il
-||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=mako.co.il
-||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noopjs,important,domain=mako.co.il
+||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2.png,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
+||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
+||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noopjs,important,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
 !
 !#if !env_mobile
 mako.co.il##+js(aopw, upManager)
@@ -84,7 +84,7 @@ mako.co.il##+js(aopw, upManager)
 !#if env_mobile
 www.mako.co.il##+js(aopw, upManager)
 !#endif
-mako.co.il,n12.co.il##+js(no-fetch-if, adsbygoogle)
+mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
 !
 n12.co.il##[box-title="חוק ומשפט"]
 www.mako.co.il##[box-title="Xtra בריאות "]
