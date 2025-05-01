@@ -20,10 +20,15 @@ jobs:
 
       - name: Validate existing checksum
         id: validate_existing_checksum
-        run: python .github/scripts/validateChecksum.py EasyListHebrew.txt
+        continue-on-error: true
+        run: |
+          if ! python .github/scripts/validateChecksum.py EasyListHebrew.txt; then
+            echo "INVALID_CHECKSUM=true" >> $GITHUB_ENV
+          fi
 
       - name: Run checksum update
-        if: ${{ steps.validate_existing_checksum.conclusion == 'failure' }}
+        if: ${{ env.INVALID_CHECKSUM == 'true' }}
+        continue-on-error: true
         id: update_checksum
         run: |
           tmpList=$(mktemp)
@@ -31,6 +36,7 @@ jobs:
           python3 .github/scripts/validateChecksum.py $tmpList
           if [ $? -ne 0 ]; then
             echo "Checksum validation failed after update"
+            echo "OPEN_ISSUE=true" >> $GITHUB_ENV
             exit 1
           fi
           mv -f $tmpList EasyListHebrew.txt
@@ -45,7 +51,7 @@ jobs:
           commit_message: Update Checksum
 
       - name: Create Issue From File
-        if: ${{ failure() }}
+        if: ${{ env.OPEN_ISSUE == 'true' }}
         uses: dacbd/create-issue-action@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
