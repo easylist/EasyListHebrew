@@ -20,38 +20,38 @@ jobs:
 
       - name: Validate existing checksum
         id: validate_existing_checksum
-        run: |
-          python3 .github/scripts/validateChecksum.py EasyListHebrew.txt || echo "bad_checksum=true" >> $GITHUB_ENV
+        run: python .github/scripts/validateChecksum.py EasyListHebrew.txt
 
       - name: Run checksum update
-        if: ${{ env.bad_checksum == 'true' }}
+        if: ${{ steps.validate_existing_checksum.conclusion == 'failure' }}
         id: update_checksum
         run: |
           tmpList=$(mktemp)
           python3 .github/scripts/addChecksum.py EasyListHebrew.txt $tmpList
           python3 .github/scripts/validateChecksum.py $tmpList
-          if [ $? -eq 0 ]; then
-            mv -f $tmpList EasyListHebrew.txt
-          else
+          if [ $? -ne 0 ]; then
             echo "Checksum validation failed after update"
             exit 1
           fi
+          mv -f $tmpList EasyListHebrew.txt
 
       - name: Run genhosts
         id: genhosts
         run: python3 .github/scripts/genhosts.py EasyListHebrew.txt
 
-      - name: Check for changes
-        id: git_status
-        run: |
-          changes=$(git status --porcelain | wc -l)
-          echo "Detected changes: $changes"
-          echo "changes=$changes" >> $GITHUB_OUTPUT
-
       - name: Update EasyListHebrew.txt file
-        if: steps.git_status.outputs.changes != '0'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "actions@github.com"
-          git commit -am "Update Checksum"
-          git push origin HEAD
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Checksum
+
+      - name: Create Issue From File
+        if: ${{ failure() }}
+        uses: dacbd/create-issue-action@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: Checksum failed please fix ASAP
+          assignees: EasyListHebrew, Hebrew-uBO-User
+          body: |
+            The checksum validation and update process failed in the GitHub Action workflow.
+            Please review `EasyListHebrew.txt` and ensure the checksum is correct.
+            [View Workflow Run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
