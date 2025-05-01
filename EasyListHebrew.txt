@@ -1346,6 +1346,7 @@ rateonclick.com###connect
 rateonclick.com##a[href*="campaigns.layer.co.il/"]
 rlive.co.il##.adv-placeholder
 rlive.co.il##.is-only-desktop.ad-container
+yo-yoo.co.il###unit2
 rlive.co.il##.station-middle-ad
 rotter.name##.bookingaff
 rotter.name##a[href*="theadblockerproject.org"]
@@ -1528,7 +1529,6 @@ ynet.co.il##.promolightboxmvc
 ynet.co.il##[class*="MarketingCarousel"]
 ynet.co.il##[class*="PromoLightbox"]
 yo-yoo.co.il###unit1
-yo-yoo.co.il###unit2
 zap.co.il##.BannerBoxNew
 zap.co.il##.Martef
 zap.co.il##.leftSideBanner
