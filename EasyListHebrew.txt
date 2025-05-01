@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EZzpc6X7Cp7Md35bkwring
+! Checksum: 8Cl8zeje6LceyTWhIcOw4g
 ! Title: EasyList Hebrew
-! Last modified: 25 Apr 2025 03:58 UTC
+! Last modified: 01 May 2025 19:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1319,7 +1319,6 @@ nrg-co-il.makorrishon.co.il,www.makorrishon.co.il##.spacer.leftBox:nth-of-type(2
 nrg-co-il.makorrishon.co.il,www.makorrishon.co.il##.tallBanner.spacer
 one.co.il###content3d > [href^="http://pubads.g.doubleclick.net/gampad/clk"]
 one.co.il##.ad-container-bottom-jumbo.ad-container.ad-bg
-walla.co.il##div.ads
 one.co.il##.top-4-articles > .one-secondaries-articles > div > #divTicker3D
 one.co.il##.vod-player-sponsor-image-bottom
 one.co.il##a[class*="one-article-strip"]
@@ -1346,7 +1345,6 @@ rateonclick.com###connect
 rateonclick.com##a[href*="campaigns.layer.co.il/"]
 rlive.co.il##.adv-placeholder
 rlive.co.il##.is-only-desktop.ad-container
-yo-yoo.co.il###unit2
 rlive.co.il##.station-middle-ad
 rotter.name##.bookingaff
 rotter.name##a[href*="theadblockerproject.org"]
@@ -1446,6 +1444,7 @@ walla.co.il##a[href*="jor-el.net"] + img[src^="blob"]
 walla.co.il##a[href*="jor-el.net"] img[src^="blob"]
 walla.co.il##a[href][onmousedown] img[src^="blob"]
 walla.co.il##a[href^="javascript:"] img[src^="blob"]
+walla.co.il##div.ads
 walla.co.il##div[class^="ads-spaces"]
 walla.co.il##div[id^="Fusion_holder"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
@@ -1529,6 +1528,7 @@ ynet.co.il##.promolightboxmvc
 ynet.co.il##[class*="MarketingCarousel"]
 ynet.co.il##[class*="PromoLightbox"]
 yo-yoo.co.il###unit1
+yo-yoo.co.il###unit2
 zap.co.il##.BannerBoxNew
 zap.co.il##.Martef
 zap.co.il##.leftSideBanner
