@@ -1319,6 +1319,7 @@ nrg-co-il.makorrishon.co.il,www.makorrishon.co.il##.spacer.leftBox:nth-of-type(2
 nrg-co-il.makorrishon.co.il,www.makorrishon.co.il##.tallBanner.spacer
 one.co.il###content3d > [href^="http://pubads.g.doubleclick.net/gampad/clk"]
 one.co.il##.ad-container-bottom-jumbo.ad-container.ad-bg
+walla.co.il##div.ads
 one.co.il##.top-4-articles > .one-secondaries-articles > div > #divTicker3D
 one.co.il##.vod-player-sponsor-image-bottom
 one.co.il##a[class*="one-article-strip"]
@@ -1444,7 +1445,6 @@ walla.co.il##a[href*="jor-el.net"] + img[src^="blob"]
 walla.co.il##a[href*="jor-el.net"] img[src^="blob"]
 walla.co.il##a[href][onmousedown] img[src^="blob"]
 walla.co.il##a[href^="javascript:"] img[src^="blob"]
-walla.co.il##div.ads
 walla.co.il##div[class^="ads-spaces"]
 walla.co.il##div[id^="Fusion_holder"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
