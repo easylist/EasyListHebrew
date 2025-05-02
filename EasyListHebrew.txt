@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3EIboy/WmrDDRrsmVAVEGA
+! Checksum: gjXe9WPZwbYFhECQwRTTGg
 ! Title: EasyList Hebrew
-! Last modified: 02 May 2025 06:38 UTC
+! Last modified: 02 May 2025 06:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -722,8 +722,8 @@ zohar-trends.com##*
 @@||themarker.com^$generichide
 @@||weather2day.co.il^$generichide
 !
-@@/^https?:\/+(www\.)?google\.(com?\.)?[a-zA-Z0-9]{2,22}\.?\/ads\/ga-audiences\?/$image,domain=13news.co.il|13tv.co.il
-@@/^https?:\/+adservice\.google\.(com?\.)?[a-zA-Z0-9]{2,22}\.?\/adsid\/integrator.js\?/$script,domain=13news.co.il|13tv.co.il|hamal.co.il|sheee.co.il|walla.co.il|ynet.co.il
+@@/^https?:\/+(www\.)?google\.(com|(com?\.)?[a-zA-Z][a-zA-Z])\.?\/ads\/ga-audiences\?/$image,domain=13news.co.il|13tv.co.il
+@@/^https?:\/+adservice\.google\.(com|(com?\.)?[a-zA-Z][a-zA-Z])\.?\/adsid\/integrator.js\?/$script,domain=13news.co.il|13tv.co.il|hamal.co.il|sheee.co.il|walla.co.il|ynet.co.il
 @@/ads.js?$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/ads.min.js?$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/adunits.$script,~third-party,domain=13news.co.il|13tv.co.il
