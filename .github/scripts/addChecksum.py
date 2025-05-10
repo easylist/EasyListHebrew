@@ -38,7 +38,7 @@ import datetime
 
 checksumRegexp = re.compile(r"^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
 dateRegexp = re.compile(r"^\s*!\s*Last modified[\s\-:]+([\w\+\/=]+).*\n", re.I | re.M)
-
+OPTIONPATTERN = re.compile(r"^(?P<domain>.*)\$(?P<options>~?[\w\-]+(?:=[^,\s]+)?(?:,~?[\w\-]+(?:=[^,\s]+)?)*)$")
 
 def addChecksum(data):
     # Update the last modified date
@@ -117,47 +117,24 @@ def sort_file(data):
                     if not isRegex:
                         isHidingRule = True
                         sep = line.index("#")
-                        url = line[:sep], line[sep:]
+                        url = (line[:sep], line[sep:])
                         spl = url[0].split(",")
                         if len(spl) > 1:
                             spl = sorted(spl)
                         domain = ",".join(spl)
                         line = domain + url[1]
                 if not isHidingRule:
-                    cont = False
-                    if "$domain=" in line or ",domain=" in line:
-                        first = line.find("$")
-                        last = line.rfind("$")
-                        if isRegex:
-                            if last == line.rfind("/") + 1:
-                                if (
-                                    line.rfind("$domain=") == last
-                                    or line.rfind(",domain=") > last
-                                ):
-                                    cont = True
-                        elif first == last != -1:
-                            if "$domain=" in line:
-                                cont = True
-                            else:
-                                if line.rfind(",domain=") > last:
-                                    cont = True
-                    if cont:
-                        sep = line.rfind("$")
-                        url = line[:sep], line[sep + 1 :]
-                        spl = url[1].split(",")
-                        if len(spl) > 1:
-                            spl = sorted(spl, key=lambda x: "domain=" in x)
-                        domain = sorted(spl[-1].split("=")[1].split("|"))
-                        if len(spl) > 1:
-                            line = (
-                                url[0]
-                                + "$"
-                                + ",".join(spl[:-1])
-                                + ",domain="
-                                + "|".join(domain)
-                            )
-                        else:
-                            line = url[0] + "$" + "domain=" + "|".join(domain)
+                    if OPTIONPATTERN.match(line):
+                        url_name = OPTIONPATTERN.match(line).group("domain")
+                        options = OPTIONPATTERN.match(line).group("options")
+                        # sort domains in domain
+                        options = ','.join(sorted(options.split(",")))
+                        options = ','.join(sorted(options.split(","), key=lambda x: x.startswith("~")))
+                        options = sorted(options.split(","), key=lambda x: x.startswith("domain="))
+                        if options[-1].startswith("domain="):
+                            sorted_domains = sorted(options[-1].split("=")[1].split("|"))
+                            options[-1] = "domain=" + "|".join(sorted_domains)
+                        line = url_name + "$" + ",".join(options)
                 lst.append(line + "\n")
     return res.rstrip()
 
