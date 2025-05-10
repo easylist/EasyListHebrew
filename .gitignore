@@ -1,3 +1,5 @@
 /general.txt
 /.project
 .vscode
+node_modules
+dead-domains.txt
