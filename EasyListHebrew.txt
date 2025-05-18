@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aWIW6WUCnrOG4trYEj93nA
+! Checksum: Zxt+doKANXakk3YNa/l7sQ
 ! Title: EasyList Hebrew
-! Last modified: 18 May 2025 21:44 UTC
+! Last modified: 18 May 2025 21:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -316,7 +316,6 @@
 ! * Kipa.co.il * !
 ||kipa.co.il/banner/
 ||kipa.co.il/minisites/go.asp$popup
-||kipasruga.com/banner/
 ||landing.kipa.co.il/?id=$popup
 ||moodaot.kipa.co.il/userFiles/moods/$subdocument
 ! * bhol.co.il * !
@@ -325,7 +324,6 @@
 ||ext.bhol.co.il/
 ! * kikar.co.il * !
 ||a.kikar.co.il/v1/ads
-||kikarhashabat.co.il/data/auto/images/landing_pages_
 ||www.kikar.co.il/a/$subdocument
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
@@ -512,8 +510,6 @@ zohar-trends.com##*
 @@||akamai.advsnx.net^$xmlhttprequest,domain=mako.co.il
 @@||b-share.com/wp-content/*/advertisement.$script,~third-party
 @@||baligam.go2cloud.org^$popup,domain=getitall.co.il
-@@||bhol.co.il/Flash/vaad
-@@||bhol.co.il/imagebank/400x250
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
 @@||callil.co.il/content/Ads/$image,~third-party
@@ -580,7 +576,6 @@ zohar-trends.com##*
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/gpt/$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/tag/js/$script,domain=13news.co.il|13tv.co.il
-@@||sekindo.com/content/pop/SekindoPopunderOverlay-$object,domain=kikar.co.il
 @@||services.haaretz.co.il/games-backend/$xmlhttprequest
 @@||sfx-images.mozilla.org^$image
 @@||sheee.co.il/public/assets/videojsads/videojs-contrib-ads.$stylesheet,~third-party
