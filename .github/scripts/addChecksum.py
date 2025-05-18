@@ -85,7 +85,7 @@ def sort_file(data):
     res = ""
     lst = []
     for line in lines:
-        line = line.strip()
+        line = line.rstrip()
         if (
             line.startswith("!")
             or line == ""
