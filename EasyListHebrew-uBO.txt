@@ -266,6 +266,9 @@ jmusic.me##+js(nostif, mdpDeBlocker)
 !koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
 !koozi.info##.tien-ads-video:style(background: none!important;)
 !
+! * Generic cosmetic filters * !
+###bthn
+!
 ! * openathens.net - Globes / Haaretz / TheMarker * !
 ! * https://github.com/easylist/EasyListHebrew/issues/395 * !
 !
