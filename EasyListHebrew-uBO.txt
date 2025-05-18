@@ -263,8 +263,8 @@ www.shvoong.co.il##.elementor-column-gap-no.elementor-container
 jmusic.me##+js(aopr, mdp_deblocker)
 jmusic.me##+js(nostif, mdpDeBlocker)
 ! * Koozi * !
-koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
-koozi.info##.tien-ads-video:style(background: none!important;)
+!koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
+!koozi.info##.tien-ads-video:style(background: none!important;)
 !
 ! * openathens.net - Globes / Haaretz / TheMarker * !
 ! * https://github.com/easylist/EasyListHebrew/issues/395 * !
