@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Gnv6qZvLDsGnGfYRI8/1kQ
+! Checksum: ApplMo2jvPR2lG7gibwZVA
 ! Title: EasyList Hebrew
-! Last modified: 18 May 2025 01:34 UTC
+! Last modified: 18 May 2025 01:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -933,7 +933,7 @@ inn.co.il###intext-2.sideInf
 inn.co.il###intext-3.sideInf
 inn.co.il###intext-4.sideInf
 inn.co.il###intext-5.sideInf
-inn.co.il###intext-6
+inn.co.il###intext-6.sideInf
 inn.co.il##.banner-BTF_LB.banner
 inn.co.il##.banner-BTF_MPU.banner
 inn.co.il##.banner-BTF_MPU_1.banner
