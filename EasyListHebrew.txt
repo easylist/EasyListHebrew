@@ -836,7 +836,6 @@ bipbip.co.il##.TopBannerDiv
 bizportal.co.il##.adv-article-left-kubia
 bizportal.co.il##.bottom-banner.row
 bizportal.co.il##.promoted_article
-bringthemhomenow.net##.store
 calcalist.co.il###ArticleBanner
 calcalist.co.il###ads\.premium
 calcalist.co.il###carouselAdLi
