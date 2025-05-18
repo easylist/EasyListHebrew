@@ -227,6 +227,7 @@ isramedia.net###wrapper > literal > div
 kipa.co.il###footerBar
 kipa.co.il###fotterBar:style(height: auto !important;)
 !#endif
+||kipa.co.il/userFiles/*/prerolls/*/preroll_*.mp4$media,redirect=noopmp4-1s
 ||kipa.co.il/userFiles/moodaot/*.mp4$media,redirect=noopmp4-1s
 ||moodaot.kipa.co.il^*/*.mp4$media,redirect=noopmp4-1s
 ! * JDN * !
