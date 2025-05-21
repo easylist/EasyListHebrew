@@ -6,8 +6,8 @@ env:
 
 on:
   schedule:
-    # Run the job on every Monday at 8:00 AM UTC
-    - cron: '0 8 * * 1'
+    # Run the job on every month at 8:00 AM UTC
+    - cron: '0 8 1 * *'
   push:
     branches:
       - master
@@ -36,7 +36,7 @@ jobs:
         run: pnpm install
 
       - name: Export dead domains to a file
-        run: pnpm dead-domains-linter --export dead-domains.txt
+        run: pnpm dead-domains-linter -i EasyListHebrew*.txt --export dead-domains.txt
 
       - name: Read dead domains from the file
         id: read-dead-domains
