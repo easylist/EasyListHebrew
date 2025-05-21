@@ -38,7 +38,6 @@
 0.0.0.0 browsiprod.com
 0.0.0.0 bumbalu-israel.com
 0.0.0.0 carsguys.co.il
-0.0.0.0 cdn.mdigital.co.il
 0.0.0.0 cglms.com
 0.0.0.0 clickon.co.il
 0.0.0.0 clmbtrk.com
@@ -98,7 +97,6 @@
 0.0.0.0 losittooday.info
 0.0.0.0 lp.playsmart.co.il
 0.0.0.0 lyplay.net
-0.0.0.0 madas-ads.securest.org
 0.0.0.0 makelove.co.il
 0.0.0.0 mashrokit.info
 0.0.0.0 maskoter.com
