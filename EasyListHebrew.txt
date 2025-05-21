@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3vEJ5G1mGI4tVID6d28nPA
+! Checksum: QhA7sU6DHHyNwoYKxmVR4Q
 ! Title: EasyList Hebrew
-! Last modified: 21 May 2025 14:32 UTC
+! Last modified: 21 May 2025 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -639,6 +639,7 @@ doublepass.sport5.co.il###top_banners_mobile_place2
 doublepass.sport5.co.il##.banner_in
 foodik.co.il##.sticky-banner.banner-con
 hashulchan.co.il##.banner-placeholder-hashulchan
+infomed.co.il##.footer-banner-container
 israelhayom.co.il##.adunit.ih-adunit
 kipa.co.il##.mood_mobileweb.mood300-250.mood
 kipa.co.il##[id^="p__"][id$="_kipa_mobile_native_kipa_mobile_native_1"]
@@ -762,6 +763,7 @@ inn.co.il##.article-taboola
 inn.co.il##.taboola
 inn.co.il##.taboola-top
 isramedia.net##.OUTBRAIN
+kikar.co.il##[class*=".ob-widget-header"]
 maariv.co.il##.OUTBRAIN
 maariv.co.il##.article-5-outbrain-script
 maariv.co.il##.article-9-outbrain-script
@@ -950,6 +952,8 @@ jobmaster.co.il###leftBanner
 jobmaster.co.il###rightBanner
 junkyard.co.il##.plasma_banner
 junkyard.co.il##div[id^="banner"]
+kikar.co.il##div.md\:block.hidden > .\[\&_iframe\]\:rounded.dark\:bg-gray-900.bg-gray-100.py-3.border-border.border-b.justify-center.flex.mx-auto.align-center.z-10.relative.text-center
+kikar.co.il##div.md\:block.hidden > .justify-center.flex.\[\&_iframe\]\:overflow-hidden.\[\&_iframe\]\:rounded.border-border.border-b.p-3.z-10.relative.text-center
 kipa.co.il###innerMoodaa2
 kipa.co.il###mekodam
 kipa.co.il##.Ozen300
