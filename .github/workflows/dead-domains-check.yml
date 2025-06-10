@@ -36,7 +36,7 @@ jobs:
         run: pnpm install
 
       - name: Export dead domains to a file
-        run: pnpm dead-domains-linter -i EasyListHebrew*.txt --export dead-domains.txt
+        run: pnpm dead-domains-linter -i EasyListHeb*.txt --export dead-domains.txt
 
       - name: Read dead domains from the file
         id: read-dead-domains
