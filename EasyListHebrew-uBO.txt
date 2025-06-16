@@ -216,6 +216,7 @@ rotter.net###wrapper > .ads
 rotter.net###taboola-below-article-thumbnails
 !#endif
 rotter.net##[href^="https://www.booking.com/index.html?aid="]
+rotter.net##[href^="https://landing.magenexperts.co.il/lp-disability"]
 rotter.net##[href="https://www.kalish-fin.com/y"]
 rotter.net##[href="https://sales22.telekol.co.il/"]
 rotter.net##[href="https://bit.ly/3JbFKqV"]
