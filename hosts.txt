@@ -6,7 +6,6 @@
 0.0.0.0 a.walla.co.il
 0.0.0.0 activated.co.il
 0.0.0.0 activated.digital
-0.0.0.0 activetrail.biz
 0.0.0.0 adland.co.il
 0.0.0.0 ads.one.co.il
 0.0.0.0 adserv.mako.co.il

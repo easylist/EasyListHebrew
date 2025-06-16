@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lcHAhbZVF/PizFprFxdGXg
+! Checksum: V2QugkVFm7MxztTra8BChQ
 ! Title: EasyList Hebrew
-! Last modified: 16 Jun 2025 15:28 UTC
+! Last modified: 16 Jun 2025 15:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -28,7 +28,6 @@
 !
 ||213.8.137.51^
 ||activated.co.il^$third-party
-||activetrail.biz^$third-party
 ||adland.co.il^$third-party
 ||browsiprod.com^$third-party
 ||clickon.co.il^$third-party
@@ -55,7 +54,6 @@
 ||213.8.137.51^$popup,third-party
 ||3dots.co.il^$third-party,domain=~maple-team.com
 ||activated.digital^$popup,third-party
-||activetrail.biz^$popup,third-party
 ||adland.co.il^$popup,third-party
 ||adson.biz^$popup,third-party
 ||adventuredigital.co.il^$popup,third-party
