@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 59aQFm53jg5VKJLdjT1Q8g
+! Checksum: f/0jkRLckPPylRns+FScmg
 ! Title: EasyList Hebrew
-! Last modified: 16 Jun 2025 15:37 UTC
+! Last modified: 16 Jun 2025 15:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -13,14 +13,14 @@
 ! in the forum: https://github.com/easylist/EasyListHebrew/issues
 ! or via email: easylisthebrew@gmail.com
 !
-!    EasyList Hebrew works best on uBlock Origin.
-!  ---===     https://ublockorigin.com/     ===---
-!       Free, open-source ad content blocker.
-!            Easy on CPU and memory.
-!      Available for Firefox, Edge, and Opera.
+!           EasyList Hebrew works best on uBlock Origin.
+! --==  https://github.com/gorhill/uBlock/blob/master/README.md  ==--
+!              Free, open-source ad content blocker.
+!                  Easy on CPU and memory.
+!             Available for Firefox, Edge, and Opera.
 !
-!   If you're using Chrome, you can use uBlock Origin Lite.
-!  Choose Optimal or Complete as the default filtering mode.
+!      If you're using Chrome, you can use uBlock Origin Lite.
+!     Choose Optimal or Complete as the default filtering mode.
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
