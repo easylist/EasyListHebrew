@@ -67,7 +67,7 @@ ynet.co.il##+js(no-fetch-if, adsbygoogle)
 !
 !#if env_mobile
 ynet.co.il##^style#yitwall
-@@||yitlivevid.mmdlive.lldns.net/yitlivevid/*.m3u8$media,domain=ynet.co.il
+@@||lldns.net/yitlivevid/*.m3u8$media,domain=ynet.co.il
 !#endif
 ! * mako * !
 |blob:$~script,important,domain=www.mako.co.il
