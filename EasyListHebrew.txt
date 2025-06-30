@@ -1282,7 +1282,7 @@ zap.co.il##.leftSideBanner
 !
 !------------------------------ABP-specific rules-----------------------------!
 !
-#if !ext_ublock
+!#if !ext_ublock
 *$webrtc,domain=13news.co.il|13tv.co.il|calcalist.co.il|globes.co.il|mako.co.il|walla.co.il|yad2.co.il|ynet.co.il
 !#endif
 !
