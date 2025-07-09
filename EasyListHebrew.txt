@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Sd24eT1OsLA90OcG1y88Cg
+! Checksum: ahA8eshMYJ+sWjMQH25HWw
 ! Title: EasyList Hebrew
-! Last modified: 30 Jun 2025 09:17 UTC
+! Last modified: 09 Jul 2025 06:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -443,8 +443,8 @@ zohar-trends.com##*
 ||hasdarot.xyz^
 ||isdarot.com^
 ||losittooday.info^
-||plushome.co.il^
 ||pinukim.net^
+||plushome.co.il^
 ||sdarot-il.org^
 ||sdarot-tv.org^
 ||sdarot.cc^

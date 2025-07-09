@@ -124,6 +124,7 @@
 0.0.0.0 pigment-adv.co.il
 0.0.0.0 pinukim.net
 0.0.0.0 pisrael.com
+0.0.0.0 plushome.co.il
 0.0.0.0 premium-offers.space
 0.0.0.0 quick-date.xyz
 0.0.0.0 rateonclick.com
@@ -141,6 +142,7 @@
 0.0.0.0 sortie-shop.com
 0.0.0.0 sprawley.com
 0.0.0.0 srvjar.com
+0.0.0.0 storyshop.co.il
 0.0.0.0 streamin.to
 0.0.0.0 stylebox.co.il
 0.0.0.0 talkahead.com
