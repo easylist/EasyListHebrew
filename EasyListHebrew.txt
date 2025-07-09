@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ahA8eshMYJ+sWjMQH25HWw
+! Checksum: fjExabnvw/BTy3IsHJoWng
 ! Title: EasyList Hebrew
-! Last modified: 09 Jul 2025 06:13 UTC
+! Last modified: 09 Jul 2025 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1125,6 +1125,7 @@ sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1
 sheva7.co.il##.desktop-display > .maavaron
 shironet.mako.co.il###playerAdArea
 shmua.com##.adsbygoogle
+shop.super-pharm.co.il##.item-box-link:has(.mabaya-disclaimer)
 sponser.co.il###unit_300x250_bottom
 sponser.co.il###unit_300x250_top
 sponser.co.il##.s-mb-l.gpt-slot
@@ -1283,6 +1284,7 @@ yo-yoo.co.il###unit2
 zap.co.il##.BannerBoxNew
 zap.co.il##.Martef
 zap.co.il##.leftSideBanner
+
 !
 !------------------------------ABP-specific rules-----------------------------!
 !
