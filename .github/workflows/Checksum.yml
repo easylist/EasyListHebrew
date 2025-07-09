@@ -34,18 +34,19 @@ jobs:
           tmpList=$(mktemp)
           python3 .github/scripts/addChecksum.py EasyListHebrew.txt $tmpList
           python3 .github/scripts/validateChecksum.py $tmpList
-          if [ $? -ne 0 ]; then
+          if [ $? -eq 0 ]; then
+            mv -f $tmpList EasyListHebrew.txt
+            echo "OPEN_ISSUE=false" >> $GITHUB_ENV
+          else
             echo "Checksum validation failed after update"
             echo "OPEN_ISSUE=true" >> $GITHUB_ENV
-            exit 1
           fi
-          mv -f $tmpList EasyListHebrew.txt
-
       - name: Run genhosts
         id: genhosts
         run: python3 .github/scripts/genhosts.py EasyListHebrew.txt
 
       - name: Update EasyListHebrew.txt file
+        if: ${{ env.OPEN_ISSUE == 'false' }}
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: Update Checksum

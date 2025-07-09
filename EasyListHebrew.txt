@@ -416,12 +416,14 @@ noya-il.com##*
 ofnatlevi-il.com##*
 orenthelabel.com##*
 pinukim.net##*
+plushome.co.il##*
 sdarot-il.org##*
 sdarot-tv.org##*
 sdarot.cc##*
 seret.live##*
 shahar-il.com##*
 sortie-shop.com##*
+storyshop.co.il##*
 stylebox.co.il##*
 tvfeel.cc##*
 twobluedeer.com##*
@@ -442,10 +444,12 @@ zohar-trends.com##*
 ||isdarot.com^
 ||losittooday.info^
 ||pinukim.net^
+||plushome.co.il^
 ||sdarot-il.org^
 ||sdarot-tv.org^
 ||sdarot.cc^
 ||seret.live^
+||storyshop.co.il^
 ||tvfeel.cc^
 !
 !----------------------Whitelists to fix broken sites-------------------------!
@@ -1284,7 +1288,9 @@ zap.co.il##.leftSideBanner
 !
 !------------------------------ABP-specific rules-----------------------------!
 !
+!#if !ext_ublock
 *$webrtc,domain=13news.co.il|13tv.co.il|calcalist.co.il|globes.co.il|mako.co.il|walla.co.il|yad2.co.il|ynet.co.il
+!#endif
 !
 !---------------------Integration list with uBlock Origin---------------------!
 !
