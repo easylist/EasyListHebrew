@@ -416,12 +416,14 @@ noya-il.com##*
 ofnatlevi-il.com##*
 orenthelabel.com##*
 pinukim.net##*
+plushome.co.il##*
 sdarot-il.org##*
 sdarot-tv.org##*
 sdarot.cc##*
 seret.live##*
 shahar-il.com##*
 sortie-shop.com##*
+storyshop.co.il##*
 stylebox.co.il##*
 tvfeel.cc##*
 twobluedeer.com##*
@@ -441,11 +443,13 @@ zohar-trends.com##*
 ||hasdarot.xyz^
 ||isdarot.com^
 ||losittooday.info^
+||plushome.co.il^
 ||pinukim.net^
 ||sdarot-il.org^
 ||sdarot-tv.org^
 ||sdarot.cc^
 ||seret.live^
+||storyshop.co.il^
 ||tvfeel.cc^
 !
 !----------------------Whitelists to fix broken sites-------------------------!
