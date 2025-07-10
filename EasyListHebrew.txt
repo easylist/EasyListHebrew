@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7OD1TxykJmLukyE77R43Ng
+! Checksum: vNHj7nyDmTqn0REzhlJgcA
 ! Title: EasyList Hebrew
-! Last modified: 10 Jul 2025 17:50 UTC
+! Last modified: 10 Jul 2025 17:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -677,7 +677,6 @@ m.one.co.il##[id*="_ucAdArticleAfterCategory_"]
 m.one.co.il##[id*="_ucAdMiddleArticle_"]
 m.sponser.co.il##.gpt-slot
 m.sport5.co.il##.ad
-m.sport5.co.il##[id^="div-gpt-ad-"]
 mivzakim.net##.adcontainer
 mobile.mako.co.il##.adArticle
 mobile.mako.co.il##.adv
@@ -1145,6 +1144,7 @@ sport5.co.il##[href="http://www.mako.co.il"]
 sport5.co.il##[href="https://www.mako.co.il"]
 sport5.co.il##[href^="https://www.mako.co.il/"][href$="&utm_source=sport5&utm_medium=RSS"]
 sport5.co.il##[id*="_ucMako_rptPosts_ancLink_"]
+sport5.co.il##[id^="div-gpt-ad-"]
 sport5.co.il##[onclick*="hpClickEvent('mako');"]
 sport5.co.il##[src^="https://meitavads-"]
 sports.walla.co.il##.type-2.common-hp-articles.sequence
