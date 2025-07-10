@@ -416,6 +416,7 @@ noya-il.com##*
 ofnatlevi-il.com##*
 orenthelabel.com##*
 pinukim.net##*
+play.milly-style.co.il##*
 plushome.co.il##*
 sdarot-il.org##*
 sdarot-tv.org##*
@@ -444,6 +445,7 @@ zohar-trends.com##*
 ||isdarot.com^
 ||losittooday.info^
 ||pinukim.net^
+||play.milly-style.co.il^
 ||plushome.co.il^
 ||sdarot-il.org^
 ||sdarot-tv.org^
