@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FIEMVgJDmVQyIuYRKWB9tg
+! Checksum: 7OD1TxykJmLukyE77R43Ng
 ! Title: EasyList Hebrew
-! Last modified: 10 Jul 2025 17:48 UTC
+! Last modified: 10 Jul 2025 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -858,6 +858,7 @@ davar1.co.il##.banner-top-wrap
 doublepass.sport5.co.il##.banner_right
 doublepass.sport5.co.il##.banner_right_160x100_wrap
 e-med.co.il##.OneColumnsDoubleBanner
+easy.co.il##.ad.gbox.biz-card-item
 easy.co.il##.biz-item-box:has(.biz-item-modaa)
 easy.co.il##.pirsomet-header
 forum.lametayel.co.il##.textlinks_wide.textlinks
