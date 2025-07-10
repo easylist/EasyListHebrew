@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@adguard/dead-domains-linter':
-        specifier: ^1.0.22
-        version: 1.0.22
+        specifier: ^1.0.28
+        version: 1.0.28
 
 packages:
 
@@ -25,8 +25,8 @@ packages:
   '@adguard/css-tokenizer@1.2.0':
     resolution: {integrity: sha512-cUj5j/AU5z/T4//5M6KnIJBpykAY4QbDsoiQ2DaWX/r2XkepMkTb8DhIbUHJD/QLGEyLeQLpi+nlxAgf4NTRRQ==}
 
-  '@adguard/dead-domains-linter@1.0.22':
-    resolution: {integrity: sha512-SuAayg6YG0zNNRKGe2dVv4l5zWyt1vYmp2hkSNSru1FsalvvWZrjzbwWBFzY5gv9pr7LyNEyrgpZLvRwmTzbFA==}
+  '@adguard/dead-domains-linter@1.0.28':
+    resolution: {integrity: sha512-r5+vd4FGRulby22j9sWFt25WE7hmtrKp4Xq2ya50mu7oluENCRhqPvbOSHXETSgVxTZGHHO6djuaqG0eZXD9hA==}
     engines: {node: '>=18'}
     hasBin: true
 
@@ -340,7 +340,7 @@ snapshots:
 
   '@adguard/css-tokenizer@1.2.0': {}
 
-  '@adguard/dead-domains-linter@1.0.22':
+  '@adguard/dead-domains-linter@1.0.28':
     dependencies:
       '@adguard/agtree': 1.1.8
       consola: 3.2.3
