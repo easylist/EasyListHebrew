@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hlWPtu8c5N1roYtq6uUxnw
+! Checksum: FIEMVgJDmVQyIuYRKWB9tg
 ! Title: EasyList Hebrew
-! Last modified: 10 Jul 2025 17:46 UTC
+! Last modified: 10 Jul 2025 17:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -932,6 +932,7 @@ inn.co.il##.banner-BTF_MPU_1.banner
 inn.co.il##.banner-story.banner
 inn.co.il##.banner-top
 inn.co.il##.banner.forecast-aside-banner
+inn.co.il##.done.ForumMessageInf.ForumTopic
 inn.co.il##[id^="banner_"]
 isport.co.il##.custom-position.fixed.active.pum-position-fixed.size-custom.theme-33016.popmake.pum-container
 isport.co.il##[href="https://www.bankhapoalim.co.il/he/loans/postpone-loan"]
