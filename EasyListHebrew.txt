@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vNHj7nyDmTqn0REzhlJgcA
+! Checksum: 0Zo1GblINmBa8KZ6AfmWoQ
 ! Title: EasyList Hebrew
-! Last modified: 10 Jul 2025 17:54 UTC
+! Last modified: 10 Jul 2025 17:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -20,7 +20,9 @@
 !             Available for Firefox, Edge, and Opera.
 !
 !      If you're using Chrome, you can use uBlock Origin Lite.
-!     Choose Optimal or Complete as the default filtering mode.
+!     Choose OPTIMAL or COMPLETE as the default filtering mode.
+!
+!      Android users can use uBlock Origin on Firefox or Edge.
 !
 !--------------------------3rd party blocking rules---------------------------!
 !
