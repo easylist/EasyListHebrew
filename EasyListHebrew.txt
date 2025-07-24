@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: eNaxbzVpNS6GkAUtzBn6lA
+! Checksum: rEUYyz5IcMcXezEk8KBNAw
 ! Title: EasyList Hebrew
-! Last modified: 24 Jul 2025 10:42 UTC
+! Last modified: 24 Jul 2025 10:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -769,6 +769,7 @@ inn.co.il##.article-taboola
 inn.co.il##.taboola
 inn.co.il##.taboola-top
 isramedia.net##.OUTBRAIN
+kan.org.il##.taboola-recommendations-section
 kikar.co.il##[class*=".ob-widget-header"]
 maariv.co.il##.OUTBRAIN
 maariv.co.il##.article-5-outbrain-script
