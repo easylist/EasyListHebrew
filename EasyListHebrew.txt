@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rEUYyz5IcMcXezEk8KBNAw
+! Checksum: IAH18/Vk277CFWvT4gnk7w
 ! Title: EasyList Hebrew
-! Last modified: 24 Jul 2025 10:44 UTC
+! Last modified: 24 Jul 2025 10:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1020,6 +1020,9 @@ mail.walla.co.il##div[data-ads-space]
 maka.co.il##.leftBanner
 maka.co.il##.midBanner
 maka.co.il##.rightBanner
+mako.co.il###CM8ShowAd_MONSTER1_300X250
+mako.co.il###CM8ShowAd_MONSTER2_300X250
+mako.co.il###CM8ShowAd_MONSTER3_300X250
 mako.co.il###ZA_CAMP_BG
 mako.co.il###ZA_CAMP_CONTAINER
 mako.co.il###ZA_CAMP_SLIDEIN_CONTAINER
@@ -1229,6 +1232,7 @@ www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
 www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
 www.lametayel.co.il##.overflow-hidden.mx-auto.banner-outer-wrapper
 www.lametayel.co.il##.w-full.header-banner-wrapper
+www.mako.co.il##.Poster_root__0MfQk
 www.mako.co.il##.clearer.scale_image.mako_feed_neo.ver2.part2
 www.mako.co.il##.h033Desktop_root__ZgE9t
 www.mako.co.il##.poster_root__Tp4J_
