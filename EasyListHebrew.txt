@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0NtDzpDjg+W6xMrQiynWIw
+! Checksum: CcXDfnj6hoJUGaLsCz0IIw
 ! Title: EasyList Hebrew
-! Last modified: 10 Aug 2025 09:58 UTC
+! Last modified: 10 Aug 2025 10:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1091,6 +1091,7 @@ one.co.il##a[class*="one-article-strip"]
 onlife.co.il##.bottom-50.cj_above_team_banner_desktop
 onlife.co.il##.cj_new_widget_banners_left_long
 onlife.co.il##.persumi-text
+passportnews.co.il###fullpage_bnr
 passportnews.co.il##[src^="https://media.passportnews.co.il/media/Modules/Banners/"]
 pitria.com##.adcontainer
 play.walla.co.il##.bnr_160
