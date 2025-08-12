@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bAS/SDNvr7fJFUJa+BFlCA
+! Checksum: kKmTNS2yQwx8PHnwrmV63A
 ! Title: EasyList Hebrew
-! Last modified: 12 Aug 2025 18:30 UTC
+! Last modified: 12 Aug 2025 18:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -656,6 +656,7 @@ camoni.co.il##.bannerWrapMobileBottom
 doublepass.sport5.co.il###top_banners_mobile_place2
 doublepass.sport5.co.il##.banner_in
 foodik.co.il##.sticky-banner.banner-con
+games.israelhayom.co.il##.mobile.bnr_250
 hashulchan.co.il##.banner-placeholder-hashulchan
 infomed.co.il##.footer-banner-container
 israelhayom.co.il##.adunit.ih-adunit
