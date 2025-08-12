@@ -25,7 +25,6 @@
 !           Ad-free, privacy friendly and open source.
 !      --==   https://github.com/TeamNewPipe/NewPipe    ==--
 !
-!
 !       Increase your privacy and security by enabling
 !        DNS over HTTPS (DoH) in your browser settings.
 !        https://en.wikipedia.org/wiki/DNS_over_HTTPS

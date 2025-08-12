@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ctM6V4w9Q2ZfYNIszX1zug
+! Checksum: qlrGAsN0RT533qApvXUr5A
 ! Title: EasyList Hebrew
-! Last modified: 12 Aug 2025 18:22 UTC
+! Last modified: 12 Aug 2025 18:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -27,7 +27,6 @@
 !     NewPipe - The lightweight YouTube experience for Android.
 !           Ad-free, privacy friendly and open source.
 !      --==   https://github.com/TeamNewPipe/NewPipe    ==--
-!
 !
 !       Increase your privacy and security by enabling
 !        DNS over HTTPS (DoH) in your browser settings.
