@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qlrGAsN0RT533qApvXUr5A
+! Checksum: bAS/SDNvr7fJFUJa+BFlCA
 ! Title: EasyList Hebrew
-! Last modified: 12 Aug 2025 18:28 UTC
+! Last modified: 12 Aug 2025 18:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -789,8 +789,6 @@ maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.may-interest-you
 maariv.co.il##.right-side-outbrain
 maariv.co.il##.weather-outbrain
-news.walla.co.il##li.outbrain
-news.walla.co.il,sports.walla.co.il##.wrap-outbrain
 onlife.co.il###cj_taboola_widget-2
 onlife.co.il##.cj_taboola
 radio-israel.org###taboola_div
@@ -803,6 +801,8 @@ sport5.co.il##.tbl-feed-container
 sport5.co.il##.trc_rbox_container
 stips.co.il##.t-recommendations-area
 walla.co.il##.ob-taste-left
+walla.co.il##.wrap-outbrain
+walla.co.il##li.outbrain
 ynet.co.il###taboola-video-reel-mid-article
 ynet.co.il##.MultiArticleTaboola.layoutItem
 ynet.co.il##.Taboola.layoutItem
