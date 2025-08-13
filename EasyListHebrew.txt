@@ -432,6 +432,7 @@ orenthelabel.com##*
 pinukim.net##*
 play.milly-style.co.il##*
 plushome.co.il##*
+prog.co.il##*
 sdarot-il.org##*
 sdarot-tv.org##*
 sdarot.cc##*
