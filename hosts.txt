@@ -127,7 +127,6 @@
 0.0.0.0 play.milly-style.co.il
 0.0.0.0 plushome.co.il
 0.0.0.0 premium-offers.space
-0.0.0.0 prog.co.il
 0.0.0.0 quick-date.xyz
 0.0.0.0 rateonclick.com
 0.0.0.0 regi.tech

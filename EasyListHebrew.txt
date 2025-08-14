@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Vd409groyBae/heGBvtXkQ
+! Checksum: WcmPZAXvw2irm8Y4GLps+g
 ! Title: EasyList Hebrew
-! Last modified: 13 Aug 2025 18:51 UTC
+! Last modified: 14 Aug 2025 18:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -432,7 +432,6 @@ orenthelabel.com##*
 pinukim.net##*
 play.milly-style.co.il##*
 plushome.co.il##*
-prog.co.il##*
 sdarot-il.org##*
 sdarot-tv.org##*
 sdarot.cc##*
