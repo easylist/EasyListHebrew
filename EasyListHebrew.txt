@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fass2OI7i7Br8DPfobnNww
+! Checksum: zMouA+KEcDDxEN4Xa8DARw
 ! Title: EasyList Hebrew
-! Last modified: 24 Aug 2025 13:08 UTC
+! Last modified: 24 Aug 2025 13:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -81,6 +81,7 @@
 ||azadv.co.il^$popup,third-party
 ||best-offers.co.il^$popup,third-party
 ||blanco-adv.co.il^$popup,third-party
+||bringthemhomenow.net^$script,third-party,domain=~www-bringthemhomenow-online.filesusr.com
 ||clickon.co.il^$popup,third-party
 ||gim.co.il^$popup,third-party
 ||gin.co.il^$popup,third-party
