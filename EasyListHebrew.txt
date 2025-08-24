@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UsnVPyZ/oPL/6yYqZE0RVg
+! Checksum: vaMelC5Izol/h5L0dhSh9A
 ! Title: EasyList Hebrew
-! Last modified: 24 Aug 2025 12:54 UTC
+! Last modified: 24 Aug 2025 13:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -12,6 +12,8 @@
 ! Please report any unblocked adverts or problems
 ! in the forum: https://github.com/easylist/EasyListHebrew/issues
 ! or via email: easylisthebrew@gmail.com
+!
+!-----------------------------------------------------------------------------!
 !
 !           EasyList Hebrew works best on uBlock Origin.
 ! --==  https://github.com/gorhill/uBlock/blob/master/README.md  ==--
