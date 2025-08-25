@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: f8sFN2OmYnDm9nxlYDE2WA
+! Checksum: 1G81OaJDWcw9Cl4ZqzQfnQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Aug 2025 15:46 UTC
+! Last modified: 25 Aug 2025 15:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -348,6 +348,9 @@
 ||my.yad2.co.il/Banner/
 ||my.yad2.co.il/dfpV3/script/DesktopMediaManager.js
 ||yad2.co.il/js-new/blockPirsum.js
+! * News1 * !
+||banners.news1.co.il^
+||banners.news1.co.il^$popup
 ! * Bizportal * !
 ||www.bizportal.co.il^$websocket,~third-party,domain=www.bizportal.co.il
 !
@@ -368,8 +371,6 @@
 !
 !--------------------------1st party blocking rules---------------------------!
 !
-||banners.news1.co.il^
-||banners.news1.co.il^$popup
 ||beaverscripts.com/openwindow.js
 ||bladna.co.il/Public/flash/
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
