@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oinXh/pYKz4OS60L9wKPTQ
+! Checksum: Nzv3/ge/bhvzGvbqqOFiLg
 ! Title: EasyList Hebrew
-! Last modified: 03 Sep 2025 15:24 UTC
+! Last modified: 03 Sep 2025 15:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -678,7 +678,9 @@ m.isramedia.net##.g-ad-label
 m.maariv.co.il###a_sticky_test
 m.maariv.co.il##.banner-div-gpt-250
 m.maariv.co.il##.cls300x250.mm-banner-container
+m.maariv.co.il##.cls320x50.mm-banner-container
 m.maariv.co.il##.cls393x163.mm-banner-container
+m.maariv.co.il##.div-mb-37
 m.maariv.co.il##.mm-promo-content-active
 m.maariv.co.il,tmi.maariv.co.il##.king-banner
 m.n12.co.il###CM8ShowAd_MOBILE_MONSTER1_300X250
