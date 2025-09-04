@@ -591,6 +591,7 @@ zohar-trends.com##*
 @@||s.vi-serve.com/tagLoader.js$script,domain=bizportal.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/gpt/$script,domain=13news.co.il|13tv.co.il|nifgashim.net
+@@||securepubads.g.doubleclick.net/pagead/managed/$domain=13news.co.il|13tv.co.il
 @@||securepubads.g.doubleclick.net/tag/js/$script,domain=13news.co.il|13tv.co.il
 @@||services.haaretz.co.il/games-backend/$xmlhttprequest
 @@||sfx-images.mozilla.org^$image
