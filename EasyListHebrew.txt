@@ -402,6 +402,7 @@ briut-chai.com##*
 bumbalu-israel.com##*
 carsguys.co.il##*
 cohenza-il.com##*
+israeljobstoday.com##*
 ezra-il.com##*
 faceu.us##*
 gbuzz.net##*
@@ -462,6 +463,7 @@ zohar-trends.com##*
 ||hasdarot.vip^
 ||hasdarot.xyz^
 ||isdarot.com^
+||israeljobstoday.com^
 ||losittooday.info^
 ||pinukim.net^
 ||play.milly-style.co.il^
