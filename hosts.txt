@@ -83,6 +83,7 @@
 0.0.0.0 imitrk.com
 0.0.0.0 ineed2fuck.com
 0.0.0.0 isdarot.com
+0.0.0.0 israeljobstoday.com
 0.0.0.0 kelocote.prpl.co.il
 0.0.0.0 kooduu.com
 0.0.0.0 landing-page.mobi
