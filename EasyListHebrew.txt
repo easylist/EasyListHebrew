@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +oEl7JO6tH4u4GIcJz1QDw
+! Checksum: uTAODWf9di7MsZr5KkVJLQ
 ! Title: EasyList Hebrew
-! Last modified: 11 Sep 2025 21:23 UTC
+! Last modified: 12 Sep 2025 13:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -690,6 +690,7 @@ m.n12.co.il###CM8ShowAd_MOBILE_MONSTER1_300X250
 m.n12.co.il###CM8ShowAd_MOBILE_MONSTER2_300X250
 m.n12.co.il###CM8ShowAd_MOBILE_MONSTER3_300X250
 m.n12.co.il###MEDIUM_BANNER
+m.n12.co.il###MEDIUM_BANNER_1
 m.n12.co.il##.advertisingitem
 m.n12.co.il##.textadvertisingitem
 m.n12.co.il##[href^="https://mobile.mako.co.il/news-law_guide"]
@@ -705,6 +706,7 @@ m.sport5.co.il##.ad
 mivzakim.net##.adcontainer
 mobile.mako.co.il##.adArticle
 mobile.mako.co.il##.adv
+mobile.mako.co.il,www.mako.co.il##[class^="Maavaron_root"]
 mobile.srugim.co.il##[class^="Banner_Wrap"]
 mynet.co.il##.MynetHeaderMobileComponenta
 podcastim.org.il##.ad-title
@@ -730,7 +732,6 @@ walla.co.il##div.center-bottom[data-slot-name="nickbar_phone"]
 www.mako.co.il##.h1MainItemMobile_root__29M_o
 www.mako.co.il##.h1Mobile_root__6UWJ2
 www.mako.co.il##.v05Mobile_root__Uad3G
-www.mako.co.il##[class^="Maavaron_root"]
 www.rlive.co.il##.block.md\:hidden.w-full.max-h-\[280px\].h-\[280px\]
 www.rlive.co.il##.mb-4.md\:hidden.block.max-h-\[60px\].h-\[60px\].is-container
 www.rlive.co.il##.md\:hidden.block.my-8.is-container.w-full.max-h-\[280px\].h-\[280px\]
