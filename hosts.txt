@@ -155,7 +155,6 @@
 0.0.0.0 totalmedia2.ynet.co.il
 0.0.0.0 tracknotify.com
 0.0.0.0 trustmedia.co.il
-0.0.0.0 try-smiley.com
 0.0.0.0 tvfeel.cc
 0.0.0.0 twobluedeer.com
 0.0.0.0 unbouncepages.com
