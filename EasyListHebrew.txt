@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6dz0wWH1TcX9tnPInW3Wiw
+! Checksum: BiHt+QyegpljDr7rxNvHxA
 ! Title: EasyList Hebrew
-! Last modified: 18 Sep 2025 22:51 UTC
+! Last modified: 18 Sep 2025 23:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -448,8 +448,8 @@ shahar-il.com##*
 sortie-shop.com##*
 storyshop.co.il##*
 stylebox.co.il##*
-tvfeel.cc##*
 try-smiley.com##*
+tvfeel.cc##*
 twobluedeer.com##*
 usbuzz.net##*
 votladora.com##*
