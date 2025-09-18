@@ -448,7 +448,6 @@ shahar-il.com##*
 sortie-shop.com##*
 storyshop.co.il##*
 stylebox.co.il##*
-try-smiley.com##*
 tvfeel.cc##*
 twobluedeer.com##*
 usbuzz.net##*
@@ -476,6 +475,9 @@ zohar-trends.com##*
 ||sdarot.cc^
 ||seret.live^
 ||storyshop.co.il^
+||try-*.com/checkouts$document
+||try-*.com/collections$document
+||try-*.com/products$document
 ||tvfeel.cc^
 !
 !----------------------Whitelists to fix broken sites-------------------------!
