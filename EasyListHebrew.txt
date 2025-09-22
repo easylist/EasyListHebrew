@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: c84PR0DTANdF6xe0jY5eqA
+! Checksum: YOhmgA8jrzze7mRhK73fmg
 ! Title: EasyList Hebrew
-! Last modified: 22 Sep 2025 01:16 UTC
+! Last modified: 22 Sep 2025 01:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1177,6 +1177,7 @@ sport5.co.il##.makoitemLeft
 sport5.co.il##.post.post-alt
 sport5.co.il##.w1 > #main.main-inner > #twocolumns > #sidebarHomePage > div > .pos-rel.post-list > .post-holder > .row > .col-xs-12.col-lg-12.col-md-12.col-sm-12 > div.row > .post > .text-holder.col-sm-9.col-md-8 > .datedoublepass
 sport5.co.il##[href="http://www.mako.co.il"]
+sport5.co.il##[href="https://lp.miniline.co.il/HaierTV/"]
 sport5.co.il##[href="https://www.mako.co.il"]
 sport5.co.il##[href^="https://www.mako.co.il/"][href$="&utm_source=sport5&utm_medium=RSS"]
 sport5.co.il##[id*="_ucMako_rptPosts_ancLink_"]
