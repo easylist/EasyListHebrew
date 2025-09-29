@@ -101,6 +101,7 @@
 0.0.0.0 makelove.co.il
 0.0.0.0 mashrokit.info
 0.0.0.0 maskoter.com
+0.0.0.0 matsato.com
 0.0.0.0 medical-rights.co.il
 0.0.0.0 meet-nowhere12.com
 0.0.0.0 meirav-il.com
