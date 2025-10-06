@@ -173,3 +173,4 @@
 0.0.0.0 ws.walla.co.il
 0.0.0.0 yazizim.com
 0.0.0.0 zohar-trends.com
+0.0.0.0 zoharajewels.com
