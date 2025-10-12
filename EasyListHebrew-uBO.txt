@@ -281,7 +281,7 @@ jmusic.me##+js(nostif, mdpDeBlocker)
 ! * Koozi * !
 !koozi.info##.tien-ads-video > div#player:style(visibility: visible!important;)
 !koozi.info##.tien-ads-video:style(background: none!important;)
-| * HWzone * |
+! * HWzone * !
 hwzone.co.il###rb-checktag:remove()
 hwzone.co.il##+js(no-fetch-if, adsbygoogle)
 !
