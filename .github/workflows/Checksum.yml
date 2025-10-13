@@ -47,7 +47,7 @@ jobs:
 
       - name: Update EasyListHebrew.txt file
         if: ${{ env.OPEN_ISSUE == 'false' }}
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update Checksum
 
