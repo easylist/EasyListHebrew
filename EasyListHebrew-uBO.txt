@@ -201,7 +201,7 @@ www.dtown.co.il##[id^="iv-gpt-ad-"]
 htmag.co.il##.ads-block
 !#endif
 ! * FoodsDictionary * !
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=foodsdictionary.co.il
+foodsdictionary.co.il##+js(no-fetch-if, adsbygoogle)
 @@||foodsdictionary.co.il/static/$xhr,1p
 @@||foodsdictionary.co.il^$ghide
 foodsdictionary.co.il##.gpt-ad-container
