@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZGW8oPdS4G+mTIH5QIk57w
+! Checksum: geV2idxd2kxIvXiz04zRSw
 ! Title: EasyList Hebrew
-! Last modified: 19 Oct 2025 15:14 UTC
+! Last modified: 19 Oct 2025 15:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1130,6 +1130,7 @@ portal.takdin.co.il##.resp-mobile-hidden.banner
 posta.co.il###banners-after-flashes
 posta.co.il###banners-below-menu
 posta.co.il###fixed-right.margin-fixed.banners-area
+posta.co.il##.banners-area
 posta.co.il##.group-731.single-onsidebar.banners-area
 posta.co.il##.group-749.home-line.banners-area
 posta.co.il##.group-752.home-line.banners-area
