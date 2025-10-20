@@ -546,6 +546,7 @@ zoharajewels.com##*
 @@||dmag.co.il/pub/shvii/*$script
 @@||errors.snackly.co/_.gif|$xmlhttprequest,domain=ynet.co.il
 @@||globes.co.il/js/ads.js
+@@||courses.biu.ac.il/*/stormcaster.js$script
 @@||globes.co.il/news/inc/banners/show_ads.js
 @@||googletagmanager.com/gtag/js?id=$script,domain=13news.co.il|13tv.co.il|one.co.il
 @@||googletagmanager.com/gtm.js$script,domain=clalitsmile.co.il|eshet.com|one.co.il
