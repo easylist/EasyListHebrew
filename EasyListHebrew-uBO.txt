@@ -136,6 +136,7 @@ calcalist.co.il##+js(no-fetch-if, adsbygoogle)
 !13news.co.il,13tv.co.il##+js(cookie-remover, /r13_maavron/)
 !13news.co.il,13tv.co.il##+js(nostif, offsetHeight)
 13news.co.il,13tv.co.il##+js(no-fetch-if, adsbygoogle)
+13news.co.il,13tv.co.il##+js(no-fetch-if, doubleclick)
 !
 13news.co.il,13tv.co.il##[class^="TimeLinestyles__StyledAdWrap"]
 ! * SPORT5 * !
@@ -237,6 +238,7 @@ rotter.net##[href="https://bit.ly/3JbFKqV"]
 rotter.net##[href="https://bit.ly/3yQVHRU"]
 ! * IsraMedia * !
 isramedia.net###wrapper > literal > div
+isramedia.net##+js(no-fetch-if, adsbygoogle)
 ! * Kipa.co.il * !
 !#if env_mobile
 kipa.co.il###footerBar
