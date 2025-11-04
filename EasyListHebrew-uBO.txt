@@ -136,6 +136,7 @@ calcalist.co.il##+js(no-fetch-if, adsbygoogle)
 !13news.co.il,13tv.co.il##+js(nostif, offsetHeight)
 13news.co.il,13tv.co.il##+js(no-fetch-if, adsbygoogle)
 13news.co.il,13tv.co.il##+js(no-fetch-if, doubleclick)
+13news.co.il,13tv.co.il##+js(no-fetch-if, googlesyndication)
 !
 13news.co.il,13tv.co.il##[class^="TimeLinestyles__StyledAdWrap"]
 ! * SPORT5 * !
