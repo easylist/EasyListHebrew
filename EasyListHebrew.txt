@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QjeLGyo+dRlMm+i0OEFU3g
+! Checksum: JG1X2IHRN9tGuEr2Fjwjew
 ! Title: EasyList Hebrew
-! Last modified: 04 Nov 2025 17:58 UTC
+! Last modified: 04 Nov 2025 18:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -535,6 +535,7 @@ zoharajewels.com##*
 @@||b-share.com/wp-content/*/advertisement.$script,~third-party
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
+@@||biu.ac.il^*/stormcaster.js$script
 @@||callil.co.il/content/Ads/$image,~third-party
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
 @@||cdn.taboola.com/libtrc/inn-hebrew/loader.js$script,domain=inn.co.il
@@ -543,7 +544,6 @@ zoharajewels.com##*
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
 @@||cdnwiz.com/ads.js$xmlhttprequest
 @@||clalit.co.il/AdImages
-@@||courses.biu.ac.il/*/stormcaster.js$script
 @@||dmag.co.il/pub/shvii/*$script
 @@||errors.snackly.co/_.gif|$xmlhttprequest,domain=ynet.co.il
 @@||globes.co.il/js/ads.js
