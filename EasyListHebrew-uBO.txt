@@ -106,7 +106,7 @@ www.mako.co.il##[box-title="Xtra בריאות "]
 !#if env_mobile
 c14.co.il,now14.co.il##.fit-banner-size
 !#endif
-! * Israel Hayom * !
+! * IsraelHayom * !
 !#if env_mobile
 israelhayom.co.il##.new-toolbar:style(padding-bottom: 0px !important;)
 israelhayom.co.il##.new-toolbar:style(height: 50px !important;)
@@ -114,7 +114,6 @@ israelhayom.co.il##.footer:style(padding-bottom: 50px !important;)
 !#endif
 ! * Globes * !
 ||www.globes.co.il^$important,websocket,1p,domain=www.globes.co.il
-!
 globes.co.il##+js(aopw, upManager)
 ! * Calcalist * !
 ||www.calcalist.co.il^$important,websocket,1p,domain=www.calcalist.co.il
@@ -142,11 +141,9 @@ calcalist.co.il##+js(no-fetch-if, adsbygoogle)
 ! * SPORT5 * !
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=sport5.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noopjs,important,domain=sport5.co.il
-!
 sport5.co.il##+js(no-fetch-if, adsbygoogle)
 ! * ONE * !
 ||xads.zedo.com/ads2/c?*.one.co.il/$script,important,redirect=noopjs,1p
-!
 one.co.il##+js(no-fetch-if, adsbygoogle)
 ! * inn.co.il * !
 inn.co.il##+js(no-fetch-if, adsbygoogle)
@@ -215,7 +212,6 @@ foodsdictionary.co.il###bottom-ad-stick
 ! * Morfix * !
 morfix.co.il##+js(acis, document.createElement, admiral)
 morfix.co.il##^script:has-text(admiral)
-!
 ||warmafterthought.com^$domain=morfix.co.il
 ! * FXP * !
 !#if env_mobile
@@ -277,7 +273,6 @@ www.shvoong.co.il##.elementor-column-gap-no.elementor-container
 !#endif
 ! * Jmusic.me * !
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=nooptext,domain=jmusic.me
-!
 jmusic.me##+js(aopr, mdp_deblocker)
 jmusic.me##+js(nostif, mdpDeBlocker)
 ! * Koozi * !
