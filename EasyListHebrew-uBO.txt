@@ -144,6 +144,7 @@ calcalist.co.il##+js(no-fetch-if, adsbygoogle)
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=sport5.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noopjs,important,domain=sport5.co.il
 sport5.co.il##+js(no-fetch-if, adsbygoogle)
+sport5.co.il##div[style*="margin"][style*="padding"]:empty
 ! * ONE * !
 ||xads.zedo.com/ads2/c?*.one.co.il/$script,important,redirect=noopjs,1p
 one.co.il##+js(no-fetch-if, adsbygoogle)
