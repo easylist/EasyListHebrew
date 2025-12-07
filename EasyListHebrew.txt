@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: S+97y7bRcNEhZs/U0lCqfg
+! Checksum: ycDxgOlRXuLnVvSNJyo6Jw
 ! Title: EasyList Hebrew
-! Last modified: 07 Dec 2025 23:37 UTC
+! Last modified: 07 Dec 2025 23:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -736,6 +736,7 @@ walla.co.il##.only-mobile.item-ad-in-content-placeholder
 walla.co.il##div.center-bottom[data-slot-name="nickbar_phone"]
 www.maariv.co.il##.cls-360-360-inner-king.maariv-banner
 www.maariv.co.il##.hp-direct-special-393-163-1.maariv-banner
+www.maariv.co.il##.hp-direct-special-393-163-2.maariv-banner
 www.mako.co.il##.h1MainItemMobile_root__29M_o
 www.mako.co.il##.h1Mobile_root__6UWJ2
 www.mako.co.il##.v05Mobile_root__Uad3G
