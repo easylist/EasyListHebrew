@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6XrVYbWlCd+rtBh0SwjOVg
+! Checksum: 0Pp9C3ygBEvTigfQe8Cf/Q
 ! Title: EasyList Hebrew
-! Last modified: 12 Dec 2025 13:12 UTC
+! Last modified: 12 Dec 2025 13:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -915,6 +915,7 @@ globes.co.il###Globes_Displays
 globes.co.il###jumbo_container.nocontent.topBanner
 globes.co.il##.Banner_in_Content
 globes.co.il##.bannerCenter.gr
+globes.co.il##.compBanner
 globes.co.il##.kidum
 globes.co.il##.spAr
 globes.co.il##a[href*="theadblockerproject.org"]
