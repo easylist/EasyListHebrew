@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LfJ6jORl3IuHyqZjvnQMzg
+! Checksum: FDdaxIo6LCNrOF9R7mzwLA
 ! Title: EasyList Hebrew
-! Last modified: 21 Dec 2025 00:47 UTC
+! Last modified: 21 Dec 2025 00:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -370,6 +370,7 @@
 !
 !--------------------------1st party blocking rules---------------------------!
 !
+||auto.co.il/static/iframe_bn.html?*=$subdocument
 ||beaverscripts.com/openwindow.js
 ||bladna.co.il/Public/flash/
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
@@ -1270,6 +1271,8 @@ wen.co.il##.wenBanner
 wisebuy.co.il##.mid1Banner
 wolt.com##button:has(> div > div > div > span:has-text(ממומן))
 wolt.com##div:has(> div > div > div > div > div > p:has-text(ממומן))
+www.auto.co.il##.js-top-bar-close-btn.top-bar__close-btn
+www.auto.co.il##section.logos > .logos__container > .logos__list > li.logos__item > .logos__logo
 www.bizportal.co.il##div.Carusel-D > div > .mortgage_arena_bg_870
 www.geektime.co.il##.banner.row
 www.geektime.co.il##.hide-text.text-center.py-5.col-12
