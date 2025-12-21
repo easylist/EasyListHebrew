@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FDdaxIo6LCNrOF9R7mzwLA
+! Checksum: +p0GqgnCSXtRbH4viu1qlg
 ! Title: EasyList Hebrew
-! Last modified: 21 Dec 2025 00:55 UTC
+! Last modified: 21 Dec 2025 00:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -824,6 +824,7 @@ rotter.net###taboola-post-top-react
 sport5.co.il##.tbl-feed-container
 sport5.co.il##.trc_rbox_container
 stips.co.il##.t-recommendations-area
+story.mako.co.il##[class^="outbrain-widget-"]
 walla.co.il##.ob-taste-left
 walla.co.il##.wrap-outbrain
 walla.co.il##li.outbrain
