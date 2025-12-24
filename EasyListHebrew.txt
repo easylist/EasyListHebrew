@@ -1149,6 +1149,7 @@ posta.co.il##.group-749.home-line.banners-area
 posta.co.il##.group-752.home-line.banners-area
 posta.co.il##.slick-slider.slick-initialized.vertical-fade
 prog.co.il##div[class*="BannerUnit"]
+prog.co.il##.samVideoOverlay
 psakdin.co.il###bnrTop
 radio-head.co.il##.ad-flat.ad
 radio-head.co.il##[class*="banner_size"][class*="banner_container_"]
