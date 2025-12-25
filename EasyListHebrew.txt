@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8rakVawuRdKVWWQPYG/I2A
+! Checksum: dfr40iY76PcMTpXQmY/huQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Dec 2025 01:03 UTC
+! Last modified: 25 Dec 2025 01:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -662,6 +662,7 @@ ynet.co.il#@#.shareBtn
 2net.co.il##.ParnasalogoIcon
 atmag.co.il,hashulchan.co.il,timeout.co.il##.banner-placeholder
 atmag.co.il,hashulchan.co.il,timeout.co.il##.sb-show.sticky-banner
+auto.co.il##section.js-banner.section-banner--mobile-mod.section-banner
 baba-mail.co.il##.sticky-ad
 bizportal.co.il##.bottom-sticky-strip
 camoni.co.il###closeMobileBanner
