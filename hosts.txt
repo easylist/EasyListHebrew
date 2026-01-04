@@ -86,6 +86,7 @@
 0.0.0.0 israeljobstoday.com
 0.0.0.0 kelocote.prpl.co.il
 0.0.0.0 kooduu.com
+0.0.0.0 kway.co.il
 0.0.0.0 landing-page.mobi
 0.0.0.0 lastpage.pw
 0.0.0.0 lavaveli.com
