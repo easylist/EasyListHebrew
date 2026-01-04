@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: q7rXiDlR9FH7UsLwFiYHqg
+! Checksum: 9thXX3YT0GHfk8XbOXSS6Q
 ! Title: EasyList Hebrew
-! Last modified: 04 Jan 2026 18:18 UTC
+! Last modified: 04 Jan 2026 18:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -791,6 +791,7 @@ calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
 13news.co.il,13tv.co.il##.show.youMightAlsoLike
 13news.co.il,13tv.co.il##.taboola-wrapper
 13news.co.il,13tv.co.il##.tbl-feed-container
+13news.co.il,13tv.co.il##.tbl-next-up
 13news.co.il,13tv.co.il##.trc_rbox_container
 bizportal.co.il###ob-new-video-wrap
 c14.co.il,now14.co.il##.trc_related_container.tbl-feed-card
@@ -799,14 +800,18 @@ gadgety.co.il###taboola-left-rail-thumbnails
 gadgety.co.il##.OUTBRAIN
 geektime.co.il###area-taboola-after-content
 geektime.co.il###area-taboola-top-content
+geektime.co.il##.tbl-next-up
+haaretz.co.il,themarker.com##.trc_related_container
 ice.co.il##.OUTBRAIN
 inn.co.il##.article-taboola
 inn.co.il##.category-taboola
 inn.co.il##.taboola
 inn.co.il##.taboola-top
+inn.co.il##.tbl-next-up
 isramedia.net##.OUTBRAIN
 kan.org.il##.taboola-recommendations-section
 kikar.co.il##[class*=".ob-widget-header"]
+kipa.co.il##.tbl-next-up
 maariv.co.il##.OUTBRAIN
 maariv.co.il##.article-5-outbrain-script
 maariv.co.il##.article-9-outbrain-script
@@ -815,6 +820,7 @@ maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.may-interest-you
 maariv.co.il##.right-side-outbrain
 maariv.co.il##.weather-outbrain
+morfix.co.il##.tbl-next-up
 onlife.co.il###cj_taboola_widget-2
 onlife.co.il##.cj_taboola
 radio-israel.org###taboola_div
@@ -1044,6 +1050,7 @@ link4u.co.il##.banner_300x224
 link4u.co.il##.banner_main
 maariv.co.il##.HorizontalCategoryArticleAndBannerFloor
 maariv.co.il##.TwoBannersFloor
+maariv.co.il##.__ADORIC__
 maariv.co.il##.article-bottom-banner
 maariv.co.il##.article-box-banner-wrap
 maariv.co.il##.article-details-banner
