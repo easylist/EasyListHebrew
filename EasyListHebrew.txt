@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tG7N6+b6ojgznMsytXdyDQ
+! Checksum: cg2NPTOdxLacMPFOPDMEEw
 ! Title: EasyList Hebrew
-! Last modified: 06 Jan 2026 04:22 UTC
+! Last modified: 06 Jan 2026 04:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1382,6 +1382,8 @@ zap.co.il##.leftSideBanner
 !
 !#if !ext_ublock
 *$webrtc,domain=13news.co.il|13tv.co.il|calcalist.co.il|globes.co.il|mako.co.il|walla.co.il|yad2.co.il|ynet.co.il
+wolt.com#?#button:has(> div > div > div > span:-abp-contains(ממומן))
+wolt.com#?#div:has(> div > div > div > div > div > p:-abp-contains(ממומן))
 !#endif
 !
 !---------------------Integration list with uBlock Origin---------------------!
