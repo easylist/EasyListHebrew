@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8VC0DNhGqK5VpVZCe4633g
+! Checksum: tG7N6+b6ojgznMsytXdyDQ
 ! Title: EasyList Hebrew
-! Last modified: 06 Jan 2026 04:20 UTC
+! Last modified: 06 Jan 2026 04:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1016,6 +1016,12 @@ jobmaster.co.il###leftBanner
 jobmaster.co.il###rightBanner
 junkyard.co.il##.plasma_banner
 junkyard.co.il##div[id^="banner"]
+kikar.co.il##.\[\&_iframe\]\:rounded.dark\:bg-gray-900.bg-gray-100.py-3.border-border.border-b.justify-center.flex.mx-auto.align-center.overflow-hidden.relative.text-center
+kikar.co.il##.h-\[200vh\] > .w-full.top-\[2\.8rem\].sticky > .ps-10.py-5
+kikar.co.il##.items-center.justify-center.flex.xl\:min-h-\[240px\].lg\:min-h-\[210px\].min-h-\[290px\].relative
+kikar.co.il##.justify-center.flex.\[\&_iframe\]\:overflow-hidden.\[\&_iframe\]\:rounded.border-border.border-b.p-3.overflow-hidden.relative.text-center > .block
+kikar.co.il##.w-full.py-1.lg\:top-\[45px\].top-\[52px\].sticky
+kikar.co.il##div.lg\:col-span-3.col-span-1.lg\:block.hidden > .w-full.top-\[2\.8rem\].sticky > .ps-10.py-5
 kikar.co.il##div.md\:block.hidden > .\[\&_iframe\]\:rounded.dark\:bg-gray-900.bg-gray-100.py-3.border-border.border-b.justify-center.flex.mx-auto.align-center.z-10.relative.text-center
 kikar.co.il##div.md\:block.hidden > .justify-center.flex.\[\&_iframe\]\:overflow-hidden.\[\&_iframe\]\:rounded.border-border.border-b.p-3.z-10.relative.text-center
 kipa.co.il###innerMoodaa2
