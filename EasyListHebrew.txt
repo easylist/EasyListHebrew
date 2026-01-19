@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oZqpQrY/bse2xw7glMyJTg
+! Checksum: EULri55sEn5bosZjlb6tYQ
 ! Title: EasyList Hebrew
-! Last modified: 19 Jan 2026 03:47 UTC
+! Last modified: 19 Jan 2026 03:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -747,7 +747,11 @@ www.mako.co.il##.v05Mobile_root__Uad3G
 www.rlive.co.il##.block.md\:hidden.w-full.max-h-\[280px\].h-\[280px\]
 www.rlive.co.il##.mb-4.md\:hidden.block.max-h-\[60px\].h-\[60px\].is-container
 www.rlive.co.il##.md\:hidden.block.my-8.is-container.w-full.max-h-\[280px\].h-\[280px\]
+www.rlive.co.il##.md\:hidden.max-h-\[280px\].h-\[280px\].flex.is-container
 www.rlive.co.il##.md\:hidden.mt-4.block.max-h-\[300px\].h-\[300px\]
+www.rlive.co.il##.md\:hidden.sm\:mt-4.w-full.min-h-\[280px\].flex
+www.rlive.co.il##.md\:hidden.w-full.h-\[145px\].flex.mt-1
+www.rlive.co.il##.md\:hidden.w-full.min-h-\[280px\].flex
 www.rlive.co.il##.mt-4.md\:hidden.block.max-h-\[250px\].h-\[250px\].is-container
 www.rlive.co.il##.mt-4.md\:hidden.block.max-h-\[280px\].h-\[280px\].is-container
 www.rlive.co.il##.my-4.md\:hidden.block.max-h-\[250px\].h-\[250px\].is-container
@@ -1327,6 +1331,8 @@ www.mako.co.il##[src$="/HolidayFinder_70X35_3.png"]
 www.mako.co.il##[src$="/medioBusiness_Mako3.0_Logo_70X35.png"]
 www.mako.co.il##[style="background-image:url('https://img.mako.co.il/2022/07/10/skinholidayfinder.png')"]
 www.rlive.co.il##.block.mt-2.max-h-\[250px\].h-\[250px\].is-container
+www.rlive.co.il##.lg\:block.flex-shrink-0.w-\[350px\].h-\[280px\].hidden.column
+www.rlive.co.il##.md\:block.flex-shrink-0.max-w-\[336px\].w-\[336px\].h-\[280px\].hidden
 www.rlive.co.il##.md\:block.hidden.my-8.is-container.w-full.max-h-\[250px\].h-\[250px\]
 www.rlive.co.il##.md\:flex.hidden.mt-4.max-h-\[250px\].h-\[250px\].is-container
 www.rlive.co.il##.md\:flex.hidden.mt-4.max-h-\[280px\].h-\[280px\].is-container
@@ -1334,6 +1340,7 @@ www.rlive.co.il##.md\:flex.hidden.mt-8.max-h-\[250px\].h-\[250px\].is-container
 www.rlive.co.il##.md\:flex.hidden.mt-8.max-h-\[280px\].h-\[250px\].is-container
 www.rlive.co.il##.mt-1.block.md\:max-h-\[250px\].max-h-\[145px\].md\:h-\[250px\].h-\[145px\].is-container
 www.rlive.co.il##.w-\[350px\].min-w-\[350px\].lg\:flex.hidden.h-auto
+www.rlive.co.il##div.md\:flex.overflow-hidden.max-h-\[250px\].h-\[250px\].hidden.is-container
 www.shvoong.co.il##.banner-full-width
 www.shvoong.co.il##.banner-sticky-right
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
