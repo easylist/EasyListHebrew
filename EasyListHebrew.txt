@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PVPV8z7nAaEXi/RjIRgDdQ
+! Checksum: P54y389yUJui+vJmscWr+g
 ! Title: EasyList Hebrew
-! Last modified: 29 Jan 2026 19:53 UTC
+! Last modified: 29 Jan 2026 19:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -921,6 +921,7 @@ e-med.co.il##.OneColumnsDoubleBanner
 easy.co.il##.ad.gbox.biz-card-item
 easy.co.il##.biz-item-box:has(.biz-item-modaa)
 easy.co.il##.pirsomet-header
+emess.co.il##.rec.link.news-item
 forum.lametayel.co.il##.textlinks_wide.textlinks
 frogi.co.il##.adbox
 fun.walla.co.il##.game-item > .pre-game
