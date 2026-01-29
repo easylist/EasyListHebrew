@@ -160,6 +160,7 @@
 0.0.0.0 try-smiley.com
 0.0.0.0 tvfeel.cc
 0.0.0.0 twobluedeer.com
+0.0.0.0 ultra.clicka1.co.il
 0.0.0.0 unbouncepages.com
 0.0.0.0 upapi.net
 0.0.0.0 usbuzz.net
