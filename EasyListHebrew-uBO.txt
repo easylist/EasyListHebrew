@@ -246,6 +246,9 @@ kipa.co.il###fotterBar:style(height: auto !important;)
 ||kipa.co.il/userFiles/*/prerolls/*/preroll_*.mp4$media,redirect=noopmp4-1s
 ||kipa.co.il/userFiles/moodaot/*.mp4$media,redirect=noopmp4-1s
 ||moodaot.kipa.co.il^*/*.mp4$media,redirect=noopmp4-1s
+! * zerem.biz * !
+||zerem.biz^*.mp3^$media,3p,redirect=noopmp3-0.1s
+||zerem.biz^*.mp4^$media,3p,redirect=noopmp4-1s
 ! * JDN * !
 ||jdn.co.il/wp-content/banners/bankleumi/$media,redirect=noopmp4-1s
 ||jdn.co.il/wp-content/uploads/video/yugort.mp4$media,redirect=noopmp4-1s
