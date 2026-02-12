@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WYfhU1fnvxZ4OQ6SUhkyyA
+! Checksum: WeMZo4zsPrLLoirx1X5UxA
 ! Title: EasyList Hebrew
-! Last modified: 12 Feb 2026 03:22 UTC
+! Last modified: 12 Feb 2026 03:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -337,6 +337,9 @@
 ! * kikar.co.il * !
 ||a.kikar.co.il/v1/ads
 ||www.kikar.co.il/a/$subdocument
+! * kore.co.il * !
+||ext.kore.co.il/out/$script,domain=www.kore.co.il
+||www.kore.co.il/system/ad_manager/get_all_banners$xmlhttprequest,domain=www.kore.co.il
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
@@ -375,7 +378,6 @@
 ||beaverscripts.com/openwindow.js
 ||bladna.co.il/Public/flash/
 ||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/
-||ext.kore.co.il/out/$script,domain=www.kore.co.il
 ||googleusercontent.com^$domain=trusted-software.com
 ||leadim4u.com/accounts/default1/banners/
 ||negishim.com/accessibility/
