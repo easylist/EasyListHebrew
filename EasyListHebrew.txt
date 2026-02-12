@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WeMZo4zsPrLLoirx1X5UxA
+! Checksum: n00IgjDajQ3WeEs6OCAEEg
 ! Title: EasyList Hebrew
-! Last modified: 12 Feb 2026 03:27 UTC
+! Last modified: 12 Feb 2026 03:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1098,6 +1098,8 @@ maariv.co.il##.horizontal-banner-wrap
 maariv.co.il##.news-feed-banner
 maariv.co.il##.xl-banner-wrap
 madas.co.il###CloseshellAds
+madlan.co.il##.ery4ov3.css-qhd8a4
+madlan.co.il##[href^="https://mortgage.bankhapoalim.co.il/ng-portals/dm/he/all-purposes"]
 madlan.co.il##[src="https://images2.madlan.co.il/poalim/poalim-listing-banner-desktop.jpg"]
 mail.walla.co.il###ad1
 mail.walla.co.il###ads-mail-cube
