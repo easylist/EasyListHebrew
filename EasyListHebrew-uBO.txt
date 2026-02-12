@@ -295,6 +295,7 @@ www-globes-co-il.eu1.proxy.openathens.net##+js(set, document.blocked_var, 1)
 www-globes-co-il.eu1.proxy.openathens.net##+js(set, ____ads_js_blocked, false)
 www-globes-co-il.eu1.proxy.openathens.net###Globes_Displays
 www-globes-co-il.eu1.proxy.openathens.net##.Banner_in_Content
+www-globes-co-il.eu1.proxy.openathens.net##.compBanner
 www-globes-co-il.eu1.proxy.openathens.net##.spAr
 www-globes-co-il.eu1.proxy.openathens.net##.topBanner
 !
@@ -309,11 +310,14 @@ www-haaretz-co-il.eu1.proxy.openathens.net##span:has([href*="promo"]):xpath(..)
 !
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##.hide_m.hide_.gam-placeholder
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##.no-print.advert
+www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##.trc_related_container
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href*="PromotedContent"]
-www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="https:"][href*="supermarker"][href*="themarker"][href*="com"]
-www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="https:"][href*="haaretz"][href*="co"][href*="il"][href*="labels/"]
-www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="https:"][href*="themarker"][href*="com"][href*="labels/"]
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="http"][href*="doubleclick"][href*="net"][href*="clk?id"]
+www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="https:"][href*="haaretz"][href*="co"][href*="il"][href*="labels/"]
+www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="https:"][href*="supermarker"][href*="themarker"][href*="com"]
+www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##[href^="https:"][href*="themarker"][href*="com"][href*="labels/"]
+www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##section:is([data-testid="michelangelo-list"],[data-testid="Donatello-list"]):has(> article > a:is([href*="doubleclick"],[data-google-interstitial]))
+www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##section[data-testid="Butthead-list"]:has(> .advert)
 !
 @@*googlesyndication*/pagead/js/adsbygoogle.js$domain=www-haaretz-co-il.eu1.proxy.openathens.net|www-themarker-com.eu1.proxy.openathens.net
 !
