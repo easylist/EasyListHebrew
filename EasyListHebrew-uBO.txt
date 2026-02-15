@@ -169,6 +169,8 @@ yad2.co.il##+js(aopw, upManager)
 yad2.co.il##+js(no-fetch-if, adsbygoogle)
 !
 ||perfdrive.com^$badfilter
+! * madlan * !
+||crcldu.com^$badfilter
 ! * Haaretz, TheMarker * !
 haaretz.co.il,themarker.com##+js(aeld, , hblocked)
 haaretz.co.il,themarker.com##+js(set, showAds, true)
