@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jxwErDT6rXerg1wVi7FXyg
+! Checksum: fQXTgdd7RDnvrKDJYRfWjA
 ! Title: EasyList Hebrew
-! Last modified: 20 Feb 2026 11:37 UTC
+! Last modified: 20 Feb 2026 11:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1364,6 +1364,7 @@ www.rlive.co.il##.md\:flex.hidden.mt-4.max-h-\[250px\].h-\[250px\].is-container
 www.rlive.co.il##.md\:flex.hidden.mt-4.max-h-\[280px\].h-\[280px\].is-container
 www.rlive.co.il##.md\:flex.hidden.mt-8.max-h-\[250px\].h-\[250px\].is-container
 www.rlive.co.il##.md\:flex.hidden.mt-8.max-h-\[280px\].h-\[250px\].is-container
+www.rlive.co.il##.md\:flex.p-1.bg-white.border-white.border.rounded.overflow-hidden.flex-shrink-0.max-w-\[336px\].w-\[336px\].h-\[280px\].hidden
 www.rlive.co.il##.mt-1.block.md\:max-h-\[250px\].max-h-\[145px\].md\:h-\[250px\].h-\[145px\].is-container
 www.rlive.co.il##.w-\[350px\].min-w-\[350px\].lg\:flex.hidden.h-auto
 www.rlive.co.il##div.md\:flex.overflow-hidden.max-h-\[250px\].h-\[250px\].hidden.is-container
