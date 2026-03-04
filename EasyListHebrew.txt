@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /SGb0mkQCN7yDGgnxAxZOg
+! Checksum: uEnMrhQ7iG6aRel8HG9vmQ
 ! Title: EasyList Hebrew
-! Last modified: 04 Mar 2026 01:14 UTC
+! Last modified: 04 Mar 2026 01:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1148,6 +1148,7 @@ morfix.co.il##.TopLeftRadvertisement_translation
 morfix.co.il##.result_adv
 morfix.co.il##.top_line_ad
 morfix.co.il##.top_line_ad_translation
+n12.co.il##[box-title="חוק ומשפט"]
 n12.co.il##[href="https://www.mako.co.il/news-law_guide"]
 n12.co.il##[href^="/news-law_guide/"]
 n12.co.il##[src^="https://www.duns100.co.il/frame/hp3?"]
@@ -1349,6 +1350,7 @@ www.mako.co.il##.h033Desktop_root__ZgE9t
 www.mako.co.il##.poster_root__Tp4J_
 www.mako.co.il##.v025Desktop_root__EcTEG
 www.mako.co.il##[box-title="Xtra Secret"]
+www.mako.co.il##[box-title="Xtra בריאות "]
 www.mako.co.il##[data-items="holidayFinderOrdering"]
 www.mako.co.il##[href^="/health-special/xtra_atopic_dermatitis/"]
 www.mako.co.il##[href^="https://abbvie.mako.co.il/?"]

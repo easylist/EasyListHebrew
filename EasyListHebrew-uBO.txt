@@ -99,9 +99,6 @@ mako.co.il##+js(aopw, upManager)
 www.mako.co.il##+js(aopw, upManager)
 !#endif
 mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
-!
-n12.co.il##[box-title="חוק ומשפט"]
-www.mako.co.il##[box-title="Xtra בריאות "]
 ! * C14 * !
 !#if env_mobile
 c14.co.il,now14.co.il##.fit-banner-size
