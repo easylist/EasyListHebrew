@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Npq+UQlP2o2hhBeKReNMRg
+! Checksum: hIAy1AE+tJUDpB07jUWPSQ
 ! Title: EasyList Hebrew
-! Last modified: 24 Mar 2026 03:20 UTC
+! Last modified: 24 Mar 2026 03:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -740,7 +740,7 @@ rlive.co.il##.ad-container-row
 rlive.co.il##.adv.anchor
 rotter.co.il##.ads
 sheee.co.il,walla.co.il##.center-bottom.is-fixed.only-mobile.css-1owvtvx.slot
-sheee.co.il,walla.co.il##.only-mobile.css-13oxhn3.css-1owvtvx.slot
+sheee.co.il,walla.co.il##.only-mobile.css-o7xhqf.css-1owvtvx.slot
 stips.co.il##.pirs-links.paragraph
 technozone.co.il##.post_thumbnail_ad
 tmi.maariv.co.il##.AdvertisingNew
@@ -1241,7 +1241,7 @@ seret.co.il###jumbobannercontainer
 sheee.co.il,walla.co.il##.aside-desktop iframe
 sheee.co.il,walla.co.il##.noprint-hidden.wide
 sheee.co.il,walla.co.il##.section-text-more-box
-sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-13oxhn3.css-1owvtvx.slot
+sheee.co.il,walla.co.il##.with-margin-bottom.only-desktop.wide.css-o7xhqf.css-1owvtvx.slot
 sherut.net##._md.compAd_in
 sheva7.co.il##.desktop-display > .maavaron
 shironet.mako.co.il###playerAdArea
