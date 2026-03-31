@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RfyeB1rIC1JYR0VYvEBOHQ
+! Checksum: t/q5AJpXLSi4KUyEx4J+0A
 ! Title: EasyList Hebrew
-! Last modified: 31 Mar 2026 02:25 UTC
+! Last modified: 31 Mar 2026 02:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -932,6 +932,7 @@ chabad.info##.adpro
 chodal24.com##a[target="_blank"][href*="/urvd/4-"]
 davar1.co.il##.banner-article-top-wrap
 davar1.co.il##.banner-top-wrap
+dgalim-olam.co.il##.rklm
 doublepass.sport5.co.il##.banner_right
 doublepass.sport5.co.il##.banner_right_160x100_wrap
 drushim.co.il##.banner-wrap
