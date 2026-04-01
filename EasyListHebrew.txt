@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xZ0SDY3jUfULlOY4cKLYIw
+! Checksum: I17M4YIaHDTdOen7wiSc9g
 ! Title: EasyList Hebrew
-! Last modified: 01 Apr 2026 06:46 UTC
+! Last modified: 01 Apr 2026 06:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -736,6 +736,7 @@ mynet.co.il##.MynetHeaderMobileComponenta
 podcastim.org.il##.ad-title
 radio-head.co.il##.ad-100-300
 radio-head.co.il##.ad-300-600
+rlive.co.il###mobile-anchor-ad
 rlive.co.il##.ad-container-row
 rlive.co.il##.adv.anchor
 rotter.co.il##.ads
@@ -766,6 +767,7 @@ www.rlive.co.il##.md\:hidden.max-h-\[280px\].h-\[280px\].flex.is-container
 www.rlive.co.il##.md\:hidden.mt-4.block.max-h-\[300px\].h-\[300px\]
 www.rlive.co.il##.md\:hidden.sm\:mt-4.w-full.min-h-\[280px\].flex
 www.rlive.co.il##.md\:hidden.w-full.h-\[145px\].flex.mt-1
+www.rlive.co.il##.md\:hidden.w-full.h-\[280px\].flex.mt-1
 www.rlive.co.il##.md\:hidden.w-full.min-h-\[280px\].flex
 www.rlive.co.il##.mt-4.md\:hidden.block.max-h-\[250px\].h-\[250px\].is-container
 www.rlive.co.il##.mt-4.md\:hidden.block.max-h-\[280px\].h-\[280px\].is-container
