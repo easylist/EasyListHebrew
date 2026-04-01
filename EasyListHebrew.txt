@@ -973,7 +973,7 @@ hamal.co.il##.container-fluid.styles_commentWrapper__ufWcY
 hamal.co.il##.container-fluid.styles_mainWrapper__fcFda
 hamal.co.il##.styles_nativeFeed__raMtD
 hamal.co.il##[class^="styles_bannerWrapper"]
-www.hasolidit.com##.banner-container
+hasolidit.com##.banner-container
 hidabroot.org###desktop_vid_bnr
 hidabroot.org##.bannerCls.trg_banner
 hidabroot.org##.panel-row-upper
