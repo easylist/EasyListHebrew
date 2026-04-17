@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rbHoJNo+tbypD3q0LnNzcw
+! Checksum: F9kV8fUoY1ohdnxTfXlJsg
 ! Title: EasyList Hebrew
-! Last modified: 17 Apr 2026 05:27 UTC
+! Last modified: 17 Apr 2026 05:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1250,6 +1250,7 @@ s-maof.com##div[style="position: absolute; left: 40px; top: 200px; z-index: 0;"]
 s-maof.com##div[style="position: absolute; right: 40px; top: 200px; z-index: 0; width:154px;"]
 safa-ivrit.org##.inrpggoogle
 seret.co.il###jumbobannercontainer
+seret.co.il###stickytop.defaultm > .fullrowgray > .maincontent > #nav_sub > #nav_sub_items
 sheee.co.il,walla.co.il##.aside-desktop iframe
 sheee.co.il,walla.co.il##.noprint-hidden.wide
 sheee.co.il,walla.co.il##.section-text-more-box
