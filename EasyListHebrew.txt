@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +FEUIPD4jby4W+sFm01cTA
+! Checksum: rbHoJNo+tbypD3q0LnNzcw
 ! Title: EasyList Hebrew
-! Last modified: 17 Apr 2026 05:24 UTC
+! Last modified: 17 Apr 2026 05:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1152,6 +1152,7 @@ mako.co.il##[src="https://img.mako.co.il/2023/03/12/rosh.gif"]
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
 mako.co.il##div[id^="top-strip"]
 mako.co.il##iframe[src*="javascript:document.write('"]
+masa.co.il##.firsomet
 masa.co.il##.google-ad-links-wrapper
 masa.co.il##.top-firsomet
 mavir.co.il##.adv160_600
