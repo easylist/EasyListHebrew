@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: orHldpn37h0quIvAIYfQHw
+! Checksum: +FEUIPD4jby4W+sFm01cTA
 ! Title: EasyList Hebrew
-! Last modified: 17 Apr 2026 05:20 UTC
+! Last modified: 17 Apr 2026 05:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -735,6 +735,7 @@ mobile.mako.co.il##.adArticle
 mobile.mako.co.il##.adv
 mobile.mako.co.il,www.mako.co.il##[class^="Maavaron_root"]
 mobile.srugim.co.il##[class^="Banner_Wrap"]
+motke.co.il##.mobile_top_banner
 mynet.co.il##.MynetHeaderMobileComponenta
 podcastim.org.il##.ad-title
 radio-head.co.il##.ad-100-300
@@ -1167,6 +1168,7 @@ morfix.co.il##.TopLeftRadvertisement_translation
 morfix.co.il##.result_adv
 morfix.co.il##.top_line_ad
 morfix.co.il##.top_line_ad_translation
+motke.co.il##.sticky-top.fixed_banner
 n12.co.il##[box-title="חוק ומשפט"]
 n12.co.il##[href="https://www.mako.co.il/news-law_guide"]
 n12.co.il##[href^="/news-law_guide/"]
