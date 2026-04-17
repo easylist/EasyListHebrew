@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: o3LfHQ3m/mOeRlhvA0V09A
+! Checksum: i2q72mxIiQ4M9mebtueuiw
 ! Title: EasyList Hebrew
-! Last modified: 17 Apr 2026 05:09 UTC
+! Last modified: 17 Apr 2026 05:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -657,6 +657,7 @@ junkyard.co.il#@#.ad-body
 kikar.co.il#@#.adunit
 lavender.co.il#@##topAds
 leyada.net#@#.banner-300
+masa.co.il#@#.pub-container
 pitria.com#@#.header-ad
 ynet.co.il#@#.adclass
 ynet.co.il#@#.shareBtn
