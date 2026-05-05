@@ -24,7 +24,6 @@
 0.0.0.0 aurorabrand.co.il
 0.0.0.0 avoda-mehabait.co.il
 0.0.0.0 azadv.co.il
-0.0.0.0 bagly.co.il
 0.0.0.0 banners.news1.co.il
 0.0.0.0 best-offers.co.il
 0.0.0.0 big-shot.co.il
