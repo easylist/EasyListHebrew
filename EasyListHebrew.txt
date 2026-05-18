@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: o3x5+0HKl8HQRKtx3c9Q6Q
+! Checksum: QLRRfLLpXwxeyKBxWRncuQ
 ! Title: EasyList Hebrew
-! Last modified: 18 May 2026 20:12 UTC
+! Last modified: 18 May 2026 20:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -879,6 +879,8 @@ animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,calendar.walla.co.il,car
 !
 0404.co.il##.max-md\:p-0.p-5.h-full.w-full > .overflow-hidden.w-full.items-center.justify-center.md\:flex.hidden
 0404.co.il##.overflow-hidden.px-\[35px\].py-2\.5.w-full.items-center.justify-center.flex-col.md\:flex.hidden
+13news.co.il,13tv.co.il##.fQAsyc.CatchupPlayerstyle__LeftColumn-sc-bcwuhy-2
+13news.co.il,13tv.co.il##.google-ad-container
 13news.co.il,13tv.co.il##[class^="TopBannerstyles_"]
 13news.co.il,13tv.co.il##div.dxZevu.frjHsE.NewsFlahesPagestyles__NewsFlashSpecialWidget-sc-1zhe9e-9.NewsFlahesPagestyles__NewsFlashItem-sc-1zhe9e-8
 14across.co.il##.across-google-ad.across-google-wide-ad
