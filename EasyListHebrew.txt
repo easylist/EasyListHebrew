@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QLRRfLLpXwxeyKBxWRncuQ
+! Checksum: u7gR/JmH7deEhgZGq9LcXw
 ! Title: EasyList Hebrew
-! Last modified: 18 May 2026 20:15 UTC
+! Last modified: 18 May 2026 20:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1066,6 +1066,7 @@ kikar.co.il##.w-full.py-1.lg\:top-\[45px\].top-\[52px\].sticky
 kikar.co.il##div.lg\:col-span-3.col-span-1.lg\:block.hidden > .w-full.top-\[2\.8rem\].sticky > .ps-10.py-5
 kikar.co.il##div.md\:block.hidden > .\[\&_iframe\]\:rounded.dark\:bg-gray-900.bg-gray-100.py-3.border-border.border-b.justify-center.flex.mx-auto.align-center.z-10.relative.text-center
 kikar.co.il##div.md\:block.hidden > .justify-center.flex.\[\&_iframe\]\:overflow-hidden.\[\&_iframe\]\:rounded.border-border.border-b.p-3.z-10.relative.text-center
+kinderland.co.il##.header_banner
 kipa.co.il###innerMoodaa2
 kipa.co.il###mekodam
 kipa.co.il##.Ozen300
