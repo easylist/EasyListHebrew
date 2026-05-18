@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FKxLiheRkhFik/D0OUhs8g
+! Checksum: o3x5+0HKl8HQRKtx3c9Q6Q
 ! Title: EasyList Hebrew
-! Last modified: 18 May 2026 19:53 UTC
+! Last modified: 18 May 2026 20:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1307,6 +1307,7 @@ walla.co.il###tldSection
 walla.co.il###videoOverlay
 walla.co.il###we\ show
 walla.co.il###zoomSection
+walla.co.il##.ad4
 walla.co.il##.ads-spaces-shdera-hp
 walla.co.il##.commercial-items.mixed-sequence.sequence
 walla.co.il##.crypto-banner-logo
@@ -1330,6 +1331,8 @@ walla.co.il##.walla-shops
 walla.co.il##[alt="adImg"]
 walla.co.il##[data-adid]
 walla.co.il##[data-advertiser-id]
+walla.co.il##[href*="?utm_source="][href*="&utm_campaign="]
+walla.co.il##[href^="https://shop.super-pharm.co.il/search?av="]
 walla.co.il##[name="adIframe"]
 walla.co.il##a[href*="jor-el.net"] + img[src^="blob"]
 walla.co.il##a[href*="jor-el.net"] img[src^="blob"]
