@@ -982,6 +982,7 @@ hasolidit.com##.banner-container
 hasolidit.com##.hs-trade-strip, .message--post:has(.hs-trade-strip)
 hasolidit.com##.navsupport, a[href="https://www.hasolidit.com/מונטיזציה"]
 hasolidit.com##article > div[style="text-align: center;"] > div[style="text-align: center;"]
+hasolidit.com##article[class="message message--post"]
 hidabroot.org###desktop_vid_bnr
 hidabroot.org##.bannerCls.trg_banner
 hidabroot.org##.panel-row-upper
