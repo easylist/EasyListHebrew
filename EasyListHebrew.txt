@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +Of+yQURCHPzuKwYcq7iAw
+! Checksum: zMPWhIjEIFWWoVeAYja3Tg
 ! Title: EasyList Hebrew
-! Last modified: 14 Jun 2026 10:22 UTC
+! Last modified: 14 Jun 2026 10:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1302,6 +1302,7 @@ tmi.maariv.co.il##.cls970x90_2nd.tmi-banner-container
 tmi.maariv.co.il##.tmi-article > .cls970x350-1st-top.tmi-banner-container
 topisrael.co.il##div.shadow-sm.border-gray-100.border.p-4.rounded-xl.bg-white.my-6
 totalchat.co.il###PublichVoiceChat
+tv10.co.il##.calcala-ad-center
 tvbee.co.il##.slider2.bottom_line_neo
 upf.co.il##.bgbanner
 uzit.co.il###firstGoogleAd
