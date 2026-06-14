@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zMPWhIjEIFWWoVeAYja3Tg
+! Checksum: 5m9QoBI7dP/UbTn0QZK+2w
 ! Title: EasyList Hebrew
-! Last modified: 14 Jun 2026 10:24 UTC
+! Last modified: 14 Jun 2026 10:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1202,6 +1202,7 @@ nrg-co-il.makorrishon.co.il,www.makorrishon.co.il##.tallBanner.spacer
 one.co.il###content3d > [href^="http://pubads.g.doubleclick.net/gampad/clk"]
 one.co.il##.ad-container-bottom-jumbo.ad-container.ad-bg
 one.co.il##.top-4-articles > .one-secondaries-articles > div > #divTicker3D
+one.co.il##.transition-shadow.hover\:shadow-lg.shadow-md.overflow-hidden.rounded-xl.to-red-500.from-red-700.bg-gradient-to-l.sm\:mx-0.mx-2.my-5.block
 one.co.il##.vod-player-sponsor-image-bottom
 one.co.il##a[class*="one-article-strip"]
 onlife.co.il##.bottom-50.cj_above_team_banner_desktop
