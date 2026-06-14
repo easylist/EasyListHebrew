@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dv87sH7UMLuU+VpYoCegYA
+! Checksum: CkYHuXcmJNVq6dAIW5ta4g
 ! Title: EasyList Hebrew
-! Last modified: 14 Jun 2026 10:29 UTC
+! Last modified: 14 Jun 2026 10:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -330,6 +330,9 @@
 ||kipa.co.il/minisites/go.asp$popup
 ||landing.kipa.co.il/?id=$popup
 ||moodaot.kipa.co.il/userFiles/moods/$subdocument
+!
+||qovani.com^$domain=kipa.co.il
+||tblcontent.com^$domain=kipa.co.il
 ! * bhol.co.il * !
 ||bhol.co.il/rich_banners/
 ||bhol.co.il/system/ad_manager/get_all_banners$xmlhttprequest
