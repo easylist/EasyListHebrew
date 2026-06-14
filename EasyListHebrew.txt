@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5m9QoBI7dP/UbTn0QZK+2w
+! Checksum: dv87sH7UMLuU+VpYoCegYA
 ! Title: EasyList Hebrew
-! Last modified: 14 Jun 2026 10:26 UTC
+! Last modified: 14 Jun 2026 10:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1288,6 +1288,9 @@ sport5.co.il##[src^="https://meitavads-"]
 sports.walla.co.il##.type-2.common-hp-articles.sequence
 sports.walla.co.il##[src="/public/assets/sport/winner_logo.webp"]
 srugim.co.il###single-yellow-ad
+srugim.co.il##.\[\&_\.ob_what_resp_a\]\:p-2
+srugim.co.il##.w-full.srugim-top-leaderboard
+srugim.co.il##astro-island > .justify-center.flex.text-center.relative > .max-w-full.align-top.inline-block.relative
 starmed.co.il##.banner_forums_160x600_right
 starmed.co.il##.banner_forums_tree_300x250
 starmed.co.il##div[style="width:990px;height:150px;margin:2px auto 4px auto"]
