@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xP9eUxQckeQBiKV0/Tr/FA
+! Checksum: ix07qazSPNg3Rl4CxUAXNQ
 ! Title: EasyList Hebrew
-! Last modified: 03 Jul 2026 14:03 UTC
+! Last modified: 03 Jul 2026 14:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -613,6 +613,7 @@ zoharajewels.com##*
 @@||s.vi-serve.com/publishers/$script,domain=bizportal.co.il
 @@||s.vi-serve.com/source.m.js$script,domain=bizportal.co.il
 @@||s.vi-serve.com/tagLoader.js$script,domain=bizportal.co.il
+@@||sadanpublishing.co.il/files/banners/$image,~third-party
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/gpt/$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/pagead/managed/$domain=13news.co.il|13tv.co.il
