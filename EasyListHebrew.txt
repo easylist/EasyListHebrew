@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sf55NFb5vFSH0brZzUfRTw
+! Checksum: k1gurhoUEDVEQPgyOinWSQ
 ! Title: EasyList Hebrew
-! Last modified: 03 Jul 2026 14:11 UTC
+! Last modified: 03 Jul 2026 14:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1367,6 +1367,7 @@ walla.co.il##li.marketing
 walla.co.il##video[poster^="data:image/gif;base64,"]
 wallashops.co.il###topBanner
 weather2day.co.il###W2D_728x90_1.show-on-desktop
+weather2day.co.il##.forecast-banner
 wen.co.il##.wenBanner
 wisebuy.co.il##.mid1Banner
 wolt.com##button:has(> div > div > div > span:has-text(ממומן))
