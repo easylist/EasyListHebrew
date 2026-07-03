@@ -237,6 +237,8 @@ rotter.net##[href="https://bit.ly/3yQVHRU"]
 ! * IsraMedia * !
 isramedia.net###wrapper > literal > div
 isramedia.net##+js(no-fetch-if, adsbygoogle)
+! * Srugim * !
+||api.srugim.co.il/v1/ads/$xhr,redirect=nooptext
 ! * Kipa.co.il * !
 !#if env_mobile
 kipa.co.il###footerBar
