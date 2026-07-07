@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: daOozxRZQtdy7rvcddZGUw
+! Checksum: 15BlpTzxTjH2c4e6E8543Q
 ! Title: EasyList Hebrew
-! Last modified: 03 Jul 2026 14:31 UTC
+! Last modified: 07 Jul 2026 14:33 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1142,7 +1142,6 @@ maka.co.il##.leftBanner
 maka.co.il##.midBanner
 maka.co.il##.rightBanner
 mako.co.il###CM8ShowAd_MONSTER1_300X250
-mako.co.il###maavaronPlaceholder
 mako.co.il###CM8ShowAd_MONSTER2_300X250
 mako.co.il###CM8ShowAd_MONSTER3_300X250
 mako.co.il###ZA_CAMP_BG
@@ -1150,6 +1149,7 @@ mako.co.il###ZA_CAMP_CONTAINER
 mako.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 mako.co.il###hp_bottom_strip
 mako.co.il###idButtonsTimelineWrapper > #idButtonsWrapper > [class*="-"] > [href="/mako-vod-purchase"] > #purchaseBtnContentId
+mako.co.il###maavaronPlaceholder
 mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
 mako.co.il##.bannerClose
