@@ -136,6 +136,7 @@
 0.0.0.0 rateonclick.com
 0.0.0.0 regi.tech
 0.0.0.0 reimageplus.com
+0.0.0.0 rome-il.com
 0.0.0.0 sdarot-il.org
 0.0.0.0 sdarot-tv.org
 0.0.0.0 sdarot.cc
