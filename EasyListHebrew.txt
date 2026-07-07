@@ -449,6 +449,7 @@ pinukim.net##*
 play.milly-style.co.il##*
 plushome.co.il##*
 protyshop.com##*
+rome-il.com##*
 sdarot-il.org##*
 sdarot-tv.org##*
 sdarot.cc##*
