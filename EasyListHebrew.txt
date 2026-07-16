@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ww/IjTCTvuedPG/YBrai0g
+! Checksum: RceYhZaWsZ0rXy3ny5yuAg
 ! Title: EasyList Hebrew
-! Last modified: 16 Jul 2026 11:47 UTC
+! Last modified: 16 Jul 2026 11:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1306,6 +1306,7 @@ starmed.co.il##.banner_forums_160x600_right
 starmed.co.il##.banner_forums_tree_300x250
 starmed.co.il##div[style="width:990px;height:150px;margin:2px auto 4px auto"]
 start.co.il###topbanner
+story.mako.co.il##.force-grid--OTzU3.nowrap--GEyTM.stretch-items--cwQWg.box--pgS7m
 takdin.co.il##.mainUpperBanner
 techtime.co.il##.header-banners.row
 tgspot.co.il##.td-adspot-title-320
