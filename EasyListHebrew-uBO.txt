@@ -217,6 +217,7 @@ morfix.co.il##^script:has-text(admiral)
 ||warmafterthought.com^$domain=morfix.co.il
 ! * FXP * !
 !#if env_mobile
+fxp.co.il###big-wap-g.top-ba-g
 fxp.co.il###big-wap.top-ba
 fxp.co.il###first-post-location
 !#endif
