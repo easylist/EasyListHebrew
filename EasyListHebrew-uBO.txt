@@ -229,6 +229,7 @@ rotter.net###notes > .ads
 rotter.net###wrapper > .ads
 rotter.net###taboola-below-article-thumbnails
 !#endif
+rotter.net###kanitiwidget
 rotter.net##[href^="https://www.booking.com/index.html?aid="]
 rotter.net##[href^="https://landing.magenexperts.co.il/lp-disability"]
 rotter.net##[href="https://www.kalish-fin.com/y"]
