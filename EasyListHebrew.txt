@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TvDh658F4Q31kq/dJVfgsQ
+! Checksum: rLqwOBTzlG52xBwf/3HaDw
 ! Title: EasyList Hebrew
-! Last modified: 07 Aug 2026 12:20 UTC
+! Last modified: 07 Aug 2026 12:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -52,8 +52,10 @@
 ||kway.co.il^$third-party
 ||linicom.co.il^$third-party
 ||mitbahon.co.il^$third-party
+||qovani.com^$third-party
 ||sekindo.com^$third-party
 ||talkahead.com^$third-party
+||tblcontent.com^$third-party
 ||trustmedia.co.il^$third-party
 ||ultra.clicka1.co.il^$third-party
 ||upapi.net^$third-party
@@ -332,9 +334,6 @@
 ||kipa.co.il/minisites/go.asp$popup
 ||landing.kipa.co.il/?id=$popup
 ||moodaot.kipa.co.il/userFiles/moods/$subdocument
-!
-||qovani.com^$domain=kipa.co.il
-||tblcontent.com^$domain=kipa.co.il
 ! * bhol.co.il * !
 ||bhol.co.il/rich_banners/
 ||bhol.co.il/system/ad_manager/get_all_banners$xmlhttprequest
