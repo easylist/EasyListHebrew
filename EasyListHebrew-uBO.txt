@@ -91,6 +91,7 @@ ynet.co.il##^style#yitwall
 ||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2.png,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noopjs,important,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il,important
 !
 !#if !env_mobile
 mako.co.il##+js(aopw, upManager)
