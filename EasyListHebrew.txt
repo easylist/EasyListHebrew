@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: opFobkKpcpQzLsQJ0s9qiw
+! Checksum: IB20pEx+QbOppB4PxUHOdw
 ! Title: EasyList Hebrew
-! Last modified: 07 Aug 2026 12:12 UTC
+! Last modified: 07 Aug 2026 12:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -612,6 +612,7 @@ zoharajewels.com##*
 @@||pubads.g.doubleclick.net/gampad/ads?ad_rule=$domain=mako.co.il
 @@||pubads.g.doubleclick.net/gampad/adx?iu=$domain=mako.co.il
 @@||qamesh.com/Images/advert.png
+@@||ramat-hasharon.muni.il^*/baner_$image,~third-party
 @@||rcs.mako.co.il/js/ads.js$script,xmlhttprequest
 @@||rcs.mako.co.il/js/prebid-$xmlhttprequest,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
 @@||report.maccabi.*/cls_report?$xmlhttprequest,domain=maccabi4u.co.il
