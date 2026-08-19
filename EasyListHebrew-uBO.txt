@@ -129,6 +129,7 @@ calcalist.co.il##+js(no-fetch-if, adsbygoogle)
 !
 ||doubleclick.net^$xhr,redirect-rule=nooptext,domain=13news.co.il|13tv.co.il
 ||taboola.com^$script,redirect=noopjs,domain=13news.co.il|13tv.co.il,important
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=13news.co.il|13tv.co.il,important
 !
 !13news.co.il,13tv.co.il##+js(aopw, upManager)
 !13news.co.il,13tv.co.il##+js(cookie-remover, /r13_maavron/)
