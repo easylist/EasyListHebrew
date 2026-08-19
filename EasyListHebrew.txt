@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zi5Slr0XEZYxblTgtVUnrQ
+! Checksum: ZJklOCfwHhPqSGgjidlHtw
 ! Title: EasyList Hebrew
-! Last modified: 19 Aug 2026 13:21 UTC
+! Last modified: 19 Aug 2026 13:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -917,6 +917,9 @@ baba-mail.co.il##.ad-300-250
 baba-mail.co.il##.ad-700-156
 baba-mail.co.il##.ad-970-250
 baba-mail.co.il##.dynAds
+bb-n.co.il##.rotating-banners
+bb-n.co.il##.sticky-sidebar-banner
+bb-n.co.il##.ttfc-banner-block
 bhol.co.il##.fade
 bigbroil.com##.adsbygoogle
 bigbroil.com##.desk_mode.adsgoogle
