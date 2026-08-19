@@ -170,6 +170,8 @@ yad2.co.il##+js(no-fetch-if, adsbygoogle)
 ||perfdrive.com^$badfilter
 ! * madlan * !
 ||crcldu.com^$badfilter
+! * Maariv * !
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=maariv.co.il,important
 ! * Haaretz, TheMarker * !
 haaretz.co.il,themarker.com##+js(aeld, , hblocked)
 haaretz.co.il,themarker.com##+js(set, showAds, true)
