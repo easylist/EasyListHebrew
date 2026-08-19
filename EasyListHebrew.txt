@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2hmOVI02TaL1v0H5+VbZvg
+! Checksum: XFjZSnTOMS0CmrPxDZmlwg
 ! Title: EasyList Hebrew
-! Last modified: 19 Aug 2026 13:10 UTC
+! Last modified: 19 Aug 2026 13:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -556,6 +556,7 @@ zoharajewels.com##*
 @@||cdnwiz.com/ads.js$xmlhttprequest
 @@||clalit.co.il/AdImages
 @@||dmag.co.il/pub/shvii/*$script
+@@||elite-coffee.co.il/dw/image/*/banners/*_*x*?$image,~third-party
 @@||errors.snackly.co/_.gif|$xmlhttprequest,domain=ynet.co.il
 @@||frid.co.il/files/*/baner.$image,~third-party
 @@||frid.co.il/files/banners/$image,~third-party
