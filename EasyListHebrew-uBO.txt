@@ -101,6 +101,7 @@ www.mako.co.il##+js(aopw, upManager)
 !#endif
 mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
 ! * C14 * !
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=c14.co.il|channel14.web-prd.immergo.tv|now14.co.il,important
 !#if env_mobile
 c14.co.il,now14.co.il##.fit-banner-size
 !#endif
