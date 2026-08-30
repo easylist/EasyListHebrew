@@ -133,6 +133,7 @@
 0.0.0.0 plushome.co.il
 0.0.0.0 premium-offers.space
 0.0.0.0 protyshop.com
+0.0.0.0 qovani.com
 0.0.0.0 quick-date.xyz
 0.0.0.0 rateonclick.com
 0.0.0.0 regi.tech
@@ -154,6 +155,7 @@
 0.0.0.0 streamin.to
 0.0.0.0 stylebox.co.il
 0.0.0.0 talkahead.com
+0.0.0.0 tblcontent.com
 0.0.0.0 tld.walla.co.il
 0.0.0.0 totalmedia2.ynet.co.il
 0.0.0.0 tracknotify.com
