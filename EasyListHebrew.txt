@@ -1259,6 +1259,7 @@ posta.co.il##.lawyers-side
 posta.co.il##.slick-slider.slick-initialized.vertical-fade
 prog.co.il##.samVideoOverlay
 prog.co.il##div[class*="BannerUnit"]
+prog.co.il##div.structItem.is-prefix717
 psakdin.co.il###bnrTop
 radio-head.co.il##.ad-flat.ad
 radio-head.co.il##[class*="banner_size"][class*="banner_container_"]
