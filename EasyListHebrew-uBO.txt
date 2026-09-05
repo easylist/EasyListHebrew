@@ -289,6 +289,9 @@ jmusic.me##+js(nostif, mdpDeBlocker)
 hwzone.co.il###rb-checktag:remove()
 hwzone.co.il##+js(no-fetch-if, adsbygoogle)
 !
+! * Prog * !
+prog.co.il##^script:has-text(samInitDetection)
+!
 ! * openathens.net - Globes / Haaretz / TheMarker * !
 ! * https://github.com/easylist/EasyListHebrew/issues/395 * !
 !
