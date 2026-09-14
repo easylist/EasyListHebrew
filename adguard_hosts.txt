@@ -42,6 +42,7 @@ clickon.co.il
 clmbtrk.com
 cohenza-il.com
 com-cloud.co
+dana-telaviv.com
 date-il.com
 dateszone.net
 depresis.com
@@ -138,6 +139,7 @@ rateonclick.com
 regi.tech
 reimageplus.com
 rome-il.com
+ronitnoa-telaviv.com
 sdarot-il.org
 sdarot-tv.org
 sdarot.cc
