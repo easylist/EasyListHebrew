@@ -183,6 +183,10 @@ haaretz.co.il##span:has([href*="promo"]):xpath(..)
 ! * News1 * !
 www.news1.co.il##div.banner-container
 www.news1.co.il###overlay
+! * 0404 * !
+!#if env_mobile
+0404.co.il##.overflow-hidden.w-full.justify-center.md\:hidden.flex
+!#endif
 ! * Gadgety * !
 !#if env_mobile
 gadgety.co.il##.site-ads
