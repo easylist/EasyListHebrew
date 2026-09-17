@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zsSpYCD7mCeCDw+PK678dQ
+! Checksum: IdrsIdwvaPhuJiHq37vzjw
 ! Title: EasyList Hebrew
-! Last modified: 17 Sep 2026 15:07 UTC
+! Last modified: 17 Sep 2026 15:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -430,6 +430,7 @@ isdarot.com##*
 israeljobstoday.com##*
 kelocote.prpl.co.il##*
 kooduu.com##*
+lanatoyasaeil.com##*
 lavaveli.com##*
 levoria-il.com##*
 livenza-il.com##*
@@ -478,6 +479,7 @@ zoharajewels.com##*
 ||hasdarot.xyz^
 ||isdarot.com^
 ||israeljobstoday.com^
+||lanatoyasaeil.com^
 ||losittooday.info^
 ||pinukim.net^
 ||play.milly-style.co.il^
