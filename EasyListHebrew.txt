@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FRB1Ars0gJtKl7wlVuNONw
+! Checksum: vueZ7J71CrdmYTBMA2Pxeg
 ! Title: EasyList Hebrew
-! Last modified: 17 Sep 2026 14:44 UTC
+! Last modified: 17 Sep 2026 14:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1066,6 +1066,7 @@ isport.co.il##[href^="https://www.sherut.net/Poalim"]
 israelhayom.co.il###fakeimage
 israelhayom.co.il##.ad-unit-desktop.widget
 israelhayom.co.il##.ad-unit-side-container
+israelhayom.co.il##.col-lg-12.col > .single-post-inner-content__section > .row > .single-post-inner-aside__col.col
 israelhayom.co.il##.full_width.system-banner
 israelhayom.co.il##.ih-marketing-info-container
 israelhayom.co.il##.ih-marketing-item-container
@@ -1074,7 +1075,7 @@ israelhayom.co.il##.marketing-article
 israelhayom.co.il##.marketing_section
 israelhayom.co.il##.pane-ih-marketing-bxslider
 israelhayom.co.il##.pane-ih-marketing-nice-to-know
-israelhayom.co.il##.single-post-inner-aside__col.col
+israelhayom.co.il##.slick-initialized.campaign.posts-slider.slick-slider
 israelhayom.co.il##.top-adunit-section
 israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
