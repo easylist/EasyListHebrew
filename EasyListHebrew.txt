@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oSgQn78cn669O3P+ubJbTA
+! Checksum: Cv/A2iMLvr25XK7sNa2nwA
 ! Title: EasyList Hebrew
-! Last modified: 17 Sep 2026 14:55 UTC
+! Last modified: 17 Sep 2026 14:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1314,6 +1314,9 @@ sherut.net##._md.compAd_in
 sheva7.co.il##.desktop-display > .maavaron
 shironet.mako.co.il###playerAdArea
 shmua.com##.adsbygoogle
+shmua.com##.elementor-widget-html.elementor-widget.elementor-hidden-mobile.elementor-hidden-tablet.elementor-element-9ca9c92.elementor-element
+shmua.com##[href^="https://s.click.aliexpress.com/"]
+shmua.com##div[style="position:relative;width:720px;max-width:100%;margin:0 auto;overflow:hidden;"]
 shop.super-pharm.co.il##.item-box-link:has(.mabaya-disclaimer)
 sponser.co.il###unit_300x250_bottom
 sponser.co.il###unit_300x250_top
