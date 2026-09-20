@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: by1HQszZPVhnHX2L4DyY6g
+! Checksum: 8PK7T+ZHlJTbsmHfjJ5uqQ
 ! Title: EasyList Hebrew
-! Last modified: 20 Sep 2026 12:03 UTC
+! Last modified: 20 Sep 2026 12:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -668,6 +668,7 @@ blms.co.il#@#.addtitle
 c14.co.il,now14.co.il#@##taboola-below-article-thumbnails
 c14.co.il,now14.co.il#@#.share-zone
 callil.co.il#@##AdTop
+cellcom.co.il#@#.cookies-popup-wrapper
 ch10.co.il#@##fwdevpDiv0
 davidson.org.il#@##gnb
 holmesplace.co.il#@#.image-advertisement
