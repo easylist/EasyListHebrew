@@ -590,6 +590,8 @@ zoharajewels.com##*
 @@||jdn.co.il/wp-content/plugins/jdn_ads/js/info.css$stylesheet
 @@||jdn.co.il/wp-content/plugins/jdn_ads/js/info.js$script
 @@||kikar.co.il/js/ads.js
+@@||sdk.fra-02.braze.eu/api/$xhr,domain=www.mako.co.il
+@@||events.buballmighty.com/events/$xhr,domain=www.mako.co.il
 @@||kkl-jnf.org/files/banners/$image,domain=kkl-jnf.org|kkl.org.il
 @@||kkl-jnf.org^*/files/banners/$image,domain=kkl-jnf.org|kkl.org.il
 @@||kkl.org.il/files/banners/$image,domain=kkl-jnf.org|kkl.org.il
