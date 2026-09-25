@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +GElLu39B32dZQQYd0Rdyw
+! Checksum: vUmMejI2fs3HVLxdzKX3uw
 ! Title: EasyList Hebrew
-! Last modified: 25 Sep 2026 12:29 UTC
+! Last modified: 25 Sep 2026 12:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -45,7 +45,6 @@
 ||activated.co.il^$third-party
 ||adland.co.il^$third-party
 ||browsiprod.com^$third-party
-||buballmighty.com^$third-party
 ||clickon.co.il^$third-party
 ||erate.co.il^$third-party
 ||gitam.1host.co.il^$third-party
@@ -550,6 +549,7 @@ zoharajewels.com##*
 @@||bipbip.co.il/Style/Ads.css
 @@||biu.ac.il^*/stormcaster.js$script
 @@||biupress.co.il/files/banners/$image,~third-party
+@@||braze.eu/api/$xmlhttprequest,domain=mako.co.il
 @@||callil.co.il/content/Ads/$image,~third-party
 @@||cashyo.co.il/js/CookieJar.js$script,~third-party
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
@@ -562,7 +562,6 @@ zoharajewels.com##*
 @@||dmag.co.il/pub/shvii/*$script
 @@||elite-coffee.co.il/dw/image/*/banners/*_*x*?$image,~third-party
 @@||errors.snackly.co/_.gif|$xmlhttprequest,domain=ynet.co.il
-@@||events.buballmighty.com/events/$xmlhttprequest,domain=www.mako.co.il
 @@||frid.co.il/files/*/baner.$image,~third-party
 @@||frid.co.il/files/banners/$image,~third-party
 @@||galsiramataviv.co.il/files/banners/$image,~third-party
@@ -628,7 +627,6 @@ zoharajewels.com##*
 @@||s.vi-serve.com/source.m.js$script,domain=bizportal.co.il
 @@||s.vi-serve.com/tagLoader.js$script,domain=bizportal.co.il
 @@||sadanpublishing.co.il/files/banners/$image,~third-party
-@@||sdk.fra-02.braze.eu/api/$xmlhttprequest,domain=www.mako.co.il
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/gpt/$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/pagead/managed/$domain=13news.co.il|13tv.co.il
