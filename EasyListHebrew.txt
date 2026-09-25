@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YqJNiEcw+sSiUnySIXZTPw
+! Checksum: 35wwBcH/XoyfOcH5uoAazQ
 ! Title: EasyList Hebrew
-! Last modified: 25 Sep 2026 08:14 UTC
+! Last modified: 25 Sep 2026 08:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -307,7 +307,7 @@
 ||a7.org/*.html$subdocument,domain=inn.co.il
 ||a7.org/CDN/sdk
 ||a7.org/adblock/
-||a7.org/media$script,xhr
+||a7.org/media$script,xmlhttprequest
 ||a7.org/scripts/Maavaron.js
 ||dwnmedia.a7.org/inntv/media/
 ||info.a7.org^$domain=inn.co.il
@@ -328,7 +328,7 @@
 ?ref=$popup,third-party,domain=inn.co.il
 ?utm_source=banner&$popup,third-party,domain=inn.co.il
 ! * Srugim * !
-||api.srugim.co.il/v1/ads|$xhr
+||api.srugim.co.il/v1/ads|$xmlhttprequest
 ! * Kipa.co.il * !
 ||kipa.co.il/banner/
 ||kipa.co.il/minisites/go.asp$popup
@@ -343,7 +343,7 @@
 ||www.kikar.co.il/a/$subdocument
 ! * kore.co.il * !
 ||ext.kore.co.il/out/$script,domain=www.kore.co.il
-||www.kore.co.il/system/ad_manager/get_all_banners$xhr,domain=www.kore.co.il
+||www.kore.co.il/system/ad_manager/get_all_banners$xmlhttprequest,domain=www.kore.co.il
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
@@ -1048,6 +1048,7 @@ icar.co.il##.left_padding.topbanner2
 il.pcmag.com##.zad
 ilimudim.co.il###ads\.strip\.1
 infomed.co.il##.bottomBanners
+inn.co.il###articleContent > div[role="banner"]
 inn.co.il###banner-sticky
 inn.co.il###intext-1.sideInf
 inn.co.il###intext-2.sideInf
@@ -1058,7 +1059,6 @@ inn.co.il###intext-6.sideInf
 inn.co.il###intext-7.sideInf
 inn.co.il##.banner-BTF_LB.banner
 inn.co.il##.banner-BTF_MPU.banner
-inn.co.il###articleContent > div[role="banner"]
 inn.co.il##.banner-BTF_MPU_1.banner
 inn.co.il##.banner-story.banner
 inn.co.il##.banner-top
