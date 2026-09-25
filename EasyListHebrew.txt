@@ -343,7 +343,7 @@
 ||www.kikar.co.il/a/$subdocument
 ! * kore.co.il * !
 ||ext.kore.co.il/out/$script,domain=www.kore.co.il
-||www.kore.co.il/system/ad_manager/get_all_banners$xmlhttprequest,domain=www.kore.co.il
+||www.kore.co.il/system/ad_manager/get_all_banners$xhr,domain=www.kore.co.il
 ! * zap group * !
 ||ban.d-group.co.il/banners/$third-party
 ||cdn1.zoomanalytics.co/js$script,domain=zap.co.il
