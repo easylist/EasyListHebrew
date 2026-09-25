@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Fix minor syntax issues
+        run: python3 .github/scripts/adblockVerify.py EasyListHebrew.txt
+
       - name: Validate existing checksum
         id: validate_existing_checksum
         continue-on-error: true
@@ -41,6 +44,7 @@ jobs:
             echo "Checksum validation failed after update"
             echo "OPEN_ISSUE=true" >> $GITHUB_ENV
           fi
+
       - name: Run genhosts
         id: genhosts
         run: python3 .github/scripts/genhosts.py EasyListHebrew.txt

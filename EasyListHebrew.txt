@@ -307,7 +307,7 @@
 ||a7.org/*.html$subdocument,domain=inn.co.il
 ||a7.org/CDN/sdk
 ||a7.org/adblock/
-||a7.org/media$script,xmlhttprequest
+||a7.org/media$script,xhr
 ||a7.org/scripts/Maavaron.js
 ||dwnmedia.a7.org/inntv/media/
 ||info.a7.org^$domain=inn.co.il
@@ -328,7 +328,7 @@
 ?ref=$popup,third-party,domain=inn.co.il
 ?utm_source=banner&$popup,third-party,domain=inn.co.il
 ! * Srugim * !
-||api.srugim.co.il/v1/ads|$xmlhttprequest
+||api.srugim.co.il/v1/ads|$xhr
 ! * Kipa.co.il * !
 ||kipa.co.il/banner/
 ||kipa.co.il/minisites/go.asp$popup
