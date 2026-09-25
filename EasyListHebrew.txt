@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: w2+8g+HpjvJvJwdXkkTVRA
+! Checksum: 2WVjXENGm+uU4oDUJ6IN9w
 ! Title: EasyList Hebrew
-! Last modified: 25 Sep 2026 12:38 UTC
+! Last modified: 25 Sep 2026 12:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1023,6 +1023,10 @@ hm-news.co.il###sticky_banner_bottom_desktop
 hm-news.co.il###sticky_banner_bottom_mobile
 hm-news.co.il###top_banner_div
 hm-news.co.il##.container_ads_div
+hm-news.co.il##.hm-bottom-banner
+hm-news.co.il##.hm-card-md--sponsored-ad
+hm-news.co.il##.hm-catposts__bottom-ad
+hm-news.co.il##.hm-featured__banner
 homeless.co.il###board_middle_advert
 homeless.co.il###plasma_container
 homeless.co.il##.boardfooter_tr
