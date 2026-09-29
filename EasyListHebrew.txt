@@ -551,6 +551,7 @@ zoharajewels.com##*
 @@||bipbip.co.il/Style/Ads.css
 @@||biu.ac.il^*/stormcaster.js$script
 @@||biupress.co.il/files/banners/$image,~third-party
+@@||buballmighty.com/events/$xhr,domain=www.mako.co.il
 @@||callil.co.il/content/Ads/$image,~third-party
 @@||cashyo.co.il/js/CookieJar.js$script,~third-party
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
