@@ -38,6 +38,7 @@
 0.0.0.0 bumbalu-israel.com
 0.0.0.0 carsguys.co.il
 0.0.0.0 cglms.com
+0.0.0.0 clarity-il.com
 0.0.0.0 clickon.co.il
 0.0.0.0 clmbtrk.com
 0.0.0.0 cohenza-il.com
