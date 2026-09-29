@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: s2eipSRkeRpxepD99YmpIg
+! Checksum: RVSogOsq8f9GkFMCyqS0zQ
 ! Title: EasyList Hebrew
-! Last modified: 29 Sep 2026 14:21 UTC
+! Last modified: 29 Sep 2026 14:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -580,6 +580,7 @@ zoharajewels.com##*
 @@||imaot.co.il/Recipe/$xmlhttprequest
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=13news.co.il|13tv.co.il|bizportal.co.il|c14.co.il|calcalist.co.il|channel14.web-prd.immergo.tv|hamal.co.il|i24news.tv|maariv.co.il|mako.co.il|n12.co.il|now14.co.il|one.co.il|sheee.co.il|sport5.co.il|tech12.co.il|tvbee.co.il|walla.co.il|ynet.co.il
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=c14.co.il|channel14.web-prd.immergo.tv|i24news.tv|now14.co.il
+@@||imasdk.googleapis.com/pal/sdkloader/pal.js$script,domain=13news.co.il|13tv.co.il
 @@||info.a7.org/info/a7delivery_f.php$script,domain=inn.co.il
 @@||info.a7.org/info/delivery/lg*.php?$image,domain=inn.co.il
 @@||info.jdn.co.il/r/a7delivery_f.php?func=fLoadOne$script
