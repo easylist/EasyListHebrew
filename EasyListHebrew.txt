@@ -408,6 +408,7 @@ avoda-mehabait.co.il##*
 briut-chai.com##*
 bumbalu-israel.com##*
 carsguys.co.il##*
+clarity-il.com##*
 cohenza-il.com##*
 dana-telaviv.com##*
 ezra-il.com##*
