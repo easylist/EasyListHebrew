@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8mXdB+a75avbXOJJqZq/Ag
+! Checksum: h0TtAM6dFPJNNHWFWd194Q
 ! Title: EasyList Hebrew
-! Last modified: 14 Oct 2026 13:58 UTC
+! Last modified: 14 Oct 2026 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -333,6 +333,7 @@
 ! * Kipa.co.il * !
 ||kipa.co.il/banner/
 ||kipa.co.il/minisites/go.asp$popup
+||kipa.co.il/moodaot_cache.json$xmlhttprequest
 ||landing.kipa.co.il/?id=$popup
 ||moodaot.kipa.co.il/userFiles/moods/$subdocument
 ! * bhol.co.il * !
@@ -1130,6 +1131,7 @@ kipa.co.il##.sargelWarp
 kipa.co.il##[href^="https://moodaot.kipa.co.il/gomodaa.php"]
 kipa.co.il##[id^="p__"][id$="_Kipa_Native_kipa_native_1"]
 kipa.co.il##[id^="p__"][id$="_Kipa_Native_kipa_native_2"]
+kipa.co.il##[id^="p__"][id$="_Kipa_Native_kipa_native_3"]
 kipa.co.il##[id^="p__"][id$="_kipa_desktop_Article_1280x250_1"]
 kipa.co.il##[id^="p__"][id$="_kipa_desktop_Article_300x250_1"]
 kipa.co.il##[id^="p__"][id$="_kipa_desktop_Article_300x250_2"]
