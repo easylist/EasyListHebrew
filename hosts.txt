@@ -160,6 +160,7 @@
 0.0.0.0 stylebox.co.il
 0.0.0.0 talkahead.com
 0.0.0.0 tblcontent.com
+0.0.0.0 tfla.xyz
 0.0.0.0 tld.walla.co.il
 0.0.0.0 totalmedia2.ynet.co.il
 0.0.0.0 tracknotify.com
