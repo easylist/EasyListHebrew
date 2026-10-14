@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: h0TtAM6dFPJNNHWFWd194Q
+! Checksum: geKxyJ8oaCZHDft0COxpLw
 ! Title: EasyList Hebrew
-! Last modified: 14 Oct 2026 14:01 UTC
+! Last modified: 14 Oct 2026 14:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -849,6 +849,7 @@ calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
 13news.co.il,13tv.co.il##.tbl-next-up
 13news.co.il,13tv.co.il##.trc_rbox_container
 bizportal.co.il###ob-new-video-wrap
+bizportal.co.il##.nbc.inner_width > #below-page-thumbnails
 c14.co.il,now14.co.il##.trc_related_container.tbl-feed-card
 fxp.co.il##.OUTBRAIN
 gadgety.co.il###taboola-left-rail-thumbnails
