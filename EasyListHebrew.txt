@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zlnzUcQyodgKFy4nBJMIQA
+! Checksum: j0KCzmOcg5s4Ee8hxxvDKw
 ! Title: EasyList Hebrew
-! Last modified: 14 Oct 2026 14:08 UTC
+! Last modified: 14 Oct 2026 14:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1241,6 +1241,7 @@ n12.co.il##[href="https://www.mako.co.il/news-law_guide"]
 n12.co.il##[href^="/news-law_guide/"]
 n12.co.il##[src^="https://www.duns100.co.il/frame/hp3?"]
 n12.co.il,tech12.co.il##.with-bg.sponsor
+netek.co.il##.cVbTct.fCcWJU.sc-bShfyb.sc-bdnylx
 netex.co.il##.banner.b160x600
 newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
