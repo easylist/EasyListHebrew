@@ -96,6 +96,26 @@ mako.co.il##+js(aopw, upManager)
 www.mako.co.il##+js(aopw, upManager)
 !#endif
 mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
+!
+! mako: page can't be scrolled on mobile (stale scroll lock: body.overflow + touchmove/scroll handlers)
+mako.co.il##html body.overflow:style(overflow: auto !important)
+mako.co.il##+js(aeld, touchmove, overlay-scroll)
+mako.co.il##+js(aeld, scroll, {window.scrollTo)
+!
+! n12: empty ad placeholders left on the page
+!#if env_mobile
+n12.co.il##[class*="Maavaron_root__"]
+n12.co.il##[class*="AdComponent_mobile__"]
+n12.co.il##[class*="Ad_root__"]
+n12.co.il##[class*="Outbrain_root__"]
+!#endif
+!
+! political-match.n12.co.il: anti-adblock wall on mobile
+political-match.n12.co.il#@#+js(no-fetch-if, adsbygoogle)
+political-match.n12.co.il##+js(set, adsbygoogle, emptyArr)
+political-match.n12.co.il##+js(set, Array.prototype.loaded, true)
+@@||political-match.n12.co.il^$ghide
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=political-match.n12.co.il
 ! * C14 * !
 !#if env_mobile
 c14.co.il,now14.co.il##.fit-banner-size
