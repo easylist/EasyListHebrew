@@ -111,7 +111,6 @@ n12.co.il##[class*="Outbrain_root__"]
 !#endif
 !
 ! political-match.n12.co.il: anti-adblock wall on mobile
-political-match.n12.co.il#@#+js(no-fetch-if, adsbygoogle)
 political-match.n12.co.il##+js(set, adsbygoogle, emptyArr)
 political-match.n12.co.il##+js(set, Array.prototype.loaded, true)
 @@||political-match.n12.co.il^$ghide
