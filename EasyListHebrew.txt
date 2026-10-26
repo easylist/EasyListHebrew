@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2mhHwkGmSaTJ3+Bc9DG/Sw
+! Checksum: jNuVhKHVqPnp6ZR0WZYBXg
 ! Title: EasyList Hebrew
-! Last modified: 22 Oct 2026 21:32 UTC
+! Last modified: 26 Oct 2026 20:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1237,7 +1237,6 @@ morfix.co.il##div[class^="_leaderboardAd_"]
 morfix.co.il##div[class^="_sidebarAdDesktopOnly_"]
 motke.co.il##.sticky-top.fixed_banner
 n12.co.il##.ComponentTitle_titleContent__MeYqq > [href^="https://www.mako.co.il/news-med12"]
-n12.co.il##div[class^="Maavaron_root"]
 n12.co.il##.GenericDesktop_smallItems__6W7bu > article.TeaserManager_root__nRODt > .v025Desktop_root__EcTEG
 n12.co.il##.SpreadDesktop_root__TEKT8 > article.TeaserManager_root__nRODt > .v025Desktop_root__EcTEG
 n12.co.il##[box-title="חוק ומשפט"]
@@ -1246,6 +1245,7 @@ n12.co.il##[class^="Premium_root_"]
 n12.co.il##[href="https://www.mako.co.il/news-law_guide"]
 n12.co.il##[href^="/news-law_guide/"]
 n12.co.il##[src^="https://www.duns100.co.il/frame/hp3?"]
+n12.co.il##div[class^="Maavaron_root"]
 n12.co.il,tech12.co.il##.with-bg.sponsor
 netek.co.il##.cVbTct.fCcWJU.sc-bShfyb.sc-bdnylx
 netex.co.il##.banner.b160x600
