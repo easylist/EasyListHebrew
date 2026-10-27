@@ -93,7 +93,11 @@ ynet.co.il##^style#yitwall
 mako.co.il##+js(aopw, upManager)
 !#endif
 !#if env_mobile
-www.mako.co.il##+js(aopw, upManager)
+mako.co.il###overlay.overlay
+mako.co.il##html body.overflow:style(overflow: auto !important)
+mako.co.il##+js(aopw, upManager)
+mako.co.il##+js(aeld, touchmove, overlay-scroll)
+mako.co.il##+js(aeld, scroll, {window.scrollTo)
 !#endif
 political-match.n12.co.il##div[class*="blockedApp"]:style(display: contents !important;)
 political-match.n12.co.il##main[role="alert"]
