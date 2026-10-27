@@ -5,6 +5,7 @@ on:
     branches: [ "master" ]
     paths:
       - 'EasyListHebrew.txt'
+      - 'EasyListHebrew-uBO.txt'
 
 jobs:
   build:
@@ -21,12 +22,17 @@ jobs:
       - name: Fix minor syntax issues
         run: python3 .github/scripts/adblockVerify.py EasyListHebrew.txt
 
+      - name: Sort EasyListHebrew-uBO.txt
+        run: python3 .github/scripts/addChecksum.py EasyListHebrew-uBO.txt
+
       - name: Validate existing checksum
         id: validate_existing_checksum
         continue-on-error: true
         run: |
           if ! python .github/scripts/validateChecksum.py EasyListHebrew.txt; then
             echo "INVALID_CHECKSUM=true" >> $GITHUB_ENV
+          else
+            echo "OPEN_ISSUE=false" >> $GITHUB_ENV
           fi
 
       - name: Run checksum update

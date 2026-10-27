@@ -142,6 +142,11 @@ def sort_file(data):
 if __name__ == "__main__":
     with open(sys.argv[1], "r", encoding="utf-8") as f:
         data = f.read()
+    if len(sys.argv) > 2:
         data = addChecksum(sort_file(data))
-    with io.open(sys.argv[2], "w", newline="\n", encoding="utf-8") as f:
+        output_file = sys.argv[2]
+    else:
+        data = sort_file(data) + "\n"
+        output_file = sys.argv[1]
+    with io.open(output_file, "w", newline="\n", encoding="utf-8") as f:
         f.write(data)
