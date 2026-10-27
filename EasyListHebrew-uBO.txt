@@ -120,8 +120,8 @@ globes.co.il##+js(aopw, upManager)
 ! * Calcalist * !
 ||www.calcalist.co.il^$important,websocket,1p,domain=www.calcalist.co.il
 !
-||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2.png,domain=calcalist.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs:10,important,domain=calcalist.co.il
+||ad.doubleclick.net/favicon.ico?ad=$image,important,redirect=2x2.png,domain=calcalist.co.il
 !
 !#if !env_mobile
 calcalist.co.il##+js(aopw, upManager)
