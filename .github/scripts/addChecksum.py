@@ -136,7 +136,7 @@ def sort_file(data):
                             options[-1] = "domain=" + "|".join(sorted_domains)
                         line = url_name + "$" + ",".join(options)
                 lst.append(line + "\n")
-    return res.rstrip()
+    return res.rstrip() + "\n"
 
 
 if __name__ == "__main__":
@@ -146,7 +146,9 @@ if __name__ == "__main__":
         data = addChecksum(sort_file(data))
         output_file = sys.argv[2]
     else:
-        data = sort_file(data) + "\n"
+        data = sort_file(data)
         output_file = sys.argv[1]
+    if not data.endswith("\n"):
+        data += "\n"
     with io.open(output_file, "w", newline="\n", encoding="utf-8") as f:
         f.write(data)
