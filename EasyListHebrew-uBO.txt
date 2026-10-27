@@ -94,11 +94,11 @@ mako.co.il##+js(aopw, upManager)
 !#endif
 !#if env_mobile
 www.mako.co.il##+js(aopw, upManager)
+!#endif
 political-match.n12.co.il##div[class*="blockedApp"]:style(display: contents !important;)
 political-match.n12.co.il##main[role="alert"]
 political-match.n12.co.il##div[aria-label="טוען"]
 political-match.n12.co.il###mainBanner
-!#endif
 mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
 ! * C14 * !
 !#if env_mobile
