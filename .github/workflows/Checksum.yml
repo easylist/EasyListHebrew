@@ -19,32 +19,24 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Fix minor syntax issues
-        run: python3 .github/scripts/adblockVerify.py EasyListHebrew.txt
-
-      - name: Sort EasyListHebrew-uBO.txt
-        run: python3 .github/scripts/addChecksum.py EasyListHebrew-uBO.txt
-
       - name: Validate existing checksum
         id: validate_existing_checksum
         continue-on-error: true
         run: |
-          if ! python .github/scripts/validateChecksum.py EasyListHebrew.txt; then
+          if ! ./fop-linux -n --output-diff --validate-checksum=EasyListHebrew.txt; then
             echo "INVALID_CHECKSUM=true" >> $GITHUB_ENV
           else
             echo "OPEN_ISSUE=false" >> $GITHUB_ENV
           fi
 
-      - name: Run checksum update
+      - name: Run FOP Sort and Checksum Update
         if: ${{ env.INVALID_CHECKSUM == 'true' }}
         continue-on-error: true
         id: update_checksum
         run: |
-          tmpList=$(mktemp)
-          python3 .github/scripts/addChecksum.py EasyListHebrew.txt $tmpList
-          python3 .github/scripts/validateChecksum.py $tmpList
-          if [ $? -eq 0 ]; then
-            mv -f $tmpList EasyListHebrew.txt
+          ./fop-linux -n .
+          ./fop-linux -n --add-checksum=EasyListHebrew.txt
+          if ./fop-linux -n --output-diff --validate-checksum=EasyListHebrew.txt; then
             echo "OPEN_ISSUE=false" >> $GITHUB_ENV
           else
             echo "Checksum validation failed after update"

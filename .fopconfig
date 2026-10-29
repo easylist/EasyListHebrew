@@ -1,0 +1,24 @@
+# FOP Configuration File
+# Place in current directory or ~/.fopconfig
+
+# Skip commit prompt
+no-commit = true
+
+# Disable large change warning prompt for automated processing
+no-large-warning = true
+
+# Keep rules with no dot in domain (e.g. ||localhost^) without prompting
+ignore-dot-domains = true
+
+# Additional directories to ignore
+ignoredirs = node_modules,.git,.github
+
+# Additional files to ignore (comma-separated, partial names supported)
+ignorefiles = general.txt,IsraelList_first_rls.txt,hosts.txt,adguard_hosts.txt,.json,.backup,.bak,.swp,.gz
+
+[EasyListHebrew.txt]
+add-checksum = true
+add-timestamp = true
+
+[EasyListHebrew-uBO.txt]
+no-ubo-convert = true

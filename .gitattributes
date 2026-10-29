@@ -1,1 +1,4 @@
 *.txt linguist-language=AdBlock linguist-detectable  eol=lf
+fop-win.exe binary
+fop-linux binary
+fop-mac binary

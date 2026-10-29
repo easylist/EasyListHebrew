@@ -1,10 +1,4 @@
 #!/bin/bash
-tmpList=$(mktemp)
-python3 .github/scripts/addChecksum.py EasyListHebrew.txt $tmpList
-python3 .github/scripts/validateChecksum.py $tmpList
-if [ $? == 0 ] ; then
-  mv -f $tmpList EasyListHebrew.txt
-else
-  echo 'something went wrong'
-fi
+./fop-linux -n .
+./fop-linux -n --add-checksum=EasyListHebrew.txt
 python3 .github/scripts/genhosts.py EasyListHebrew.txt
