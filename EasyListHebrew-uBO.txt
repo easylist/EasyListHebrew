@@ -54,9 +54,7 @@ walla.co.il##+js(nostif, (), 1500)
 mail.walla.co.il#@#^script:has-text((window)}catch)
 mail.walla.co.il#@#^script:has-text(responseText)
 sheee.co.il,walla.co.il##+js(no-fetch-if, adsbygoogle)
-sheee.co.il,walla.co.il##^script:has-text((window)}catch)
-sheee.co.il,walla.co.il##^script:has-text(200===)
-sheee.co.il,walla.co.il##^script:has-text(responseText)
+sheee.co.il,walla.co.il##^script:has-text(/\(window\)\}catch|200===|responseText/)
 !
 /^(?![a-zA-Z0-9\-]+:\/+(api-mail|dal|dcx|isc|iscwne|walla-api|6days|animals|astrology|b|buzzit|calendar|cars|celebs|e|elections|euro|fashion|finance|food|forums|friends|fun|gaming|healthy|home|horoscope|judaism|kids|law|mag|mail|maps|marketing|mekomi|milon|movies|mundial|nadlan|news|nick|olympics|play|search|sheva7|special|sports|tags|tech|translate|travel|tv-guide|tv|usaelections|viva|vod|wallaplus|weather|www)\.walla\.co\.il\.?(\/|:|$))^[a-zA-Z0-9\-]+:\/+([a-zA-Z0-9\-]+\.)+walla\.co\.il\.?(\/|:|$)/$1p,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|gaming.walla.co.il|healthy.walla.co.il|home.walla.co.il|horoscope.walla.co.il|judaism.walla.co.il|kids.walla.co.il|law.walla.co.il|mag.walla.co.il|maps.walla.co.il|marketing.walla.co.il|mekomi.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|play.walla.co.il|search.walla.co.il|sheva7.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|wallaplus.walla.co.il|weather.walla.co.il|www.walla.co.il
 /^(?![a-zA-Z0-9\-]+:\/+www\.(walla(news|shops|tours|art|print)|hamal|sheee)\.co\.il\.?(\/|:|$))^[a-zA-Z0-9\-]+:\/+([a-zA-Z0-9\-]+\.)+(walla(news|shops|tours|art|print)|hamal|sheee)\.co\.il\.?(\/|:|$)/$3p,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|gaming.walla.co.il|healthy.walla.co.il|home.walla.co.il|horoscope.walla.co.il|judaism.walla.co.il|kids.walla.co.il|law.walla.co.il|mag.walla.co.il|maps.walla.co.il|marketing.walla.co.il|mekomi.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|play.walla.co.il|search.walla.co.il|sheva7.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|wallaplus.walla.co.il|weather.walla.co.il|www.walla.co.il
@@ -99,8 +97,8 @@ mako.co.il##+js(aeld, touchmove, overlay-scroll)
 mako.co.il##+js(aopw, upManager)
 mako.co.il##html body.overflow:style(overflow: auto !important)
 !#endif
-mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
 political-match.n12.co.il###mainBanner
+mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
 political-match.n12.co.il##div[aria-label="טוען"]
 political-match.n12.co.il##div[class*="blockedApp"]:style(display: contents !important;)
 political-match.n12.co.il##main[role="alert"]
@@ -213,13 +211,13 @@ www.dtown.co.il##[id^="iv-gpt-ad-"]
 htmag.co.il##.ads-block
 !#endif
 ! * FoodsDictionary * !
-@@||foodsdictionary.co.il/static/$1p,xhr
-@@||foodsdictionary.co.il^$ghide
 foodsdictionary.co.il###bottom-ad-stick-container
 foodsdictionary.co.il###towerBanner.left-banner
 foodsdictionary.co.il###towerBanner.right-banner
 foodsdictionary.co.il##+js(no-fetch-if, adsbygoogle)
 foodsdictionary.co.il##.gpt-ad-container
+@@||foodsdictionary.co.il/static/$1p,xhr
+@@||foodsdictionary.co.il^$ghide
 !#if env_mobile
 foodsdictionary.co.il###bottom-ad-stick
 !#endif
@@ -330,7 +328,7 @@ www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathen
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##section:is([data-testid="michelangelo-list"],[data-testid="Donatello-list"]):has(> article > a:is([href*="doubleclick"],[data-google-interstitial]))
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##section[data-testid="Butthead-list"]:has(> .advert)
 !
-@@*googlesyndication*/pagead/js/adsbygoogle.js$domain=www-haaretz-co-il.eu1.proxy.openathens.net|www-themarker-com.eu1.proxy.openathens.net
+@@googlesyndication*/pagead/js/adsbygoogle.js$domain=www-haaretz-co-il.eu1.proxy.openathens.net|www-themarker-com.eu1.proxy.openathens.net
 !
 !-----------------------------------------------------------------------------!
 !

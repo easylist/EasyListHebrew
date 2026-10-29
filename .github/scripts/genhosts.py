@@ -26,8 +26,9 @@ with open(argv[1], "r", encoding="utf-8") as f:
         ) or line.endswith("##*"):
             for filter in endswith_filters:
                 if line.endswith(filter) and "*" not in line[:-1]:
-                    domain = line.replace(filter, "").replace("||", "")
-                    domains.add(domain)
+                    clean_domain = line.replace(filter, "").replace("||", "")
+                    domains.update(d.strip() for d in clean_domain.split(",") if d.strip())
+                    break
 
 domains = list(domains)
 domains.sort()
