@@ -1,4 +1,5 @@
 #!/bin/bash
+python3 .github/scripts/addChecksum.py EasyListHebrew-uBO.txt
 tmpList=$(mktemp)
 python3 .github/scripts/addChecksum.py EasyListHebrew.txt $tmpList
 python3 .github/scripts/validateChecksum.py $tmpList

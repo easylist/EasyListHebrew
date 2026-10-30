@@ -1,5 +1,6 @@
 @echo off
 cd %~p0
+python .github\scripts\addChecksum.py EasyListHebrew-uBO.txt
 python .github\scripts\addChecksum.py EasyListHebrew.txt TempList.txt
 python .github\scripts\validateChecksum.py TempList.txt
 IF ERRORLEVEL 1 GOTO errorHandling
