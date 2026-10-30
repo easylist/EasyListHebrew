@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wapg8HJihsFnitdfe+eUDA
+! Checksum: bucKZbrelTKyf0BCDmzxTQ
 ! Title: EasyList Hebrew
-! Last modified: 30 Oct 2026 11:17 UTC
+! Last modified: 30 Oct 2026 11:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1382,6 +1382,7 @@ start.co.il###topbanner
 story.mako.co.il##.force-grid--OTzU3.nowrap--GEyTM.stretch-items--cwQWg.box--pgS7m
 takdin.co.il##.mainUpperBanner
 techtime.co.il##.header-banners.row
+tgspot.co.il##.adsense-placeholder
 tgspot.co.il##.td-adspot-title-320
 thecage.co.il##.banner-box
 theindex.co.il##.ti-ads-slot
