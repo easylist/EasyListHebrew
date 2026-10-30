@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BKMlrdACVhLCabePAQ5JQg
+! Checksum: Es63oiQnnZsOYY5h8e8yww
 ! Title: EasyList Hebrew
-! Last modified: 28 Oct 2026 08:52 UTC
+! Last modified: 30 Oct 2026 10:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -762,11 +762,9 @@ m.one.co.il##[id*="_ucAdMiddleArticle_"]
 m.sponser.co.il##.gpt-slot
 m.sponser.co.il##body > div[data-widget-id="READNXT_1"]:has(> div[data-adpath*="Sticky_Footer"])
 m.sport5.co.il##.ad
-mako.co.il##div[class^="Maavaron_rootFixed__"]
 mivzakim.net##.adcontainer
 mobile.mako.co.il##.adArticle
 mobile.mako.co.il##.adv
-mobile.mako.co.il,www.mako.co.il##[class^="Maavaron_root"]
 mobile.srugim.co.il##[class^="Banner_Wrap"]
 motke.co.il##.mobile_top_banner
 mynet.co.il##.MynetHeaderMobileComponenta
@@ -1204,15 +1202,16 @@ mako.co.il##.bannerClose
 mako.co.il##.mako_main_portlet_container > a[target="_blank"] > img
 mako.co.il##.pzm_banners
 mako.co.il##.sidebar_pic
-mako.co.il##[class*="Premium_root_"]
 mako.co.il##[class*="_premiumWrapperElement"]
-mako.co.il##[class^="Ad_root_"]
-mako.co.il##[class^="Maavaron_rootFixed"]
 mako.co.il##[href^="https://adclick.g.doubleclick.net/"]
 mako.co.il##[src="https://img.mako.co.il/2023/03/12/rosh.gif"]
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
 mako.co.il##div[id^="top-strip"]
 mako.co.il##iframe[src*="javascript:document.write('"]
+mako.co.il,n12.co.il##[class*="Ad_root"]
+mako.co.il,n12.co.il##[class*="Maavaron_root"]
+mako.co.il,n12.co.il##[class*="Outbrain_root"]
+mako.co.il,n12.co.il##[class*="Premium_root"]
 makorrishon.co.il##.mkr_adunit
 masa.co.il##.firsomet
 masa.co.il##.google-ad-links-wrapper
@@ -1242,11 +1241,9 @@ n12.co.il##.GenericDesktop_smallItems__6W7bu > article.TeaserManager_root__nRODt
 n12.co.il##.SpreadDesktop_root__TEKT8 > article.TeaserManager_root__nRODt > .v025Desktop_root__EcTEG
 n12.co.il##[box-title="חוק ומשפט"]
 n12.co.il##[class^="AdComponent_"]
-n12.co.il##[class^="Premium_root_"]
 n12.co.il##[href="https://www.mako.co.il/news-law_guide"]
 n12.co.il##[href^="/news-law_guide/"]
 n12.co.il##[src^="https://www.duns100.co.il/frame/hp3?"]
-n12.co.il##div[class^="Maavaron_root"]
 n12.co.il,tech12.co.il##.with-bg.sponsor
 netek.co.il##.cVbTct.fCcWJU.sc-bShfyb.sc-bdnylx
 netex.co.il##.banner.b160x600

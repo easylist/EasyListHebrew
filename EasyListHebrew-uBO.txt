@@ -100,6 +100,13 @@ mako.co.il##+js(aopw, upManager)
 mako.co.il##html body.overflow:style(overflow: auto !important)
 !#endif
 mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
+!
+!#if env_mobile
+@@||political-match.n12.co.il^$ghide
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=political-match.n12.co.il
+political-match.n12.co.il##+js(set, Array.prototype.loaded, true)
+political-match.n12.co.il##+js(set, adsbygoogle, emptyArr)
+!#endif
 political-match.n12.co.il###mainBanner
 political-match.n12.co.il##div[aria-label="טוען"]
 political-match.n12.co.il##div[class*="blockedApp"]:style(display: contents !important;)
