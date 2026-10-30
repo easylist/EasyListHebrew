@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Es63oiQnnZsOYY5h8e8yww
+! Checksum: W+Vonk/6i4+i8xE3TCwqNg
 ! Title: EasyList Hebrew
-! Last modified: 30 Oct 2026 10:51 UTC
+! Last modified: 30 Oct 2026 11:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -762,6 +762,7 @@ m.one.co.il##[id*="_ucAdMiddleArticle_"]
 m.sponser.co.il##.gpt-slot
 m.sponser.co.il##body > div[data-widget-id="READNXT_1"]:has(> div[data-adpath*="Sticky_Footer"])
 m.sport5.co.il##.ad
+mako.co.il,n12.co.il##[class*="AdComponent_mobile_"]
 mivzakim.net##.adcontainer
 mobile.mako.co.il##.adArticle
 mobile.mako.co.il##.adv
