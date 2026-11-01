@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: y3qAFLZ+DizSuXR8QYYDTg
+! Checksum: KKJXJkifRiQr8SZt7V5UAw
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2026 13:48 UTC
+! Last modified: 01 Nov 2026 13:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1265,6 +1265,7 @@ news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
 newsnow.co.il##.text-center.adv_mevzakim.adv.callout
 newsnow.co.il##.text-center.adv_posts_top.adv.callout
+newsnow.co.il##div[style^="position: fixed; display: flow-root; z-index: 1000;"][style$="height: 618px; background: none; transition: right 0.5s ease-in-out 1s"]
 note.co.il##.ado
 nrg-co-il.makorrishon.co.il,www.makorrishon.co.il###bLColumnText.small
 nrg-co-il.makorrishon.co.il,www.makorrishon.co.il###bRColumnText.small
