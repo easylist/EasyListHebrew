@@ -101,8 +101,8 @@ mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
 !#if env_mobile
 @@||political-match.n12.co.il^$ghide
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=political-match.n12.co.il
-political-match.n12.co.il##+js(set, Array.prototype.loaded, true)
 political-match.n12.co.il##+js(set, adsbygoogle, emptyArr)
+political-match.n12.co.il##+js(set, Array.prototype.loaded, true)
 !#endif
 political-match.n12.co.il###mainBanner
 political-match.n12.co.il##div[aria-label="טוען"]
@@ -333,7 +333,7 @@ www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathen
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##section:is([data-testid="michelangelo-list"],[data-testid="Donatello-list"]):has(> article > a:is([href*="doubleclick"],[data-google-interstitial]))
 www-haaretz-co-il.eu1.proxy.openathens.net,www-themarker-com.eu1.proxy.openathens.net##section[data-testid="Butthead-list"]:has(> .advert)
 !
-@@*googlesyndication*/pagead/js/adsbygoogle.js$domain=www-haaretz-co-il.eu1.proxy.openathens.net|www-themarker-com.eu1.proxy.openathens.net
+@@googlesyndication*/pagead/js/adsbygoogle.js$domain=www-haaretz-co-il.eu1.proxy.openathens.net|www-themarker-com.eu1.proxy.openathens.net
 !
 !-----------------------------------------------------------------------------!
 !
