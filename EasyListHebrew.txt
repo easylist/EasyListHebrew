@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KKJXJkifRiQr8SZt7V5UAw
+! Checksum: fA3EnXbvHWfdYKLUw4PnJw
 ! Title: EasyList Hebrew
-! Last modified: 01 Nov 2026 13:50 UTC
+! Last modified: 1 Nov 2026 22:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -189,7 +189,7 @@
 !
 |blob:$~script,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
-||walla.co.il^$websocket,~third-party,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
+||walla.co.il^$~third-party,websocket,domain=6days.walla.co.il|animals.walla.co.il|astrology.walla.co.il|b.walla.co.il|buzzit.walla.co.il|calendar.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|euro.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|forums.walla.co.il|fun.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|kids.walla.co.il|mag.walla.co.il|maps.walla.co.il|milon.walla.co.il|movies.walla.co.il|mundial.walla.co.il|nadlan.walla.co.il|news.walla.co.il|nick.walla.co.il|olympics.walla.co.il|search.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|translate.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|tv.walla.co.il|usaelections.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
 !||walla.co.il^$csp=script-src 'self' * blob: data: 'unsafe-inline',domain=animals.walla.co.il|b.walla.co.il|buzzit.walla.co.il|cars.walla.co.il|celebs.walla.co.il|e.walla.co.il|elections.walla.co.il|fashion.walla.co.il|finance.walla.co.il|food.walla.co.il|healthy.walla.co.il|home.walla.co.il|judaism.walla.co.il|mag.walla.co.il|movies.walla.co.il|nadlan.walla.co.il|news.walla.co.il|sports.walla.co.il|tags.walla.co.il|tech.walla.co.il|travel.walla.co.il|tv-guide.walla.co.il|viva.walla.co.il|vod.walla.co.il|weather.walla.co.il|www.walla.co.il
 !
@@ -222,17 +222,17 @@
 !/^(?![a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|staticfile|telegram|telegram-cdn|cdn-telegram|openstreetmap|openfreemap|wmflabs|wikimapia|wikimedia|wikipedia|wiktionary|wikisource|wikiquote|wikibooks|wikivoyage|wikiversity|wikinews|wikidata|mediawiki|w3|schema|js|archive|mozilla|chromium|documentcloud|w|mathjax|pannellum|themoviedb|tmdb|muses|npr|nprapps|learningapps|weatherwidget|openweathermap|lightningmaps|openskimap|openseamap|openrailwaymap|openbusmap|gigapan|framatube|simpleicons|gamemonkey|opensubtitles|chess|lichess|geogebra|diasporafoundation|joinmastodon|joinpeertube|discourse|matrix|f-droid|codelutin|fosstodon|libravatar|gnu|creativecommons|eff|icann|iana|ietf|apache|opensource|fsf|iso|ntp|ipify|privacy-center|cookielaw|featuregates|featureassets|cleantalk|squarewebsites|donorbox|walletlink|walletconnect|bnbchain|bitcoin|ethereum|litecoin|cdn77|userway|axorigin|allaccessible|accessibilityserver|wp-accessibility|wordpress-accessibility|widgetlogic|responsivevoice|consensu|mediamatters|ghostarchive|aomedia|xiph|osuosl|keepandroidopen|jotti|ap|pbs|pbskids|wnyc|500px|stepik|librivox|ghostarchive|pythonhosted|pypi|example|emojigraph|uploadimage|postimages|postimage|imgsafe|4chan|4channel|4cdn|wikileaks|ourworldindata|unesco|un|olympic|worldathletics|iaaf|fina|c-span|c-spanvideo|nobelprize|britishmuseum|gutenberg|doi|arxiv|scirp|slashdot|bbbprograms|carlogos|ansi|google|toolforge|browser-update|ipv6-il|givingtech|israeltoremet|tengav|emun|israeliarchaeology|mechon-mamre|sefaria|benyehuda|shimur|tami-il|kkl-jnf|jewishagency|thekotel|yadvashem|yadlabanim|mdais|shamir|hatzala|covid19maps|coronaisrael)\.org\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !/^(?![a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|googleoptimize|googlehosted|withgoogle|jquery|youtube|youtubekids|youtube-nocookie|ytimg|facebook|fbsbx|threads|x|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|bendingspoons|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|tiktok|tiktokcdn|tiktokcdn-us|tiktokcdn-eu|tiktokv|ttwstatic|muscdn|ibytedtos|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|cdnfonts|fonts|image-maps|unpkg|cdnjs|cloudflare|cloudflarestream|pacloudflare|bootstrapcdn|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|githubassets|aspnetcdn|azure|amazonaws|awswaf|elasticbeanstalk|bunnycdn|vercel-storage|vercel-dns|vercel-dns-016|vercel-dns-017|akamai|ubncloud|digitaloceanspaces|cloudwaysapps|serverable|your-objectstorage|herokuapp|herokudns|rackcdn|raxcdn|lwcdn|wpmucdn|vultrobjects|filestackcontent|npmcdn|netlify|wasabisys|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|fluidplayer|jasperplayer|radiantmediatechs|wowza|streamable|streamtheworld|mixcloud|coub|bigcommand|bandcamp|bcbits|spotify|spotifycdn|byspotify|omnystudio|omnycontent|iheart|spreaker|speakerdeck|podbean|buzzsprout|rss|simplecast|simplecastaudio|simplecastcdn|pinecast|acast|art19|redcircle|libsyn|audioboom|typlog|cdnstream1|tritondigital|podtail|podchaser|podkite|tunein|stitcher|listennotes|castos|justcast|radiopublic|blogtalkradio|podfollow|harkaudio|changelog|smashnotes|apple|cdn-apple|applemediaservices|mzstatic|icloud|deezer|tidal|audiomack|nobexpartners|podtrac|chtbl|sermonaudio|soundhelix|audio|vocaroo|embedsocial|embedly|iframely|widgetic|commoninja|snapwidget|thinglink|infogram|highcharts|barchart|chartbrick|chartblocks|amcharts|tableau|deepnote|airtable|powerbi|powerapps|visualstudio|outlook|office|windows|thesourcemediaassets|dynamics|printfriendly|algolianet|zakeke|vroptimal-3dx-assets|unrealengine|babylonjs|vectary|sketchfab|vntana|printables|imajize|cappasity|gravatar|unisvg|simplesvg|svgur|svgshare|svgrepo|vecteezy|imgur|imgflip|gifer|gfycat|otagifs|gifglobe|lottiefiles|lottielab|lordicon|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|fastcomments|graphcomment|intensedebate|hyvor|vuukle|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|carto|cartocdn|mapy|scribblemaps|felt|locatedmap|snazzymaps|qrserver|hcaptcha|raincaptcha|ted|tedcdn|kickstarter|riddle|strawpoll|surveymonkey|yelp|9gag|9cache|depositphotos|rawpixel|unsplash|freepik|imageshack|imgdd|pastebin|desmos|gitlab|githack|rawgit|rawgithub|ghbtns|knockoutjs|gridstackjs|ravenjs|chess|liveleak|ign|ignimgs|365scores|pressreader|calameo|3dissue|typeset|heyzine|substack|substackcdn|blogger|blogspot|blogblog|wordpress|wp|wpcomstaging|wpengine|wpenginepowered|wpeproxy|videopress|wptavern|vamtam|zapwp|themeruby|livejournal|googlegroups|googlesource|googleusercontent|googlevideo|ggpht|supabase|noembed|appspot|firebaseio|firebaseapp|libring|taggbox|addtoany|addthisevent|addevent|addtocalendar|onesignal|tinypass|stripe|stripecdn|paddle|paypal|paypalobjects|amazon|payments-amazon|ssl-images-amazon|media-amazon|media-imdb|imdb|a2z|ebay|ebayimg|microsoft|microsoftonline|s-microsoft|msftconnecttest|live|bing|msn|aol|yahoo|yimg|yahooapis|yahoosandbox|duckduckgo|yandex|usemessages|hubspot|hsforms|hs-banner|hs-scripts|optimizely|visualwebsiteoptimizer|optimole|exactdn|baqend|publicnode|nitrocdn|webflow|vidzflow|rtlcss|tailwindcss|typography|typotheque|typenetwork|webtype|fontshare|lightwidget|elfsight|elfsightcdn|ezojs|ezodn|ezoic|emote|mailerlite|mailmunch|mailchimp|chimpstatic|mcusercontent|list-manage|typeform|convertbox|tiqcdn|brightspotcdn|coveo|zoho|zohopublic|zohocdn|opecloud|nextchats|zapier|queryly|remixd|sparemin|auth0|windy|ventusky|theweather|weather|accuweather|theweathernetwork|wunderground|sat24|windfinder|rainviewer|uvlens|weatherapi|forecast7|holfuy|surfline|bookcdn|travelriskmap|tripadvisor|tacdn|jscache|rumble|odysee|bitchute|truthsocial|polymarket|kalshi|twilio|gettyimages|prnewswire|rudderstack|upcloudlb|cloudup|box|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|youbora|soundcharts|radiojar|musicradio|mytuner-radio|live365|genius|aaplimg|wsimg|placeholder|twitcount|flipboard|geoproapp|timezonedb|timeanddate|momentjs|statcounter|ko-fi|buymeacoffee|gofundme|fundraiseup|mightycause|indiegogo|patreon|onetrust|trustarc|cookiepro|cookieinfoscript|cookiebot|cookiefirst|cookiereports|cookie-script|cookieyes|cdn-cookieyes|privacy-mgmt|consentframework|consentik|gatekeeperconsent|consentmo|termsfeed|clarip|13privacy|evidon|cassiecloud|ketchjs|ketchcdn|transcend-cdn|iabtechlab|variantnow|contentful|pusher|pushio|doofinder|telerik|five9|multiscreensite|ip-api|userapi|wtfismyip|transparenttextures|vk|flagsapi|flagcdn|verint-cdn|weglot|plugilo|eye-able|audioeye-services|sunbreak|alchemy|instatus|intercomcdn|intercomassets|walletconnect|moonpay|liberapay|libre-entreprise|spreedly|airwallex|klarnaservices|afterpay|squarecdn|quizlet|proprofs|educaplay|jotform|wufoo|youform|asana|mentimeter|fillout|pollforall|polldaddy|123formbuilder|pinpoll|mixpanel|poll-maker|metabaseapp|formstack|eloqua|ipstack|hostingersite|onrender|contentstack|scene7|adobeaemcloud|assetsadobe|assetsadobe2|adobe|adobedtm|shockwave|nasawestprime|milestoneinternet|halosecurity|weebly|editmysite|squarespace|squarespace-cdn|sqspcdn|imagizer|design-editor|website-files|wistia|posthog|intuit|cquotient|zendesk|zdassets|marketo|mktoedge|livefyre|pushwoosh|sumo|sumome|chatango|chilipiper|bytecdntp|likebtn|bitly|tinyurl|radarbox|radarbox24|avionio|ipcamlive|speedtestcustom|nperf|fast|openspeedtest|framer|framerusercontent|framerstatic|figma|loom|miro|medium|canva|plattar|autodesk360|genially|anyflip|fliphtml5|flippingbook|flipbooklets|fwdeveryone|yumpu|publuu|commaful|whimsical|everviz|vizhub|supademo|trello|replit|usehexus|stackblitz|jsitor|codeply|miniextensions|mindmeister|piktochart|excalidraw|theysaidso|nearpod|milanote|tickcounter|momindum|panopto|archilogic|showme|qualifioapp|prezi|sutori|haikudeck|relayto|mote|powtoon|alugha|animoto|descript|rumbletalk|ellie-app|grain|zight|sketch|pitch|slides|slideslive|docswell|figshare|ceros|scribehow|globo|naver|kakao|sooplive|videoask|vidmount|vdocipher|dyntube|okitube|dreambroker|storyprompt|screen9|dacast|vbox7|kinomap|voxsnap|gmetri|mpembed|360stories|f4map|matterport|blockadelabs|sketchup|shapespark|seekbeak|roomvo|momento360|calendly|acuityscheduling|tockify|amuselabs|zingsoft|zingchart|circuitlab|altium|wolframcloud|flocus|screenpal|screencast|jumpshare|vouchfor|usablenet|socialexplorer|trustugc|contra|weekendsuperheroes|musicboxmaniacs|songkick|bandsintown|laylo|tiqets|cooltix|vivenu|resmio|travelpayouts|bookingmood|booking|bstatic|shopify|shopifycdn|shopifyapps|shopifysvc|myshopify|pricespider|commercegurus|sibforms|sheetsu|podium|bynder|formilla|qualtrics|opsshield|trustedsite|searchstax|buttercms|brevo|storyblok|unlayer|widgetwhats|powrcdn|getscrolly|voiceflow|flockler|odoo|ondemand|vidyard|q4web|q4inc|q4app|q4cdn|quotemedia|marsflag|wallst|euroland|eurolandir|issuerdirect|accesswire|globenewswire|site|force|salesforce|salesforce-scrt|salesforceliveagent|livechatinc|virtualspirits|freshchat|manychat|velaro|zopim|chatsqueeze|dfktv2|usersnap|braze|braze-images|icons8|magnific|iconfinder|iconarchive|iconscout|flaticon|linearicons|iconlogovector|companieslogo|logowik|kindpng|pngitem|pngplay|gamepix|gamezhero|gameboss|addictinggames|funhtml5games|gamedistribution|monsteraplay|sportradar|thesports|thesportsdb|statscore|sitesearch360|livesetar|hebcal|fontsproject|cdn-website|l7cdn|investing|tradingview|tradingview-widget|cloudinary|gigya|kaltura|openweb|waze|monday|barilliance|simplerstory|opinionstage|univtec|fastsimon|instantsearchplus|summurai|speedsize|animaapp|webydo|elementor|mogidigital|base44|wix|wixanswers|wixappcloud|wixstatic|wix-code|commentsplugin|parastorage|filesusr|usrfiles|treedis|emalogic|voicespin|slickstream|exiteme|hypemarks|tintup|sirv|ogols|kolsquare|superfiliate-cdn|layouthub|launchdarkly|ecal|blockifyapp|ordersify|webframez|merchantyard|optnmnstr|better-replay|swymrelay|sealsubscriptions|automizely|videowise|slideruletools|uncomplicatedapps|powertoolsapp|omegatheme|thanhhd|thron|staqlab|staq-cdn|mybcapps|meetanshi|kiwisizing|searchserverapi1|upsell-apps|upsell|reconvert|kaktusapp|parcelpanel|inscoder|trustpilot|rebuyengine|planifyx|dnsdevs|myconvermax|cnstrc|privy|perzonalization|zigpoll|enkomion|omegacommerce|orichicommerce|entanglecommerce|wayvia|robinhq|eveyevents|opinew|gravity-software|addify-app|addigitech|visualquizbuilder|littlebesidesme|getuploadkit|klaviyo|klaviyomail|attribuly|callnowbutton|nowbuttons|yeshlead|config-security|signature-it|uvcdn|ultimedia|gosimian|medibang|disney|ibm|samsung|ifixit|w3schools|jqueryui|trackjs|helpcrunch|powerreviews|productboard|revenuehunt|vumbnail|adscale|moddb|steampowered|steamstatic|steamcommunity|steamusercontent|epicgames|gog|gog-statics|ea|playstation|xbox|xboxservices|nintendo|discord|discordapp|gifyourgame|bilibili|iq|youku|sohu|163|gtimg|qcloud|cdngslb|aliyuncs|alicdn|aliexpress|aliexpress-media|alibaba-inc|alibaba|temu|kwcdn|govx|gettr|gab|minds|mewe|parler|slideplayer|tryjumbo|enormapps|roseperl|bazaarvoice|parcelwill|route|blocky-app|oxiapps|li-apps|reputon|uppromote|carthike|1worldsync|ecomsend|hextom|foursixty|fireworktv|fwcdn3|swaven|qualquantsignals|seoant|searchgro|rtl-master|langwill|gropulse|kilatechapps|sense-apps|demandforapps|goaffpro|xotiny|mycliplister|salesdish|cdn-zeptoapps|okasconcepts|codeblackbelt|pop-convert|autopilotapp|appcontx|useamp|easyappsecom|minmaxify|visually-io|kimonix|qikify|nfcube|quizell|feelter|comix-flow|gotolstoy|dynamic-number|bridgeupp|yotpo|breadpayments|betterstackdata|soundestlink|omnisendlink|omnisnippet1|msgsndr|leadconnectorhq|magicetl|fastbase|pxucdn|seguno|zotabox|optimonk|omappapi|popupsmart|priorityconnector|shutterstock|wfolio|openai|jobvite|ticketmaster|wolt|dhl|ups|nasdaq|nyse|euronext|londonstockexchange|financial|xe|coinmarketcap|dogecoin|allmylinks|buzzfeed|digg|stumbleupon|mix|getpocket|firefoxusercontent|firefox|opera|operacdn|chrome|android|virustotal|jscrambler|godaddy|feedly|feedburner|phpbb|whatsapp|snapchat|bdbphotos|thetvdb|netflix|nflxext|cnet|cnevids|voanews|bbc|cnn|go|abcnews|cbsnews|nbcnews|msnbc|cnbc|nytimes|nyt|washingtonpost|thehill|inquirer|today|usatoday|bloomberg|wsj|nypost|foxnews|foxbusiness|espn|eurosport|fifa|uefa|conmebol|copaamerica|concacaf|mlssoccer|cafonline|nba|wnba|nfl|mlb|mlbstatic|nhl|nhle|hockeydb|trillertv|turner|sinclairstoryline|scrippsdigital|6abc|abc7|abc7chicago|abc7news|abc7ny|abc11|abc13|abc30|nbcbayarea|nbcboston|nbcchicago|nbcconnecticut|nbcdfw|nbclosangeles|nbcmiami|nbcnewyork|nbcphiladelphia|nbcsandiego|nbcwashington|kcentv|newscentermaine|fresnobee|rttv|rt|dw|hotstar|mobygames|snopes|wikihow|fandom|quora|stackexchange|stackoverflow|wiley|nature|springernature|sciencedirect|sciencedirectassets|cell|thelancet|bmj|mixer|metacafe|mcstatic|xkcd|reactiongifs|gifbin|gif-finder|gifyu|makeagif|kym-cdn|gyazo|prntscr|tinypic|photobox|photobucket|imgbox|imagebam|deviantart|dmca|mtvnservices|cc|tmz|example|anticlickfraudsystem|clixtell|bugsnag|zoro|eyefeelit|moovit|kayma|kayma-dashboards|kayma-insights|kapow-solutions|kampyle|vicomi|colbass|cincopa|avplayer|vidnt|peer5|minute-ly|minutemediacdn|mmvideocdn|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|vidazoo|cloudvideoplatform|dxmcdn|dxmdp|reblaze|rbzdns|loglig|hunchbots|sphereup|poloriz|applicaster|appsflyer|cloudwm|cloudwm-waf|negishim|go-accessibility|accessibe|accessibeapp|acsbap|acsbapp|vollotech|mk-sense|user1st|allyable|equalweb|tabnav|usrwy|magixite|purple-lens|skynettechnologies|glassix|rabbicdn|storycards|shortaudition|yit|vangus-cdn|hoverlead|flashyapp|tranzila|paymeservice|payplus|ownid|membitbot|texterchat|anita24|sitesbrain|kal-ai|frontcld|kedailabs|tukiai|fugu-it|fouita|nanorep|nixale|walkme|humanz|pulseem|doali|weezmo|affiracle|archive-digger|vee-crm|vevocrm|global-e|rise-ai|moonshot-ai|repuso|thereviewsplace|conversionbear|bumpyardpro|nowdialogue|voice-able|heilasystems|hiclient|rexail|self-point|bestfreecdn|dwhitelabel|selectika|loadmill|f-static|cdn-files-a|trvdp|segmanta|peach-in|charidy|jgive|gogeev|hamonym|webiya|radware|perfdrive|ngsoft|bamboo-cloud|bamboo-video|beaverglobal|tzur|eventim|coupony|adtiny|web2application|wobily|mini-sites|my-lp|activetrail|fortvision|fortcdn|myrepai|entagy|webdnawp|arboxapp|tourisify|simplex-ltd|mekomiweb|eshuv|aroundy|spaceil|holyclock|shomershabes|maccabiah|elal|zim|telaviv-marina|clear-map|playbuzz|apester|qmerce|outbrain|outbrainimg|taboola|taboolasyndication|tblcontent|qovani|skimresources|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|cloudflareinsights|datadoghq-browser-agent|segment|viglink|parsely|sentry-cdn|getsentry|crcldu|chartbeat|scorecardresearch|serving-sys|exposebox|imrworldwide|mxpnl|hotjar|amplitude|npaw|gnsnpaw|srcspot|pixelinf|dynamicyield|connatix|coralogix|jeeng|zoomengage|cooladata|gbqofs|vlitag|loggly|browsiprod|hostedprebid|pubmatic|adnxs|pagefair|visualrevenue|exelator|sekindo|roojoom|babator|talkahead|relevanti|npttech|aniview|mimgoal|ukstatic|corrigon|careebiz|exitvalley|young-galileo|ranlevi|birdsbase|carmel6000|scmp|calcalist-cdnwiz|ynet-cdnwiz|ynetlive-cdnwiz|ynethd|ynetnews|ynetespanol)\.com\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=calcalist.co.il|pplus.ynet.co.il|www.ynet.co.il|xnet.ynet.co.il
 !
-||www.ynet.co.il^$websocket,~third-party,domain=www.ynet.co.il
+||www.ynet.co.il^$~third-party,websocket,domain=www.ynet.co.il
 !
 !/BannerScripts.js?$script,domain=mynetbatyam.co.il|mynethadera.co.il|mynetherzliya.co.il|mynethodhasharon.co.il|mynetholon.co.il|mynetjerusalem.co.il|mynetkfarsaba.co.il|mynetkibbutz.co.il|mynetnetanya.co.il|mynetpetahtikva.co.il|mynetraanana.co.il|mynetrehovot.co.il|mynetrishon.co.il|mynetroshhaayin.co.il
 !
-/CdaMarketTextlinks_
 /CdaMarketingLink/*
+/CdaMarketTextlinks_
 ||alljobs.co.il/Partners/Ynet/Engine.aspx
 ||article.yedioth.co.il/assets/Banners
 ||dynamicyield.com^$script,domain=ynet.co.il
-||go.ynet.co.il/short/Demos/*/Ads/
 ||go.ynet.co.il/short/content/2013/Career/SideJobs/
+||go.ynet.co.il/short/Demos/*/Ads/
 ||infomed.co.il/ynet/sidebox.aspx?
 ||psakdin.co.il/ExternalFrames/$domain=ynet.co.il
 ||s3.amazonaws.com^$script,domain=ynet.co.il
@@ -249,7 +249,7 @@
 !
 |blob:$~script,domain=www.mako.co.il
 !
-||www.mako.co.il^$websocket,~third-party,domain=www.mako.co.il
+||www.mako.co.il^$~third-party,websocket,domain=www.mako.co.il
 !
 ||activetrail.com^$third-party,domain=mako.co.il
 ||adoric-ads.com^$third-party,domain=mako.co.il
@@ -267,11 +267,11 @@
 ||sdc.mako.co.il^
 ||shironet.mako.co.il/jsp/images/main_strip_ad_box_718.gif
 ! * Globes * !
-||www.globes.co.il^$websocket,~third-party,domain=www.globes.co.il
+||www.globes.co.il^$~third-party,websocket,domain=www.globes.co.il
 !
 ||s3.amazonaws.com^$script,domain=globes.co.il
 ! * Calcalist * !
-||www.calcalist.co.il^$websocket,~third-party,domain=www.calcalist.co.il
+||www.calcalist.co.il^$~third-party,websocket,domain=www.calcalist.co.il
 !
 ||psakdin.co.il/ExternalFrames/$domain=calcalist.co.il
 ||s3.amazonaws.com^$script,domain=calcalist.co.il
@@ -283,8 +283,8 @@
 !/^(?![a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|staticfile|telegram|telegram-cdn|cdn-telegram|openstreetmap|openfreemap|wmflabs|wikimapia|wikimedia|wikipedia|wiktionary|wikisource|wikiquote|wikibooks|wikivoyage|wikiversity|wikinews|wikidata|mediawiki|w3|schema|js|archive|mozilla|chromium|documentcloud|w|mathjax|pannellum|themoviedb|tmdb|muses|npr|nprapps|learningapps|weatherwidget|openweathermap|lightningmaps|openskimap|openseamap|openrailwaymap|openbusmap|gigapan|framatube|simpleicons|gamemonkey|opensubtitles|chess|lichess|geogebra|diasporafoundation|joinmastodon|joinpeertube|discourse|matrix|f-droid|codelutin|fosstodon|libravatar|gnu|creativecommons|eff|icann|iana|ietf|apache|opensource|fsf|iso|ntp|ipify|privacy-center|cookielaw|featuregates|featureassets|cleantalk|squarewebsites|donorbox|walletlink|walletconnect|bnbchain|bitcoin|ethereum|litecoin|cdn77|userway|axorigin|allaccessible|accessibilityserver|wp-accessibility|wordpress-accessibility|widgetlogic|responsivevoice|consensu|mediamatters|ghostarchive|aomedia|xiph|osuosl|keepandroidopen|jotti|ap|pbs|pbskids|wnyc|500px|stepik|librivox|ghostarchive|pythonhosted|pypi|example|emojigraph|uploadimage|postimages|postimage|imgsafe|4chan|4channel|4cdn|wikileaks|ourworldindata|unesco|un|olympic|worldathletics|iaaf|fina|c-span|c-spanvideo|nobelprize|britishmuseum|gutenberg|doi|arxiv|scirp|slashdot|bbbprograms|carlogos|ansi|google|toolforge|browser-update|ipv6-il|givingtech|israeltoremet|tengav|emun|israeliarchaeology|mechon-mamre|sefaria|benyehuda|shimur|tami-il|kkl-jnf|jewishagency|thekotel|yadvashem|yadlabanim|mdais|shamir|hatzala|covid19maps|coronaisrael)\.org\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=13news.co.il|13tv.co.il
 !/^(?![a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|googleoptimize|googlehosted|withgoogle|jquery|youtube|youtubekids|youtube-nocookie|ytimg|facebook|fbsbx|threads|x|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|bendingspoons|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|tiktok|tiktokcdn|tiktokcdn-us|tiktokcdn-eu|tiktokv|ttwstatic|muscdn|ibytedtos|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|cdnfonts|fonts|image-maps|unpkg|cdnjs|cloudflare|cloudflarestream|pacloudflare|bootstrapcdn|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|githubassets|aspnetcdn|azure|amazonaws|awswaf|elasticbeanstalk|bunnycdn|vercel-storage|vercel-dns|vercel-dns-016|vercel-dns-017|akamai|ubncloud|digitaloceanspaces|cloudwaysapps|serverable|your-objectstorage|herokuapp|herokudns|rackcdn|raxcdn|lwcdn|wpmucdn|vultrobjects|filestackcontent|npmcdn|netlify|wasabisys|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|fluidplayer|jasperplayer|radiantmediatechs|wowza|streamable|streamtheworld|mixcloud|coub|bigcommand|bandcamp|bcbits|spotify|spotifycdn|byspotify|omnystudio|omnycontent|iheart|spreaker|speakerdeck|podbean|buzzsprout|rss|simplecast|simplecastaudio|simplecastcdn|pinecast|acast|art19|redcircle|libsyn|audioboom|typlog|cdnstream1|tritondigital|podtail|podchaser|podkite|tunein|stitcher|listennotes|castos|justcast|radiopublic|blogtalkradio|podfollow|harkaudio|changelog|smashnotes|apple|cdn-apple|applemediaservices|mzstatic|icloud|deezer|tidal|audiomack|nobexpartners|podtrac|chtbl|sermonaudio|soundhelix|audio|vocaroo|embedsocial|embedly|iframely|widgetic|commoninja|snapwidget|thinglink|infogram|highcharts|barchart|chartbrick|chartblocks|amcharts|tableau|deepnote|airtable|powerbi|powerapps|visualstudio|outlook|office|windows|thesourcemediaassets|dynamics|printfriendly|algolianet|zakeke|vroptimal-3dx-assets|unrealengine|babylonjs|vectary|sketchfab|vntana|printables|imajize|cappasity|gravatar|unisvg|simplesvg|svgur|svgshare|svgrepo|vecteezy|imgur|imgflip|gifer|gfycat|otagifs|gifglobe|lottiefiles|lottielab|lordicon|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|fastcomments|graphcomment|intensedebate|hyvor|vuukle|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|carto|cartocdn|mapy|scribblemaps|felt|locatedmap|snazzymaps|qrserver|hcaptcha|raincaptcha|ted|tedcdn|kickstarter|riddle|strawpoll|surveymonkey|yelp|9gag|9cache|depositphotos|rawpixel|unsplash|freepik|imageshack|imgdd|pastebin|desmos|gitlab|githack|rawgit|rawgithub|ghbtns|knockoutjs|gridstackjs|ravenjs|chess|liveleak|ign|ignimgs|365scores|pressreader|calameo|3dissue|typeset|heyzine|substack|substackcdn|blogger|blogspot|blogblog|wordpress|wp|wpcomstaging|wpengine|wpenginepowered|wpeproxy|videopress|wptavern|vamtam|zapwp|themeruby|livejournal|googlegroups|googlesource|googleusercontent|googlevideo|ggpht|supabase|noembed|appspot|firebaseio|firebaseapp|libring|taggbox|addtoany|addthisevent|addevent|addtocalendar|onesignal|tinypass|stripe|stripecdn|paddle|paypal|paypalobjects|amazon|payments-amazon|ssl-images-amazon|media-amazon|media-imdb|imdb|a2z|ebay|ebayimg|microsoft|microsoftonline|s-microsoft|msftconnecttest|live|bing|msn|aol|yahoo|yimg|yahooapis|yahoosandbox|duckduckgo|yandex|usemessages|hubspot|hsforms|hs-banner|hs-scripts|optimizely|visualwebsiteoptimizer|optimole|exactdn|baqend|publicnode|nitrocdn|webflow|vidzflow|rtlcss|tailwindcss|typography|typotheque|typenetwork|webtype|fontshare|lightwidget|elfsight|elfsightcdn|ezojs|ezodn|ezoic|emote|mailerlite|mailmunch|mailchimp|chimpstatic|mcusercontent|list-manage|typeform|convertbox|tiqcdn|brightspotcdn|coveo|zoho|zohopublic|zohocdn|opecloud|nextchats|zapier|queryly|remixd|sparemin|auth0|windy|ventusky|theweather|weather|accuweather|theweathernetwork|wunderground|sat24|windfinder|rainviewer|uvlens|weatherapi|forecast7|holfuy|surfline|bookcdn|travelriskmap|tripadvisor|tacdn|jscache|rumble|odysee|bitchute|truthsocial|polymarket|kalshi|twilio|gettyimages|prnewswire|rudderstack|upcloudlb|cloudup|box|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|youbora|soundcharts|radiojar|musicradio|mytuner-radio|live365|genius|aaplimg|wsimg|placeholder|twitcount|flipboard|geoproapp|timezonedb|timeanddate|momentjs|statcounter|ko-fi|buymeacoffee|gofundme|fundraiseup|mightycause|indiegogo|patreon|onetrust|trustarc|cookiepro|cookieinfoscript|cookiebot|cookiefirst|cookiereports|cookie-script|cookieyes|cdn-cookieyes|privacy-mgmt|consentframework|consentik|gatekeeperconsent|consentmo|termsfeed|clarip|13privacy|evidon|cassiecloud|ketchjs|ketchcdn|transcend-cdn|iabtechlab|variantnow|contentful|pusher|pushio|doofinder|telerik|five9|multiscreensite|ip-api|userapi|wtfismyip|transparenttextures|vk|flagsapi|flagcdn|verint-cdn|weglot|plugilo|eye-able|audioeye-services|sunbreak|alchemy|instatus|intercomcdn|intercomassets|walletconnect|moonpay|liberapay|libre-entreprise|spreedly|airwallex|klarnaservices|afterpay|squarecdn|quizlet|proprofs|educaplay|jotform|wufoo|youform|asana|mentimeter|fillout|pollforall|polldaddy|123formbuilder|pinpoll|mixpanel|poll-maker|metabaseapp|formstack|eloqua|ipstack|hostingersite|onrender|contentstack|scene7|adobeaemcloud|assetsadobe|assetsadobe2|adobe|adobedtm|shockwave|nasawestprime|milestoneinternet|halosecurity|weebly|editmysite|squarespace|squarespace-cdn|sqspcdn|imagizer|design-editor|website-files|wistia|posthog|intuit|cquotient|zendesk|zdassets|marketo|mktoedge|livefyre|pushwoosh|sumo|sumome|chatango|chilipiper|bytecdntp|likebtn|bitly|tinyurl|radarbox|radarbox24|avionio|ipcamlive|speedtestcustom|nperf|fast|openspeedtest|framer|framerusercontent|framerstatic|figma|loom|miro|medium|canva|plattar|autodesk360|genially|anyflip|fliphtml5|flippingbook|flipbooklets|fwdeveryone|yumpu|publuu|commaful|whimsical|everviz|vizhub|supademo|trello|replit|usehexus|stackblitz|jsitor|codeply|miniextensions|mindmeister|piktochart|excalidraw|theysaidso|nearpod|milanote|tickcounter|momindum|panopto|archilogic|showme|qualifioapp|prezi|sutori|haikudeck|relayto|mote|powtoon|alugha|animoto|descript|rumbletalk|ellie-app|grain|zight|sketch|pitch|slides|slideslive|docswell|figshare|ceros|scribehow|globo|naver|kakao|sooplive|videoask|vidmount|vdocipher|dyntube|okitube|dreambroker|storyprompt|screen9|dacast|vbox7|kinomap|voxsnap|gmetri|mpembed|360stories|f4map|matterport|blockadelabs|sketchup|shapespark|seekbeak|roomvo|momento360|calendly|acuityscheduling|tockify|amuselabs|zingsoft|zingchart|circuitlab|altium|wolframcloud|flocus|screenpal|screencast|jumpshare|vouchfor|usablenet|socialexplorer|trustugc|contra|weekendsuperheroes|musicboxmaniacs|songkick|bandsintown|laylo|tiqets|cooltix|vivenu|resmio|travelpayouts|bookingmood|booking|bstatic|shopify|shopifycdn|shopifyapps|shopifysvc|myshopify|pricespider|commercegurus|sibforms|sheetsu|podium|bynder|formilla|qualtrics|opsshield|trustedsite|searchstax|buttercms|brevo|storyblok|unlayer|widgetwhats|powrcdn|getscrolly|voiceflow|flockler|odoo|ondemand|vidyard|q4web|q4inc|q4app|q4cdn|quotemedia|marsflag|wallst|euroland|eurolandir|issuerdirect|accesswire|globenewswire|site|force|salesforce|salesforce-scrt|salesforceliveagent|livechatinc|virtualspirits|freshchat|manychat|velaro|zopim|chatsqueeze|dfktv2|usersnap|braze|braze-images|icons8|magnific|iconfinder|iconarchive|iconscout|flaticon|linearicons|iconlogovector|companieslogo|logowik|kindpng|pngitem|pngplay|gamepix|gamezhero|gameboss|addictinggames|funhtml5games|gamedistribution|monsteraplay|sportradar|thesports|thesportsdb|statscore|sitesearch360|livesetar|hebcal|fontsproject|cdn-website|l7cdn|investing|tradingview|tradingview-widget|cloudinary|gigya|kaltura|openweb|waze|monday|barilliance|simplerstory|opinionstage|univtec|fastsimon|instantsearchplus|summurai|speedsize|animaapp|webydo|elementor|mogidigital|base44|wix|wixanswers|wixappcloud|wixstatic|wix-code|commentsplugin|parastorage|filesusr|usrfiles|treedis|emalogic|voicespin|slickstream|exiteme|hypemarks|tintup|sirv|ogols|kolsquare|superfiliate-cdn|layouthub|launchdarkly|ecal|blockifyapp|ordersify|webframez|merchantyard|optnmnstr|better-replay|swymrelay|sealsubscriptions|automizely|videowise|slideruletools|uncomplicatedapps|powertoolsapp|omegatheme|thanhhd|thron|staqlab|staq-cdn|mybcapps|meetanshi|kiwisizing|searchserverapi1|upsell-apps|upsell|reconvert|kaktusapp|parcelpanel|inscoder|trustpilot|rebuyengine|planifyx|dnsdevs|myconvermax|cnstrc|privy|perzonalization|zigpoll|enkomion|omegacommerce|orichicommerce|entanglecommerce|wayvia|robinhq|eveyevents|opinew|gravity-software|addify-app|addigitech|visualquizbuilder|littlebesidesme|getuploadkit|klaviyo|klaviyomail|attribuly|callnowbutton|nowbuttons|yeshlead|config-security|signature-it|uvcdn|ultimedia|gosimian|medibang|disney|ibm|samsung|ifixit|w3schools|jqueryui|trackjs|helpcrunch|powerreviews|productboard|revenuehunt|vumbnail|adscale|moddb|steampowered|steamstatic|steamcommunity|steamusercontent|epicgames|gog|gog-statics|ea|playstation|xbox|xboxservices|nintendo|discord|discordapp|gifyourgame|bilibili|iq|youku|sohu|163|gtimg|qcloud|cdngslb|aliyuncs|alicdn|aliexpress|aliexpress-media|alibaba-inc|alibaba|temu|kwcdn|govx|gettr|gab|minds|mewe|parler|slideplayer|tryjumbo|enormapps|roseperl|bazaarvoice|parcelwill|route|blocky-app|oxiapps|li-apps|reputon|uppromote|carthike|1worldsync|ecomsend|hextom|foursixty|fireworktv|fwcdn3|swaven|qualquantsignals|seoant|searchgro|rtl-master|langwill|gropulse|kilatechapps|sense-apps|demandforapps|goaffpro|xotiny|mycliplister|salesdish|cdn-zeptoapps|okasconcepts|codeblackbelt|pop-convert|autopilotapp|appcontx|useamp|easyappsecom|minmaxify|visually-io|kimonix|qikify|nfcube|quizell|feelter|comix-flow|gotolstoy|dynamic-number|bridgeupp|yotpo|breadpayments|betterstackdata|soundestlink|omnisendlink|omnisnippet1|msgsndr|leadconnectorhq|magicetl|fastbase|pxucdn|seguno|zotabox|optimonk|omappapi|popupsmart|priorityconnector|shutterstock|wfolio|openai|jobvite|ticketmaster|wolt|dhl|ups|nasdaq|nyse|euronext|londonstockexchange|financial|xe|coinmarketcap|dogecoin|allmylinks|buzzfeed|digg|stumbleupon|mix|getpocket|firefoxusercontent|firefox|opera|operacdn|chrome|android|virustotal|jscrambler|godaddy|feedly|feedburner|phpbb|whatsapp|snapchat|bdbphotos|thetvdb|netflix|nflxext|cnet|cnevids|voanews|bbc|cnn|go|abcnews|cbsnews|nbcnews|msnbc|cnbc|nytimes|nyt|washingtonpost|thehill|inquirer|today|usatoday|bloomberg|wsj|nypost|foxnews|foxbusiness|espn|eurosport|fifa|uefa|conmebol|copaamerica|concacaf|mlssoccer|cafonline|nba|wnba|nfl|mlb|mlbstatic|nhl|nhle|hockeydb|trillertv|turner|sinclairstoryline|scrippsdigital|6abc|abc7|abc7chicago|abc7news|abc7ny|abc11|abc13|abc30|nbcbayarea|nbcboston|nbcchicago|nbcconnecticut|nbcdfw|nbclosangeles|nbcmiami|nbcnewyork|nbcphiladelphia|nbcsandiego|nbcwashington|kcentv|newscentermaine|fresnobee|rttv|rt|dw|hotstar|mobygames|snopes|wikihow|fandom|quora|stackexchange|stackoverflow|wiley|nature|springernature|sciencedirect|sciencedirectassets|cell|thelancet|bmj|mixer|metacafe|mcstatic|xkcd|reactiongifs|gifbin|gif-finder|gifyu|makeagif|kym-cdn|gyazo|prntscr|tinypic|photobox|photobucket|imgbox|imagebam|deviantart|dmca|mtvnservices|cc|tmz|example|anticlickfraudsystem|clixtell|bugsnag|zoro|eyefeelit|moovit|kayma|kayma-dashboards|kayma-insights|kapow-solutions|kampyle|vicomi|colbass|cincopa|avplayer|vidnt|peer5|minute-ly|minutemediacdn|mmvideocdn|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|vidazoo|cloudvideoplatform|dxmcdn|dxmdp|reblaze|rbzdns|loglig|hunchbots|sphereup|poloriz|applicaster|appsflyer|cloudwm|cloudwm-waf|negishim|go-accessibility|accessibe|accessibeapp|acsbap|acsbapp|vollotech|mk-sense|user1st|allyable|equalweb|tabnav|usrwy|magixite|purple-lens|skynettechnologies|glassix|rabbicdn|storycards|shortaudition|yit|vangus-cdn|hoverlead|flashyapp|tranzila|paymeservice|payplus|ownid|membitbot|texterchat|anita24|sitesbrain|kal-ai|frontcld|kedailabs|tukiai|fugu-it|fouita|nanorep|nixale|walkme|humanz|pulseem|doali|weezmo|affiracle|archive-digger|vee-crm|vevocrm|global-e|rise-ai|moonshot-ai|repuso|thereviewsplace|conversionbear|bumpyardpro|nowdialogue|voice-able|heilasystems|hiclient|rexail|self-point|bestfreecdn|dwhitelabel|selectika|loadmill|f-static|cdn-files-a|trvdp|segmanta|peach-in|charidy|jgive|gogeev|hamonym|webiya|radware|perfdrive|ngsoft|bamboo-cloud|bamboo-video|beaverglobal|tzur|eventim|coupony|adtiny|web2application|wobily|mini-sites|my-lp|activetrail|fortvision|fortcdn|myrepai|entagy|webdnawp|arboxapp|tourisify|simplex-ltd|mekomiweb|eshuv|aroundy|spaceil|holyclock|shomershabes|maccabiah|elal|zim|telaviv-marina|clear-map|playbuzz|apester|qmerce|outbrain|outbrainimg|taboola|taboolasyndication|tblcontent|qovani|skimresources|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|cloudflareinsights|datadoghq-browser-agent|segment|viglink|parsely|sentry-cdn|getsentry|crcldu|chartbeat|scorecardresearch|serving-sys|exposebox|imrworldwide|mxpnl|hotjar|amplitude|npaw|gnsnpaw|srcspot|pixelinf|dynamicyield|connatix|coralogix|jeeng|zoomengage|cooladata|gbqofs|vlitag|advertising|aniview|spotxchange|pubmatic|adnxs|indexww|flashyapp|qamesh)\.com\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=13news.co.il|13tv.co.il
 !
-||13news.co.il^$websocket,~third-party,domain=13news.co.il
-||13tv.co.il^$websocket,~third-party,domain=13tv.co.il
+||13news.co.il^$~third-party,websocket,domain=13news.co.il
+||13tv.co.il^$~third-party,websocket,domain=13tv.co.il
 !
 /dfp.$~third-party,domain=13news.co.il|13tv.co.il
 /dfp/*$~third-party,domain=13news.co.il|13tv.co.il
@@ -298,7 +298,7 @@
 !/^(?![a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(flowplayer|amara|h5p|d3js|ampproject|promisejs|backbonejs|angularjs|dojotoolkit|staticfile|telegram|telegram-cdn|cdn-telegram|openstreetmap|openfreemap|wmflabs|wikimapia|wikimedia|wikipedia|wiktionary|wikisource|wikiquote|wikibooks|wikivoyage|wikiversity|wikinews|wikidata|mediawiki|w3|schema|js|archive|mozilla|chromium|documentcloud|w|mathjax|pannellum|themoviedb|tmdb|muses|npr|nprapps|learningapps|weatherwidget|openweathermap|lightningmaps|openskimap|openseamap|openrailwaymap|openbusmap|gigapan|framatube|simpleicons|gamemonkey|opensubtitles|chess|lichess|geogebra|diasporafoundation|joinmastodon|joinpeertube|discourse|matrix|f-droid|codelutin|fosstodon|libravatar|gnu|creativecommons|eff|icann|iana|ietf|apache|opensource|fsf|iso|ntp|ipify|privacy-center|cookielaw|featuregates|featureassets|cleantalk|squarewebsites|donorbox|walletlink|walletconnect|bnbchain|bitcoin|ethereum|litecoin|cdn77|userway|axorigin|allaccessible|accessibilityserver|wp-accessibility|wordpress-accessibility|widgetlogic|responsivevoice|consensu|mediamatters|ghostarchive|aomedia|xiph|osuosl|keepandroidopen|jotti|ap|pbs|pbskids|wnyc|500px|stepik|librivox|ghostarchive|pythonhosted|pypi|example|emojigraph|uploadimage|postimages|postimage|imgsafe|4chan|4channel|4cdn|wikileaks|ourworldindata|unesco|un|olympic|worldathletics|iaaf|fina|c-span|c-spanvideo|nobelprize|britishmuseum|gutenberg|doi|arxiv|scirp|slashdot|bbbprograms|carlogos|ansi|google|toolforge|browser-update|ipv6-il|givingtech|israeltoremet|tengav|emun|israeliarchaeology|mechon-mamre|sefaria|benyehuda|shimur|tami-il|kkl-jnf|jewishagency|thekotel|yadvashem|yadlabanim|mdais|shamir|hatzala|covid19maps|coronaisrael)\.org\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.org\.?([\/\:]|$)/$third-party,domain=sport5.co.il
 !/^(?![a-zA-Z0-9\-]+\:\/+([^\/\:\.]+\.)*(google|gstatic|googleapis|googleoptimize|googlehosted|withgoogle|jquery|youtube|youtubekids|youtube-nocookie|ytimg|facebook|fbsbx|threads|x|twitter|twimg|instagram|cdninstagram|pinterest|pinimg|tumblr|giphy|vimeo|vimeocdn|bendingspoons|dailymotion|flickr|staticflickr|soundcloud|sndcdn|scribd|scribdassets|tiktok|tiktokcdn|tiktokcdn-us|tiktokcdn-eu|tiktokv|ttwstatic|muscdn|ibytedtos|sharethis|addthis|addthisedge|addthiscdn|reddit|redditmedia|redditstatic|redditgifts|linkedin|licdn|fontawesome|cdnfonts|fonts|image-maps|unpkg|cdnjs|cloudflare|cloudflarestream|pacloudflare|bootstrapcdn|stackpathdns|stackpathcdn|maxcdn|maxcdn-edge|netdna-ssl|netdna-cdn|kxcdn|ssl-cdn|muicss|tinymce|createjs|github|githubusercontent|githubassets|aspnetcdn|azure|amazonaws|awswaf|elasticbeanstalk|bunnycdn|vercel-storage|vercel-dns|vercel-dns-016|vercel-dns-017|akamai|ubncloud|digitaloceanspaces|cloudwaysapps|serverable|your-objectstorage|herokuapp|herokudns|rackcdn|raxcdn|lwcdn|wpmucdn|vultrobjects|filestackcontent|npmcdn|netlify|wasabisys|jwplayer|jwpcdn|jwpltx|jwpsrv|jwplatform|brightcove|brightcovecdn|flowplayer|foliovision|fluidplayer|jasperplayer|radiantmediatechs|wowza|streamable|streamtheworld|mixcloud|coub|bigcommand|bandcamp|bcbits|spotify|spotifycdn|byspotify|omnystudio|omnycontent|iheart|spreaker|speakerdeck|podbean|buzzsprout|rss|simplecast|simplecastaudio|simplecastcdn|pinecast|acast|art19|redcircle|libsyn|audioboom|typlog|cdnstream1|tritondigital|podtail|podchaser|podkite|tunein|stitcher|listennotes|castos|justcast|radiopublic|blogtalkradio|podfollow|harkaudio|changelog|smashnotes|apple|cdn-apple|applemediaservices|mzstatic|icloud|deezer|tidal|audiomack|nobexpartners|podtrac|chtbl|sermonaudio|soundhelix|audio|vocaroo|embedsocial|embedly|iframely|widgetic|commoninja|snapwidget|thinglink|infogram|highcharts|barchart|chartbrick|chartblocks|amcharts|tableau|deepnote|airtable|powerbi|powerapps|visualstudio|outlook|office|windows|thesourcemediaassets|dynamics|printfriendly|algolianet|zakeke|vroptimal-3dx-assets|unrealengine|babylonjs|vectary|sketchfab|vntana|printables|imajize|cappasity|gravatar|unisvg|simplesvg|svgur|svgshare|svgrepo|vecteezy|imgur|imgflip|gifer|gfycat|otagifs|gifglobe|lottiefiles|lottielab|lordicon|tenor|disqus|disquscdn|disqusservice|oneall|oneallcdn|tapatalk|tapatalk-cdn|fastcomments|graphcomment|intensedebate|hyvor|vuukle|mapbox|maptiler|mapquest|arcgis|arcgisonline|esri|here|carto|cartocdn|mapy|scribblemaps|felt|locatedmap|snazzymaps|qrserver|hcaptcha|raincaptcha|ted|tedcdn|kickstarter|riddle|strawpoll|surveymonkey|yelp|9gag|9cache|depositphotos|rawpixel|unsplash|freepik|imageshack|imgdd|pastebin|desmos|gitlab|githack|rawgit|rawgithub|ghbtns|knockoutjs|gridstackjs|ravenjs|chess|liveleak|ign|ignimgs|365scores|pressreader|calameo|3dissue|typeset|heyzine|substack|substackcdn|blogger|blogspot|blogblog|wordpress|wp|wpcomstaging|wpengine|wpenginepowered|wpeproxy|videopress|wptavern|vamtam|zapwp|themeruby|livejournal|googlegroups|googlesource|googleusercontent|googlevideo|ggpht|supabase|noembed|appspot|firebaseio|firebaseapp|libring|taggbox|addtoany|addthisevent|addevent|addtocalendar|onesignal|tinypass|stripe|stripecdn|paddle|paypal|paypalobjects|amazon|payments-amazon|ssl-images-amazon|media-amazon|media-imdb|imdb|a2z|ebay|ebayimg|microsoft|microsoftonline|s-microsoft|msftconnecttest|live|bing|msn|aol|yahoo|yimg|yahooapis|yahoosandbox|duckduckgo|yandex|usemessages|hubspot|hsforms|hs-banner|hs-scripts|optimizely|visualwebsiteoptimizer|optimole|exactdn|baqend|publicnode|nitrocdn|webflow|vidzflow|rtlcss|tailwindcss|typography|typotheque|typenetwork|webtype|fontshare|lightwidget|elfsight|elfsightcdn|ezojs|ezodn|ezoic|emote|mailerlite|mailmunch|mailchimp|chimpstatic|mcusercontent|list-manage|typeform|convertbox|tiqcdn|brightspotcdn|coveo|zoho|zohopublic|zohocdn|opecloud|nextchats|zapier|queryly|remixd|sparemin|auth0|windy|ventusky|theweather|weather|accuweather|theweathernetwork|wunderground|sat24|windfinder|rainviewer|uvlens|weatherapi|forecast7|holfuy|surfline|bookcdn|travelriskmap|tripadvisor|tacdn|jscache|rumble|odysee|bitchute|truthsocial|polymarket|kalshi|twilio|gettyimages|prnewswire|rudderstack|upcloudlb|cloudup|box|dropbox|dropboxusercontent|dropboxstatic|dropbox-dns|youbora|soundcharts|radiojar|musicradio|mytuner-radio|live365|genius|aaplimg|wsimg|placeholder|twitcount|flipboard|geoproapp|timezonedb|timeanddate|momentjs|statcounter|ko-fi|buymeacoffee|gofundme|fundraiseup|mightycause|indiegogo|patreon|onetrust|trustarc|cookiepro|cookieinfoscript|cookiebot|cookiefirst|cookiereports|cookie-script|cookieyes|cdn-cookieyes|privacy-mgmt|consentframework|consentik|gatekeeperconsent|consentmo|termsfeed|clarip|13privacy|evidon|cassiecloud|ketchjs|ketchcdn|transcend-cdn|iabtechlab|variantnow|contentful|pusher|pushio|doofinder|telerik|five9|multiscreensite|ip-api|userapi|wtfismyip|transparenttextures|vk|flagsapi|flagcdn|verint-cdn|weglot|plugilo|eye-able|audioeye-services|sunbreak|alchemy|instatus|intercomcdn|intercomassets|walletconnect|moonpay|liberapay|libre-entreprise|spreedly|airwallex|klarnaservices|afterpay|squarecdn|quizlet|proprofs|educaplay|jotform|wufoo|youform|asana|mentimeter|fillout|pollforall|polldaddy|123formbuilder|pinpoll|mixpanel|poll-maker|metabaseapp|formstack|eloqua|ipstack|hostingersite|onrender|contentstack|scene7|adobeaemcloud|assetsadobe|assetsadobe2|adobe|adobedtm|shockwave|nasawestprime|milestoneinternet|halosecurity|weebly|editmysite|squarespace|squarespace-cdn|sqspcdn|imagizer|design-editor|website-files|wistia|posthog|intuit|cquotient|zendesk|zdassets|marketo|mktoedge|livefyre|pushwoosh|sumo|sumome|chatango|chilipiper|bytecdntp|likebtn|bitly|tinyurl|radarbox|radarbox24|avionio|ipcamlive|speedtestcustom|nperf|fast|openspeedtest|framer|framerusercontent|framerstatic|figma|loom|miro|medium|canva|plattar|autodesk360|genially|anyflip|fliphtml5|flippingbook|flipbooklets|fwdeveryone|yumpu|publuu|commaful|whimsical|everviz|vizhub|supademo|trello|replit|usehexus|stackblitz|jsitor|codeply|miniextensions|mindmeister|piktochart|excalidraw|theysaidso|nearpod|milanote|tickcounter|momindum|panopto|archilogic|showme|qualifioapp|prezi|sutori|haikudeck|relayto|mote|powtoon|alugha|animoto|descript|rumbletalk|ellie-app|grain|zight|sketch|pitch|slides|slideslive|docswell|figshare|ceros|scribehow|globo|naver|kakao|sooplive|videoask|vidmount|vdocipher|dyntube|okitube|dreambroker|storyprompt|screen9|dacast|vbox7|kinomap|voxsnap|gmetri|mpembed|360stories|f4map|matterport|blockadelabs|sketchup|shapespark|seekbeak|roomvo|momento360|calendly|acuityscheduling|tockify|amuselabs|zingsoft|zingchart|circuitlab|altium|wolframcloud|flocus|screenpal|screencast|jumpshare|vouchfor|usablenet|socialexplorer|trustugc|contra|weekendsuperheroes|musicboxmaniacs|songkick|bandsintown|laylo|tiqets|cooltix|vivenu|resmio|travelpayouts|bookingmood|booking|bstatic|shopify|shopifycdn|shopifyapps|shopifysvc|myshopify|pricespider|commercegurus|sibforms|sheetsu|podium|bynder|formilla|qualtrics|opsshield|trustedsite|searchstax|buttercms|brevo|storyblok|unlayer|widgetwhats|powrcdn|getscrolly|voiceflow|flockler|odoo|ondemand|vidyard|q4web|q4inc|q4app|q4cdn|quotemedia|marsflag|wallst|euroland|eurolandir|issuerdirect|accesswire|globenewswire|site|force|salesforce|salesforce-scrt|salesforceliveagent|livechatinc|virtualspirits|freshchat|manychat|velaro|zopim|chatsqueeze|dfktv2|usersnap|braze|braze-images|icons8|magnific|iconfinder|iconarchive|iconscout|flaticon|linearicons|iconlogovector|companieslogo|logowik|kindpng|pngitem|pngplay|gamepix|gamezhero|gameboss|addictinggames|funhtml5games|gamedistribution|monsteraplay|sportradar|thesports|thesportsdb|statscore|sitesearch360|livesetar|hebcal|fontsproject|cdn-website|l7cdn|investing|tradingview|tradingview-widget|cloudinary|gigya|kaltura|openweb|waze|monday|barilliance|simplerstory|opinionstage|univtec|fastsimon|instantsearchplus|summurai|speedsize|animaapp|webydo|elementor|mogidigital|base44|wix|wixanswers|wixappcloud|wixstatic|wix-code|commentsplugin|parastorage|filesusr|usrfiles|treedis|emalogic|voicespin|slickstream|exiteme|hypemarks|tintup|sirv|ogols|kolsquare|superfiliate-cdn|layouthub|launchdarkly|ecal|blockifyapp|ordersify|webframez|merchantyard|optnmnstr|better-replay|swymrelay|sealsubscriptions|automizely|videowise|slideruletools|uncomplicatedapps|powertoolsapp|omegatheme|thanhhd|thron|staqlab|staq-cdn|mybcapps|meetanshi|kiwisizing|searchserverapi1|upsell-apps|upsell|reconvert|kaktusapp|parcelpanel|inscoder|trustpilot|rebuyengine|planifyx|dnsdevs|myconvermax|cnstrc|privy|perzonalization|zigpoll|enkomion|omegacommerce|orichicommerce|entanglecommerce|wayvia|robinhq|eveyevents|opinew|gravity-software|addify-app|addigitech|visualquizbuilder|littlebesidesme|getuploadkit|klaviyo|klaviyomail|attribuly|callnowbutton|nowbuttons|yeshlead|config-security|signature-it|uvcdn|ultimedia|gosimian|medibang|disney|ibm|samsung|ifixit|w3schools|jqueryui|trackjs|helpcrunch|powerreviews|productboard|revenuehunt|vumbnail|adscale|moddb|steampowered|steamstatic|steamcommunity|steamusercontent|epicgames|gog|gog-statics|ea|playstation|xbox|xboxservices|nintendo|discord|discordapp|gifyourgame|bilibili|iq|youku|sohu|163|gtimg|qcloud|cdngslb|aliyuncs|alicdn|aliexpress|aliexpress-media|alibaba-inc|alibaba|temu|kwcdn|govx|gettr|gab|minds|mewe|parler|slideplayer|tryjumbo|enormapps|roseperl|bazaarvoice|parcelwill|route|blocky-app|oxiapps|li-apps|reputon|uppromote|carthike|1worldsync|ecomsend|hextom|foursixty|fireworktv|fwcdn3|swaven|qualquantsignals|seoant|searchgro|rtl-master|langwill|gropulse|kilatechapps|sense-apps|demandforapps|goaffpro|xotiny|mycliplister|salesdish|cdn-zeptoapps|okasconcepts|codeblackbelt|pop-convert|autopilotapp|appcontx|useamp|easyappsecom|minmaxify|visually-io|kimonix|qikify|nfcube|quizell|feelter|comix-flow|gotolstoy|dynamic-number|bridgeupp|yotpo|breadpayments|betterstackdata|soundestlink|omnisendlink|omnisnippet1|msgsndr|leadconnectorhq|magicetl|fastbase|pxucdn|seguno|zotabox|optimonk|omappapi|popupsmart|priorityconnector|shutterstock|wfolio|openai|jobvite|ticketmaster|wolt|dhl|ups|nasdaq|nyse|euronext|londonstockexchange|financial|xe|coinmarketcap|dogecoin|allmylinks|buzzfeed|digg|stumbleupon|mix|getpocket|firefoxusercontent|firefox|opera|operacdn|chrome|android|virustotal|jscrambler|godaddy|feedly|feedburner|phpbb|whatsapp|snapchat|bdbphotos|thetvdb|netflix|nflxext|cnet|cnevids|voanews|bbc|cnn|go|abcnews|cbsnews|nbcnews|msnbc|cnbc|nytimes|nyt|washingtonpost|thehill|inquirer|today|usatoday|bloomberg|wsj|nypost|foxnews|foxbusiness|espn|eurosport|fifa|uefa|conmebol|copaamerica|concacaf|mlssoccer|cafonline|nba|wnba|nfl|mlb|mlbstatic|nhl|nhle|hockeydb|trillertv|turner|sinclairstoryline|scrippsdigital|6abc|abc7|abc7chicago|abc7news|abc7ny|abc11|abc13|abc30|nbcbayarea|nbcboston|nbcchicago|nbcconnecticut|nbcdfw|nbclosangeles|nbcmiami|nbcnewyork|nbcphiladelphia|nbcsandiego|nbcwashington|kcentv|newscentermaine|fresnobee|rttv|rt|dw|hotstar|mobygames|snopes|wikihow|fandom|quora|stackexchange|stackoverflow|wiley|nature|springernature|sciencedirect|sciencedirectassets|cell|thelancet|bmj|mixer|metacafe|mcstatic|xkcd|reactiongifs|gifbin|gif-finder|gifyu|makeagif|kym-cdn|gyazo|prntscr|tinypic|photobox|photobucket|imgbox|imagebam|deviantart|dmca|mtvnservices|cc|tmz|example|anticlickfraudsystem|clixtell|bugsnag|zoro|eyefeelit|moovit|kayma|kayma-dashboards|kayma-insights|kapow-solutions|kampyle|vicomi|colbass|cincopa|avplayer|vidnt|peer5|minute-ly|minutemediacdn|mmvideocdn|h-cdn|bynetcdn|cdnwiz|best-tv|viewbix|streamrail|smv-cdn|vidazoo|cloudvideoplatform|dxmcdn|dxmdp|reblaze|rbzdns|loglig|hunchbots|sphereup|poloriz|applicaster|appsflyer|cloudwm|cloudwm-waf|negishim|go-accessibility|accessibe|accessibeapp|acsbap|acsbapp|vollotech|mk-sense|user1st|allyable|equalweb|tabnav|usrwy|magixite|purple-lens|skynettechnologies|glassix|rabbicdn|storycards|shortaudition|yit|vangus-cdn|hoverlead|flashyapp|tranzila|paymeservice|payplus|ownid|membitbot|texterchat|anita24|sitesbrain|kal-ai|frontcld|kedailabs|tukiai|fugu-it|fouita|nanorep|nixale|walkme|humanz|pulseem|doali|weezmo|affiracle|archive-digger|vee-crm|vevocrm|global-e|rise-ai|moonshot-ai|repuso|thereviewsplace|conversionbear|bumpyardpro|nowdialogue|voice-able|heilasystems|hiclient|rexail|self-point|bestfreecdn|dwhitelabel|selectika|loadmill|f-static|cdn-files-a|trvdp|segmanta|peach-in|charidy|jgive|gogeev|hamonym|webiya|radware|perfdrive|ngsoft|bamboo-cloud|bamboo-video|beaverglobal|tzur|eventim|coupony|adtiny|web2application|wobily|mini-sites|my-lp|activetrail|fortvision|fortcdn|myrepai|entagy|webdnawp|arboxapp|tourisify|simplex-ltd|mekomiweb|eshuv|aroundy|spaceil|holyclock|shomershabes|maccabiah|elal|zim|telaviv-marina|clear-map|en25|playbuzz|apester|qmerce|outbrain|outbrainimg|taboola|taboolasyndication|tblcontent|qovani|skimresources|google-analytics|googletagservices|googletagmanager|googleadservices|googlesyndication|cloudflareinsights|datadoghq-browser-agent|segment|viglink|parsely|sentry-cdn|getsentry|crcldu|chartbeat|scorecardresearch|serving-sys|exposebox|imrworldwide|mxpnl|hotjar|amplitude|npaw|gnsnpaw|srcspot|pixelinf|dynamicyield|connatix|coralogix|jeeng|zoomengage|cooladata|gbqofs|vlitag|loggly|bkrtx|advertising|shopupz|aniview|spotxchange|checkm8|pubmatic|adnxs)\.com\.?([\/\:]|$))^[a-zA-Z0-9\-]+\:\/+[^\/\:]+\.com\.?([\/\:]|$)/$third-party,domain=sport5.co.il
 !
-||sport5.co.il^$websocket,~third-party,domain=sport5.co.il
+||sport5.co.il^$~third-party,websocket,domain=sport5.co.il
 !
 ||shopupz.com^$third-party,domain=sport5.co.il
 ||sport5.co.il/banners2/
@@ -306,8 +306,8 @@
 ||ads.one.co.il^
 ! * inn.co.il * !
 ||a7.org/*.html$subdocument,domain=inn.co.il
-||a7.org/CDN/sdk
 ||a7.org/adblock/
+||a7.org/CDN/sdk
 ||a7.org/media$script,xmlhttprequest
 ||a7.org/scripts/Maavaron.js
 ||dwnmedia.a7.org/inntv/media/
@@ -352,7 +352,7 @@
 ! * yad2 * !
 |blob:$domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
 !
-||yad2.co.il^$websocket,~third-party,domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
+||yad2.co.il^$~third-party,websocket,domain=homeprices.yad2.co.il|my.yad2.co.il|pricelist.yad2.co.il|www.yad2.co.il|yad1.yad2.co.il
 !
 ||my.yad2.co.il/Banner/
 ||my.yad2.co.il/dfpV3/script/DesktopMediaManager.js
@@ -361,7 +361,7 @@
 ||banners.news1.co.il^
 ||banners.news1.co.il^$popup
 ! * Bizportal * !
-||www.bizportal.co.il^$websocket,~third-party,domain=www.bizportal.co.il
+||www.bizportal.co.il^$~third-party,websocket,domain=www.bizportal.co.il
 !
 ||s3.amazonaws.com^$script,domain=bizportal.co.il
 ! * FXP * !
@@ -404,72 +404,7 @@
 ##.wpvl.wpvl-dailymotion > .fblogin.lockoverlay.ng-scope
 ##.wpvl.wpvl-youtube.ng-scope.size-xl > .ng-scope + .fblogin.lockoverlay.ng-scope
 ##.wpvl.wpvl-youtube.ng-scope.size-xxl > [ng-show="!blocked"] + * + .ng-scope + .fblogin.lockoverlay.ng-scope
-atardrushim.com##*
-aurelia-il.com##*
-avoda-mehabait.co.il##*
-briut-chai.com##*
-bumbalu-israel.com##*
-carsguys.co.il##*
-clarity-il.com##*
-cohenza-il.com##*
-dana-telaviv.com##*
-ezra-il.com##*
-faceu.us##*
-gbuzz.net##*
-gefun.net##*
-giborboxr-il.com##*
-graces-bag.com##*
-hasdarot.club##*
-hasdarot.com##*
-hasdarot.info##*
-hasdarot.life##*
-hasdarot.live##*
-hasdarot.net##*
-hasdarot.tv##*
-hasdarot.vip##*
-hasdarot.xyz##*
-iastrology.net##*
-isdarot.com##*
-israeljobstoday.com##*
-kelocote.prpl.co.il##*
-kooduu.com##*
-lanatoyasaeil.com##*
-lavaveli.com##*
-levoria-il.com##*
-libi-wear.com##*
-livenza-il.com##*
-losittooday.info##*
-lp.playsmart.co.il##*
-lyplay.net##*
-matsato.com##*
-meirav-il.com##*
-mizrahi-il.com##*
-movitop.info##*
-noa-eden.com##*
-noa-tikim.com##*
-noya-il.com##*
-ofnatlevi-il.com##*
-orenthelabel.com##*
-pinukim.net##*
-play.milly-style.co.il##*
-plushome.co.il##*
-protyshop.com##*
-rome-il.com##*
-ronitnoa-telaviv.com##*
-sdarot-il.org##*
-sdarot-tv.org##*
-sdarot.cc##*
-seret.live##*
-shahar-il.com##*
-sortie-shop.com##*
-storyshop.co.il##*
-stylebox.co.il##*
-tvfeel.cc##*
-twobluedeer.com##*
-usbuzz.net##*
-votladora.com##*
-zohar-trends.com##*
-zoharajewels.com##*
+atardrushim.com,aurelia-il.com,avoda-mehabait.co.il,briut-chai.com,bumbalu-israel.com,carsguys.co.il,clarity-il.com,cohenza-il.com,dana-telaviv.com,ezra-il.com,faceu.us,gbuzz.net,gefun.net,giborboxr-il.com,graces-bag.com,hasdarot.club,hasdarot.com,hasdarot.info,hasdarot.life,hasdarot.live,hasdarot.net,hasdarot.tv,hasdarot.vip,hasdarot.xyz,iastrology.net,isdarot.com,israeljobstoday.com,kelocote.prpl.co.il,kooduu.com,lanatoyasaeil.com,lavaveli.com,levoria-il.com,libi-wear.com,livenza-il.com,losittooday.info,lp.playsmart.co.il,lyplay.net,matsato.com,meirav-il.com,mizrahi-il.com,movitop.info,noa-eden.com,noa-tikim.com,noya-il.com,ofnatlevi-il.com,orenthelabel.com,pinukim.net,play.milly-style.co.il,plushome.co.il,protyshop.com,rome-il.com,ronitnoa-telaviv.com,sdarot-il.org,sdarot-tv.org,sdarot.cc,seret.live,shahar-il.com,sortie-shop.com,storyshop.co.il,stylebox.co.il,tvfeel.cc,twobluedeer.com,usbuzz.net,votladora.com,zohar-trends.com,zoharajewels.com##*
 ||atardrushim.com^
 ||avoda-mehabait.co.il^
 ||hasdarot.club^
@@ -526,8 +461,8 @@ zoharajewels.com##*
 @@/advert.$image,domain=13news.co.il|13tv.co.il
 @@||2mdn.net/instream/video/client.js$script,domain=13news.co.il|13tv.co.il|hamal.co.il|mako.co.il|ynet.co.il
 @@||555.co.il/pearl/rest/analytics/$xmlhttprequest
-@@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/cab/*.min.js$script,domain=inn.co.il
+@@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/scripts/Forecast.js$script,domain=inn.co.il
 @@||a7.org/scripts/jquery/$script,domain=inn.co.il
 @@||a7.org/scripts/mosaic_$script,domain=inn.co.il
@@ -564,9 +499,9 @@ zoharajewels.com##*
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/$script,domain=hamal.co.il|sheee.co.il|walla.co.il
 @@||cdnwiz.com/ads.js$xmlhttprequest
 @@||clalit.co.il/AdImages
-@@||creatix.co.il/img/banner/$image,xmlhttprequest,~third-party
+@@||creatix.co.il/img/banner/$image,~third-party,xmlhttprequest
 @@||dfusdigital.co.il/files/banners/$image,~third-party
-@@||dmag.co.il/pub/shvii/*$script
+@@||dmag.co.il/pub/shvii/$script
 @@||e.infogram.com^$domain=www.ynet.co.il
 @@||elite-coffee.co.il/dw/image/*/banners/*_*x*?$image,~third-party
 @@||errors.snackly.co/_.gif|$xmlhttprequest,domain=ynet.co.il
@@ -639,7 +574,7 @@ zoharajewels.com##*
 @@||s.vi-serve.com/tagLoader.js$script,domain=bizportal.co.il
 @@||sadanpublishing.co.il/files/banners/$image,~third-party
 @@||seamall.co.il/wp-content/uploads/*/baner_$image,~third-party
-@@||seamall.co.il/wp-content/uploads/*_baner_*$image,~third-party
+@@||seamall.co.il/wp-content/uploads/*_baner_$image,~third-party
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/gpt/$script,domain=13news.co.il|13tv.co.il|nifgashim.net
 @@||securepubads.g.doubleclick.net/pagead/managed/$domain=13news.co.il|13tv.co.il
@@ -849,31 +784,23 @@ calcalist.co.il,ynet.co.il##a[onmousedown*="goodluckblockingthis.com"]
 !
 13news.co.il,13tv.co.il##.show.youMightAlsoLike
 13news.co.il,13tv.co.il##.taboola-wrapper
-13news.co.il,13tv.co.il##.tbl-feed-container
-13news.co.il,13tv.co.il##.tbl-next-up
-13news.co.il,13tv.co.il##.trc_rbox_container
+13news.co.il,13tv.co.il,geektime.co.il,inn.co.il,kipa.co.il,morfix.co.il,rotter.net,sheee.co.il,walla.co.il##.tbl-next-up
+13news.co.il,13tv.co.il,sport5.co.il##.tbl-feed-container
+13news.co.il,13tv.co.il,sport5.co.il##.trc_rbox_container
 bizportal.co.il###ob-new-video-wrap
 bizportal.co.il##.nbc.inner_width > #below-page-thumbnails
 c14.co.il,now14.co.il##.trc_related_container.tbl-feed-card
-fxp.co.il##.OUTBRAIN
+fxp.co.il,gadgety.co.il,hwzone.co.il,ice.co.il,isramedia.net,maariv.co.il##.OUTBRAIN
 gadgety.co.il###taboola-left-rail-thumbnails
-gadgety.co.il##.OUTBRAIN
 geektime.co.il###area-taboola-after-content
 geektime.co.il###area-taboola-top-content
-geektime.co.il##.tbl-next-up
 haaretz.co.il,themarker.com##.trc_related_container
-hwzone.co.il##.OUTBRAIN
-ice.co.il##.OUTBRAIN
 inn.co.il##.article-taboola
 inn.co.il##.category-taboola
 inn.co.il##.taboola
 inn.co.il##.taboola-top
-inn.co.il##.tbl-next-up
-isramedia.net##.OUTBRAIN
 kan.org.il,kankids.org.il##.taboola-recommendations-section
 kikar.co.il##[class*=".ob-widget-header"]
-kipa.co.il##.tbl-next-up
-maariv.co.il##.OUTBRAIN
 maariv.co.il##.article-5-outbrain-script
 maariv.co.il##.article-9-outbrain-script
 maariv.co.il##.article-body-outbrain-container
@@ -883,7 +810,6 @@ maariv.co.il##.right-side-outbrain
 maariv.co.il##.weather-outbrain
 mako.co.il,n12.co.il##[class*="Outbrain_"]
 milog.co.il###content_recommendation2
-morfix.co.il##.tbl-next-up
 onlife.co.il###cj_taboola_widget-2
 onlife.co.il##.cj_taboola
 radio-israel.org###taboola_div
@@ -893,10 +819,6 @@ rotter.net###taboola-forum_atf
 rotter.net###taboola-forums-top-react
 rotter.net###taboola-mid-page---long-article-pages
 rotter.net###taboola-post-top-react
-rotter.net##.tbl-next-up
-sheee.co.il,walla.co.il##.tbl-next-up
-sport5.co.il##.tbl-feed-container
-sport5.co.il##.trc_rbox_container
 stips.co.il##.t-recommendations-area
 story.mako.co.il##[class^="outbrain-widget-"]
 walla.co.il##.ob-taste-left
@@ -946,8 +868,8 @@ bb-n.co.il##.rotating-banners
 bb-n.co.il##.sticky-sidebar-banner
 bb-n.co.il##.ttfc-banner-block
 bhol.co.il##.fade
-bigbroil.com##.adsbygoogle
 bigbroil.com##.desk_mode.adsgoogle
+bigbroil.com,isramedia.net,shmua.com##.adsbygoogle
 bipbip.co.il###LeftBanner
 bipbip.co.il##.HotBannerDiv
 bipbip.co.il##.TopBannerDiv
@@ -955,14 +877,14 @@ bizportal.co.il##.adv-article-left-kubia
 bizportal.co.il##.bottom-banner.row
 bizportal.co.il##.google_ad_wrap
 bizportal.co.il##.promoted_article
-calcalist.co.il###ArticleBanner
 calcalist.co.il###ads\.premium
+calcalist.co.il###ArticleBanner
 calcalist.co.il###carouselAdLi
 calcalist.co.il###old_Arts_Ad
 calcalist.co.il###relevanti_area
-calcalist.co.il##.SetArtWidth[style="margin-top:7px;"] > table[width="478"][height="174"]
 calcalist.co.il##.banner.new > .no-print
 calcalist.co.il##.banner.new.layoutItem
+calcalist.co.il##.SetArtWidth[style="margin-top:7px;"] > table[width="478"][height="174"]
 calcalist.co.il##.top-ad-cal
 calcalist.co.il##[height="7"] + [valign="top"] + tr[height="7"]
 calcalist.co.il##[src="http://partner.googleadservices.com/gpt/pubads_impl_86.js"] + *
@@ -1002,7 +924,7 @@ galgalim.co.il##.page_banner
 galgalim.co.il##[class^="google_ad_wrap_"]
 gamepro.co.il##.active.quads-sticky
 games.israelhayom.co.il##.bnr_750
-games.israelhayom.co.il##.bnr_970
+games.israelhayom.co.il,play.walla.co.il##.bnr_970
 globes.co.il###Globes_Displays
 globes.co.il###jumbo_container.nocontent.topBanner
 globes.co.il##.Banner_in_Content
@@ -1010,7 +932,7 @@ globes.co.il##.bannerCenter.gr
 globes.co.il##.compBanner
 globes.co.il##.kidum
 globes.co.il##.spAr
-globes.co.il##a[href*="theadblockerproject.org"]
+globes.co.il,israelhayom.co.il,rotter.name,rotter.net##a[href*="theadblockerproject.org"]
 haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
 haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
@@ -1028,10 +950,10 @@ hasolidit.com##.hs-trade-strip, .message--post:has(.hs-trade-strip)
 hasolidit.com##.navsupport, a[href="https://www.hasolidit.com/מונטיזציה"]
 hasolidit.com##article > div[style="text-align: center;"] > div[style="text-align: center;"]
 hidabroot.org###desktop_vid_bnr
-hidabroot.org##.bannerCls.trg_banner
 hidabroot.org##.panel-row-upper
 hidabroot.org##.remove-ad
 hidabroot.org##[href*="https://target.hidabroot.org/ad_manager"]
+hidabroot.org,passportnews.co.il##.bannerCls.trg_banner
 hm-news.co.il###banner_desktop_footer_div
 hm-news.co.il###banner_desktop_left_div
 hm-news.co.il###banner_desktop_right_div
@@ -1053,8 +975,8 @@ homeless.co.il##td[style="width:200px; text-align:left; vertical-align:top;"]
 homeless.co.il##th[colspan="20"]
 homeprices.yad2.co.il,pricelist.yad2.co.il,pro.yad2.co.il###top_banners
 hon.co.il###black-studio-tinymce-43
-hon.co.il##.header_banner
 hon.co.il##a img[width="300"][height="250"]
+hon.co.il,kinderland.co.il##.header_banner
 hwzone.co.il##.clearfix.block-da-post_before_content.block-da.block-da-1 > .div-hwad-300x250
 hwzone.co.il##.clearfix.da-style-2.block-da-post_middle_content.block-da.block-da-1
 hwzone.co.il##.clearfix.tipi-flex-right.block-da-header.block-da.block-da-1
@@ -1102,9 +1024,7 @@ israelhayom.co.il##.pane-ih-marketing-bxslider
 israelhayom.co.il##.pane-ih-marketing-nice-to-know
 israelhayom.co.il##.slick-initialized.campaign.posts-slider.slick-slider
 israelhayom.co.il##.top-adunit-section
-israelhayom.co.il##a[href*="theadblockerproject.org"]
 israelweather.co.il###weekFlashes
-isramedia.net##.adsbygoogle
 isramedia.net##div[style="clear: both;border-bottom:3px solid #ededed;padding:4px;height: 120px;"]
 jdn.co.il##.ad-manager-slot
 jerusalemharedim.co.il##.Banner > [src*="/dyncontent/202"]
@@ -1124,23 +1044,19 @@ kikar.co.il##.w-full.py-1.lg\:top-\[45px\].top-\[52px\].sticky
 kikar.co.il##div.lg\:col-span-3.col-span-1.lg\:block.hidden > .w-full.top-\[2\.8rem\].sticky > .ps-10.py-5
 kikar.co.il##div.md\:block.hidden > .\[\&_iframe\]\:rounded.dark\:bg-gray-900.bg-gray-100.py-3.border-border.border-b.justify-center.flex.mx-auto.align-center.z-10.relative.text-center
 kikar.co.il##div.md\:block.hidden > .justify-center.flex.\[\&_iframe\]\:overflow-hidden.\[\&_iframe\]\:rounded.border-border.border-b.p-3.z-10.relative.text-center
-kinderland.co.il##.header_banner
 kipa.co.il###innerMoodaa2
 kipa.co.il###mekodam
-kipa.co.il##.Ozen300
 kipa.co.il##.mood.hidden-sm.hidden-md.hidden-xs
 kipa.co.il##.mood1240-100
-kipa.co.il##.moodMarker
 kipa.co.il##.mood_desktop.mood1280-100.mood
 kipa.co.il##.mood_desktop.mood1280-250.mood
 kipa.co.il##.mood_desktop.mood300-250.mood
 kipa.co.il##.mood_desktop.mood300-600.mood
 kipa.co.il##.mood_native.mood300-250.mood
+kipa.co.il##.moodMarker
+kipa.co.il##.Ozen300
 kipa.co.il##.sargelWarp
 kipa.co.il##[href^="https://moodaot.kipa.co.il/gomodaa.php"]
-kipa.co.il##[id^="p__"][id$="_Kipa_Native_kipa_native_1"]
-kipa.co.il##[id^="p__"][id$="_Kipa_Native_kipa_native_2"]
-kipa.co.il##[id^="p__"][id$="_Kipa_Native_kipa_native_3"]
 kipa.co.il##[id^="p__"][id$="_kipa_desktop_Article_1280x250_1"]
 kipa.co.il##[id^="p__"][id$="_kipa_desktop_Article_300x250_1"]
 kipa.co.il##[id^="p__"][id$="_kipa_desktop_Article_300x250_2"]
@@ -1153,6 +1069,9 @@ kipa.co.il##[id^="p__"][id$="_kipa_desktop_HP_1280x250_1"]
 kipa.co.il##[id^="p__"][id$="_kipa_desktop_ROS_1280x100_2"]
 kipa.co.il##[id^="p__"][id$="_kipa_desktop_ROS_1280x250_1"]
 kipa.co.il##[id^="p__"][id$="_kipa_desktop_ROS_300x600_sidebar_1"]
+kipa.co.il##[id^="p__"][id$="_Kipa_Native_kipa_native_1"]
+kipa.co.il##[id^="p__"][id$="_Kipa_Native_kipa_native_2"]
+kipa.co.il##[id^="p__"][id$="_Kipa_Native_kipa_native_3"]
 kipa.co.il##div.textim > div > .mood > .moodiframe.oneMood
 kipa.co.il##div.textim > div > .mood > .moodiframe.oneMood > div
 kolhair.co.il###ad_Footer
@@ -1162,8 +1081,6 @@ linicom.co.il##a[target="_blank"]
 link4u.co.il###link_banner
 link4u.co.il##.banner_300x224
 link4u.co.il##.banner_main
-maariv.co.il##.HorizontalCategoryArticleAndBannerFloor
-maariv.co.il##.TwoBannersFloor
 maariv.co.il##.__ADORIC__
 maariv.co.il##.article-bottom-banner
 maariv.co.il##.article-box-banner-wrap
@@ -1176,7 +1093,9 @@ maariv.co.il##.cls-970-350-1st-top.maariv-banner
 maariv.co.il##.cls_970x350_1st_top.one-row
 maariv.co.il##.homepage_970x90_1st.maariv-banner
 maariv.co.il##.horizontal-banner-wrap
+maariv.co.il##.HorizontalCategoryArticleAndBannerFloor
 maariv.co.il##.news-feed-banner
+maariv.co.il##.TwoBannersFloor
 maariv.co.il##.xl-banner-wrap
 madas.co.il###CloseshellAds
 madlan.co.il##.ery4ov3.css-qhd8a4
@@ -1194,14 +1113,14 @@ maka.co.il##.rightBanner
 mako.co.il###CM8ShowAd_MONSTER1_300X250
 mako.co.il###CM8ShowAd_MONSTER2_300X250
 mako.co.il###CM8ShowAd_MONSTER3_300X250
-mako.co.il###ZA_CAMP_BG
-mako.co.il###ZA_CAMP_CONTAINER
-mako.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 mako.co.il###hp_bottom_strip
 mako.co.il###idButtonsTimelineWrapper > #idButtonsWrapper > [class*="-"] > [href="/mako-vod-purchase"] > #purchaseBtnContentId
 mako.co.il###maavaronPlaceholder
 mako.co.il###mysupermarketcontainer
 mako.co.il###neoTopStrip
+mako.co.il###ZA_CAMP_BG
+mako.co.il###ZA_CAMP_CONTAINER
+mako.co.il###ZA_CAMP_SLIDEIN_CONTAINER
 mako.co.il##.bannerClose
 mako.co.il##.mako_main_portlet_container > a[target="_blank"] > img
 mako.co.il##.pzm_banners
@@ -1211,11 +1130,11 @@ mako.co.il##[href^="https://adclick.g.doubleclick.net/"]
 mako.co.il##[src="https://img.mako.co.il/2023/03/12/rosh.gif"]
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
 mako.co.il##div[id^="top-strip"]
-mako.co.il##iframe[src*="javascript:document.write('"]
-mako.co.il,n12.co.il##[class*="AdComponent_"]
 mako.co.il,n12.co.il##[class*="Ad_root"]
+mako.co.il,n12.co.il##[class*="AdComponent_"]
 mako.co.il,n12.co.il##[class*="Maavaron_root"]
 mako.co.il,n12.co.il##[class*="Premium_root"]
+mako.co.il,walla.co.il##iframe[src*="javascript:document.write('"]
 makorrishon.co.il##.mkr_adunit
 masa.co.il##.firsomet
 masa.co.il##.google-ad-links-wrapper
@@ -1230,10 +1149,10 @@ mazaltov.walla.co.il##.banner-tower
 mazaltov.walla.co.il##.banner-upper-mega
 mazaltov.walla.co.il##.master-popup-banner
 metukimil.co.il##.mai-aec-header-after.mai-aec
-morfix.co.il##.TopLeftRadvertisement_translation
 morfix.co.il##.result_adv
 morfix.co.il##.top_line_ad
 morfix.co.il##.top_line_ad_translation
+morfix.co.il##.TopLeftRadvertisement_translation
 morfix.co.il##div[class^="_adMiddle_"]
 morfix.co.il##div[class^="_adTop_"]
 morfix.co.il##div[class^="_hpTopAd_"]
@@ -1255,11 +1174,11 @@ newmail.walla.co.il###toolbarLink
 newmail.walla.co.il##.daily_container
 newmail.walla.co.il##.walTopBannerInside
 news.walla.co.il,sports.walla.co.il##.separator.css-1v283wf
+news1.co.il###divBanner
+news1.co.il###divBannerRight
 news1.co.il###PlazmaDiv
 news1.co.il###TopBanner
 news1.co.il###UcInsideRight_1_1_tblWidth
-news1.co.il###divBanner
-news1.co.il###divBannerRight
 news1.co.il##table[bgcolor="#eeeeee"][height="150"]
 news1.co.il##table[width="100%"][border="0"][bgcolor="#EEEEEE"][height="160"]
 news1.co.il##td[width="237"][style="background-color: #EEEEEE;"]
@@ -1285,12 +1204,10 @@ passportnews.co.il###fullpage_bnr
 passportnews.co.il###page.home > #content > div#desktop_footer_sticky
 passportnews.co.il###page.magazine > #content > div#desktop_footer_sticky
 passportnews.co.il###page.magazine > div#desktop_footer_sticky
-passportnews.co.il##.bannerCls.trg_banner
 passportnews.co.il##[src^="https://media.passportnews.co.il/media/Modules/Banners/"]
 pitria.com##.adcontainer
 play.walla.co.il##.bnr_160
 play.walla.co.il##.bnr_728
-play.walla.co.il##.bnr_970
 portal.takdin.co.il##.resp-mobile-hidden.banner
 posta.co.il###banners-after-flashes
 posta.co.il###banners-below-menu
@@ -1316,16 +1233,13 @@ rateonclick.com##a[href*="campaigns.layer.co.il/"]
 rlive.co.il##.adv-placeholder
 rlive.co.il##.is-only-desktop.ad-container
 rlive.co.il##.station-middle-ad
-rotter.name##.bookingaff
-rotter.name##a[href*="theadblockerproject.org"]
+rotter.name,rotter.net##.bookingaff
 rotter.net###RoterHePromo
-rotter.net##.bookingaff
 rotter.net##.forum-side-responsive1
 rotter.net##[class^="BezeqIframe_bezeqContainer_"]
 rotter.net##[class^="HomepagePosts_commercialWrapper_"]
 rotter.net##[class^="PostsExpended_commercialWrapper_"]
 rotter.net##[style="border: 0px solid red; width: 160px; table-layout: fixed;"]
-rotter.net##a[href*="theadblockerproject.org"]
 rotter.net##td[style="border:0px solid red; width:160px; table-layout:fixed;"]
 rotter.net##td[style="width:120px;border:0px solid red;"]
 s-maof.com###backgroundPopup
@@ -1347,7 +1261,6 @@ sherut.net##md-card._md[style="background-color: #f5f5f5;margin-top: 0; "] > [st
 sherut.net##md-card._md[style="background-color: #f5f5f5;margin-top: 0; "] > md-card-content[style="min-height: 250px;padding: 10px;"]
 sheva7.co.il##.desktop-display > .maavaron
 shironet.mako.co.il###playerAdArea
-shmua.com##.adsbygoogle
 shmua.com##.elementor-widget-html.elementor-widget.elementor-hidden-mobile.elementor-hidden-tablet.elementor-element-9ca9c92.elementor-element
 shmua.com##[href^="https://s.click.aliexpress.com/"]
 shmua.com##div[style="position:relative;width:720px;max-width:100%;margin:0 auto;overflow:hidden;"]
@@ -1447,7 +1360,6 @@ walla.co.il##div[class^="styles_topAds_"]
 walla.co.il##div[id^="Fusion_holder"]
 walla.co.il##div[style="width:468px;margin:0 auto;"]
 walla.co.il##iframe[id*="AMAdIframe"]
-walla.co.il##iframe[src*="javascript:document.write('"]
 walla.co.il##li.ad
 walla.co.il##li.marketing
 walla.co.il##video[poster^="data:image/gif;base64,"]
@@ -1472,12 +1384,12 @@ www.haaretz.co.il,www.themarker.com##[href^="https://www.haaretz.co.il/labels/"]
 www.haaretz.co.il,www.themarker.com##[href^="https://www.themarker.com/labels/"]
 www.lametayel.co.il##.overflow-hidden.mx-auto.banner-outer-wrapper
 www.lametayel.co.il##.w-full.header-banner-wrapper
+www.mako.co.il##.clearer.scale_image.mako_feed_neo.ver2.part2
 www.mako.co.il##.ComponentTitle_titleContent__MeYqq > [href="https://www.mako.co.il/finances-special/medio_nadlan"]
 www.mako.co.il##.ComponentTitle_titleContent__MeYqq > [href^="https://www.holidayfinder.co.il/"]
-www.mako.co.il##.Poster_root__0MfQk
-www.mako.co.il##.clearer.scale_image.mako_feed_neo.ver2.part2
 www.mako.co.il##.eBTFYW.sc-59fe36ce-6
 www.mako.co.il##.h033Desktop_root__ZgE9t
+www.mako.co.il##.Poster_root__0MfQk
 www.mako.co.il##.poster_root__Tp4J_
 www.mako.co.il##.v025Desktop_root__EcTEG
 www.mako.co.il##[box-title="Xtra Secret"]
@@ -1504,14 +1416,14 @@ www.rlive.co.il##.w-\[350px\].min-w-\[350px\].lg\:flex.hidden.h-auto
 www.rlive.co.il##div.md\:flex.overflow-hidden.max-h-\[250px\].h-\[250px\].hidden.is-container
 www.shvoong.co.il##.banner-full-width
 www.shvoong.co.il##.banner-sticky-right
-xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
 xnet.ynet.co.il###ads\.300x250\.1
 xnet.ynet.co.il###ads\.blog\.250x250
 xnet.ynet.co.il###ads\.top\.1
+xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
+xnet.ynet.co.il##.ad.hdn
 xnet.ynet.co.il##.ContentLink.banner.High
 xnet.ynet.co.il##.ContentLink.banner.Low
-xnet.ynet.co.il##.ad.hdn
 yad2.co.il###desktop-top-banners
 yad2.co.il###martef
 yad2.co.il##.desktop-only[class*="slots_desktopTextlinkLightBoxAd_"]
@@ -1530,24 +1442,24 @@ yeshanews.com###sideban
 ynet.co.il###ads\.newspaper
 ynet.co.il###ads\.top\.2
 ynet.co.il###blanket
-ynet.co.il##.ArticleBannerComponenta
-ynet.co.il##.CAATVcompAdvertiseTv
-ynet.co.il##.StripMarketingComponenta1280
 ynet.co.il##.art_tkb_talkback_advert
+ynet.co.il##.ArticleBannerComponenta
 ynet.co.il##.articleBodyInreadWrapper
 ynet.co.il##.banner.layoutItem
 ynet.co.il##.buyandsavedy
+ynet.co.il##.CAATVcompAdvertiseTv
 ynet.co.il##.commertial.slotView
 ynet.co.il##.extended-banner.layoutItem
 ynet.co.il##.pplus_hdr_ad
 ynet.co.il##.promolightboxmvc
+ynet.co.il##.StripMarketingComponenta1280
 ynet.co.il##[class*="MarketingCarousel"]
 ynet.co.il##[class*="PromoLightbox"]
 yo-yoo.co.il###unit1
 yo-yoo.co.il###unit2
 zap.co.il##.BannerBoxNew
-zap.co.il##.Martef
 zap.co.il##.leftSideBanner
+zap.co.il##.Martef
 שעות-פתיחה.org.il##div.ad
 !
 !------------------------------ABP-specific rules-----------------------------!
