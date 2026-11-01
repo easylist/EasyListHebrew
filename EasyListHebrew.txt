@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: l95bpcLJIRFJ/sXt5JNAeA
+! Checksum: tIoCD68f5uAg8vcgirKRaQ
 ! Title: EasyList Hebrew
-! Last modified: 30 Oct 2026 11:22 UTC
+! Last modified: 01 Nov 2026 13:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -765,7 +765,6 @@ m.one.co.il##[id*="_ucAdMiddleArticle_"]
 m.sponser.co.il##.gpt-slot
 m.sponser.co.il##body > div[data-widget-id="READNXT_1"]:has(> div[data-adpath*="Sticky_Footer"])
 m.sport5.co.il##.ad
-mako.co.il,n12.co.il##[class*="AdComponent_mobile_"]
 mivzakim.net##.adcontainer
 mobile.mako.co.il##.adArticle
 mobile.mako.co.il##.adv
@@ -882,6 +881,7 @@ maariv.co.il##.article-left-side-outbrain
 maariv.co.il##.may-interest-you
 maariv.co.il##.right-side-outbrain
 maariv.co.il##.weather-outbrain
+mako.co.il,n12.co.il##[class*="Outbrain_"]
 milog.co.il###content_recommendation2
 morfix.co.il##.tbl-next-up
 onlife.co.il###cj_taboola_widget-2
@@ -1212,9 +1212,9 @@ mako.co.il##[src="https://img.mako.co.il/2023/03/12/rosh.gif"]
 mako.co.il##div[class*="mainRoot"] > div:nth-child(4) > div[class*="ordering"] > div:nth-child(6)
 mako.co.il##div[id^="top-strip"]
 mako.co.il##iframe[src*="javascript:document.write('"]
+mako.co.il,n12.co.il##[class*="AdComponent_"]
 mako.co.il,n12.co.il##[class*="Ad_root"]
 mako.co.il,n12.co.il##[class*="Maavaron_root"]
-mako.co.il,n12.co.il##[class*="Outbrain_root"]
 mako.co.il,n12.co.il##[class*="Premium_root"]
 makorrishon.co.il##.mkr_adunit
 masa.co.il##.firsomet

@@ -89,15 +89,12 @@ ynet.co.il##^style#yitwall
 ||googlesyndication.com/pagead/js/adsbygoogle.js$important,redirect=noopjs,xhr,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
 ||googlesyndication.com/pagead/js/adsbygoogle.js$important,redirect=noopjs:10,script,domain=mako.co.il|n12.co.il|tech12.co.il|tvbee.co.il
 !
-!#if !env_mobile
-mako.co.il##+js(aopw, upManager)
-!#endif
+mako.co.il,n12.co.il##+js(aopw, upManager)
 !#if env_mobile
-mako.co.il###overlay.overlay
-mako.co.il##+js(aeld, scroll, {window.scrollTo)
-mako.co.il##+js(aeld, touchmove, overlay-scroll)
-mako.co.il##+js(aopw, upManager)
-mako.co.il##html body.overflow:style(overflow: auto !important)
+mako.co.il,n12.co.il###overlay.overlay
+mako.co.il,n12.co.il##+js(aeld, scroll, {window.scrollTo)
+mako.co.il,n12.co.il##+js(aeld, touchmove, overlay-scroll)
+mako.co.il,n12.co.il##html body.overflow:style(overflow: auto !important)
 !#endif
 mako.co.il,n12.co.il,tech12.co.il,tvbee.co.il##+js(no-fetch-if, adsbygoogle)
 !
@@ -302,7 +299,6 @@ jmusic.me##+js(nostif, mdpDeBlocker)
 ! * HWzone * !
 hwzone.co.il###rb-checktag:remove()
 hwzone.co.il##+js(no-fetch-if, adsbygoogle)
-!
 ! * Prog * !
 prog.co.il##^script:has-text(samInitDetection)
 !
