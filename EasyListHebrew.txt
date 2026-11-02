@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: h2ggqY7hYID1eYdP31NSpg
+! Checksum: 6wOeONToddd2gTLT2XR6dg
 ! Title: EasyList Hebrew
-! Last modified: 02 Nov 2026 16:39 UTC
+! Last modified: 02 Nov 2026 16:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -862,6 +862,8 @@ geektime.co.il###area-taboola-after-content
 geektime.co.il###area-taboola-top-content
 geektime.co.il##.tbl-next-up
 haaretz.co.il,themarker.com##.trc_related_container
+haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
+haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 hwzone.co.il##.OUTBRAIN
 ice.co.il##.OUTBRAIN
 inn.co.il##.article-taboola
@@ -1012,9 +1014,7 @@ globes.co.il##.kidum
 globes.co.il##.spAr
 globes.co.il##a[href*="theadblockerproject.org"]
 haaretz.co.il,themarker.com##a:has(> span:has-text(פרסומת))
-haaretz.co.il,themarker.com##a[href*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##a[href*="gampad/clk"]
-haaretz.co.il,themarker.com##a[onmousedown*="://paid.outbrain.com/network/redir?"][target="_blank"]
 haaretz.co.il,themarker.com##section:is([data-testid="michelangelo-list"],[data-testid="Donatello-list"]):has(> article > a:is([href^="http://pubads.g.doubleclick.net/"],[data-google-interstitial]))
 haaretz.co.il,themarker.com##section[data-testid="Butthead-list"]:has(> .advert)
 haipo.co.il##div[onclick*="countAdClick"]
