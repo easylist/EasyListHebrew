@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HaHUGp2relZZ9feS1HyJ5A
+! Checksum: ejld9wa331CZIvZTK3BA1w
 ! Title: EasyList Hebrew
-! Last modified: 02 Nov 2026 16:49 UTC
+! Last modified: 02 Nov 2026 16:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -812,12 +812,14 @@ www.rlive.co.il##.mt-4.md\:hidden.block.max-h-\[280px\].h-\[280px\].is-container
 www.rlive.co.il##.my-4.md\:hidden.block.max-h-\[250px\].h-\[250px\].is-container
 yad2.co.il##.iosLoad.mobile_strip_top
 yad2.co.il##.iosLoad.mobile_top_dfp_placeholder_bill
+yad2.co.il##[class$="_mobileInnerDfp"]
 yad2.co.il##[class*="_mobileInnerDfp_"]
 yad2.co.il##[class*="additional-info_mobileStripMiddleDfp_"]
 yad2.co.il##[class*="dfp-slot_mobileOnly_"][class*="dfp-slot_container_"]
 yad2.co.il##[class*="top-gallery_mobileDfp_"]
 yad2.co.il##[class*="upper-ad-content_mobileStripTopDfp_"]
 yad2.co.il##[class*="upper-item-description_mobileStripTopDfp_"]
+yad2.co.il##[class^="dfp-slot-module-scss-module_"]
 ynet.co.il###ads\.strip\.content\.1
 ynet.co.il###ads\.strip\.content\.2
 ynet.co.il##.dfpId
