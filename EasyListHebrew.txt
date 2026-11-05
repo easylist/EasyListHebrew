@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rGAUqXdqZGuVyOD4HbBeKw
+! Checksum: j0Smo+CheZWdE7Raq1exSA
 ! Title: EasyList Hebrew
-! Last modified: 05 Nov 2026 13:06 UTC
+! Last modified: 05 Nov 2026 13:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1025,6 +1025,8 @@ hamal.co.il##.container-fluid.styles_commentWrapper__ufWcY
 hamal.co.il##.container-fluid.styles_mainWrapper__fcFda
 hamal.co.il##.styles_nativeFeed__raMtD
 hamal.co.il##[class^="styles_bannerWrapper"]
+hamal.co.il##div[style="min-height: 250px;"]
+hamal.co.il##div[style="min-height:250px"]
 haredim-jerusalem.co.il##.fadeInUp.elementor-sticky--effects.elementor-sticky--active.elementor-sticky
 hasolidit.com##.affiliate-recommendations
 hasolidit.com##.banner-container
