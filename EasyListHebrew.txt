@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wuAPsvG+8cAzcBYv6DN8jQ
+! Checksum: rGAUqXdqZGuVyOD4HbBeKw
 ! Title: EasyList Hebrew
-! Last modified: 05 Nov 2026 13:04 UTC
+! Last modified: 05 Nov 2026 13:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1295,6 +1295,7 @@ pitria.com##.adcontainer
 play.walla.co.il##.bnr_160
 play.walla.co.il##.bnr_728
 play.walla.co.il##.bnr_970
+podcastim.org.il##div[aria-label="מודעות"]
 portal.takdin.co.il##.resp-mobile-hidden.banner
 posta.co.il###banners-after-flashes
 posta.co.il###banners-below-menu
