@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6Nug9MBeXjg6Mcrm4jYk1g
+! Checksum: eY356bsQmClFmo0mlFiMtw
 ! Title: EasyList Hebrew
-! Last modified: 05 Nov 2026 18:59 UTC
+! Last modified: 05 Nov 2026 19:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1363,6 +1363,7 @@ sponser.co.il###unit_300x250_bottom
 sponser.co.il###unit_300x250_top
 sponser.co.il##.s-mb-l.gpt-slot
 sponser.co.il##.s-width-100.s-mv-m.flex-center-center
+sport1.maariv.co.il###wsc-widget.wsc-widget
 sport1.maariv.co.il##.header-div-banner
 sport5.co.il##.article-list-alt2.article-list-alt > .article-holder-homepage > .row:nth-of-type(6) > .alt
 sport5.co.il##.banner-list
