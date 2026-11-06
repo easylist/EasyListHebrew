@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: eY356bsQmClFmo0mlFiMtw
+! Checksum: Tas5fAKnNeWy8RS8ESwYCQ
 ! Title: EasyList Hebrew
-! Last modified: 05 Nov 2026 19:04 UTC
+! Last modified: 06 Nov 2026 11:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -909,6 +909,7 @@ walla.co.il##.taboola-font-host
 walla.co.il##.taboola-taste
 walla.co.il##.wrap-outbrain
 walla.co.il##li.outbrain
+walla.co.il##li[class*="Outbrain"]
 ynet.co.il###taboola-video-reel-mid-article
 ynet.co.il##.MultiArticleTaboola.layoutItem
 ynet.co.il##.Taboola.layoutItem
@@ -1449,7 +1450,9 @@ walla.co.il##a[href*="jor-el.net"] img[src^="blob"]
 walla.co.il##a[href][onmousedown] img[src^="blob"]
 walla.co.il##a[href^="javascript:"] img[src^="blob"]
 walla.co.il##div.ads
+walla.co.il##div[class*="AdInserter"]
 walla.co.il##div[class^="ads-spaces"]
+walla.co.il##div[class^="page_promotionSection"]
 walla.co.il##div[class^="styles_adTop_"]
 walla.co.il##div[class^="styles_topAds_"]
 walla.co.il##div[id^="Fusion_holder"]
@@ -1458,6 +1461,7 @@ walla.co.il##iframe[id*="AMAdIframe"]
 walla.co.il##iframe[src*="javascript:document.write('"]
 walla.co.il##li.ad
 walla.co.il##li.marketing
+walla.co.il##li[class*="OnlyAd__"]
 walla.co.il##video[poster^="data:image/gif;base64,"]
 wallashops.co.il###topBanner
 weather2day.co.il###W2D_728x90_1.show-on-desktop
