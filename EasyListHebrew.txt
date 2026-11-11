@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Owpc0OuLO1PfXpOy0KmoXg
+! Checksum: sy/V8PZwnaINsQcyS7UFyg
 ! Title: EasyList Hebrew
-! Last modified: 11 Nov 2026 15:58 UTC
+! Last modified: 11 Nov 2026 16:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1518,6 +1518,9 @@ www.rlive.co.il##div.md\:flex.overflow-hidden.max-h-\[250px\].h-\[250px\].hidden
 www.shvoong.co.il##.banner-full-width
 www.shvoong.co.il##.banner-sticky-right
 www.walla.co.il##.styles_marketing__8tyXg.styles_smallSideItem__oF1wE
+www.walla.co.il##.styles_marketing__eFi52.styles_bigTaste__pq4fQ
+www.walla.co.il##.styles_marketing__nGjck.styles_smallTaste__em59_
+www.walla.co.il##.styles_marketing__puepE.styles_smallSquareItem__e6Cdr
 www.walla.co.il##.styles_topFiveSection__zkrwC
 xnet.ynet.co.il###XnetAdSenceThinkAdAD-300
 xnet.ynet.co.il###ads\.250x250\.top
