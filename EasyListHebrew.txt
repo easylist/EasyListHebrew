@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: e1mZpuHSRVDSpENkII/EKQ
+! Checksum: zxe6WkRfPGc5NsrsVwLTKQ
 ! Title: EasyList Hebrew
-! Last modified: 11 Nov 2026 16:03 UTC
+! Last modified: 11 Nov 2026 16:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -525,6 +525,7 @@ zoharajewels.com##*
 @@/adunits.$script,~third-party,domain=13news.co.il|13tv.co.il
 @@/advert.$image,domain=13news.co.il|13tv.co.il
 @@||2mdn.net/instream/video/client.js$script,domain=13news.co.il|13tv.co.il|hamal.co.il|mako.co.il|ynet.co.il
+@@||4chef.co.il/cdn/shop/files/baner_$image,~third-party
 @@||555.co.il/pearl/rest/analytics/$xmlhttprequest
 @@||a7.org/Combine.js$script,domain=inn.co.il
 @@||a7.org/cab/*.min.js$script,domain=inn.co.il
