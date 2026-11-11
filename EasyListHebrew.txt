@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sy/V8PZwnaINsQcyS7UFyg
+! Checksum: e1mZpuHSRVDSpENkII/EKQ
 ! Title: EasyList Hebrew
-! Last modified: 11 Nov 2026 16:00 UTC
+! Last modified: 11 Nov 2026 16:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1471,6 +1471,7 @@ wen.co.il##.wenBanner
 wisebuy.co.il##.mid1Banner
 wolt.com##button:has(> div > div > div > span:has-text(ממומן))
 wolt.com##div:has(> div > div > div > div > div > p:has-text(ממומן))
+www.2net.co.il##table[style="padding: 8px 20px 8px 20px; height:98px;"][width="790"][border="0"][align="center"][cellpadding="1"][cellspacing="1"]
 www.auto.co.il##.js-assistance.assistance
 www.auto.co.il##.js-top-bar-close-btn.top-bar__close-btn
 www.auto.co.il##section.logos > .logos__container > .logos__list > li.logos__item > .logos__logo
