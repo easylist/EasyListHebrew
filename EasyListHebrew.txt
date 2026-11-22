@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EvNkv5dof+KDhQOzhU9oDA
+! Checksum: bc1pVLWjnV+ReiO1R8nZeQ
 ! Title: EasyList Hebrew
-! Last modified: 22 Nov 2026 18:56 UTC
+! Last modified: 22 Nov 2026 18:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -1071,6 +1071,12 @@ hwzone.co.il##.div-hwad-970x250
 hwzone.co.il##[id^="div-hwad-300x"]
 hwzone.co.il##[src^="https://hwzone.co.il/wp-content/themes/foxiz-child/300x250.html?a="]
 hwzone.co.il##div.forum-banner
+i24news.co.il##.w-full.i24-truvid
+i24news.co.il##div[data-ad-band]
+i24news.co.il##div[data-ad-frame]
+i24news.co.il##div[data-ad-reserve]
+i24news.co.il##div[data-ad-unit]
+i24news.co.il##div[data-partner-ad]
 icar.co.il##.left_padding.right_info_lincks
 icar.co.il##.left_padding.topbanner2
 il.pcmag.com##.zad
