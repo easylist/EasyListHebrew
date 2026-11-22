@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bc1pVLWjnV+ReiO1R8nZeQ
+! Checksum: 7H3eVga5QlAZhCw5I+8vPA
 ! Title: EasyList Hebrew
-! Last modified: 22 Nov 2026 18:59 UTC
+! Last modified: 22 Nov 2026 19:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -936,6 +936,8 @@ animals.walla.co.il,astrology.walla.co.il,b.walla.co.il,calendar.walla.co.il,car
 actualic.co.il##.actua-sticky.actua-footer-bar
 actualic.co.il##.banner-header.banner_ad
 aiwa.co.il##.bigbnr
+akhbar7.co.il##.banner-top
+akhbar7.co.il##div[role="banner"]
 alljobs.co.il###best-jobs-section > .banner
 ashdodnet.com##.Banner
 ashdodnet.com##div[style="height: 78px; overflow: hidden; width: 510px;"]
